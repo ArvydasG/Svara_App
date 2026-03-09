@@ -1,0 +1,15 @@
+# Python laikinieji failai
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Atsarginės kopijos ir vietinis serveris
+Backup/
+Paleisti.bat
+server.py
+node_modules/
+.vscode/
+
+# Laikinieji duomenys (jei norite, kad robotas visada pradėtų nuo nulio)
+# data/grafikas.json 
+# (Geriau palikti, kad GitHub Pages iškart turėtų ką rodyti)

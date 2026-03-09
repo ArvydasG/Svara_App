@@ -1,0 +1,5 @@
+1. Atidarykite šį aplanką kompiuteryje.
+2. Pažymėkite VISUS failus (Ctrl+A).
+3. Nutempkite juos pelyte į GitHub langą naršyklėje.
+
+SVARBU: Jei nematote .github aplanko, Windows viršuje spauskite View -> Show -> Hidden items.
