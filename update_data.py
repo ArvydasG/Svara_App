@@ -80,30 +80,33 @@ def scrape():
                     print(f"  ❌ Klaida: {e}")
                     return False
 
-            # --- EIGA ---
-            # 0. Regionas
+            # --- PILDYMO EIGA (NUO GALO) ---
+            # 1. Regionas (Visada pirmas)
             fill_react_select(0, ADDRESS['region'], "Regionas")
             page.wait_for_timeout(5000)
             
-            # Patikrinam kiek dabar laukų (po Regiono parinkimo atsiranda kiti)
+            # Po Regiono atsiranda kiti laukai.
+            # Dažniausiai struktūra: [Regionas, Seniūnija, Gatvė, Namo Nr.] (4 laukai)
+            # Arba: [Regionas, Gatvė, Namo Nr.] (3 laukai)
+            # Kadangi mums Seniūnijos nereikia, mes pildome:
+            # - Paskutinį (Namo Nr.)
+            # - Priešpaskutinį (Gatvė)
+            
             visible_count = page.locator("input:visible").count()
             print(f"Matomų laukų po Regiono: {visible_count}")
             
-            # 1. Gatvė (Jei 4 laukai: 0=Reg, 1=Sen, 2=Gatvė. Jei 3: 0=Reg, 1=Gatvė)
-            # Naudotojas sakė, kad seniūnijos (1) nereikia, todėl bandom pildyti 2-ą indeksą (dažniausiai Gatvė)
-            # arba 1-ą, jei laukų tik 3.
-            street_idx = 2 if visible_count >= 4 else 1
-            print(f"ℹ️ Seniūnija praleidžiama. Pildoma Gatvė (Indeksas {street_idx})...")
-            fill_react_select(street_idx, ADDRESS['address'], "Gatvė")
-            page.wait_for_timeout(4000)
+            # Pildome Gatvę (Priešpaskutinis laukas, t.y. index -2)
+            street_idx = visible_count - 2
+            if street_idx > 0:
+                fill_react_select(street_idx, ADDRESS['address'], "Gatvė")
+                page.wait_for_timeout(3000)
             
-            # 2. Namo numeris (PASKUTINIS matomas laukas)
-            print(f"✍️ Namo numeris: {ADDRESS['houseNumber']}")
+            print(f"✍️ Namo numeris (Paskutinis laukas): {ADDRESS['houseNumber']}")
             try:
                 num_input = page.locator("input:visible").last
                 num_input.click()
                 num_input.fill("")
-                num_input.fill(ADDRESS['houseNumber'])
+                num_input.type(ADDRESS['houseNumber'], delay=100)
                 page.keyboard.press("Enter")
                 page.wait_for_timeout(2000)
                 print("  ✅ Numeris įrašytas.")
