@@ -1,7 +1,8 @@
 """
-GitHub Actions robotas (PILDYMAS PAGAL INDEKSUS):
-1. Kadangi 'placeholder' dingsta GitHub'e, naudojame eiliškumą.
-2. Detaliai išveda HTML atributus pildymo metu.
+GitHub Actions robotas (REACT-SELECT SPECIALISTAS):
+1. Atpažįsta React-Select ID (pvz. react-select-3-input).
+2. Tiksliai randa parinktis pagal ID (react-select-3-option-0).
+3. Naudoja indeksus, nes placeholderiai dingsta.
 """
 import re
 import json
@@ -16,7 +17,7 @@ ADDRESS = {
 }
 
 def scrape():
-    print("🚀 PALEIDŽIAMAS ROBOTAS-INDEKSAS...")
+    print("🚀 PALEIDŽIAMAS REACT-SELECT EKSPERTAS...")
     results = []
     
     with sync_playwright() as pw:
@@ -34,77 +35,65 @@ def scrape():
         try:
             print("🔗 Jungiamasi prie https://grafikai.svara.lt/ ...")
             page.goto("https://grafikai.svara.lt/", wait_until="domcontentloaded", timeout=60000)
-            print("⏳ Laukiama 10s, kol viskas pasikraus...")
+            print("⏳ Laukiama 10s...")
             page.wait_for_timeout(10000)
 
-            # Matomi laukai:
-            # 0: Regionas
-            # 1: Seniūnija (gali būti Gatvė, jei Seniūnijos nėra)
-            # 2: Gatvė (arba Namo nr.)
-            
-            visible_inputs = page.locator("input:visible")
-            count = visible_inputs.count()
-            print(f"Iš viso matomų laukų: {count}")
-
-            def fill_by_index(idx, val, label_for_log):
-                print(f"🔍 Pildomas laukas Nr. {idx} ({label_for_log}) -> {val}")
+            def fill_react_select(idx, val, label):
+                print(f"🔍 Pildomas {label} (Laukas Nr. {idx})...")
                 try:
                     inp = page.locator("input:visible").nth(idx)
-                    # Debug: koks čia laukas iš tikrųjų?
-                    html = inp.evaluate("el => el.outerHTML")
-                    print(f"  Info: {html[:150]}...")
+                    input_id = inp.get_attribute("id") or ""
+                    print(f"  ID: {input_id}")
                     
                     inp.click()
                     inp.fill("")
                     page.wait_for_timeout(500)
                     page.keyboard.type(val, delay=150)
-                    page.wait_for_timeout(8000) # Laukiam sąrašo
+                    page.wait_for_timeout(7000) # Laukiam sąrašo
                     
-                    # Spaudžiam pirmą elementą sąraše
-                    item = page.locator(".v-list-item:visible, [role='option']:visible").first
-                    if item.count() > 0:
-                        item.click()
-                        print(f"  ✅ Pasirinkta iš sąrašo.")
-                    else:
-                        print(f"  ⚠️ Sąrašo nėra, bandom Enter...")
-                        page.keyboard.press("ArrowDown")
-                        page.keyboard.press("Enter")
+                    # React-Select magija: parinktys turi ID, prasidedantį tuo pačiu prefixu
+                    id_prefix = input_id.replace("-input", "")
+                    if id_prefix:
+                        option_sel = f"[id^='{id_prefix}-option-']"
+                        options = page.locator(option_sel)
+                        if options.count() > 0:
+                            print(f"  ✅ Rasta {options.count()} parinkčių pagal ID. Spaudžiame pirmą.")
+                            options.first.click()
+                            page.wait_for_timeout(2000)
+                            return True
                     
+                    # Jei ID magija nesuveikė, bandom standartinius selektorius
+                    fallback = page.locator("[role='option']:visible, .css-*-option:visible").first
+                    if fallback.count() > 0:
+                        fallback.click()
+                        print("  ✅ Pasirinkta per fallback selektorių.")
+                        page.wait_for_timeout(2000)
+                        return True
+                        
+                    print("  ⚠️ Sąrašo nepavyko rasti, bandom Enter...")
+                    page.keyboard.press("ArrowDown")
+                    page.keyboard.press("Enter")
                     page.wait_for_timeout(2000)
                     return True
                 except Exception as e:
-                    print(f"  ❌ Klaida ties lauku {idx}: {e}")
+                    print(f"  ❌ Klaida: {e}")
                     return False
 
-            # --- PILDYMO EIGA ---
-            # 1. VISADA Regionas
-            fill_by_index(0, ADDRESS['region'], "Regionas")
-            
-            # Po Regiono užpildymo laukų skaičius gali pasikeisti!
+            # --- EIGA ---
+            fill_react_select(0, ADDRESS['region'], "Regionas")
             page.wait_for_timeout(3000)
-            visible_inputs = page.locator("input:visible")
-            count = visible_inputs.count()
-            print(f"Laukų po Regiono: {count}")
-
-            # 2. Gatvė (dažniausiai indeksas 1 arba 2)
-            # Kauno m. sav. Seniūnijos dažnai nėra, todėl indeksas 1 bus Gatvė
-            # Bet bandom rasti Gatvę bet kuriame likusiame lauke
-            found_street = False
-            for i in range(1, count):
-                # Patikrinam ar tai ne Namo nr. (jis paprastai trumpesnis arba paskutinis)
-                if i == count - 1: continue 
-                if fill_by_index(i, ADDRESS['address'], "Gatvė?"):
-                    found_street = True
-                    break
             
-            # 3. Namo numeris (PASKUTINIS matomas laukas)
+            # Patikrinam kiek dabar laukų
+            visible_count = page.locator("input:visible").count()
+            print(f"Matomų laukų dabar: {visible_count}")
+            
+            # Dažniausiai indeksas 1 yra Gatvė (jei Seniūnijos nėra)
+            # Bet bandom pildyti bet kurį vidurinį lauką
+            fill_react_select(1, ADDRESS['address'], "Gatvė")
+            
             print(f"✍️ Namo numeris: {ADDRESS['houseNumber']}")
-            try:
-                last_inp = page.locator("input:visible").last
-                last_inp.fill(ADDRESS['houseNumber'])
-                page.wait_for_timeout(1000)
-                print("  ✅ Numeris įrašytas.")
-            except: pass
+            page.locator("input:visible").last.fill(ADDRESS['houseNumber'])
+            page.wait_for_timeout(1000)
 
             print("🔍 Spaudžiama 'Ieškoti'...")
             page.locator("button:has-text('Ieškoti')").first.click()
@@ -125,12 +114,13 @@ def scrape():
                     except: pass
                 
                 all_dates = []
-                for body in api_data.values():
-                    if not body: continue
-                    items = body if isinstance(body, list) else body.get('data', []) if isinstance(body, dict) else []
-                    for it in (items if isinstance(items, list) else []):
-                        d = it.get('date', '') if isinstance(it, dict) else ''
-                        if d: all_dates.append(str(d)[:10])
+                for url, body in api_data.items():
+                    if not body or 'contracts' in url: continue
+                    it_list = body if isinstance(body, list) else body.get('data', []) if isinstance(body, dict) else []
+                    if isinstance(it_list, list):
+                        for it in it_list:
+                            d = it.get('date', '') if isinstance(it, dict) else ''
+                            if d: all_dates.append(str(d)[:10])
 
                 unique_dates = sorted(set(d for d in all_dates if re.match(r'20\d{2}-\d{2}-\d{2}', d)))
                 today_str = date.today().isoformat()
