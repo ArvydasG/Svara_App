@@ -1,9 +1,10 @@
+# Automatinis šiukšlių grafiko atnaujinimas
 name: Update Waste Schedule
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Kiekvieną naktį 03:00 UTC (apie 05:00 LT)
-  workflow_dispatch: # Leidžia paleisti rankiniu būdu per GitHub UI
+    - cron: '0 3 * * *' # Kasnakt 5 valandą Lietuvos laiku
+  workflow_dispatch: # Leidžia paleisti rankiniu būdu
 
 permissions:
   contents: write
@@ -12,28 +13,21 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
           
       - name: Install dependencies
         run: |
           pip install playwright
           playwright install chromium
           
-      - name: Run debug script
-        run: python debug_update.py
+      - name: Run update script
+        run: python update_data.py
         
-      - name: Upload screenshots
-        uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: debug-screenshots
-          path: debug_*.png
-
       - name: Commit and push changes
         run: |
           git config --global user.name 'GitHub Action'
