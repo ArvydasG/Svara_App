@@ -77,42 +77,39 @@ def scrape():
             page.locator("button:has-text('Ieškoti')").first.click(force=True)
             page.wait_for_timeout(15000)
             
-            # --- SKAITYMAS IŠ LENTELĖS ---
-            print("📊 Analizuojama lentelė...")
-            rows = page.locator("table tbody tr").all()
-            print(f"Iš viso eilučių lentelėje: {len(rows)}")
+            # --- SKAITYMAS IŠ LENTELĖS (2 ŽINGSNIAI) ---
+            print("📊 1 žingsnis: Renkami metaduomenys...")
+            # Surandame visas eilutes, kurios turi "Išskleisti" mygtuką
+            service_rows = page.locator("tr:has(button:has-text('Išskleisti'))").all()
+            print(f"Rasta paslaugų eilučių: {len(service_rows)}")
             
-            for i, row in enumerate(rows):
+            for row in service_rows:
                 try:
-                    # Tikriname, ar eilutė turi "Išskleisti" mygtuką. 
-                    # Jei neturi - tai greičiausiai kalendoriaus antraštė arba šiukšlės.
-                    expand_btn = row.locator("button:has-text('Išskleisti')")
-                    if expand_btn.count() == 0:
-                        continue
-
                     cols = row.locator("td").all()
-                    if len(cols) < 3: continue
-                    
-                    # Ištraukiame tekstą iš stulpelių ir nuvalome
-                    type_text = cols[0].inner_text().strip().replace('\n', ' ')
-                    container_text = cols[1].inner_text().strip().replace('\n', ' ')
-                    
-                    # Valome tipą (dažnai būna per ilgas)
-                    type_text = re.sub(r'\s+', ' ', type_text)
-                    print(f"  [+] Rasta: {type_text} ({container_text})")
-                    
-                    # Spaudžiame "Išskleisti" šiai eilutei
-                    expand_btn.first.click()
-                    page.wait_for_timeout(3000)
-                    
-                    final_results.append({
-                        'description': type_text,
-                        'containerType': container_text,
-                        'dates': [], # Užpildysime vėliau
-                        'hasRealDates': False
-                    })
-                except Exception as e:
-                    print(f"  ❌ Klaida eilutėje {i}: {e}")
+                    if len(cols) >= 2:
+                        # Nuvalome tekstą nuo šiukšlių
+                        type_text = re.sub(r'\s+', ' ', cols[0].inner_text().strip())
+                        container_text = re.sub(r'\s+', ' ', cols[1].inner_text().strip())
+                        
+                        print(f"  [+] Užregistruota: {type_text}")
+                        final_results.append({
+                            'description': type_text,
+                            'containerType': container_text,
+                            'dates': [],
+                            'hasRealDates': False
+                        })
+                except: pass
+
+            print("📊 2 žingsnis: Išskleidžiami grafikai datoms gauti...")
+            # Iš naujo surandame visus "Išskleisti" mygtukus, nes lentelė gali keistis
+            # Bet iš tikrųjų geriau tiesiog paspausti visus, kurie šiuo metu matomi
+            expand_buttons = page.locator("button:has-text('Išskleisti')").all()
+            for btn in expand_buttons:
+                try:
+                    if btn.is_visible():
+                        btn.click(force=True)
+                        page.wait_for_timeout(2500)
+                except: pass
 
             # Išrenkame visas datas iš visų pagautų JSON atsakymų
             all_dates = []
