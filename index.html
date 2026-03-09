@@ -16,6 +16,30 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="Švara">
+
+    <!-- OneSignal Push Notifications -->
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+    <script>
+        window.OneSignalDeferred = window.OneSignalDeferred || [];
+        OneSignalDeferred.push(async function (OneSignal) {
+            await OneSignal.init({
+                appId: "9f3d18fb-2825-4a44-b306-80e21a9df9d5",
+                notifyButton: {
+                    enable: true,
+                    colors: {
+                        'circle.background': 'var(--accent)',
+                        'circle.foreground': 'white',
+                        'badge.background': 'red',
+                        'badge.foreground': 'white',
+                        'bullet.background': 'white',
+                        'pulse.color': 'var(--accent)'
+                    }
+                },
+                allowLocalhostAsSecureOrigin: true
+            });
+        });
+    </script>
+
     <style>
         :root {
             --bg: #030712;

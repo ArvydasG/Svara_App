@@ -144,7 +144,56 @@ def scrape():
     
     with open('grafikas.json', 'w', encoding='utf-8') as f:
         json.dump({'contracts': final_results, 'updated_at': date.today().isoformat()}, f, ensure_ascii=False, indent=2)
-    print(f"✅ Baigta! Surinkta objektų: {len(final_results)}")
+    print(f"✅ Baigta lentelės analizė! Surinkta objektų: {len(final_results)}")
+    
+    # --- PRANEŠIMŲ (PUSH NOTIFICATIONS) LOGIKA ---
+    try:
+        from datetime import timedelta
+        # Patikriname, ar kas nors vežama rytoj
+        tomorrow = (date.today() + timedelta(days=1)).isoformat()
+        tomorrow_services = []
+        
+        for item in final_results:
+            if tomorrow in item.get('dates', []):
+                # Nuvalome ilgus pavadinimus
+                name = item['description']
+                if 'Popierius' in name: name = 'Plastikas / Popierius'
+                elif 'Stiklas' in name: name = 'Stiklas'
+                elif 'Žali' in name: name = 'Žaliosios atliekos'
+                elif 'Mišr' in name: name = 'Mišrios atliekos'
+                tomorrow_services.append(name)
+        
+        if tomorrow_services:
+            services_text = ", ".join(set(tomorrow_services))
+            print(f"🔔 RYTOJ VEŽAMA: {services_text}. Siunčiamas OneSignal pranešimas...")
+            
+            import urllib.request
+            import urllib.parse
+            
+            headers = {
+                "Content-Type": "application/json; charset=utf-8",
+                "Authorization": "Basic MGI0OWVjOTgtOGE1ZC00MWI2LWJlNGUtYzBlZjBhNTg3OTkz"
+            }
+            
+            payload = {
+                "app_id": "9f3d18fb-2825-4a44-b306-80e21a9df9d5",
+                "included_segments": ["All"],
+                "headings": {"en": "Šiukšlių išvežimas rytoj!", "lt": "Šiukšlių išvežimas rytoj!"},
+                "contents": {"en": f"Nepamirškite išstumti konteinerio. Rytoj vežama: {services_text} 🚛", "lt": f"Nepamirškite išstumti konteinerio. Rytoj vežama: {services_text} 🚛"}
+            }
+            
+            req = urllib.request.Request(
+                "https://onesignal.com/api/v1/notifications",
+                data=json.dumps(payload).encode('utf-8'),
+                headers=headers,
+                method='POST'
+            )
+            with urllib.request.urlopen(req) as response:
+                print("✅ Pranešimas sėkmingai išsiųstas:", response.read().decode('utf-8'))
+        else:
+            print("💤 Rytoj išvežimų nėra. Pranešimai nesiunčiami.")
+    except Exception as e:
+        print(f"⚠️ Klaida siunčiant OneSignal pranešimą: {e}")
 
 if __name__ == "__main__":
     scrape()
