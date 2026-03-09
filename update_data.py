@@ -42,25 +42,24 @@ def scrape():
             page.goto("https://grafikai.svara.lt/", wait_until="networkidle", timeout=60000)
             page.wait_for_timeout(2000)
             
-            # Paieška
-            page.keyboard.press("Tab"); page.keyboard.press("Tab")
-            page.keyboard.type(ADDRESS['region'], delay=60)
-            page.wait_for_timeout(1000)
-            page.keyboard.press("ArrowDown"); page.keyboard.press("Enter")
+            # Paieška (stabilesnis būdas)
+            print(f"Pildomas adresas: {ADDRESS['region']}, {ADDRESS['address']} {ADDRESS['houseNumber']}")
             
-            page.keyboard.press("Tab")
-            page.keyboard.type(ADDRESS['address'], delay=60)
-            page.wait_for_timeout(1000)
-            page.keyboard.press("ArrowDown"); page.keyboard.press("Enter")
-            
-            page.keyboard.press("Tab")
-            page.keyboard.type(ADDRESS['houseNumber'], delay=60)
-            page.wait_for_timeout(1000)
-            page.keyboard.press("ArrowDown"); page.keyboard.press("Enter")
+            def fill_and_select(idx, text):
+                page.locator("input").nth(idx).fill(text)
+                page.wait_for_timeout(1500)
+                page.keyboard.press("ArrowDown")
+                page.keyboard.press("Enter")
+                page.wait_for_timeout(500)
+
+            fill_and_select(0, ADDRESS['region'])
+            fill_and_select(1, ADDRESS['address'])
+            fill_and_select(2, ADDRESS['houseNumber'])
             
             # Ieškoti
-            page.evaluate("Array.from(document.querySelectorAll('button')).find(el => el.textContent.trim() === 'Ieškoti').click()")
-            page.wait_for_timeout(5000)
+            page.locator("button:has-text('Ieškoti')").click()
+            print("Laukiama rezultatų...")
+            page.wait_for_timeout(8000)
             
             # Kontraktai
             contracts_url = next((u for u in api_data if 'api/contracts?' in u), None)
