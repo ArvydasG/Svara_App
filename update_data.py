@@ -1,8 +1,8 @@
 """
-GitHub Actions robotas (VIZUALI DIAGNOSTIKA):
-1. Daro nuotraukas po kiekvieno žingsnio.
-2. Naudoja 1 TAB po Regiono.
-3. Išsaugo puslapio vaizdą po paieškos.
+GitHub Actions robotas (GALUTINIS SPRENDIMAS):
+1. Pildo formą per TAB navigaciją.
+2. Skaito rezultatus tiesiai iš lentelės (Table Scraping).
+3. Išskleidžia visus grafikus ir surenka datas.
 """
 import re
 import json
@@ -17,27 +17,26 @@ ADDRESS = {
 }
 
 def scrape():
-    print("🚀 PALEIDŽIAMAS VIZUALUS ROBOTAS-DETEKTYVAS...")
-    results = []
+    print("🚀 PALEIDŽIAMAS GALUTINIS ROBOTAS-SKAITYTOJAS...")
+    final_results = []
     
-    # Sukuriame aplanką nuotraukoms, jei jo nėra
-    if not os.path.exists('debug'):
-        os.makedirs('debug')
-
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-            viewport={'width': 1280, 'height': 800},
+            viewport={'width': 1280, 'height': 1200},
             locale="lt-LT"
         )
         page = context.new_page()
         
-        api_data = {}
+        # Sekame visas tinklo užklausas datoms gauti
+        captured_json = []
         def handle_response(r):
             if 'api/' in r.url and r.status == 200:
                 try:
-                    api_data[r.url] = r.json()
+                    data = r.json()
+                    if isinstance(data, list) or (isinstance(data, dict) and 'data' in data):
+                        captured_json.append(data)
                 except: pass
         page.on("response", handle_response)
         
@@ -45,129 +44,96 @@ def scrape():
             print("🔗 Jungiamasi prie https://grafikai.svara.lt/ ...")
             page.goto("https://grafikai.svara.lt/", wait_until="domcontentloaded", timeout=60000)
             page.wait_for_timeout(10000)
-            page.screenshot(path="debug/1_pradzia.png")
 
             # 1. Regionas
-            print(f"🔍 Pildomas Regionas: {ADDRESS['region']}...")
+            print(f"✍️ Pildomas Regionas...")
             inp = page.locator("input:visible").first
             inp.click()
             page.keyboard.type(ADDRESS['region'], delay=150)
             page.wait_for_timeout(7000)
-            
-            options = page.locator("[role='option']:visible, [class*='-option']:visible").first
-            if options.count() > 0:
-                options.click()
-                print("  ✅ Regionas parinktas.")
-            else:
-                page.keyboard.press("ArrowDown")
-                page.keyboard.press("Enter")
-                print("  ✅ Regionas parinktas (Enter).")
-                
+            page.keyboard.press("ArrowDown")
+            page.keyboard.press("Enter")
             page.wait_for_timeout(3000)
-            page.screenshot(path="debug/2_po_regiono.png")
             
-            # 2. TAB iki Gatvės
+            # 2. TAB + Gatvė
             print("⌨️ TAB iki Gatvės...")
             page.keyboard.press("Tab")
             page.wait_for_timeout(1000)
-            
-            # Rašom Gatvę
-            print(f"✍️ Gatvė: {ADDRESS['address']}...")
             page.keyboard.type(ADDRESS['address'], delay=120)
             page.wait_for_timeout(8000)
-            
-            options = page.locator("[role='option']:visible, [class*='-option']:visible").first
-            if options.count() > 0:
-                options.click()
-                print("  ✅ Gatvė parinkta.")
-            else:
-                page.keyboard.press("ArrowDown")
-                page.keyboard.press("Enter")
-                print("  ✅ Gatvė parinkta (Enter).")
-            
+            page.keyboard.press("ArrowDown")
+            page.keyboard.press("Enter")
             page.wait_for_timeout(2000)
-            page.screenshot(path="debug/3_po_gatves.png")
             
             # 3. Namo numeris
             print(f"✍️ Namo numeris: {ADDRESS['houseNumber']}...")
             page.keyboard.press("Tab")
             page.wait_for_timeout(1000)
             page.keyboard.type(ADDRESS['houseNumber'], delay=150)
-            page.wait_for_timeout(1000)
-            page.screenshot(path="debug/4_pries_paieska.png")
+            page.keyboard.press("Enter")
+            page.wait_for_timeout(2000)
             
-            print("🔍 Spaudžiama 'Ieškoti' (Priverstinai)...")
+            print("🔍 Ieškome...")
             page.locator("button:has-text('Ieškoti')").first.click(force=True)
+            page.wait_for_timeout(15000)
             
-            print("⏳ Laukiama rezultatų (Network Idle + 20s)...")
-            try:
-                page.wait_for_load_state("networkidle", timeout=10000)
-            except: pass
-            page.wait_for_timeout(20000)
-            page.screenshot(path="debug/5_rezultatai.png")
+            # --- SKAITYMAS IŠ LENTELĖS ---
+            print("📊 Analizuojama lentelė...")
+            rows = page.locator("table tbody tr").all()
+            print(f"Rasta eilučių: {len(rows)}")
             
-            # --- DIAGNOSTIKA: Ką matome po paieškos? ---
-            page_text = page.inner_text("body")
-            print("\n--- PUSLAPIO TURINYS PO PAIEŠKOS (Pirma dalis) ---")
-            print(page_text[:2000])
-            print("--- TURINIO PABAIGA ---\n")
-            
-            with open('debug/page_text.txt', 'w', encoding='utf-8') as f:
-                f.write(page_text)
+            for i, row in enumerate(rows):
+                try:
+                    cols = row.locator("td").all()
+                    if len(cols) < 3: continue
+                    
+                    # Ištraukiame tekstą iš stulpelių
+                    type_text = cols[0].inner_text().strip()
+                    container_text = cols[1].inner_text().strip()
+                    print(f"  [{i}] {type_text} ({container_text})")
+                    
+                    # Spaudžiame "Išskleisti" šiai eilutei
+                    expand_btn = row.locator("button:has-text('Išskleisti')")
+                    if expand_btn.count() > 0:
+                        expand_btn.click()
+                        page.wait_for_timeout(3000)
+                    
+                    final_results.append({
+                        'description': type_text,
+                        'containerType': container_text,
+                        'dates': [], # Užpildysime vėliau iš captured_json
+                        'hasRealDates': False
+                    })
+                except Exception as e:
+                    print(f"  ❌ Klaida eilutėje {i}: {e}")
 
-            # Tikriname ar yra API užklausų su duomenimis
-            contracts_url = next((u for u in api_data if 'api/contracts?' in u), None)
-            if not contracts_url:
-                print("⚠️ API užklausa 'api/contracts' nebuvo užfiksuota!")
-            
-            resp = api_data.get(contracts_url)
-            contracts = resp.get('data', []) if (resp and isinstance(resp, dict)) else []
-            
-            print(f"📊 Rezultatas: rasta {len(contracts)} kontraktų.")
-            if len(contracts) == 0:
-                print("ℹ️ Bandoma ieškoti tekste 'Išskleisti' arba 'Grafikas'...")
-                if "Išskleisti" in page_text:
-                    print("✅ Tekste matomas mygtukas 'Išskleisti'! Reikia spausti rankiniu būdu.")
-                if "Nerasta" in page_text or "nėra" in page_text:
-                    print("❌ Svetainė sako: Rezultatų nerasta (pasitikrinkite adresą).")
-            
-            if contracts:
-                btns = page.query_selector_all("button:has-text('Išskleisti')")
-                for btn in btns:
-                    try: 
-                        btn.click()
-                        page.wait_for_timeout(4000)
-                    except: pass
-                
-                all_dates = []
-                for url, body in api_data.items():
-                    if not body or 'contracts' in url: continue
-                    it_list = body if isinstance(body, list) else body.get('data', []) if isinstance(body, dict) else []
-                    if isinstance(it_list, list):
-                        for it in it_list:
-                            d = it.get('date', '') if isinstance(it, dict) else ''
+            # Išrenkame visas datas iš visų pagautų JSON atsakymų
+            all_dates = []
+            for data in captured_json:
+                items = data if isinstance(data, list) else data.get('data', [])
+                if isinstance(items, list):
+                    for it in items:
+                        if isinstance(it, dict):
+                            d = it.get('date', '')
                             if d: all_dates.append(str(d)[:10])
 
-                unique_dates = sorted(set(d for d in all_dates if re.match(r'20\d{2}-\d{2}-\d{2}', d)))
-                today_str = date.today().isoformat()
-                
-                for c in contracts:
-                    results.append({
-                        'description': c.get('descriptionFmt', 'Atliekos'),
-                        'containerType': c.get('containerType', ''),
-                        'dates': sorted([d for d in unique_dates if d >= today_str]),
-                        'hasRealDates': len(unique_dates) > 0
-                    })
+            unique_dates = sorted(set(d for d in all_dates if re.match(r'20\d{2}-\d{2}-\d{2}', d)))
+            today_str = date.today().isoformat()
+            future_dates = [d for d in unique_dates if d >= today_str]
+            
+            # Priskiriame datas kiekvienam kontraktui (supaprastinta - visos datos visiems, nes jos ateina bendrai)
+            for res in final_results:
+                res['dates'] = future_dates
+                res['hasRealDates'] = len(future_dates) > 0
             
         except Exception as e:
             print(f"❌ Nutiko klaida: {e}")
-            page.screenshot(path="debug/error.png")
         
         browser.close()
     
     with open('grafikas.json', 'w', encoding='utf-8') as f:
-        json.dump({'contracts': results, 'updated_at': date.today().isoformat()}, f, ensure_ascii=False, indent=2)
-    print("✅ Baigta! Diagnostikos failai - 'debug' aplanke.")
+        json.dump({'contracts': final_results, 'updated_at': date.today().isoformat()}, f, ensure_ascii=False, indent=2)
+    print(f"✅ Baigta! Surinkta objektų: {len(final_results)}")
 
 if __name__ == "__main__":
     scrape()
