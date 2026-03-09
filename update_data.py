@@ -63,7 +63,8 @@ def scrape():
                             return True
                     
                     # Jei ID magija nesuveikė, bandom standartinius selektorius
-                    fallback = page.locator("[role='option']:visible, .css-*-option:visible").first
+                    # Fix: .css-*-option yra nevalidus CSS. Naudojame [class*='-option']
+                    fallback = page.locator("[role='option']:visible, [class*='-option']:visible").first
                     if fallback.count() > 0:
                         fallback.click()
                         print("  ✅ Pasirinkta per fallback selektorių.")
