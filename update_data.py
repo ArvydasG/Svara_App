@@ -77,58 +77,65 @@ def scrape():
             page.locator("button:has-text('Ieškoti')").first.click(force=True)
             page.wait_for_timeout(15000)
             
-            # --- SKAITYMAS IŠ LENTELĖS (2 ŽINGSNIAI) ---
-            print("📊 1 žingsnis: Renkami metaduomenys...")
-            # Surandame visas eilutes, kurios turi "Išskleisti" mygtuką
-            service_rows = page.locator("tr:has(button:has-text('Išskleisti'))").all()
-            print(f"Rasta paslaugų eilučių: {len(service_rows)}")
-            
-            for row in service_rows:
+            # --- SKAITYMAS IŠ LENTELĖS (2 ŽINGSNIAI: Harvesting -> Dates) ---
+            print("📊 1 žingsnis: Renkami metaduomenys visiems objektams...")
+            # Pirmiausia surinkime visus metaduomenis (Tipas ir Konteineris) kol lentelė stabili
+            all_rows = page.locator("tr:has(button:has-text('Išskleisti'))").all()
+            for row in all_rows:
                 try:
                     cols = row.locator("td").all()
                     if len(cols) >= 2:
-                        # Nuvalome tekstą nuo šiukšlių
-                        type_text = re.sub(r'\s+', ' ', cols[0].inner_text().strip())
-                        container_text = re.sub(r'\s+', ' ', cols[1].inner_text().strip())
-                        
-                        print(f"  [+] Užregistruota: {type_text}")
+                        type_txt = re.sub(r'\s+', ' ', cols[0].inner_text().strip())
+                        cont_txt = re.sub(r'\s+', ' ', cols[1].inner_text().strip())
                         final_results.append({
-                            'description': type_text,
-                            'containerType': container_text,
+                            'description': type_txt,
+                            'containerType': cont_txt,
                             'dates': [],
                             'hasRealDates': False
                         })
                 except: pass
-
-            print("📊 2 žingsnis: Išskleidžiami grafikai datoms gauti...")
-            # Iš naujo surandame visus "Išskleisti" mygtukus, nes lentelė gali keistis
-            # Bet iš tikrųjų geriau tiesiog paspausti visus, kurie šiuo metu matomi
-            expand_buttons = page.locator("button:has-text('Išskleisti')").all()
-            for btn in expand_buttons:
-                try:
-                    if btn.is_visible():
-                        btn.click(force=True)
-                        page.wait_for_timeout(2500)
-                except: pass
-
-            # Išrenkame visas datas iš visų pagautų JSON atsakymų
-            all_dates = []
-            for data in captured_json:
-                items = data if isinstance(data, list) else data.get('data', [])
-                if isinstance(items, list):
-                    for it in items:
-                        if isinstance(it, dict):
-                            d = it.get('date', '')
-                            if d: all_dates.append(str(d)[:10])
-
-            unique_dates = sorted(set(d for d in all_dates if re.match(r'20\d{2}-\d{2}-\d{2}', d)))
-            today_str = date.today().isoformat()
-            future_dates = [d for d in unique_dates if d >= today_str]
             
-            # Priskiriame datas kiekvienam kontraktui (supaprastinta - visos datos visiems, nes jos ateina bendrai)
-            for res in final_results:
-                res['dates'] = future_dates
-                res['hasRealDates'] = len(future_dates) > 0
+            print(f"Iš viso užregistruota objektų: {len(final_results)}")
+
+            print("📊 2 žingsnis: Surenkamos datos kiekvienam objektui...")
+            for item in final_results:
+                try:
+                    cont_id = item['containerType']
+                    print(f"  [>] Ieškomas grafikas: {item['description']} ({cont_id})")
+                    
+                    # Surandame eilutę pagal konkretų konteinerio ID
+                    target_row = page.locator(f"tr:has-text('{cont_id}')").filter(has=page.locator("button:has-text('Išskleisti')"))
+                    
+                    if target_row.count() > 0:
+                        btn = target_row.locator("button:has-text('Išskleisti')").first
+                        dates_data = []
+                        try:
+                            # Laukiame API atsakymo būtent šiam paspaudimui
+                            with page.expect_response(lambda r: "api/" in r.url and r.status == 200, timeout=10000) as resp_info:
+                                btn.click(force=True)
+                                json_data = resp_info.value.json()
+                                # Ištraukiame datas
+                                res_items = json_data if isinstance(json_data, list) else json_data.get('data', [])
+                                if isinstance(res_items, list):
+                                    for it in res_items:
+                                        if isinstance(it, dict) and it.get('date'):
+                                            dates_data.append(str(it['date'])[:10])
+                        except:
+                            print(f"    ⚠️ API atsakymas nerastas arba užtruko.")
+
+                        # Apdorojame datas
+                        unique_dates = sorted(set(d for d in dates_data if re.match(r'20\d{2}-\d{2}-\d{2}', d)))
+                        today_str = date.today().isoformat()
+                        item['dates'] = [d for d in unique_dates if d >= today_str]
+                        item['hasRealDates'] = len(item['dates']) > 0
+                        
+                        # Suskleidžiame atgal, kad lentelė nesididintų be galo (pasirinktinai)
+                        # page.locator(f"tr:has-text('{cont_id}')").locator("button:has-text('Suskleisti')").first.click(force=True)
+                        page.wait_for_timeout(1000)
+                    else:
+                        print("    ⚠️ Eilutė neberasta (galbūt jau išskleista?)")
+                except Exception as e:
+                    print(f"    ❌ Klaida: {e}")
             
         except Exception as e:
             print(f"❌ Nutiko klaida: {e}")
