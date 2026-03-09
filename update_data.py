@@ -36,44 +36,55 @@ def scrape():
             page.goto("https://grafikai.svara.lt/", wait_until="networkidle", timeout=60000)
             page.wait_for_timeout(3000)
             
-            def fill_and_click_first(placeholder, value):
-                sel = f"input:visible[placeholder*='{placeholder}']"
-                if page.locator(sel).count() > 0:
-                    print(f"✍️ Pildoma: {placeholder} -> {value}")
-                    page.locator(sel).click()
-                    page.locator(sel).fill(value)
-                    page.wait_for_timeout(3000) # Laukiam kol iššoks sąrašas
+            def fill_and_click_first(placeholder_text, value):
+                print(f"🔍 Ieškoma lauko: {placeholder_text}...")
+                try:
+                    # Naudojame Playwright get_by_placeholder, kuris yra case-insensitive
+                    locator = page.get_by_placeholder(placeholder_text, exact=False)
+                    page.wait_for_selector(f"input[placeholder]", timeout=10000) # Bendras laukimas
                     
-                    # Spaudžiame pirmą pasirodžiusį elementą sąraše
-                    try:
-                        # V-list-item yra standartinis Vuetify sąrašo elementas
-                        first_item = page.locator("div.v-list-item:visible").first
-                        if first_item.count() > 0:
-                            first_item.click()
+                    if locator.count() > 0:
+                        print(f"✍️ Pildoma: {placeholder_text} -> {value}")
+                        locator.first.click()
+                        locator.first.fill("")
+                        page.wait_for_timeout(500)
+                        page.keyboard.type(value, delay=100)
+                        page.wait_for_timeout(5000) # Svarbu: duodam laiko sąrašui
+                        
+                        # Bandom spausti bet kokį iššokusį sąrašo narį
+                        # Paprastai tai 'v-list-item'
+                        items = page.locator(".v-list-item:visible, [role='option']:visible").first
+                        if items.count() > 0:
+                            items.click()
                             print(f"✅ Pasirinkta iš sąrašo.")
                         else:
+                            print(f"⚠️ Sąrašas neatsirado {placeholder_text}, naudojama klaviatūra...")
                             page.keyboard.press("ArrowDown")
                             page.keyboard.press("Enter")
-                    except:
-                        page.keyboard.press("ArrowDown")
-                        page.keyboard.press("Enter")
-                    page.wait_for_timeout(1500)
-                    return True
-                return False
+                        
+                        page.wait_for_timeout(2000)
+                        return True
+                    else:
+                        print(f"ℹ️ Laukas {placeholder_text} šiuo metu nematomas.")
+                        return False
+                except Exception as e:
+                    print(f"ℹ️ Klaida pildant {placeholder_text}: {str(e)[:50]}")
+                    return False
 
             # Eiliškumas pagal jūsų nuotraukas:
             fill_and_click_first("Regionas", ADDRESS['region'])
             
-            # Jei yra Seniūnija - pildom, jei ne - einam toliau
-            if not fill_and_click_first("Seniūnija", ADDRESS['ward']):
-                print("ℹ️ Seniūnijos lauko nėra (Kauno m. sav. tai normalu), tęsiama...")
+            # Seniūnija - tik jei yra
+            fill_and_click_first("Seniūnija", ADDRESS['ward'])
             
+            # Gatvė
             fill_and_click_first("Gatvė", ADDRESS['address'])
             
             print(f"✍️ Rašomas numeris: {ADDRESS['houseNumber']}")
-            num_sel = "input:visible[placeholder*='Namo nr.']"
-            page.wait_for_selector(num_sel)
-            page.locator(num_sel).fill(ADDRESS['houseNumber'])
+            # Namo numeris dažniausiai nėra dropdown, todėl tiesiog pildom
+            num_input = page.get_by_placeholder("Namo nr.", exact=False)
+            num_input.wait_for(timeout=20000)
+            num_input.fill(ADDRESS['houseNumber'])
             page.wait_for_timeout(1000)
             
             print("🔍 Spaudžiama 'Ieškoti'...")
