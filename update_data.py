@@ -1,8 +1,8 @@
 """
-GitHub Actions robotas (SUPER STABILUS):
-1. Pataisyti visi laukų pavadinimai (Regionas, Gatvė, Namo nr.).
-2. Automatiškai praleidžia Seniūniją, jei ji dingsta.
-3. Tikslus pasirinkimas iš sąrašo.
+GitHub Actions robotas (DIAGNOSTINIS):
+1. Skenuoja visą HTML struktūrą.
+2. Tikrina ar nėra Cloudflare/Captcha blokavimo.
+3. Išveda visus matomus elementus į log'us.
 """
 import re
 import json
@@ -17,14 +17,16 @@ ADDRESS = {
 }
 
 def scrape():
-    print("🚀 Pradedamas galutinis duomenų surinkimas...")
+    print("🚀 PALEIDŽIAMAS SUPER-DETEKTYVAS (DIAGNOSTIKA)...")
     results = []
     
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
+        # Bandom dar labiau "žmogišką" naršyklę
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-            viewport={'width': 1280, 'height': 800}
+            viewport={'width': 1280, 'height': 800},
+            locale="lt-LT"
         )
         page = context.new_page()
         
@@ -33,103 +35,115 @@ def scrape():
         
         try:
             print("🔗 Jungiamasi prie https://grafikai.svara.lt/ ...")
-            page.goto("https://grafikai.svara.lt/", wait_until="networkidle", timeout=60000)
-            page.wait_for_timeout(3000)
+            # Naudojame domcontentloaded, kad neužstrigtume ties lėtais tracker'iais
+            page.goto("https://grafikai.svara.lt/", wait_until="domcontentloaded", timeout=60000)
+            print("⏳ Laukiama 10s, kol pasikraus JavaScript dalys...")
+            page.wait_for_timeout(10000)
+
+            # --- DIAGNOSTIKA ---
+            print("\n--- 🕵️‍♂️ PUSLAPIO ANALIZĖ ---")
+            html_content = page.content()
+            print(f"Puslapio ilgis: {len(html_content)} simbolių")
             
+            if "Verify you are human" in html_content or "Cloudflare" in html_content or "checking your browser" in html_content:
+                print("🚨 BLOKAVIMAS: Aptikta botų apsauga (Cloudflare/Captcha)!")
+            elif "403 Forbidden" in html_content:
+                print("🚨 BLOKAVIMAS: Serveris grąžino 403 (Forbidden)!")
+            else:
+                print("✅ Blokavimo ženklų nepastebėta.")
+
+            # Išvardinam visus inputus
+            inputs = page.locator("input").all()
+            print(f"Rasta input'ų: {len(inputs)}")
+            for i, inp in enumerate(inputs):
+                try: 
+                    p = inp.get_attribute("placeholder") or "be pavadinimo"
+                    v = inp.is_visible()
+                    print(f"  [{i}] Placeholder: '{p}', Matomas: {v}")
+                except: pass
+            
+            # Išvardinam visus mygtukus
+            btns = page.locator("button").all()
+            print(f"Rasta mygtukų: {len(btns)}")
+            for i, btn in enumerate(btns):
+                try: 
+                    t = btn.inner_text() or "be teksto"
+                    print(f"  [{i}] Tekstas: '{t.strip()[:30]}'")
+                except: pass
+            print("--- ANALIZĖS PABAIGA ---\n")
+            # --------------------
+
             def fill_and_click_first(placeholder_text, value):
                 print(f"🔍 Ieškoma lauko: {placeholder_text}...")
                 try:
-                    # Naudojame Playwright get_by_placeholder, kuris yra case-insensitive
-                    locator = page.get_by_placeholder(placeholder_text, exact=False)
-                    page.wait_for_selector(f"input[placeholder]", timeout=10000) # Bendras laukimas
+                    # Naudojame lankstų paieškos būdą
+                    locator = page.locator(f"input[placeholder*='{placeholder_text}' i]").first
                     
                     if locator.count() > 0:
                         print(f"✍️ Pildoma: {placeholder_text} -> {value}")
-                        locator.first.click()
-                        locator.first.fill("")
+                        locator.click(force=True)
+                        locator.fill("")
                         page.wait_for_timeout(500)
                         page.keyboard.type(value, delay=100)
-                        page.wait_for_timeout(5000) # Svarbu: duodam laiko sąrašui
+                        page.wait_for_timeout(8000) # Laukiam sąrašo
                         
-                        # Bandom spausti bet kokį iššokusį sąrašo narį
-                        # Paprastai tai 'v-list-item'
+                        # Ieškome pasirodžiusio sąrašo
                         items = page.locator(".v-list-item:visible, [role='option']:visible").first
                         if items.count() > 0:
                             items.click()
                             print(f"✅ Pasirinkta iš sąrašo.")
                         else:
-                            print(f"⚠️ Sąrašas neatsirado {placeholder_text}, naudojama klaviatūra...")
+                            print(f"⚠️ Sąrašas neatsirado, naudojama 'Enter'...")
                             page.keyboard.press("ArrowDown")
                             page.keyboard.press("Enter")
                         
                         page.wait_for_timeout(2000)
                         return True
                     else:
-                        print(f"ℹ️ Laukas {placeholder_text} šiuo metu nematomas.")
+                        print(f"ℹ️ Laukas '{placeholder_text}' nerastas.")
                         return False
                 except Exception as e:
-                    print(f"ℹ️ Klaida pildant {placeholder_text}: {str(e)[:50]}")
+                    print(f"ℹ️ Klaida ties {placeholder_text}: {str(e)[:50]}")
                     return False
 
-            # Eiliškumas pagal jūsų nuotraukas:
+            # Pildymas
             fill_and_click_first("Regionas", ADDRESS['region'])
-            
-            # Seniūnija - tik jei yra
             fill_and_click_first("Seniūnija", ADDRESS['ward'])
-            
-            # Gatvė
             fill_and_click_first("Gatvė", ADDRESS['address'])
             
-            print(f"✍️ Rašomas numeris: {ADDRESS['houseNumber']}")
-            # Namo numeris dažniausiai nėra dropdown, todėl tiesiog pildom
-            num_input = page.get_by_placeholder("Namo nr.", exact=False)
-            num_input.wait_for(timeout=20000)
-            num_input.fill(ADDRESS['houseNumber'])
-            page.wait_for_timeout(1000)
+            print(f"✍️ Namo numeris: {ADDRESS['houseNumber']}")
+            try:
+                num_input = page.locator("input[placeholder*='Namo' i]").first
+                if num_input.count() > 0:
+                    num_input.fill(ADDRESS['houseNumber'])
+                else:
+                    print("⚠️ Numerio laukas nerastas, bandom paskutinį input.")
+                    page.locator("input").last.fill(ADDRESS['houseNumber'])
+            except: pass
+
+            print("� Spaudžiama 'Ieškoti'...")
+            search_btn = page.locator("button:has-text('Ieškoti')").first
+            if search_btn.count() > 0:
+                search_btn.click()
+            else:
+                page.keyboard.press("Enter")
             
-            print("🔍 Spaudžiama 'Ieškoti'...")
-            page.locator("button:has-text('Ieškoti')").click()
-            page.wait_for_timeout(12000)
+            page.wait_for_timeout(15000)
             
             contracts_url = next((u for u in api_data if 'api/contracts?' in u), None)
             resp = api_data.get(contracts_url)
             contracts = resp.get('data', []) if (resp and isinstance(resp, dict)) else []
             
-            print(f"📊 Rasta paslaugų: {len(contracts)}")
-            
-            if contracts:
-                btns = page.query_selector_all("button:has-text('Išskleisti')")
-                for btn in btns:
-                    try: btn.click(); page.wait_for_timeout(3000)
-                    except: pass
-                
-                all_dates = []
-                for body in api_data.values():
-                    if not body: continue
-                    items = body if isinstance(body, list) else body.get('data', []) if isinstance(body, dict) else []
-                    for it in (items if isinstance(items, list) else []):
-                        d = it.get('date', '') if isinstance(it, dict) else ''
-                        if d: all_dates.append(str(d)[:10])
-
-                unique_dates = sorted(set(d for d in all_dates if re.match(r'20\d{2}-\d{2}-\d{2}', d)))
-                today_str = date.today().isoformat()
-                
-                for c in contracts:
-                    results.append({
-                        'description': c.get('descriptionFmt', 'Atliekos'),
-                        'containerType': c.get('containerType', ''),
-                        'dates': sorted([d for d in unique_dates if d >= today_str]),
-                        'hasRealDates': len(unique_dates) > 0
-                    })
+            print(f"📊 Rezultatas: rasta {len(contracts)} kontraktų.")
             
         except Exception as e:
-            print(f"❌ Nutiko klaida: {e}")
+            print(f"❌ KRITIŠKA KLAIDA: {e}")
         
         browser.close()
     
     with open('grafikas.json', 'w', encoding='utf-8') as f:
         json.dump({'contracts': results, 'updated_at': date.today().isoformat()}, f, ensure_ascii=False, indent=2)
-    print(f"✅ Baigta! Išsaugojame {len(results)} įrašus.")
+    print("🏁 Diagnostika baigta.")
 
 if __name__ == "__main__":
     scrape()
