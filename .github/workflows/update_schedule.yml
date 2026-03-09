@@ -4,8 +4,10 @@ on:
   schedule:
     - cron: '0 3 * * *' # Kiekvieną naktį 03:00 UTC (apie 05:00 LT)
   workflow_dispatch: # Leidžia paleisti rankiniu būdu per GitHub UI
+
 permissions:
   contents: write
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
@@ -22,13 +24,19 @@ jobs:
           pip install playwright
           playwright install chromium
           
-      - name: Run update script
-        run: python update_data.py
+      - name: Run debug script
+        run: python debug_update.py
         
+      - name: Upload screenshots
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: debug-screenshots
+          path: debug_*.png
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add grafikas.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automatinis duomenų atnaujinimas" && git push)
-
