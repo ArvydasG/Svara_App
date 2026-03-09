@@ -110,11 +110,6 @@ async function fetchData(force = false) {
     }
 }
 
-async function triggerRefresh() {
-    try { await fetch('/api/refresh'); } catch (e) { }
-    fetchData(true);
-}
-
 // ─── Renderingas ─────────────────────────────────────
 
 function buildPickupList(contracts) {
@@ -208,7 +203,5 @@ function showState(state) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    const btn = document.getElementById('refresh-btn');
-    if (btn) btn.addEventListener('click', () => triggerRefresh());
     fetchData();
 });
