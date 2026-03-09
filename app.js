@@ -28,17 +28,16 @@ function formatDate(dateStr) {
 function getWasteStyle(desc) {
     const s = (desc || '').toLowerCase();
     if (s.includes('stikl'))
-        return { cls: 'dot-glass', color: '#22c55e', badge: '#14532d22', textColor: '#bbf7d0' };
+        return { color: 'var(--color-glass)', label: 'Stiklas' };
     if (s.includes('plastik') || s.includes('popier') || s.includes('pakuot'))
-        return { cls: 'dot-plastic', color: '#3b82f6', badge: '#1e3a8a22', textColor: '#bfdbfe' };
+        return { color: 'var(--color-plastic)', label: 'Pakuotės' };
     if (s.includes('bio') || s.includes('žalio') || s.includes('maist'))
-        return { cls: 'dot-bio', color: '#a3e635', badge: '#3f621222', textColor: '#d9f99d' };
-    if (s.includes('popieriaus') || s.includes('karton'))
-        return { cls: 'dot-paper', color: '#f97316', badge: '#7c2d1222', textColor: '#fed7aa' };
-    return { cls: 'dot-mixed', color: '#94a3b8', badge: '#33415522', textColor: '#cbd5e1' };
+        return { color: 'var(--color-bio)', label: 'Žaliosios' };
+    if (s.includes('mišr'))
+        return { color: 'var(--color-mixed)', label: 'Mišrios' };
+    return { color: 'var(--color-paper)', label: 'Kita' };
 }
 
-// Generuoja orientacinius grafikus kai tikrų datų nėra
 function estimateDates(desc, idx) {
     const today = todayDate();
     const intervals = [
@@ -70,13 +69,11 @@ let contractsCache = [];
 
 async function fetchData(force = false) {
     showState('loading');
-
     try {
         let data = null;
         let isGitHub = window.location.hostname.includes('github.io');
 
         if (isGitHub && !force) {
-            // Bandome GitHub statinį JSON
             try {
                 const r = await fetch('grafikas.json?t=' + Date.now());
                 if (r.ok) {
@@ -87,22 +84,18 @@ async function fetchData(force = false) {
         }
 
         if (!data) {
-            // Kreipiamės į vietinį serverį / API
-            const url = '/api/grafikas' + (force ? '?force=1' : '');
-            const r = await fetch(url);
-            if (!r.ok) throw new Error('Nepavyko gauti duomenų iš serverio');
-            const json = await r.json();
-            data = json.contracts || [];
+            const r = await fetch('/api/grafikas' + (force ? '?force=1' : ''));
+            if (r.ok) {
+                const json = await r.json();
+                data = json.contracts || [];
+            } else {
+                // Fallback jei nėra nei GitHub nei API (lokalus testavimas)
+                data = [];
+            }
         }
 
         contractsCache = data;
-        const hasAny = contractsCache.length > 0;
-        const hasRealDates = contractsCache.some(c => c.hasRealDates && c.dates.length > 0);
-
-        if (!hasAny) {
-            showState('empty');
-            return;
-        }
+        if (!contractsCache.length) { showState('empty'); return; }
 
         renderAll(contractsCache);
         showState('content');
@@ -111,57 +104,21 @@ async function fetchData(force = false) {
         document.getElementById('last-updated').textContent =
             'Atnaujinta ' + now.toLocaleTimeString('lt-LT', { hour: '2-digit', minute: '2-digit' });
 
-        if (!hasRealDates && !isGitHub) {
-            showRefreshingBanner(true);
-            scheduleAutoRefresh(30);
-        } else {
-            showRefreshingBanner(false);
-            clearAutoRefresh();
-        }
-
     } catch (err) {
         console.error(err);
-        document.getElementById('error-message').textContent =
-            'Klaida: ' + err.message;
         showState('error');
     }
 }
 
 async function triggerRefresh() {
     try { await fetch('/api/refresh'); } catch (e) { }
-    showRefreshingBanner(true);
-    scheduleAutoRefresh(20);
-}
-
-function scheduleAutoRefresh(secs) {
-    clearAutoRefresh();
-    pollingTimer = setTimeout(async () => {
-        const r = await fetch('/api/grafikas');
-        const json = await r.json();
-        const newData = json.contracts || [];
-        const hasReal = newData.some(c => c.hasRealDates && c.dates.length > 0);
-        if (hasReal) {
-            contractsCache = newData;
-            renderAll(contractsCache);
-            showRefreshingBanner(false);
-            document.getElementById('last-updated').textContent =
-                'Atnaujinta ' + new Date().toLocaleTimeString('lt-LT', { hour: '2-digit', minute: '2-digit' });
-        } else {
-            scheduleAutoRefresh(20);
-        }
-    }, secs * 1000);
-}
-
-function clearAutoRefresh() {
-    if (pollingTimer) { clearTimeout(pollingTimer); pollingTimer = null; }
+    fetchData(true);
 }
 
 // ─── Renderingas ─────────────────────────────────────
 
 function buildPickupList(contracts) {
-    const today = todayDate().toISOString().slice(0, 10);
     const items = [];
-
     contracts.forEach((c, idx) => {
         const desc = c.description || 'Atliekų išvežimas';
         const style = getWasteStyle(desc);
@@ -197,78 +154,47 @@ function renderAll(contracts) {
     const first = pickups[0];
     const sameDayItems = pickups.filter(p => p.days === first.days);
 
-    let heroBg;
-    if (first.days === 0) heroBg = '#16a34a';
-    else if (first.days === 1) heroBg = '#ca8a04';
-    else heroBg = '#6c63ff';
-
+    // Hero Section
     document.getElementById('hero-days').textContent = first.days === 0 ? '🚛' : first.days;
     document.getElementById('hero-days-label').textContent =
-        first.days === 0 ? 'Šiandien' : first.days === 1 ? 'Rytoj' : 'dienų';
-    document.querySelector('.days-counter').style.background = heroBg;
-
+        first.days === 0 ? 'Šiandien' : (first.days === 1 ? 'Rytoj' : 'dienų');
     document.getElementById('hero-title').textContent =
-        first.days === 0 ? 'Šiandien vežama!' : first.days === 1 ? 'Rytoj vežama!' : `Kitas išvežimas už ${first.days} d.`;
+        first.days === 0 ? 'Šiandien vežama!' : (first.days === 1 ? 'Rytoj vežama!' : `Kitas išvežimas už ${first.days} d.`);
     document.getElementById('hero-date').textContent = formatDate(first.dateStr);
 
-    const badgesEl = document.getElementById('hero-badges');
-    badgesEl.innerHTML = sameDayItems.map(p => {
-        const s = p.style;
-        return `<span class="type-badge" style="color:${s.textColor};border-color:${s.color};background:${s.badge}">${p.desc}</span>`;
-    }).join('');
+    document.getElementById('hero-badges').innerHTML = sameDayItems.map(p =>
+        `<span class="type-badge" style="border-color:${p.style.color}; color:${p.style.color}">${p.desc}</span>`
+    ).join('');
 
+    // Schedule Grid
     const container = document.getElementById('schedule-container');
     container.innerHTML = '';
 
-    pickups.forEach((p, i) => {
+    pickups.forEach((p) => {
         const card = document.createElement('div');
+        card.className = 'pickup-card';
+
         const isToday = p.days === 0;
         const isSoon = p.days === 1 || p.days === 2;
-        card.className = `pickup-card ${isToday ? 'today' : ''} ${isSoon && !isToday ? 'soon' : ''}`;
-
-        let daysBg = isToday ? 'today-bg' : (isSoon ? 'soon-bg' : 'normal-bg');
-        const dNum = isToday ? '🚛' : p.days;
-        const dLab = isToday ? 'šiandien' : (p.days === 1 ? 'rytoj' : 'dienų');
-
-        const estBadge = p.isEstimated
-            ? `<span class="meta-chip" style="color:#f97316;">⚠ Orientacinis</span>`
-            : `<span class="meta-chip" style="color:#22c55e;">✓ Tikslus</span>`;
+        const daysCls = isToday ? 'today-bg' : (isSoon ? 'soon-bg' : '');
 
         card.innerHTML = `
-            <div class="card-days ${daysBg}">
-                <div class="d-num">${dNum}</div>
-                <div class="d-lab">${dLab}</div>
+            <div class="card-days ${daysCls}">
+                <div class="d-num">${isToday ? '🚛' : p.days}</div>
+                <div class="d-lab">${isToday ? 'šiandien' : (p.days === 1 ? 'rytoj' : 'dienų')}</div>
             </div>
             <div class="card-info">
                 <h3>${p.desc}</h3>
-                <div style="color:var(--text2);font-size:0.82rem;margin-top:2px">${formatDate(p.dateStr)}</div>
+                <div class="card-date">${formatDate(p.dateStr)}</div>
                 <div class="card-meta">
                     ${p.container ? `<span class="meta-chip">📦 ${p.container}</span>` : ''}
-                    ${estBadge}
+                    <span class="meta-chip">${p.isEstimated ? '⚠️ Orientacinis' : '✓ Tikslus'}</span>
                 </div>
             </div>
-            <div class="dot ${p.style.cls}" style="margin-left:auto;flex-shrink:0"></div>
+            <div class="waste-indicator" style="color:${p.style.color}; background:currentColor"></div>
         `;
         container.appendChild(card);
     });
-}
-
-function showRefreshingBanner(show) {
-    let banner = document.getElementById('refreshing-banner');
-    if (!banner) {
-        banner = document.createElement('div');
-        banner.id = 'refreshing-banner';
-        banner.style.cssText = `
-            background: rgba(108,99,255,0.12); border: 1px solid rgba(108,99,255,0.3);
-            border-radius: 10px; padding: 10px 18px; margin-bottom: 20px;
-            color: #a78bfa; font-size: 0.84rem; display: flex; align-items: center; gap: 10px;
-        `;
-        banner.innerHTML = `<div class="spinner" style="width:16px;height:16px;border-width:2px;"></div>
-            <span>Tikros datos kraunamos fone… Puslapis atsinaujins automatiškai.</span>`;
-        if (document.getElementById('next-pickup-hero'))
-            document.getElementById('next-pickup-hero').before(banner);
-    }
-    if (banner) banner.style.display = show ? 'flex' : 'none';
 }
 
 function showState(state) {
@@ -277,16 +203,12 @@ function showState(state) {
         if (el) el.classList.add('hidden');
     });
     const targets = { loading: 'loading', error: 'error-state', empty: 'empty-state', content: 'content' };
-    const el = document.getElementById(targets[state] || state);
+    const el = document.getElementById(targets[state]);
     if (el) el.classList.remove('hidden');
 }
 
 document.addEventListener('DOMContentLoaded', () => {
     const btn = document.getElementById('refresh-btn');
-    if (btn) btn.addEventListener('click', () => {
-        clearAutoRefresh();
-        triggerRefresh();
-        fetchData(false);
-    });
+    if (btn) btn.addEventListener('click', () => triggerRefresh());
     fetchData();
 });

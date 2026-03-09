@@ -80,28 +80,35 @@ def scrape():
             # --- SKAITYMAS IŠ LENTELĖS ---
             print("📊 Analizuojama lentelė...")
             rows = page.locator("table tbody tr").all()
-            print(f"Rasta eilučių: {len(rows)}")
+            print(f"Iš viso eilučių lentelėje: {len(rows)}")
             
             for i, row in enumerate(rows):
                 try:
+                    # Tikriname, ar eilutė turi "Išskleisti" mygtuką. 
+                    # Jei neturi - tai greičiausiai kalendoriaus antraštė arba šiukšlės.
+                    expand_btn = row.locator("button:has-text('Išskleisti')")
+                    if expand_btn.count() == 0:
+                        continue
+
                     cols = row.locator("td").all()
                     if len(cols) < 3: continue
                     
-                    # Ištraukiame tekstą iš stulpelių
-                    type_text = cols[0].inner_text().strip()
-                    container_text = cols[1].inner_text().strip()
-                    print(f"  [{i}] {type_text} ({container_text})")
+                    # Ištraukiame tekstą iš stulpelių ir nuvalome
+                    type_text = cols[0].inner_text().strip().replace('\n', ' ')
+                    container_text = cols[1].inner_text().strip().replace('\n', ' ')
+                    
+                    # Valome tipą (dažnai būna per ilgas)
+                    type_text = re.sub(r'\s+', ' ', type_text)
+                    print(f"  [+] Rasta: {type_text} ({container_text})")
                     
                     # Spaudžiame "Išskleisti" šiai eilutei
-                    expand_btn = row.locator("button:has-text('Išskleisti')")
-                    if expand_btn.count() > 0:
-                        expand_btn.click()
-                        page.wait_for_timeout(3000)
+                    expand_btn.first.click()
+                    page.wait_for_timeout(3000)
                     
                     final_results.append({
                         'description': type_text,
                         'containerType': container_text,
-                        'dates': [], # Užpildysime vėliau iš captured_json
+                        'dates': [], # Užpildysime vėliau
                         'hasRealDates': False
                     })
                 except Exception as e:
