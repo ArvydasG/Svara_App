@@ -170,26 +170,32 @@ def scrape():
             import urllib.request
             import urllib.parse
             
-            headers = {
-                "Content-Type": "application/json; charset=utf-8",
-                "Authorization": "Basic MGI0OWVjOTgtOGE1ZC00MWI2LWJlNGUtYzBlZjBhNTg3OTkz"
-            }
+            import os
             
-            payload = {
-                "app_id": "9f3d18fb-2825-4a44-b306-80e21a9df9d5",
+            api_key = os.environ.get('ONESIGNAL_API_KEY')
+            if not api_key:
+                print("⚠️ Įspėjimas: ONESIGNAL_API_KEY nerastas aplinkos kintamuosiuose. Pranešimas nebus išsiųstas.")
+            else:
+                headers = {
+                    "Content-Type": "application/json; charset=utf-8",
+                    "Authorization": f"Basic {api_key}"
+                }
+                
+                payload = {
+                    "app_id": "9f3d18fb-2825-4a44-b306-80e21a9df9d5",
                 "included_segments": ["All"],
                 "headings": {"en": "Šiukšlių išvežimas rytoj!", "lt": "Šiukšlių išvežimas rytoj!"},
                 "contents": {"en": f"Nepamirškite išstumti konteinerio. Rytoj vežama: {services_text} 🚛", "lt": f"Nepamirškite išstumti konteinerio. Rytoj vežama: {services_text} 🚛"}
             }
             
-            req = urllib.request.Request(
-                "https://onesignal.com/api/v1/notifications",
-                data=json.dumps(payload).encode('utf-8'),
-                headers=headers,
-                method='POST'
-            )
-            with urllib.request.urlopen(req) as response:
-                print("✅ Pranešimas sėkmingai išsiųstas:", response.read().decode('utf-8'))
+                req = urllib.request.Request(
+                    "https://onesignal.com/api/v1/notifications",
+                    data=json.dumps(payload).encode('utf-8'),
+                    headers=headers,
+                    method='POST'
+                )
+                with urllib.request.urlopen(req) as response:
+                    print("✅ Pranešimas sėkmingai išsiųstas:", response.read().decode('utf-8'))
         else:
             print("💤 Rytoj išvežimų nėra. Pranešimai nesiunčiami.")
     except Exception as e:
