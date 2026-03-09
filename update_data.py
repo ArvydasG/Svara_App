@@ -81,20 +81,33 @@ def scrape():
                     return False
 
             # --- EIGA ---
+            # 0. Regionas
             fill_react_select(0, ADDRESS['region'], "Regionas")
-            page.wait_for_timeout(3000)
+            page.wait_for_timeout(5000)
             
-            # Patikrinam kiek dabar laukų
+            # Patikrinam kiek dabar laukų (po Regiono parinkimo atsiranda kiti)
             visible_count = page.locator("input:visible").count()
-            print(f"Matomų laukų dabar: {visible_count}")
+            print(f"Matomų laukų po Regiono: {visible_count}")
             
-            # Dažniausiai indeksas 1 yra Gatvė (jei Seniūnijos nėra)
-            # Bet bandom pildyti bet kurį vidurinį lauką
-            fill_react_select(1, ADDRESS['address'], "Gatvė")
+            # 1. Gatvė (Jei 4 laukai: 0=Reg, 1=Sen, 2=Gatvė. Jei 3: 0=Reg, 1=Gatvė)
+            # Naudotojas sakė, kad seniūnijos (1) nereikia, todėl bandom pildyti 2-ą indeksą (dažniausiai Gatvė)
+            # arba 1-ą, jei laukų tik 3.
+            street_idx = 2 if visible_count >= 4 else 1
+            print(f"ℹ️ Seniūnija praleidžiama. Pildoma Gatvė (Indeksas {street_idx})...")
+            fill_react_select(street_idx, ADDRESS['address'], "Gatvė")
+            page.wait_for_timeout(4000)
             
+            # 2. Namo numeris (PASKUTINIS matomas laukas)
             print(f"✍️ Namo numeris: {ADDRESS['houseNumber']}")
-            page.locator("input:visible").last.fill(ADDRESS['houseNumber'])
-            page.wait_for_timeout(1000)
+            try:
+                num_input = page.locator("input:visible").last
+                num_input.click()
+                num_input.fill("")
+                num_input.fill(ADDRESS['houseNumber'])
+                page.keyboard.press("Enter")
+                page.wait_for_timeout(2000)
+                print("  ✅ Numeris įrašytas.")
+            except: pass
 
             print("🔍 Spaudžiama 'Ieškoti'...")
             page.locator("button:has-text('Ieškoti')").first.click()
