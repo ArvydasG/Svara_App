@@ -96,22 +96,40 @@ def scrape():
             page.wait_for_timeout(1000)
             page.screenshot(path="debug/4_pries_paieska.png")
             
-            print("🔍 Spaudžiama 'Ieškoti'...")
-            page.locator("button:has-text('Ieškoti')").first.click()
+            print("🔍 Spaudžiama 'Ieškoti' (Priverstinai)...")
+            page.locator("button:has-text('Ieškoti')").first.click(force=True)
             
-            print("⏳ Laukiama rezultatų (20s)...")
+            print("⏳ Laukiama rezultatų (Network Idle + 20s)...")
+            try:
+                page.wait_for_load_state("networkidle", timeout=10000)
+            except: pass
             page.wait_for_timeout(20000)
             page.screenshot(path="debug/5_rezultatai.png")
             
-            # Išsaugojam tekstą patikrai
+            # --- DIAGNOSTIKA: Ką matome po paieškos? ---
+            page_text = page.inner_text("body")
+            print("\n--- PUSLAPIO TURINYS PO PAIEŠKOS (Pirma dalis) ---")
+            print(page_text[:2000])
+            print("--- TURINIO PABAIGA ---\n")
+            
             with open('debug/page_text.txt', 'w', encoding='utf-8') as f:
-                f.write(page.inner_text("body"))
+                f.write(page_text)
 
+            # Tikriname ar yra API užklausų su duomenimis
             contracts_url = next((u for u in api_data if 'api/contracts?' in u), None)
+            if not contracts_url:
+                print("⚠️ API užklausa 'api/contracts' nebuvo užfiksuota!")
+            
             resp = api_data.get(contracts_url)
             contracts = resp.get('data', []) if (resp and isinstance(resp, dict)) else []
             
             print(f"📊 Rezultatas: rasta {len(contracts)} kontraktų.")
+            if len(contracts) == 0:
+                print("ℹ️ Bandoma ieškoti tekste 'Išskleisti' arba 'Grafikas'...")
+                if "Išskleisti" in page_text:
+                    print("✅ Tekste matomas mygtukas 'Išskleisti'! Reikia spausti rankiniu būdu.")
+                if "Nerasta" in page_text or "nėra" in page_text:
+                    print("❌ Svetainė sako: Rezultatų nerasta (pasitikrinkite adresą).")
             
             if contracts:
                 btns = page.query_selector_all("button:has-text('Išskleisti')")
