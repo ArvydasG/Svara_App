@@ -376,7 +376,102 @@
             font-size: 0.75rem;
             font-weight: 700;
             margin: 8px 0;
+            margin: 8px 0;
             display: inline-block;
+        }
+
+        /* Works Styles */
+        .works-section {
+            margin-bottom: 2.5rem;
+        }
+
+        #works-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+
+        .work-card {
+            background: rgba(59, 130, 246, 0.05);
+            border: 1px solid rgba(59, 130, 246, 0.1);
+            padding: 1.2rem;
+            border-radius: 16px;
+            display: flex;
+            gap: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .work-card:hover {
+            background: rgba(59, 130, 246, 0.1);
+            border-color: rgba(59, 130, 246, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .work-icon {
+            font-size: 1.5rem;
+            background: rgba(59, 130, 246, 0.1);
+            width: 44px;
+            height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 12px;
+            flex-shrink: 0;
+        }
+
+        .work-content {
+            flex-grow: 1;
+        }
+
+        .work-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 6px;
+            gap: 10px;
+        }
+
+        .work-header h4 {
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--text);
+        }
+
+        .work-status-badge {
+            font-size: 0.65rem;
+            font-weight: 800;
+            padding: 2px 8px;
+            border-radius: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .status-active {
+            background: rgba(16, 185, 129, 0.1);
+            color: #10b981;
+        }
+
+        .status-planned {
+            background: rgba(59, 130, 246, 0.1);
+            color: #3b82f6;
+        }
+
+        .work-desc {
+            font-size: 0.85rem;
+            color: var(--text-dim);
+            line-height: 1.4;
+            margin-bottom: 12px;
+        }
+
+        .work-footer {
+            display: flex;
+            align-items: center;
+        }
+
+        .work-date {
+            font-size: 0.75rem;
+            color: var(--text-dim);
+            font-weight: 500;
         }
 
         .hidden {
@@ -450,6 +545,11 @@
             <div class="holiday-section hidden">
                 <div class="section-title">Artėjančios šventės</div>
                 <div id="holidays-container"></div>
+            </div>
+
+            <div class="works-section hidden">
+                <div class="section-title">🏗️ Apylinkės darbai (2km)</div>
+                <div id="works-container"></div>
             </div>
 
             <div id="next-pickup-hero">

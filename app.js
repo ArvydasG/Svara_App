@@ -125,14 +125,15 @@ async function fetchData(force = false) {
     showState('loading');
     try {
         let data = null;
+        let jsonBody = {};
         let isGitHub = window.location.hostname.includes('github.io');
 
         if (isGitHub && !force) {
             try {
                 const r = await fetch('grafikas.json?t=' + Date.now());
                 if (r.ok) {
-                    const json = await r.json();
-                    data = json.contracts || [];
+                    jsonBody = await r.json();
+                    data = jsonBody.contracts || [];
                 }
             } catch (e) { console.log("GitHub data fail"); }
         }
@@ -140,18 +141,22 @@ async function fetchData(force = false) {
         if (!data) {
             const r = await fetch('/api/grafikas' + (force ? '?force=1' : ''));
             if (r.ok) {
-                const json = await r.json();
-                data = json.contracts || [];
+                jsonBody = await r.json();
+                data = jsonBody.contracts || [];
             } else {
-                // Fallback jei nėra nei GitHub nei API (lokalus testavimas)
                 data = [];
             }
         }
 
         contractsCache = data;
-        if (!contractsCache.length) { showState('empty'); return; }
+        const neighborhoodWorks = jsonBody.neighborhood_works || [];
 
-        renderAll(contractsCache);
+        if (!contractsCache.length && !neighborhoodWorks.length) {
+            showState('empty');
+            return;
+        }
+
+        renderAll(contractsCache, neighborhoodWorks);
         showState('content');
 
         const now = new Date();
@@ -229,8 +234,36 @@ function renderHolidays() {
     container.parentElement.classList.remove('hidden');
 }
 
-function renderAll(contracts) {
+function renderWorks(works) {
+    const container = document.getElementById('works-container');
+    if (!container) return;
+
+    if (!works || works.length === 0) {
+        container.parentElement.classList.add('hidden');
+        return;
+    }
+
+    container.innerHTML = works.map(w => `
+        <div class="work-card">
+            <div class="work-icon">🏗️</div>
+            <div class="work-content">
+                <div class="work-header">
+                    <h4>${w.title}</h4>
+                    <span class="work-status-badge ${w.status === 'Vykdoma' ? 'status-active' : 'status-planned'}">${w.status}</span>
+                </div>
+                <p class="work-desc">${w.description}</p>
+                <div class="work-footer">
+                    <span class="work-date">📅 ${w.date}</span>
+                </div>
+            </div>
+        </div>
+    `).join('');
+    container.parentElement.classList.remove('hidden');
+}
+
+function renderAll(contracts, works) {
     renderHolidays();
+    renderWorks(works);
     const pickups = buildPickupList(contracts);
     if (!pickups.length) { showState('empty'); return; }
 
