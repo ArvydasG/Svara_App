@@ -235,9 +235,14 @@ def scrape():
                 page.goto("https://aleksotas.lt/naujienos/", timeout=30000)
                 page.wait_for_timeout(4000)
                 
-                # Bandom rasti visus a elementus kurie yra h2 viduje arba turi naujienų požymių
                 links = page.locator("h2 a, .entry-title a, article a").all()
                 print(f"    [-] Rasta potencialių nuorodų Aleksote: {len(links)}")
+                
+                months_map = {
+                    "sausio": 1, "vasario": 2, "kovo": 3, "balandžio": 4, "gegužės": 5, "birželio": 6,
+                    "liepos": 7, "rugpjūčio": 8, "rugsėjo": 9, "spalio": 10, "lapkričio": 11, "gruodžio": 12
+                }
+                
                 for link in links[:15]:
                     try:
                         title = link.inner_text().strip()
@@ -246,20 +251,44 @@ def scrape():
                         
                         # Ieškome datos aplink
                         parent = link.evaluate_handle("el => el.closest('article') || el.parentElement.parentElement")
-                        text = parent.as_element().inner_text()
+                        text = parent.as_element().inner_text().lower()
                         
-                        months = ["kovo", "balandžio", "gegužės", "birželio", "liepos", "rugpjūčio", "rugsėjo", "spalio", "lapkričio", "gruodžio", "sausio", "vasario"]
-                        event_date = "Pranešimas"
-                        for m in months:
-                            m_match = re.search(rf'(\d{{1,2}}\s+{m})', text.lower())
+                        # Bandome rasti datą tekste: "10 kovo" arba "kovo 10"
+                        found_date = None
+                        for m_name, m_num in months_map.items():
+                            m_match = re.search(rf'(\d{{1,2}})\s+{m_name}', text)
                             if m_match:
-                                event_date = m_match.group(1).capitalize()
+                                day = int(m_match.group(1))
+                                # Bandome nustatyti metus. Jei puslapio URL yra metai (pvz /2026/02/), naudojame juos.
+                                url_year_match = re.search(r'/20\d{2}/', url)
+                                year = int(url_year_match.group(0).strip('/')) if url_year_match else today_obj.year
+                                
+                                try:
+                                    found_date = date(year, m_num, day)
+                                    # Jei data praeityje (daugiau nei metai atgal), galbūt tai kiti metai? 
+                                    # Bet geriau tiesiog neįtraukti jei senas.
+                                except: continue
                                 break
+                        
+                        # Jei neradome tekste, bandome iš URL (WordPress tipinis /2026/03/10/)
+                        if not found_date:
+                            url_match = re.search(r'/20(\d{2})/(\d{2})/(\d{2})/', url)
+                            if url_match:
+                                found_date = date(2000 + int(url_match.group(1)), int(url_match.group(2)), int(url_match.group(3)))
+                        
+                        if found_date:
+                            # Griežtas filtravimas: tik nuo šiandien iki +30d
+                            if found_date < today_obj or found_date > max_date_obj:
+                                continue
+                            date_str = found_date.isoformat()
+                        else:
+                            # Jei visai nėra datos, tai tikriausiai sena naujiena be datos - praleidžiame
+                            continue
                         
                         community_events.append({
                             "title": title,
                             "url": url,
-                            "date": event_date,
+                            "date": date_str,
                             "source": "Aleksoto BC"
                         })
                     except: continue
@@ -327,7 +356,14 @@ def scrape():
             # Galutinis filtravimas: tik unikalūs pavadinimai ir rūšiavimas
             unique_events = []
             seen_titles = set()
+            ignore_titles = ["pirmyn", "atgal", "skaityti daugiau", "plačiau", "archyvas", "naujienos"]
+            
             for ev in community_events:
+                title_low = ev['title'].lower()
+                # Tikriname ar pavadinimas nėra per trumpas arba generinis
+                if len(ev['title']) < 5 or any(x == title_low for x in ignore_titles):
+                    continue
+                    
                 if ev['title'] not in seen_titles:
                     unique_events.append(ev)
                     seen_titles.add(ev['title'])
