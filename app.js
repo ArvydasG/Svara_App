@@ -149,6 +149,7 @@ async function fetchData(force = false) {
         }
 
         contractsCache = data;
+        const neighborhoodWorks = jsonBody.neighborhood_works || [];
         const news = jsonBody.news || [];
         const airQuality = jsonBody.air_quality || null;
 

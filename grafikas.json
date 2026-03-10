@@ -4,6 +4,7 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461 0,24",
       "dates": [
+        "2026-03-09",
         "2026-04-06",
         "2026-05-04",
         "2026-06-01",
@@ -27,6 +28,7 @@
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-114598 0,12",
       "dates": [
+        "2026-03-09",
         "2026-05-04",
         "2026-06-29",
         "2026-08-24",
@@ -42,6 +44,7 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501 0,14",
       "dates": [
+        "2026-03-09",
         "2026-03-23",
         "2026-04-06",
         "2026-04-20",
@@ -81,6 +84,7 @@
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-117894 0,12",
       "dates": [
+        "2026-03-09",
         "2026-05-04",
         "2026-06-29",
         "2026-08-24",
@@ -96,6 +100,7 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262 0,24",
       "dates": [
+        "2026-03-09",
         "2026-04-06",
         "2026-05-04",
         "2026-06-01",
@@ -119,6 +124,7 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627 0,14",
       "dates": [
+        "2026-03-09",
         "2026-03-23",
         "2026-04-06",
         "2026-04-20",
@@ -174,25 +180,7 @@
     }
   ],
   "updated_at": "2026-03-10",
-  "neighborhood_works": [
-    {
-      "title": "Bitininkų g. rekonstrukcija",
-      "description": "Vykdomi lietaus nuotekų tinklų ir kelio dangos atnaujinimo darbai (nuo Seniavos pl. iki Sodininkų g.).",
-      "status": "Vykdoma",
-      "date": "2024 - 2026"
-    },
-    {
-      "title": "Seniavos plento remontas",
-      "description": "Planuojamas kapitalinis kelio dangos ir apšvietimo remontas.",
-      "status": "Planuojama",
-      "date": "2025 - 2026"
-    }
-  ],
+  "neighborhood_works": [],
   "news": [],
-  "air_quality": {
-    "index": 18,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
-    "station": "Noreikiškės"
-  }
+  "air_quality": null
 }
