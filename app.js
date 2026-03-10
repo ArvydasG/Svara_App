@@ -156,7 +156,7 @@ async function fetchData(force = false) {
 
         const now = new Date();
         document.getElementById('last-updated').textContent =
-            'Atnaujinta ' + now.toLocaleTimeString('lt-LT', { hour: '2-digit', minute: '2-digit' });
+            'Atnaujinta ' + now.toLocaleDateString('lt-LT') + ' ' + now.toLocaleTimeString('lt-LT', { hour: '2-digit', minute: '2-digit' });
 
     } catch (err) {
         console.error(err);
