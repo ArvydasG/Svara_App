@@ -268,21 +268,38 @@ function renderEvents(events) {
         return;
     }
 
-    container.innerHTML = events.map(e => `
-        <div class="event-card">
-            <div class="event-date-badge">
-                <span class="event-icon">📅</span>
-                <span class="event-date-text">${e.date}</span>
-            </div>
-            <div class="event-info">
-                <h4>${e.title}</h4>
-                <div class="event-footer">
-                    <span class="event-source">📍 ${e.source}</span>
-                    <a href="${e.url}" target="_blank" class="event-link">Daugiau →</a>
+    // Bandome rūšiuoti renginius pagal datą (jei formatas leidžia)
+    const sortedEvents = [...events].sort((a, b) => {
+        if (a.date.match(/\d{4}-\d{2}-\d{2}/) && b.date.match(/\d{4}-\d{2}-\d{2}/)) {
+            return new Date(a.date) - new Date(b.date);
+        }
+        return 0; // Jei datos neaiškios, paliekame kaip yra
+    });
+
+    container.innerHTML = sortedEvents.map(e => {
+        // Formatuojame datą gražiau jei tai ISO formatas
+        let displayDate = e.date;
+        if (e.date.match(/^\d{4}-\d{2}-\d{2}$/)) {
+            const d = new Date(e.date);
+            displayDate = `${d.getDate()} ${months_lt[d.getMonth()]}`;
+        }
+
+        return `
+            <div class="event-card">
+                <div class="event-date-badge">
+                    <span class="event-icon">📅</span>
+                    <span class="event-date-text">${displayDate}</span>
+                </div>
+                <div class="event-info">
+                    <h4>${e.title}</h4>
+                    <div class="event-footer">
+                        <span class="event-source">📍 ${e.source}</span>
+                        <a href="${e.url}" target="_blank" class="event-link">Daugiau →</a>
+                    </div>
                 </div>
             </div>
-        </div>
-    `).join('');
+        `;
+    }).join('');
     container.parentElement.classList.remove('hidden');
 }
 

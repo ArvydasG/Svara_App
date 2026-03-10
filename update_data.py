@@ -185,37 +185,115 @@ def scrape():
                 }]
 
             # --- BENDRUOMENĖS RENGINIŲ SKAITYMAS ---
-            print("📅 6 žingsnis: Ieškoma bendruomenės renginių...")
+            print("📅 6 žingsnis: Ieškoma bendruomenės renginių (mėnesio bėgyje)...")
             community_events = []
-            
-            # 1. Aleksotas.lt (Bendruomenės centras)
+            today_obj = date.today()
+            current_month_str = f"{today_obj.year}-{today_obj.month:02d}"
+
+            # 1. Kauno biblioteka (Aleksoto padalinys)
             try:
+                print("  [>] Tikrinama Kauno biblioteka...")
+                page.goto("https://www.kaunobiblioteka.lt/renginiai/", timeout=30000)
+                page.wait_for_timeout(2000)
+                
+                # Ieškome visų h2 elementų su nuorodomis
+                event_items = page.locator("h2").all()
+                for h2 in event_items:
+                    try:
+                        title = h2.inner_text().strip()
+                        link_el = h2.locator("a")
+                        if link_el.count() > 0:
+                            url = link_el.first.get_attribute("href")
+                            # Ieškome datos tekste po h2
+                            # Playwright leleidžia rasti sekantį elementą
+                            parent = h2.evaluate_handle("el => el.parentElement")
+                            full_text = parent.as_element().inner_text()
+                            
+                            # Ieškome datos formato 202X-XX-XX
+                            date_match = re.search(r'202\d-\d{2}-\d{2}', full_text)
+                            event_date = date_match.group(0) if date_match else "Nuoroda"
+                            
+                            if title and url:
+                                # Filtruojame pagal mėnesį (arba jei nėra datos, kliaujamės kad tai naujausia)
+                                if "202" in event_date and current_month_str not in event_date:
+                                    continue
+                                    
+                                community_events.append({
+                                    "title": title,
+                                    "url": url if url.startswith('http') else f"https://kaunobiblioteka.lt{url}",
+                                    "date": event_date,
+                                    "source": "Biblioteka"
+                                })
+                    except: continue
+            except Exception as e: 
+                print(f"  ⚠️ Klaida bibliotekos puslapyje: {e}")
+
+            # 2. Aleksotas.lt (Bendruomenės centras)
+            try:
+                print("  [>] Tikrinama aleksotas.lt...")
                 page.goto("https://aleksotas.lt/naujienos/", timeout=20000)
-                # Ieškome naujausių įrašų, kurie dažnai yra renginiai
-                news_items = page.locator("article.post, .entry-title a").all()
-                for item in news_items[:3]:
-                    t = item.inner_text().strip()
-                    l = item.get_attribute("href")
-                    if t and l:
-                        community_events.append({"title": t, "url": l, "date": "Pranešimas", "source": "Aleksoto BC"})
+                posts = page.locator("article.post").all()
+                for post in posts[:5]:
+                    title_el = post.locator(".entry-title a").first
+                    title = title_el.inner_text().strip()
+                    url = title_el.get_attribute("href")
+                    # Ieškome datos article tekste
+                    text = post.inner_text()
+                    # Lietuviški mėnesiai
+                    months = ["kovo", "balandžio", "gegužės", "birželio", "liepos", "rugpjūčio", "rugsėjo", "spalio", "lapkričio", "gruodžio", "sausio", "vasario"]
+                    event_date = "Pranešimas"
+                    for m in months:
+                        m_match = re.search(rf'(\d{{1,2}}\s+{m})', text.lower())
+                        if m_match:
+                            event_date = m_match.group(1).capitalize()
+                            break
+                    
+                    if title and url:
+                        community_events.append({
+                            "title": title,
+                            "url": url,
+                            "date": event_date,
+                            "source": "Aleksoto BC"
+                        })
             except: print("  ⚠️ Nepavyko pasiekti aleksotas.lt")
 
-            # 2. Kauno biblioteka (Aleksoto padalinys) - Simuliuojame arba dedame nuorodą, 
-            # nes jų puslapis dinamiškai kraunamas ir sudėtingas paprastam scrapingui
-            community_events.append({
-                "title": "Bibliotekos renginiai (dirbtuvės, parodos)",
-                "url": "https://www.kaunobiblioteka.lt/renginiai/",
-                "date": "Žiūrėti kalendorių",
-                "source": "Biblioteka"
-            })
-
             # 3. VDU Botanikos sodas
-            community_events.append({
-                "title": "Renginiai VDU Botanikos sode",
-                "url": "https://botanika.vdu.lt/renginiai",
-                "date": "Sezoniniai",
-                "source": "Botanikos sodas"
-            })
+            try:
+                print("  [>] Tikrinama botanika.vdu.lt...")
+                page.goto("https://botanika.vdu.lt/renginiai", timeout=20000)
+                # Ieškome sąrašo elementų
+                items = page.locator(".view-content .views-row, .event-item").all()
+                if not items:
+                    # Alternatyvus būdas jei struktūra kitokia
+                    items = page.locator("a[href*='/renginiai/']").all()
+                
+                for item in items[:3]:
+                    title = item.inner_text().split('\n')[0].strip()
+                    url = item.get_attribute("href")
+                    if title and url and len(title) > 10:
+                        community_events.append({
+                            "title": title,
+                            "url": url if url.startswith('http') else f"https://botanika.vdu.lt{url}",
+                            "date": "Sezoninis",
+                            "source": "Botanikos sodas"
+                        })
+            except: print("  ⚠️ Nepavyko pasiekti botanika.vdu.lt")
+
+            # Jei vis tiek tuščia, pridedame bendras nuorodas
+            if not community_events:
+                community_events = [
+                    {"title": "Bibliotekos renginių kalendorius", "url": "https://www.kaunobiblioteka.lt/renginiai/", "date": "Žiūrėti čia", "source": "Biblioteka"},
+                    {"title": "VDU Botanikos sodo naujienos", "url": "https://botanika.vdu.lt/renginiai", "date": "Sezoniniai", "source": "Botanikos sodas"}
+                ]
+            
+            # Galutinis filtravimas: tik unikalūs pavadinimai
+            unique_events = []
+            seen_titles = set()
+            for ev in community_events:
+                if ev['title'] not in seen_titles:
+                    unique_events.append(ev)
+                    seen_titles.add(ev['title'])
+            community_events = unique_events[:6] # Maksimaliai 6 renginiai
 
             # --- ORO KOKYBĖS SKAITYMAS ---
             print("🍃 5 žingsnis: Tikrinama oro kokybė (Noreikiškės/Aleksotas)...")
