@@ -367,21 +367,22 @@ function renderAll(contracts, works, news, events, airQuality) {
     const sameDayItems = pickups.filter(p => p.days === first.days);
 
     // Hero Section
-    const heroDaysNum = document.getElementById('hero-days');
-    const heroDaysLabel = document.getElementById('hero-days-label');
+    const heroPrefix = document.getElementById('hero-days-prefix');
+    const heroNum = document.getElementById('hero-days');
+    const heroLabel = document.getElementById('hero-days-label');
 
     if (first.days === 0) {
-        heroDaysNum.textContent = '🚛';
-        heroDaysLabel.innerHTML = 'Šiandien';
+        heroPrefix.textContent = '';
+        heroNum.textContent = '🚛';
+        heroLabel.textContent = 'Šiandien';
     } else if (first.days === 1) {
-        heroDaysNum.textContent = '1';
-        heroDaysLabel.innerHTML = 'Rytoj';
+        heroPrefix.textContent = '';
+        heroNum.textContent = '1';
+        heroLabel.textContent = 'Rytoj';
     } else {
-        heroDaysNum.textContent = first.days;
-        heroDaysLabel.innerHTML = `<span>Už</span><span>dienų</span>`;
-        // Pridedame stilių, kad label būtų viršuje ir apačioje
-        heroDaysLabel.style.display = 'flex';
-        heroDaysLabel.style.flexDirection = 'column';
+        heroPrefix.textContent = 'UŽ';
+        heroNum.textContent = first.days;
+        heroLabel.textContent = 'DIENŲ';
     }
 
     document.getElementById('hero-title').textContent =
