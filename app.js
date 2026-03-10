@@ -367,9 +367,23 @@ function renderAll(contracts, works, news, events, airQuality) {
     const sameDayItems = pickups.filter(p => p.days === first.days);
 
     // Hero Section
-    document.getElementById('hero-days').textContent = first.days === 0 ? '🚛' : first.days;
-    document.getElementById('hero-days-label').textContent =
-        first.days === 0 ? 'Šiandien' : (first.days === 1 ? 'Rytoj' : 'už ' + first.days + ' d.');
+    const heroDaysNum = document.getElementById('hero-days');
+    const heroDaysLabel = document.getElementById('hero-days-label');
+
+    if (first.days === 0) {
+        heroDaysNum.textContent = '🚛';
+        heroDaysLabel.innerHTML = 'Šiandien';
+    } else if (first.days === 1) {
+        heroDaysNum.textContent = '1';
+        heroDaysLabel.innerHTML = 'Rytoj';
+    } else {
+        heroDaysNum.textContent = first.days;
+        heroDaysLabel.innerHTML = `<span>Už</span><span>dienų</span>`;
+        // Pridedame stilių, kad label būtų viršuje ir apačioje
+        heroDaysLabel.style.display = 'flex';
+        heroDaysLabel.style.flexDirection = 'column';
+    }
+
     document.getElementById('hero-title').textContent =
         first.days === 0 ? 'Šiandien vežama!' : (first.days === 1 ? 'Rytoj vežama!' : `Kitas šiukšlių išvežimas už ${first.days} d.`);
     document.getElementById('hero-date').textContent = formatDate(first.dateStr);
@@ -390,10 +404,18 @@ function renderAll(contracts, works, news, events, airQuality) {
         const isSoon = p.days === 1 || p.days === 2;
         const daysCls = isToday ? 'today-bg' : (isSoon ? 'soon-bg' : '');
 
+        let daysHtml = '';
+        if (isToday) {
+            daysHtml = `<div class="d-num">🚛</div><div class="d-lab">šiandien</div>`;
+        } else if (p.days === 1) {
+            daysHtml = `<div class="d-num">1</div><div class="d-lab">rytoj</div>`;
+        } else {
+            daysHtml = `<div class="d-lab top-lab">UŽ</div><div class="d-num">${p.days}</div><div class="d-lab">DIENŲ</div>`;
+        }
+
         card.innerHTML = `
             <div class="card-days ${daysCls}">
-                <div class="d-num">${isToday ? '🚛' : p.days}</div>
-                <div class="d-lab">${isToday ? 'šiandien' : (p.days === 1 ? 'rytoj' : 'už ' + p.days + ' d.')}</div>
+                ${daysHtml}
             </div>
             <div class="card-info">
                 <h3>${p.desc}</h3>

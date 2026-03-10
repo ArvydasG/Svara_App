@@ -163,12 +163,13 @@
             justify-content: center;
             box-shadow: 0 20px 40px -12px var(--accent-glow);
             flex-shrink: 0;
+            line-height: 1.1;
         }
 
         .days-number {
             font-size: 4rem;
             font-weight: 900;
-            line-height: 1;
+            margin: -5px 0;
         }
 
         .days-label {
@@ -176,7 +177,11 @@
             text-transform: uppercase;
             font-weight: 700;
             letter-spacing: 0.1em;
-            opacity: 0.8;
+            opacity: 0.9;
+        }
+
+        .days-label span {
+            display: block;
         }
 
         .next-info h2 {
@@ -242,15 +247,17 @@
         }
 
         .card-days {
-            width: 60px;
-            height: 60px;
-            border-radius: 16px;
+            width: 70px;
+            height: 90px;
+            border-radius: 18px;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
             font-weight: 800;
             background: rgba(255, 255, 255, 0.05);
+            line-height: 1.1;
+            padding: 5px 0;
         }
 
         .card-days.today-bg {
@@ -266,15 +273,19 @@
         }
 
         .d-num {
-            font-size: 1.4rem;
-            line-height: 1;
+            font-size: 1.6rem;
+            font-weight: 900;
         }
 
         .d-lab {
-            font-size: 0.65rem;
+            font-size: 0.6rem;
             text-transform: uppercase;
-            margin-top: 2px;
-            opacity: 0.7;
+            letter-spacing: 0.05em;
+            opacity: 0.8;
+        }
+
+        .d-lab.top-lab {
+            margin-bottom: -2px;
         }
 
         .card-info h3 {
