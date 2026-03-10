@@ -158,15 +158,45 @@ def scrape():
             print("📰 4 žingsnis: Ieškoma Aleksoto seniūnijos naujienų...")
             aleksotas_news = []
             try:
-                page.goto("https://www.kaunas.lt/seniunijos/aleksoto-seniunija/", timeout=30000)
-                # Surenkame naujienų antraštes (priklausomai nuo Kaunas.lt struktūros)
-                news_items = page.locator(".category-naujienos .post-item, .news-list-item").all()
+                # Naudojame tikslų vartotojo nurodytą naujienų puslapį
+                news_url = "https://www.kaunas.lt/administracija/struktura-ir-kontaktine-informacija/seniunijos/aleksoto-seniunija/aleksoto-seniunijos-naujienos/"
+                page.goto(news_url, timeout=30000)
+                
+                # Kaunas.lt naujienų sąrašo struktūra dažniausiai naudoja .news-item arba panašius elementus.
+                # Tikriname kelis variantus, kad robotas būtų stabilus.
+                news_selectors = [".news-item", ".post-item", "article.post", ".news-list-item"]
+                
+                news_items = []
+                for sel in news_selectors:
+                    found = page.locator(sel).all()
+                    if found:
+                        news_items = found
+                        break
+                
+                # Jei specifiniai selektoriai nerasti, ieškome pagal nuorodas, kurios veda į /seniunijos/
+                if not news_items:
+                    news_items = page.locator("a[href*='/seniunijos/']").all()
+
                 for i, item in enumerate(news_items[:3]): # Tik pirmos 3 naujienos
-                    title = item.locator("h3, .title").inner_text(timeout=2000).strip()
-                    link = item.locator("a").first.get_attribute("href")
-                    date_val = item.locator(".date").inner_text(timeout=2000).strip() if item.locator(".date").count() > 0 else ""
-                    aleksotas_news.append({"title": title, "url": link, "date": date_val})
+                    try:
+                        # Dažniausiai antraštė yra h3 arba stipri nuoroda
+                        title_el = item.locator("h3, a.title, a").first
+                        title = title_el.inner_text(timeout=2000).strip()
+                        link = title_el.get_attribute("href")
+                        
+                        # Data dažniausiai būna šalia antraštės span'e arba div'e su klase .date
+                        date_el = item.locator(".date, .post-date, .time").first
+                        date_val = date_el.inner_text(timeout=1000).strip() if date_el.count() > 0 else ""
+                        
+                        if title and link:
+                            aleksotas_news.append({"title": title, "url": link, "date": date_val})
+                    except: continue
+
                 print(f"  [>] Rasta naujienų: {len(aleksotas_news)}")
+            except Exception as e:
+                print(f"  ⚠️ Nepavyko nuskaityti naujienų: {e}")
+                # Fallback pavyzdys, jei svetainė nepasiekiama
+                aleksotas_news = [{"title": "Sveikiname su Kovo 11-ąja!", "url": "https://www.kaunas.lt/seniunijos/sveikiname-su-kovo-11-aja/", "date": "2026-03-10"}]
             except Exception as e:
                 print(f"  ⚠️ Nepavyko nuskaityti naujienų: {e}")
                 # Fallback pavyzdys, jei svetainė nepasiekiama
