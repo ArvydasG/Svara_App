@@ -197,10 +197,13 @@ function buildPickupList(contracts) {
     const allHolidaysList = [...litHolidays, ...litHolidaysNext];
 
     let result = items.filter(item => {
+        // Tik 3 mėnesiai (90 dienų) į priekį
+        if (item.days > 90) return false;
+
         const k = item.dateStr + '|' + item.desc;
         if (seen.has(k)) return false;
         seen.add(k); return true;
-    }).slice(0, 25);
+    }).slice(0, 30);
 
     // Check for holidays
     result.forEach(item => {
