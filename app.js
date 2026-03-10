@@ -313,15 +313,19 @@ function renderNews(news) {
     }
 
     container.innerHTML = news.map(n => `
-        <a href="${n.url}" target="_blank" class="news-card">
-            <div class="news-content">
+        <div class="event-card">
+            <div class="event-date-badge">
+                <span class="event-icon">📰</span>
+                <span class="event-date-text">${n.date}</span>
+            </div>
+            <div class="event-info">
                 <h4>${n.title}</h4>
-                <div class="news-meta">
-                    <span class="news-date">📅 ${n.date}</span>
-                    <span class="news-more">Skaityti daugiau →</span>
+                <div class="event-footer">
+                    <span class="event-source">📍 Bendruomenė</span>
+                    <a href="${n.url}" target="_blank" class="event-link">Daugiau →</a>
                 </div>
             </div>
-        </a>
+        </div>
     `).join('');
     container.parentElement.classList.remove('hidden');
 }

@@ -76,6 +76,7 @@
             --color-glass: #10b981;
             --color-bio: #84cc16;
             --color-paper: #f97316;
+            --primary: var(--accent);
         }
 
         * {
@@ -514,8 +515,9 @@
         }
 
         .news-more {
-            color: var(--primary);
-            font-weight: 600;
+            color: var(--text);
+            font-weight: 700;
+            opacity: 0.8;
         }
 
         .event-card {
@@ -582,9 +584,16 @@
         }
 
         .event-link {
-            color: var(--primary);
+            color: var(--text);
             text-decoration: none;
-            font-weight: 600;
+            font-weight: 700;
+            opacity: 0.8;
+        }
+
+        .event-link:hover,
+        .news-more:hover {
+            opacity: 1;
+            text-decoration: underline;
         }
 
         /* AQI Styles */
