@@ -24,6 +24,19 @@
         OneSignalDeferred.push(async function (OneSignal) {
             await OneSignal.init({
                 appId: "9f3d18fb-2825-4a44-b306-80e21a9df9d5",
+                promptOptions: {
+                    slidedown: {
+                        prompts: [{
+                            type: "push",
+                            autoPrompt: false,
+                            text: {
+                                actionMessage: "Norite gauti priminimus savo telefone išvakarėse prieš šiukšlių išvežimą?",
+                                acceptButton: "Sutinku",
+                                cancelButton: "Gal vėliau"
+                            }
+                        }]
+                    }
+                },
                 notifyButton: {
                     enable: true,
                     colors: {
