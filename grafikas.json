@@ -197,36 +197,6 @@
   ],
   "events": [
     {
-      "title": "Filmas „Kaip mes žaidėme revoliuciją“",
-      "url": "https://kaunobiblioteka.lt/filmas-kaip-mes-zaideme-revoliucija",
-      "date": "2026-03-03",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Frankofonijos mėnuo: susitikimas su parodos „Baltijos užrašai“ autoriumi Philippe Margeault",
-      "url": "https://kaunobiblioteka.lt/frankofonijos-menuo-susitikimas-su-parodos-baltijos-uzrasai-autoriumi-philippe-margeault",
-      "date": "2026-03-03",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Informacija apie bibliotekos darbo laiką",
-      "url": "https://kaunobiblioteka.lt/informacija-apie-bibliotekos-darbo-laika-149",
-      "date": "2026-03-06",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "SUSITIKIMAS-PASKAITA",
-      "url": "https://botanika.vdu.lt/ivykiai/susitikimas-paskaita",
-      "date": "2026-03-07",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Ilonos Skujaitės paskaita „Kotrynos Jogailaitės pėdsakai Švedijoje“",
-      "url": "https://kaunobiblioteka.lt/ilonos-skujaites-paskaita-kotrynos-jogailaites-pedsakai-svedijoje-2",
-      "date": "2026-03-09",
-      "source": "Biblioteka"
-    },
-    {
       "title": "Laiminga paukščių diena Botanikos sode",
       "url": "https://botanika.vdu.lt/ivykiai/laiminga-pauksciu-diena-botanikos-sode",
       "date": "2026-03-21",
@@ -267,6 +237,24 @@
       "url": "https://aleksotas.lt/2026/02/17/apkasu-zvakiu-gamyba-kristaus-prisikelimo-bazilikoje/",
       "date": "22 lapkričio",
       "source": "Aleksoto BC"
+    },
+    {
+      "title": "Išplėstinis seniūnaičių susirinkimas",
+      "url": "https://aleksotas.lt/2026/02/11/isplestinis-seniunaiciu-susirinkimas/",
+      "date": "22 lapkričio",
+      "source": "Aleksoto BC"
+    },
+    {
+      "title": "Tradicinė kalėdinė vakaronė „Laiko ratu”",
+      "url": "https://aleksotas.lt/2026/01/03/tradicine-kaledine-vakarone/",
+      "date": "22 lapkričio",
+      "source": "Aleksoto BC"
+    },
+    {
+      "title": "PIRMYN",
+      "url": "https://botanika.vdu.lt/renginiai/page/2",
+      "date": "Sezoninis",
+      "source": "Botanikos sodas"
     }
   ],
   "air_quality": {

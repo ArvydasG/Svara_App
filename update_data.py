@@ -185,13 +185,12 @@ def scrape():
                 }]
 
             # --- BENDRUOMENĖS RENGINIŲ SKAITYMAS ---
-            print("📅 6 žingsnis: Ieškoma bendruomenės renginių (nuo -7 d. iki +30 d.)...")
+            print("📅 6 žingsnis: Ieškoma bendruomenės renginių (tik +30 d. į priekį)...")
             community_events = []
             today_obj = date.today()
             from datetime import timedelta
-            min_date_obj = today_obj - timedelta(days=7)
             max_date_obj = today_obj + timedelta(days=30)
-            min_date_str = min_date_obj.isoformat()
+            today_str = today_obj.isoformat()
             max_date_str = max_date_obj.isoformat()
 
             # 1. Kauno biblioteka (Aleksoto padalinys)
@@ -217,7 +216,7 @@ def scrape():
                             
                             if title and url:
                                 if "202" in event_date:
-                                    if event_date < min_date_str or event_date > max_date_str:
+                                    if event_date < today_str or event_date > max_date_str:
                                         continue
                                     
                                 community_events.append({
@@ -294,7 +293,7 @@ def scrape():
                         
                         if date_match:
                             clean_date = re.sub(r'[\s\.]', '-', date_match.group(0))
-                            if clean_date < min_date_str or clean_date > max_date_str:
+                            if clean_date < today_str or clean_date > max_date_str:
                                 continue
                             event_date_str = clean_date
                             # Išvalome pavadinimą
