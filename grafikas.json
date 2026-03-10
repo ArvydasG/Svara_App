@@ -180,7 +180,31 @@
     }
   ],
   "updated_at": "2026-03-10",
-  "neighborhood_works": [],
-  "news": [],
-  "air_quality": null
+  "neighborhood_works": [
+    {
+      "title": "Bitininkų g. rekonstrukcija",
+      "description": "Vykdomi lietaus nuotekų tinklų ir kelio dangos atnaujinimo darbai (nuo Seniavos pl. iki Sodininkų g.).",
+      "status": "Vykdoma",
+      "date": "2024 - 2026"
+    },
+    {
+      "title": "Seniavos plento remontas",
+      "description": "Planuojamas kapitalinis kelio dangos ir apšvietimo remontas.",
+      "status": "Planuojama",
+      "date": "2025 - 2026"
+    }
+  ],
+  "news": [
+    {
+      "title": "Aleksoto bendruomenės naujienos",
+      "url": "https://www.kaunas.lt/seniunijos/aleksoto-seniunija/",
+      "date": "2026-03-10"
+    }
+  ],
+  "air_quality": {
+    "index": 18,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "station": "Noreikiškės"
+  }
 }
