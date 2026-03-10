@@ -187,5 +187,12 @@
       "status": "Planuojama",
       "date": "2025 - 2026"
     }
-  ]
+  ],
+  "news": [],
+  "air_quality": {
+    "index": 18,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "station": "Noreikiškės"
+  }
 }
