@@ -149,14 +149,10 @@ async function fetchData(force = false) {
         }
 
         contractsCache = data;
-        const neighborhoodWorks = jsonBody.neighborhood_works || [];
+        const news = jsonBody.news || [];
+        const airQuality = jsonBody.air_quality || null;
 
-        if (!contractsCache.length && !neighborhoodWorks.length) {
-            showState('empty');
-            return;
-        }
-
-        renderAll(contractsCache, neighborhoodWorks);
+        renderAll(contractsCache, neighborhoodWorks, news, airQuality);
         showState('content');
 
         const now = new Date();
@@ -261,9 +257,55 @@ function renderWorks(works) {
     container.parentElement.classList.remove('hidden');
 }
 
-function renderAll(contracts, works) {
+function renderNews(news) {
+    const container = document.getElementById('news-container');
+    if (!container) return;
+
+    if (!news || news.length === 0) {
+        container.parentElement.classList.add('hidden');
+        return;
+    }
+
+    container.innerHTML = news.map(n => `
+        <a href="${n.url}" target="_blank" class="news-card">
+            <div class="news-content">
+                <h4>${n.title}</h4>
+                <div class="news-meta">
+                    <span class="news-date">📅 ${n.date}</span>
+                    <span class="news-more">Skaityti daugiau →</span>
+                </div>
+            </div>
+        </a>
+    `).join('');
+    container.parentElement.classList.remove('hidden');
+}
+
+function renderAirQuality(aqi) {
+    const container = document.getElementById('aqi-widget');
+    if (!container || !aqi) return;
+
+    const statusClass = aqi.index < 25 ? 'aqi-excellent' : (aqi.index < 50 ? 'aqi-good' : 'aqi-moderate');
+
+    container.innerHTML = `
+        <div class="aqi-card ${statusClass}">
+            <div class="aqi-header">
+                <span class="aqi-label">Oro kokybė (${aqi.station})</span>
+                <span class="aqi-value">${aqi.index} AQI</span>
+            </div>
+            <div class="aqi-body">
+                <span class="aqi-status">${aqi.status}</span>
+                <p class="aqi-desc">${aqi.description}</p>
+            </div>
+        </div>
+    `;
+    container.classList.remove('hidden');
+}
+
+function renderAll(contracts, works, news, airQuality) {
     renderHolidays();
     renderWorks(works);
+    renderNews(news);
+    renderAirQuality(airQuality);
     const pickups = buildPickupList(contracts);
     if (!pickups.length) { showState('empty'); return; }
 
