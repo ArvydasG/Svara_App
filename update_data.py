@@ -185,10 +185,12 @@ def scrape():
                 }]
 
             # --- BENDRUOMENĖS RENGINIŲ SKAITYMAS ---
-            print("📅 6 žingsnis: Ieškoma bendruomenės renginių (mėnesio bėgyje)...")
+            print("📅 6 žingsnis: Ieškoma bendruomenės renginių (artimiausių 30 d.)...")
             community_events = []
             today_obj = date.today()
-            current_month_str = f"{today_obj.year}-{today_obj.month:02d}"
+            from datetime import timedelta
+            max_date_obj = today_obj + timedelta(days=30)
+            max_date_str = max_date_obj.isoformat()
 
             # 1. Kauno biblioteka (Aleksoto padalinys)
             try:
@@ -205,7 +207,6 @@ def scrape():
                         if link_el.count() > 0:
                             url = link_el.first.get_attribute("href")
                             # Ieškome datos tekste po h2
-                            # Playwright leleidžia rasti sekantį elementą
                             parent = h2.evaluate_handle("el => el.parentElement")
                             full_text = parent.as_element().inner_text()
                             
@@ -214,9 +215,10 @@ def scrape():
                             event_date = date_match.group(0) if date_match else "Nuoroda"
                             
                             if title and url:
-                                # Filtruojame pagal mėnesį (arba jei nėra datos, kliaujamės kad tai naujausia)
-                                if "202" in event_date and current_month_str not in event_date:
-                                    continue
+                                # Filtruojame pagal 30 d. langą
+                                if "202" in event_date:
+                                    if event_date < today_obj.isoformat() or event_date > max_date_str:
+                                        continue
                                     
                                 community_events.append({
                                     "title": title,
