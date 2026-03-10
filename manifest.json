@@ -1,6 +1,6 @@
 {
-    "name": "Švaros Grafikas",
-    "short_name": "Švara",
+    "name": "Seniavos kvartalas",
+    "short_name": "Seniavos",
     "description": "Atliekų išvežimo grafikas jūsų adresu",
     "start_url": "./",
     "display": "standalone",

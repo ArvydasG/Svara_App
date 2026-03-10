@@ -275,7 +275,7 @@ function renderAll(contracts, works) {
     document.getElementById('hero-days-label').textContent =
         first.days === 0 ? 'Šiandien' : (first.days === 1 ? 'Rytoj' : 'dienų');
     document.getElementById('hero-title').textContent =
-        first.days === 0 ? 'Šiandien vežama!' : (first.days === 1 ? 'Rytoj vežama!' : `Kitas išvežimas už ${first.days} d.`);
+        first.days === 0 ? 'Šiandien vežama!' : (first.days === 1 ? 'Rytoj vežama!' : `Kitas šiukšlių išvežimas už ${first.days} d.`);
     document.getElementById('hero-date').textContent = formatDate(first.dateStr);
 
     document.getElementById('hero-badges').innerHTML = sameDayItems.map(p =>
