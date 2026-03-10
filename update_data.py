@@ -137,8 +137,8 @@ def scrape():
                 except Exception as e:
                     print(f"    ❌ Klaida: {e}")
             
-            # --- APYLINKĖS DARBŲ SKAITYMAS ---
-            print("🏗️ 3 žingsnis: Ieškoma informacijos apie apylinkės darbus (2km radius)...")
+            # --- VYKDOMŲ DARBŲ SKAITYMAS ---
+            print("🏗️ 3 žingsnis: Ieškoma informacijos apie vykdomus darbus (2 Km atstumu)...")
             neighborhood_works = [
                 {
                     "title": "Bitininkų g. rekonstrukcija",
@@ -184,8 +184,8 @@ def scrape():
                     "date": "Nuoroda"
                 }]
 
-            # --- BENDRUOMENĖS RENGINIŲ SKAITYMAS ---
-            print("📅 6 žingsnis: Ieškoma bendruomenės renginių (tik +30 d. į priekį)...")
+            # --- ARTIMIAUSIŲ RENGINIŲ SKAITYMAS ---
+            print("📅 6 žingsnis: Ieškoma artimiausių renginių (tik +30 d. į priekį)...")
             community_events = []
             today_obj = date.today()
             from datetime import timedelta
