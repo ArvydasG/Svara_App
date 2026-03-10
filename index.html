@@ -334,6 +334,50 @@
             }
         }
 
+        /* Holiday Styles */
+        .holiday-section {
+            margin-bottom: 2rem;
+        }
+
+        #holidays-container {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .holiday-chip {
+            background: rgba(245, 158, 11, 0.1);
+            border: 1px solid rgba(245, 158, 11, 0.2);
+            padding: 0.6rem 1.2rem;
+            border-radius: 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .holiday-name {
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #f59e0b;
+        }
+
+        .holiday-date {
+            font-size: 0.75rem;
+            color: var(--text-dim);
+        }
+
+        .holiday-warning {
+            background: rgba(239, 68, 68, 0.1);
+            color: #ef4444;
+            border: 1px solid rgba(239, 68, 68, 0.2);
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            margin: 8px 0;
+            display: inline-block;
+        }
+
         .hidden {
             display: none !important;
         }
@@ -402,6 +446,11 @@
 
         <!-- Content -->
         <div id="content" class="hidden">
+            <div class="holiday-section hidden">
+                <div class="section-title">Artėjančios šventės</div>
+                <div id="holidays-container"></div>
+            </div>
+
             <div id="next-pickup-hero">
                 <div class="days-counter">
                     <div class="days-number" id="hero-days">–</div>

@@ -6,6 +6,60 @@ const months_lt = ['Sausio', 'Vasario', 'Kovo', 'Balandžio', 'Gegužės', 'Bir�
 const weekdays_lt = ['Sekmadienis', 'Pirmadienis', 'Antradienis', 'Trečiadienis',
     'Ketvirtadienis', 'Penktadienis', 'Šeštadienis'];
 
+// ─── Šventės ────────────────────────────────────────
+
+function getEaster(year) {
+    const f = Math.floor,
+        G = year % 19,
+        C = f(year / 100),
+        H = (C - f(C / 4) - f((8 * C + 13) / 25) + 19 * G + 15) % 30,
+        I = H - f(H / 28) * (1 - f(29 / (H + 1)) * f((21 - G) / 11)),
+        J = (year + f(year / 4) + I + 2 - C + f(C / 4)) % 7,
+        L = I - J,
+        month = 3 + f((L + 40) / 44),
+        day = L + 28 - 31 * f(month / 4);
+    return new Date(year, month - 1, day);
+}
+
+function getLithuanianHolidays(year) {
+    const easter = getEaster(year);
+    const easterMonday = new Date(easter);
+    easterMonday.setDate(easter.getDate() + 1);
+
+    const holidays = [
+        { date: `${year}-01-01`, name: "Naujieji metai" },
+        { date: `${year}-02-16`, name: "Valstybės atkūrimo diena" },
+        { date: `${year}-03-11`, name: "Nepriklausomybės atkūrimo diena" },
+        { date: easter.toISOString().split('T')[0], name: "Velykos" },
+        { date: easterMonday.toISOString().split('T')[0], name: "Velykų antroji diena" },
+        { date: `${year}-05-01`, name: "Tarptautinė darbininkų diena" },
+        { date: `${year}-06-24`, name: "Joninės" },
+        { date: `${year}-07-06`, name: "Valstybės diena (Mindaugo karūnavimas)" },
+        { date: `${year}-08-15`, name: "Žolinė" },
+        { date: `${year}-11-01`, name: "Visų šventųjų diena" },
+        { date: `${year}-11-02`, name: "Vėlinės" },
+        { date: `${year}-12-24`, name: "Kūčios" },
+        { date: `${year}-12-25`, name: "Kalėdos" },
+        { date: `${year}-12-26`, name: "Kalėdų antroji diena" }
+    ];
+    return holidays;
+}
+
+function getUpcomingHolidays(count = 3) {
+    const today = todayDate();
+    const currentYear = today.getFullYear();
+    let allHolidays = [
+        ...getLithuanianHolidays(currentYear),
+        ...getLithuanianHolidays(currentYear + 1)
+    ];
+
+    return allHolidays
+        .map(h => ({ ...h, days: daysUntil(h.date) }))
+        .filter(h => h.days >= 0)
+        .sort((a, b) => a.days - b.days)
+        .slice(0, count);
+}
+
 // ─── Pagalbiniai ────────────────────────────────────
 
 function todayDate() {
@@ -135,14 +189,48 @@ function buildPickupList(contracts) {
 
     items.sort((a, b) => a.days - b.days);
     const seen = new Set();
-    return items.filter(item => {
+    const litHolidays = getLithuanianHolidays(todayDate().getFullYear());
+    const litHolidaysNext = getLithuanianHolidays(todayDate().getFullYear() + 1);
+    const allHolidaysList = [...litHolidays, ...litHolidaysNext];
+
+    let result = items.filter(item => {
         const k = item.dateStr + '|' + item.desc;
         if (seen.has(k)) return false;
         seen.add(k); return true;
     }).slice(0, 25);
+
+    // Check for holidays
+    result.forEach(item => {
+        const holiday = allHolidaysList.find(h => h.date === item.dateStr);
+        if (holiday) {
+            item.holidayName = holiday.name;
+        }
+    });
+
+    return result;
+}
+
+function renderHolidays() {
+    const holidays = getUpcomingHolidays(3);
+    const container = document.getElementById('holidays-container');
+    if (!container) return;
+
+    if (holidays.length === 0) {
+        container.parentElement.classList.add('hidden');
+        return;
+    }
+
+    container.innerHTML = holidays.map(h => `
+        <div class="holiday-chip">
+            <span class="holiday-name">${h.name}</span>
+            <span class="holiday-date">${h.days === 0 ? 'Šiandien' : (h.days === 1 ? 'Rytoj' : `už ${h.days} d.`)}</span>
+        </div>
+    `).join('');
+    container.parentElement.classList.remove('hidden');
 }
 
 function renderAll(contracts) {
+    renderHolidays();
     const pickups = buildPickupList(contracts);
     if (!pickups.length) { showState('empty'); return; }
 
@@ -181,6 +269,7 @@ function renderAll(contracts) {
             <div class="card-info">
                 <h3>${p.desc}</h3>
                 <div class="card-date">${formatDate(p.dateStr)}</div>
+                ${p.holidayName ? `<div class="holiday-warning">⚠️ ${p.holidayName}</div>` : ''}
                 <div class="card-meta">
                     ${p.container ? `<span class="meta-chip">📦 ${p.container}</span>` : ''}
                     <span class="meta-chip">${p.isEstimated ? '⚠️ Orientacinis' : '✓ Tikslus'}</span>
