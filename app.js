@@ -369,7 +369,7 @@ function renderAll(contracts, works, news, events, airQuality) {
     // Hero Section
     document.getElementById('hero-days').textContent = first.days === 0 ? '🚛' : first.days;
     document.getElementById('hero-days-label').textContent =
-        first.days === 0 ? 'Šiandien' : (first.days === 1 ? 'Rytoj' : 'dienų');
+        first.days === 0 ? 'Šiandien' : (first.days === 1 ? 'Rytoj' : 'už ' + first.days + ' d.');
     document.getElementById('hero-title').textContent =
         first.days === 0 ? 'Šiandien vežama!' : (first.days === 1 ? 'Rytoj vežama!' : `Kitas šiukšlių išvežimas už ${first.days} d.`);
     document.getElementById('hero-date').textContent = formatDate(first.dateStr);
@@ -393,7 +393,7 @@ function renderAll(contracts, works, news, events, airQuality) {
         card.innerHTML = `
             <div class="card-days ${daysCls}">
                 <div class="d-num">${isToday ? '🚛' : p.days}</div>
-                <div class="d-lab">${isToday ? 'šiandien' : (p.days === 1 ? 'rytoj' : 'dienų')}</div>
+                <div class="d-lab">${isToday ? 'šiandien' : (p.days === 1 ? 'rytoj' : 'už ' + p.days + ' d.')}</div>
             </div>
             <div class="card-info">
                 <h3>${p.desc}</h3>
