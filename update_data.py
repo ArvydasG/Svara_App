@@ -184,22 +184,39 @@ def scrape():
                     "date": "Nuoroda"
                 }]
 
-            # --- ORO KOKYBĖS SKAITYMAS ---
-            print("🍃 5 žingsnis: Tikrinama oro kokybė (Noreikiškės/Aleksotas)...")
-            air_quality = {"status": "Gerai", "index": 15, "description": "Sąlygos puikios"} # Numatytasis
-            try:
-                # Naudojame viešą API arba scrapingą iš oficialaus žemėlapio
-                # Čia simuliuojame gautą AQI (Air Quality Index)
-                # PM10 norma yra iki 50.
-                aqi_val = 18 # Pavyzdinis skaičius
-                air_quality = {
-                    "index": aqi_val,
-                    "status": "Puiki" if aqi_val < 25 else ("Gera" if aqi_val < 50 else "Vidutinė"),
-                    "description": "Oras švarus, galite drąsiai vėdinti namus.",
-                    "station": "Noreikiškės"
-                }
-            except: pass
+            # --- BENDRUOMENĖS RENGINIŲ SKAITYMAS ---
+            print("📅 6 žingsnis: Ieškoma bendruomenės renginių...")
+            community_events = []
             
+            # 1. Aleksotas.lt (Bendruomenės centras)
+            try:
+                page.goto("https://aleksotas.lt/naujienos/", timeout=20000)
+                # Ieškome naujausių įrašų, kurie dažnai yra renginiai
+                news_items = page.locator("article.post, .entry-title a").all()
+                for item in news_items[:3]:
+                    t = item.inner_text().strip()
+                    l = item.get_attribute("href")
+                    if t and l:
+                        community_events.append({"title": t, "url": l, "date": "Pranešimas", "source": "Aleksoto BC"})
+            except: print("  ⚠️ Nepavyko pasiekti aleksotas.lt")
+
+            # 2. Kauno biblioteka (Aleksoto padalinys) - Simuliuojame arba dedame nuorodą, 
+            # nes jų puslapis dinamiškai kraunamas ir sudėtingas paprastam scrapingui
+            community_events.append({
+                "title": "Bibliotekos renginiai (dirbtuvės, parodos)",
+                "url": "https://www.kaunobiblioteka.lt/renginiai/",
+                "date": "Žiūrėti kalendorių",
+                "source": "Biblioteka"
+            })
+
+            # 3. VDU Botanikos sodas
+            community_events.append({
+                "title": "Renginiai VDU Botanikos sode",
+                "url": "https://botanika.vdu.lt/renginiai",
+                "date": "Sezoniniai",
+                "source": "Botanikos sodas"
+            })
+
         except Exception as e:
             print(f"❌ Nutiko klaida: {e}")
         
@@ -210,6 +227,7 @@ def scrape():
         'updated_at': date.today().isoformat(),
         'neighborhood_works': neighborhood_works,
         'news': aleksotas_news,
+        'events': community_events,
         'air_quality': air_quality
     }
     

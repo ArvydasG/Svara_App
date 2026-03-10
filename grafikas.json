@@ -4,6 +4,7 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461 0,24",
       "dates": [
+        "2026-03-09",
         "2026-04-06",
         "2026-05-04",
         "2026-06-01",
@@ -27,6 +28,7 @@
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-114598 0,12",
       "dates": [
+        "2026-03-09",
         "2026-05-04",
         "2026-06-29",
         "2026-08-24",
@@ -42,6 +44,7 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501 0,14",
       "dates": [
+        "2026-03-09",
         "2026-03-23",
         "2026-04-06",
         "2026-04-20",
@@ -81,6 +84,7 @@
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-117894 0,12",
       "dates": [
+        "2026-03-09",
         "2026-05-04",
         "2026-06-29",
         "2026-08-24",
@@ -96,6 +100,7 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262 0,24",
       "dates": [
+        "2026-03-09",
         "2026-04-06",
         "2026-05-04",
         "2026-06-01",
@@ -119,6 +124,7 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627 0,14",
       "dates": [
+        "2026-03-09",
         "2026-03-23",
         "2026-04-06",
         "2026-04-20",
@@ -190,9 +196,23 @@
   ],
   "news": [
     {
-      "title": "Bendruomenė",
-      "url": "https://www.kaunas.lt/seniunijos/aleksoto-seniunijos-bendruomene-2/",
-      "date": "Naujausia"
+      "title": "Skaityti visas Aleksoto seniūnijos naujienos",
+      "url": "https://www.kaunas.lt/administracija/struktura-ir-kontaktine-informacija/seniunijos/aleksoto-seniunija/aleksoto-seniunijos-naujienos/",
+      "date": "Aktualu"
+    }
+  ],
+  "events": [
+    {
+      "title": "Kūrybinės dirbtuvės „Verbų rišimas“",
+      "url": "https://www.kaunobiblioteka.lt/renginiai/",
+      "date": "Kovo 26 d. 14:00",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Aleksoto bendruomenės susirinkimas",
+      "url": "https://aleksotas.lt/naujienos/",
+      "date": "Artimiausiu metu",
+      "source": "Aleksoto BC"
     }
   ],
   "air_quality": {

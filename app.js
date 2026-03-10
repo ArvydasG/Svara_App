@@ -151,9 +151,10 @@ async function fetchData(force = false) {
         contractsCache = data;
         const neighborhoodWorks = jsonBody.neighborhood_works || [];
         const news = jsonBody.news || [];
+        const events = jsonBody.events || [];
         const airQuality = jsonBody.air_quality || null;
 
-        renderAll(contractsCache, neighborhoodWorks, news, airQuality);
+        renderAll(contractsCache, neighborhoodWorks, news, events, airQuality);
         showState('content');
 
         const now = new Date();
@@ -258,6 +259,33 @@ function renderWorks(works) {
     container.parentElement.classList.remove('hidden');
 }
 
+function renderEvents(events) {
+    const container = document.getElementById('events-container');
+    if (!container) return;
+
+    if (!events || events.length === 0) {
+        container.parentElement.classList.add('hidden');
+        return;
+    }
+
+    container.innerHTML = events.map(e => `
+        <div class="event-card">
+            <div class="event-date-badge">
+                <span class="event-icon">📅</span>
+                <span class="event-date-text">${e.date}</span>
+            </div>
+            <div class="event-info">
+                <h4>${e.title}</h4>
+                <div class="event-footer">
+                    <span class="event-source">📍 ${e.source}</span>
+                    <a href="${e.url}" target="_blank" class="event-link">Daugiau →</a>
+                </div>
+            </div>
+        </div>
+    `).join('');
+    container.parentElement.classList.remove('hidden');
+}
+
 function renderNews(news) {
     const container = document.getElementById('news-container');
     if (!container) return;
@@ -302,10 +330,11 @@ function renderAirQuality(aqi) {
     container.classList.remove('hidden');
 }
 
-function renderAll(contracts, works, news, airQuality) {
+function renderAll(contracts, works, news, events, airQuality) {
     renderHolidays();
     renderWorks(works);
     renderNews(news);
+    renderEvents(events);
     renderAirQuality(airQuality);
     const pickups = buildPickupList(contracts);
     if (!pickups.length) { showState('empty'); return; }
