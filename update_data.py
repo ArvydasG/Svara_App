@@ -196,26 +196,63 @@ def scrape():
             # 1. Kauno biblioteka (Aleksoto padalinys)
             try:
                 print("  [>] Tikrinama Kauno biblioteka...")
-                page.goto("https://www.kaunobiblioteka.lt/renginiai/", timeout=30000)
-                page.wait_for_timeout(5000)
+                # Didiname laukimo laiką, nes puslapis lėtas
+                page.goto("https://www.kaunobiblioteka.lt/renginiai/", timeout=60000)
+                page.wait_for_timeout(7000)
                 
                 # Ieškome visų h2 elementų (kaip anksčiau)
                 event_items = page.locator("h2").all()
                 print(f"    [-] Rasta h2 antraščių: {len(event_items)}")
+                
+                months_map = {
+                    "sausio": 1, "vasario": 2, "kovo": 3, "balandžio": 4, "gegužės": 5, "birželio": 6,
+                    "liepos": 7, "rugpjūčio": 8, "rugsėjo": 9, "spalio": 10, "lapkričio": 11, "gruodžio": 12
+                }
+                
                 for h2 in event_items:
                     try:
                         title = h2.inner_text().strip()
                         link_el = h2.locator("a")
                         if link_el.count() > 0:
                             url = link_el.first.get_attribute("href")
-                            parent = h2.evaluate_handle("el => el.parentElement")
+                            # Imam platesnį kontekstą (article arba 2 tėvinius aukščiau)
+                            parent = h2.evaluate_handle("el => el.closest('article') || el.parentElement.parentElement || el.parentElement")
                             full_text = parent.as_element().inner_text()
                             
-                            date_match = re.search(r'202\d-\d{2}-\d{2}', full_text)
-                            event_date = date_match.group(0) if date_match else "Nuoroda"
+                            event_date = "Nuoroda"
+                            
+                            # 1. BANDOME RASTI GILIĄJĄ DATĄ (pvz. "Kovo 26 d.")
+                            found_deep_date = False
+                            for m_name, m_num in months_map.items():
+                                # Naudojame lankstesnį regex (palaikom \s, tabs, non-breaking spaces)
+                                pattern1 = rf'({m_name})[\s\xa0]+(\d{{1,2}})[\s\xa0]+d\.'
+                                pattern2 = rf'(\d{{1,2}})[\s\xa0]+({m_name})'
+                                
+                                m_match = re.search(pattern1, full_text.lower())
+                                if not m_match:
+                                    m_match = re.search(pattern2, full_text.lower())
+                                    
+                                if m_match:
+                                    try:
+                                        day_val = int(m_match.group(2)) if m_match.group(1) == m_name else int(m_match.group(1))
+                                        year_val = today_obj.year
+                                        if m_num < today_obj.month: year_val += 1
+                                        
+                                        deep_date_obj = date(year_val, m_num, day_val)
+                                        event_date = deep_date_obj.isoformat()
+                                        found_deep_date = True
+                                        print(f"    [!] Rasta gilioji data: {event_date} ({title})")
+                                        break
+                                    except: pass
+                            
+                            # 2. Jei neradome giliosios, ieškome standartinio ISO formato (publikavimo data)
+                            if not found_deep_date:
+                                date_match = re.search(r'202\d-\d{2}-\d{2}', full_text)
+                                event_date = date_match.group(0) if date_match else "Nuoroda"
                             
                             if title and url:
-                                if "202" in event_date:
+                                # Griežtas tikrinimas tik jei turime tikrą ISO datą
+                                if re.match(r'202\d-\d{2}-\d{2}', event_date):
                                     if event_date < today_str or event_date > max_date_str:
                                         continue
                                     
@@ -225,7 +262,9 @@ def scrape():
                                     "date": event_date,
                                     "source": "Biblioteka"
                                 })
-                    except: continue
+                    except Exception as inn_e: 
+                        print(f"      [-] Klaida apdorojant elementą: {inn_e}")
+                        continue
             except Exception as e: 
                 print(f"  ⚠️ Klaida bibliotekos puslapyje: {e}")
 
