@@ -26,6 +26,8 @@ jobs:
           playwright install chromium
           
       - name: Run update script
+        env:
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
         run: python update_data.py
         
       - name: Commit and push changes
