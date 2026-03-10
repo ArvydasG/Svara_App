@@ -282,6 +282,8 @@ def scrape():
                                 "source": "Biblioteka"
                             })
                     except: continue
+            except Exception as e: 
+                print(f"  ⚠️ Klaida bibliotekos puslapyje: {e}")
 
             # 2. Aleksotas.lt (Bendruomenės centras)
             try:
