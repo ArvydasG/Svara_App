@@ -197,16 +197,76 @@
   ],
   "events": [
     {
-      "title": "Bibliotekos renginių kalendorius",
-      "url": "https://www.kaunobiblioteka.lt/renginiai/",
-      "date": "Žiūrėti čia",
+      "title": "Filmas „Kaip mes žaidėme revoliuciją“",
+      "url": "https://kaunobiblioteka.lt/filmas-kaip-mes-zaideme-revoliucija",
+      "date": "2026-03-03",
       "source": "Biblioteka"
     },
     {
-      "title": "VDU Botanikos sodo naujienos",
-      "url": "https://botanika.vdu.lt/renginiai",
-      "date": "Sezoniniai",
+      "title": "Frankofonijos mėnuo: susitikimas su parodos „Baltijos užrašai“ autoriumi Philippe Margeault",
+      "url": "https://kaunobiblioteka.lt/frankofonijos-menuo-susitikimas-su-parodos-baltijos-uzrasai-autoriumi-philippe-margeault",
+      "date": "2026-03-03",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Informacija apie bibliotekos darbo laiką",
+      "url": "https://kaunobiblioteka.lt/informacija-apie-bibliotekos-darbo-laika-149",
+      "date": "2026-03-06",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "SUSITIKIMAS-PASKAITA",
+      "url": "https://botanika.vdu.lt/ivykiai/susitikimas-paskaita",
+      "date": "2026-03-07",
       "source": "Botanikos sodas"
+    },
+    {
+      "title": "Ilonos Skujaitės paskaita „Kotrynos Jogailaitės pėdsakai Švedijoje“",
+      "url": "https://kaunobiblioteka.lt/ilonos-skujaites-paskaita-kotrynos-jogailaites-pedsakai-svedijoje-2",
+      "date": "2026-03-09",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Laiminga paukščių diena Botanikos sode",
+      "url": "https://botanika.vdu.lt/ivykiai/laiminga-pauksciu-diena-botanikos-sode",
+      "date": "2026-03-21",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "SEMINARAS",
+      "url": "https://botanika.vdu.lt/ivykiai/seminaras-9",
+      "date": "2026-03-25",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Bundančios gamtos stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
+      "date": "2026-03-30",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "VASARIO 16-OJI",
+      "url": "https://aleksotas.lt/2026/02/17/vasario-16-oji/",
+      "date": "22 lapkričio",
+      "source": "Aleksoto BC"
+    },
+    {
+      "title": "Skaityti daugiau",
+      "url": "https://aleksotas.lt/2026/02/17/vasario-16-oji/",
+      "date": "22 lapkričio",
+      "source": "Aleksoto BC"
+    },
+    {
+      "title": "10 aleksotiškių įstojo į Šventojo Jono Pauliaus Didžiojo ordino riterius",
+      "url": "https://aleksotas.lt/2026/02/17/0-aleksotiskiu-istojo-i-sventojo-jono-pauliaus-didziojo-ordino-riterius/",
+      "date": "22 lapkričio",
+      "source": "Aleksoto BC"
+    },
+    {
+      "title": "Apkasų žvakių gamyba Kristaus prisikėlimo bazilikoje",
+      "url": "https://aleksotas.lt/2026/02/17/apkasu-zvakiu-gamyba-kristaus-prisikelimo-bazilikoje/",
+      "date": "22 lapkričio",
+      "source": "Aleksoto BC"
     }
   ],
   "air_quality": {
