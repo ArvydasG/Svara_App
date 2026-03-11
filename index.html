@@ -613,6 +613,49 @@
             text-decoration: underline;
         }
 
+        /* Collapsible Section */
+        .collapsible-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            transition: background 0.2s ease;
+        }
+
+        .collapsible-header:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .collapsible-header .section-title {
+            margin-bottom: 0;
+            padding-left: 0;
+        }
+
+        .toggle-icon {
+            font-size: 1.2rem;
+            color: var(--text-dim);
+            transition: transform 0.3s ease;
+        }
+
+        .collapsible-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease-out, opacity 0.3s ease;
+            opacity: 0;
+        }
+
+        .collapsible-content.expanded {
+            max-height: 2000px; /* pakankamai didelis aukštis, kad tilptų renginiai */
+            opacity: 1;
+        }
+
+        .expanded .toggle-icon {
+            transform: rotate(180deg);
+        }
+
         /* AQI Styles */
         #aqi-widget {
             margin-bottom: 1.5rem;
@@ -753,9 +796,14 @@
 
             <div id="aqi-widget" class="hidden"></div>
 
-            <div class="events-section hidden">
-                <div class="section-title">📅 Artimiausi renginiai</div>
-                <div id="events-container"></div>
+            <div class="events-section hidden" id="events-wrapper">
+                <div class="collapsible-header" onclick="toggleEvents()">
+                    <div class="section-title">📅 Artimiausi renginiai</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="collapsible-content" id="events-content">
+                    <div id="events-container"></div>
+                </div>
             </div>
 
             <div class="news-section hidden">

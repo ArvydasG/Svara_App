@@ -266,8 +266,10 @@ function renderEvents(events) {
     const container = document.getElementById('events-container');
     if (!container) return;
 
+    const wrapper = document.getElementById('events-wrapper');
+
     if (!events || events.length === 0) {
-        container.parentElement.classList.add('hidden');
+        if(wrapper) wrapper.classList.add('hidden');
         return;
     }
 
@@ -303,7 +305,7 @@ function renderEvents(events) {
             </div>
         `;
     }).join('');
-    container.parentElement.classList.remove('hidden');
+    if(wrapper) wrapper.classList.remove('hidden');
 }
 
 function renderNews(news) {
@@ -441,6 +443,18 @@ function showState(state) {
     const targets = { loading: 'loading', error: 'error-state', empty: 'empty-state', content: 'content' };
     const el = document.getElementById(targets[state]);
     if (el) el.classList.remove('hidden');
+}
+
+function toggleEvents() {
+    const wrapper = document.getElementById('events-wrapper');
+    const content = document.getElementById('events-content');
+    if (wrapper.classList.contains('expanded')) {
+        wrapper.classList.remove('expanded');
+        content.classList.remove('expanded');
+    } else {
+        wrapper.classList.add('expanded');
+        content.classList.add('expanded');
+    }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
