@@ -197,6 +197,18 @@
   ],
   "events": [
     {
+      "title": "Linos Vėželienės-Dirmotės knygos „Laiškai prie kavos“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/linos-vezelienes-dirmotes-knygos-laiskai-prie-kavos-pristatymas",
+      "date": "2026-03-12",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Kūrybinės dirbtuvės vaikams „Darbeliai iš modelino“",
+      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-darbeliai-is-modelino",
+      "date": "2026-03-18",
+      "source": "Biblioteka"
+    },
+    {
       "title": "Laiminga paukščių diena Botanikos sode",
       "url": "https://botanika.vdu.lt/ivykiai/laiminga-pauksciu-diena-botanikos-sode",
       "date": "2026-03-21",
@@ -209,10 +221,22 @@
       "source": "Botanikos sodas"
     },
     {
+      "title": "Kūrybinės dirbtuvės „Verbų rišimas“",
+      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-verbu-risimas",
+      "date": "2026-03-26",
+      "source": "Biblioteka"
+    },
+    {
       "title": "Bundančios gamtos stovykla",
       "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
       "date": "2026-03-30",
       "source": "Botanikos sodas"
+    },
+    {
+      "title": "Šarūno Matijošaičio darbų ciklo „Dainos“ paroda",
+      "url": "https://kaunobiblioteka.lt/saruno-matijosaicio-darbu-ciklo-dainos-paroda",
+      "date": "2026-03-31",
+      "source": "Biblioteka"
     }
   ],
   "air_quality": {

@@ -195,93 +195,82 @@ def scrape():
 
             # 1. Kauno biblioteka (Aleksoto padalinys)
             try:
-                print("  [>] Tikrinama Kauno biblioteka...")
-                # Dar labiau didiname laukimo laiką ir naudojam pasyvų krovimą
-                page.goto("https://www.kaunobiblioteka.lt/renginiai/", timeout=90000, wait_until="domcontentloaded")
-                page.wait_for_timeout(10000)
+                print("  [>] Tikrinama Kauno biblioteka (Aleksoto padalinys)...")
+                # Naujas URL, nes /renginiai prašo pasirinkti padalinį
+                page.goto("https://www.kaunobiblioteka.lt/aleksotas", timeout=60000, wait_until="networkidle")
+                page.wait_for_timeout(3000)
                 
-                # Broad search: ieškome visų galimų blokų
-                # h2, h3 dažniausiai yra antraštės
-                event_items = page.locator("h2, h3, article, .post, .event-item").all()
-                print(f"    [-] Rasta galimų blokų: {len(event_items)}")
+                event_links = page.locator("a").all()
+                print(f"    [-] Rasta nuorodų Aleksoto puslapyje: {len(event_links)}")
                 
                 months_map = {
                     "sausio": 1, "vasario": 2, "kovo": 3, "balandžio": 4, "gegužės": 5, "birželio": 6,
                     "liepos": 7, "rugpjūčio": 8, "rugsėjo": 9, "spalio": 10, "lapkričio": 11, "gruodžio": 12
                 }
-                
                 seen_urls = set()
 
-                for item in event_items:
+                for link in event_links:
                     try:
-                        full_text = item.inner_text()
+                        title = link.inner_text().strip()
+                        url = link.get_attribute("href")
                         
-                        # Tikriname ar blokas aktualus Aleksotui
-                        if "aleksot" not in full_text.lower():
+                        if not title or len(title) < 15 or not url or url in seen_urls:
                             continue
                             
-                        # Ieškome antraštės ir nuorodos
-                        title = ""
-                        url = ""
-                        # Antraštė gali būti pats elementas (jei tai h2/h3) arba pirmas h2/h3 viduje
-                        tag_name = item.evaluate("el => el.tagName.toLowerCase()")
-                        if tag_name in ['h2', 'h3']:
-                            title = full_text.split('\n')[0].strip()
-                            link_el = item.locator("a")
-                            if link_el.count() > 0:
-                                url = link_el.first.get_attribute("href")
-                        else:
-                            h_in = item.locator("h2, h3").first
-                            if h_in.count() > 0:
-                                title = h_in.inner_text().strip()
-                                link_el = h_in.locator("a")
-                                if link_el.count() > 0:
-                                    url = link_el.first.get_attribute("href")
-
-                        if not title: continue
-                        if url in seen_urls: continue
-                        seen_urls.add(url)
+                        # Ieškome teksto aplink nuorodą, kur dažniausiai nurodoma data
+                        parent = link.evaluate_handle("el => el.closest('div') || el.parentElement")
+                        full_text = parent.as_element().inner_text() if parent else title
                         
-                        event_date = "Nuoroda"
-                        found_deep_date = False
+                        event_date = None
                         
                         for m_name, m_num in months_map.items():
-                            pattern1 = rf'({m_name})[\s\xa0]+(\d{{1,2}})[\s\xa0]+d\.'
-                            pattern2 = rf'(\d{{1,2}})[\s\xa0]+({m_name})'
+                            # Bulletproof logic: randame tekstą tarp mėnesio ir 'd.' 
+                            pattern1 = rf'({m_name})(.+?)d\.'
+                            pattern2 = rf'(\d{{1,2}})[\s\xa0]*({m_name})'
                             
                             m_match = re.search(pattern1, full_text.lower())
-                            if not m_match:
-                                m_match = re.search(pattern2, full_text.lower())
-                                
                             if m_match:
-                                try:
-                                    day_val = int(m_match.group(2)) if m_match.group(1) == m_name else int(m_match.group(1))
-                                    year_val = today_obj.year
-                                    if m_num < today_obj.month: year_val += 1
-                                    
-                                    deep_date_obj = date(year_val, m_num, day_val)
-                                    event_date = deep_date_obj.isoformat()
-                                    found_deep_date = True
-                                    print(f"    [!] Rasta gilioji data: {event_date} ({title})")
-                                    break
-                                except: pass
+                                digits = re.findall(r'\d+', m_match.group(2))
+                                if digits:
+                                    try:
+                                        day_val = int(digits[-1])
+                                        year_val = today_obj.year
+                                        if m_num < today_obj.month: year_val += 1
+                                        
+                                        deep_date_obj = date(year_val, m_num, day_val)
+                                        event_date = deep_date_obj.isoformat()
+                                        break
+                                    except: pass
+                            else:
+                                m_match = re.search(pattern2, full_text.lower())
+                                if m_match:
+                                    try:
+                                        day_val = int(m_match.group(1))
+                                        year_val = today_obj.year
+                                        if m_num < today_obj.month: year_val += 1
+                                        
+                                        deep_date_obj = date(year_val, m_num, day_val)
+                                        event_date = deep_date_obj.isoformat()
+                                        break
+                                    except: pass
                         
-                        if not found_deep_date:
+                        if not event_date:
                             date_match = re.search(r'202\d-\d{2}-\d{2}', full_text)
-                            event_date = date_match.group(0) if date_match else "Nuoroda"
+                            if date_match:
+                                event_date = date_match.group(0)
                         
-                        if title and url:
-                            if re.match(r'202\d-\d{2}-\d{2}', event_date):
-                                if event_date < today_str or event_date > max_date_str:
-                                    continue
-                                
-                            community_events.append({
-                                "title": title,
-                                "url": url if url.startswith('http') else f"https://kaunobiblioteka.lt{url}",
-                                "date": event_date,
-                                "source": "Biblioteka"
-                            })
-                    except: continue
+                        if event_date and url:
+                            if event_date >= today_str and event_date <= max_date_str:
+                                community_events.append({
+                                    "title": title,
+                                    "url": url if url.startswith('http') else f"https://www.kaunobiblioteka.lt{url}",
+                                    "date": event_date,
+                                    "source": "Biblioteka"
+                                })
+                                seen_urls.add(url)
+                                print(f"    [!] Rasta: {title} ({event_date})")
+                    except Exception as e:
+                        continue
             except Exception as e: 
                 print(f"  ⚠️ Klaida bibliotekos puslapyje: {e}")
 
