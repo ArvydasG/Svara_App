@@ -7,8 +7,10 @@ GitHub Actions robotas (GALUTINIS SPRENDIMAS):
 import re
 import json
 import os
-from datetime import date
+from datetime import date, timedelta
 from playwright.sync_api import sync_playwright
+import requests
+from bs4 import BeautifulSoup
 
 ADDRESS = {
     'region': 'Kauno m. sav.',
@@ -183,6 +185,51 @@ def scrape():
                     "url": news_url,
                     "date": "Nuoroda"
                 }]
+
+            # --- KAUNASPILNASRENGINIU.LT SKAITYMAS ---
+            print("🎭 5 žingsnis: Ieškoma renginių iš kaunaspilnasrenginiu.lt (tik +30 d.)...")
+            kaunas_events = []
+            try:
+                kp_url = "https://kaunaspilnasrenginiu.lt/lt/renginiai"
+                kp_headers = {'User-Agent': 'Mozilla/5.0'}
+                kp_resp = requests.get(kp_url, headers=kp_headers, timeout=20)
+                if kp_resp.ok:
+                    kp_soup = BeautifulSoup(kp_resp.text, 'html.parser')
+                    for h3 in kp_soup.find_all('h3'):
+                        title = h3.get_text(strip=True)
+                        if not title or title in ["Pranešk apie renginį", "Organizuoji kultūrinį renginį?", "Partneris"]:
+                            continue
+                        
+                        parent = h3.parent
+                        event_text = parent.get_text()
+                        date_match = re.search(r'([A-Z][a-z]+ \d+ d\.)', event_text)
+                        
+                        if date_match:
+                            date_str_lt = date_match.group(1)
+                            # Konvertuojame lietuvišką datą į ISO
+                            m_map = {"sausio":1,"vasario":2,"kovo":3,"balandžio":4,"gegužės":5,"birželio":6,"liepos":7,"rugpjūčio":8,"rugsėjo":9,"spalio":10,"lapkričio":11,"gruodžio":12}
+                            iso_date = None
+                            for m_name, m_num in m_map.items():
+                                if m_name in date_str_lt.lower():
+                                    day = int(re.search(r'\d+', date_str_lt).group())
+                                    year = today_obj.year
+                                    if m_num < today_obj.month: year += 1
+                                    iso_date = date(year, m_num, day).isoformat()
+                                    break
+                            
+                            if iso_date and iso_date >= today_str and iso_date <= max_date_str:
+                                link_tag = h3.find_parent('a') or parent.find('a', href=True)
+                                link = link_tag['href'] if link_tag else ""
+                                if link and not link.startswith('http'): link = "https://kaunaspilnasrenginiu.lt" + link
+                                
+                                kaunas_events.append({
+                                    "title": title,
+                                    "date": iso_date,
+                                    "url": link,
+                                    "source": "Kaunas Pilnas"
+                                })
+            except Exception as e:
+                print(f"  ⚠️ Klaida skaitant kaunaspilnasrenginiu.lt: {e}")
 
             # --- ARTIMIAUSIŲ RENGINIŲ SKAITYMAS ---
             print("📅 6 žingsnis: Ieškoma artimiausių renginių (tik +30 d. į priekį)...")
@@ -450,6 +497,7 @@ def scrape():
         'neighborhood_works': neighborhood_works,
         'news': aleksotas_news,
         'events': community_events,
+        'kaunas_events': kaunas_events,
         'air_quality': air_quality
     }
     

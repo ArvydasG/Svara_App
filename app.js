@@ -152,9 +152,10 @@ async function fetchData(force = false) {
         const neighborhoodWorks = jsonBody.neighborhood_works || [];
         const news = jsonBody.news || [];
         const events = jsonBody.events || [];
+        const kaunasEvents = jsonBody.kaunas_events || [];
         const airQuality = jsonBody.air_quality || null;
 
-        renderAll(contractsCache, neighborhoodWorks, news, events, airQuality);
+        renderAll(contractsCache, neighborhoodWorks, news, events, kaunasEvents, airQuality);
         showState('content');
 
         const now = new Date();
@@ -262,29 +263,31 @@ function renderWorks(works) {
     container.parentElement.classList.remove('hidden');
 }
 
-function renderEvents(events) {
-    const container = document.getElementById('events-container');
+function renderEvents(events, type = 'aleksotas') {
+    const containerId = type === 'aleksotas' ? 'events-container' : 'kaunas-events-container';
+    const wrapperId = type === 'aleksotas' ? 'events-wrapper' : 'kaunas-events-wrapper';
+    
+    const container = document.getElementById(containerId);
     if (!container) return;
 
-    const wrapper = document.getElementById('events-wrapper');
+    const wrapper = document.getElementById(wrapperId);
 
     if (!events || events.length === 0) {
         if(wrapper) wrapper.classList.add('hidden');
         return;
     }
 
-    // Bandome rūšiuoti renginius pagal datą (jei formatas leidžia)
+    // Bandome rūšiuoti renginius pagal datą
     const sortedEvents = [...events].sort((a, b) => {
-        if (a.date.match(/\d{4}-\d{2}-\d{2}/) && b.date.match(/\d{4}-\d{2}-\d{2}/)) {
+        if (a.date && b.date && a.date.match(/\d{4}-\d{2}-\d{2}/) && b.date.match(/\d{4}-\d{2}-\d{2}/)) {
             return new Date(a.date) - new Date(b.date);
         }
-        return 0; // Jei datos neaiškios, paliekame kaip yra
+        return 0;
     });
 
     container.innerHTML = sortedEvents.map(e => {
-        // Formatuojame datą gražiau jei tai ISO formatas
-        let displayDate = e.date;
-        if (e.date.match(/^\d{4}-\d{2}-\d{2}$/)) {
+        let displayDate = e.date || 'Aktualu';
+        if (e.date && e.date.match(/^\d{4}-\d{2}-\d{2}$/)) {
             const d = new Date(e.date);
             displayDate = `${d.getDate()} ${months_lt[d.getMonth()]}`;
         }
@@ -356,11 +359,12 @@ function renderAirQuality(aqi) {
     container.classList.remove('hidden');
 }
 
-function renderAll(contracts, works, news, events, airQuality) {
+function renderAll(contracts, works, news, events, kaunasEvents, airQuality) {
     renderHolidays();
     renderWorks(works);
     renderNews(news);
-    renderEvents(events);
+    renderEvents(events, 'aleksotas');
+    renderEvents(kaunasEvents, 'kaunas');
     renderAirQuality(airQuality);
     const pickups = buildPickupList(contracts);
     if (!pickups.length) { showState('empty'); return; }
@@ -448,6 +452,18 @@ function showState(state) {
 function toggleEvents() {
     const wrapper = document.getElementById('events-wrapper');
     const content = document.getElementById('events-content');
+    if (wrapper.classList.contains('expanded')) {
+        wrapper.classList.remove('expanded');
+        content.classList.remove('expanded');
+    } else {
+        wrapper.classList.add('expanded');
+        content.classList.add('expanded');
+    }
+}
+
+function toggleKaunasEvents() {
+    const wrapper = document.getElementById('kaunas-events-wrapper');
+    const content = document.getElementById('kaunas-events-content');
     if (wrapper.classList.contains('expanded')) {
         wrapper.classList.remove('expanded');
         content.classList.remove('expanded');
