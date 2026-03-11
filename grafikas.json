@@ -197,49 +197,128 @@
   ],
   "events": [
     {
-      "title": "Linos Vėželienės-Dirmotės knygos „Laiškai prie kavos“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/linos-vezelienes-dirmotes-knygos-laiskai-prie-kavos-pristatymas",
-      "date": "2026-03-12",
+      "title": "Bibliotekos istorija",
+      "url": "https://kaunobiblioteka.lt/apie-mus/istorija",
+      "date": "2026-03-11",
       "source": "Biblioteka"
     },
     {
-      "title": "Kūrybinės dirbtuvės vaikams „Darbeliai iš modelino“",
-      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-darbeliai-is-modelino",
-      "date": "2026-03-18",
+      "title": "Bibliotekos įkūrėjas Vincas Ruzgas",
+      "url": "https://kaunobiblioteka.lt/apie-mus/bibliotekos-ikurejas-vincas-ruzgas",
+      "date": "2026-03-11",
       "source": "Biblioteka"
     },
     {
-      "title": "Laiminga paukščių diena Botanikos sode",
-      "url": "https://botanika.vdu.lt/ivykiai/laiminga-pauksciu-diena-botanikos-sode",
-      "date": "2026-03-21",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "SEMINARAS",
-      "url": "https://botanika.vdu.lt/ivykiai/seminaras-9",
-      "date": "2026-03-25",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Kūrybinės dirbtuvės „Verbų rišimas“",
-      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-verbu-risimas",
-      "date": "2026-03-26",
+      "title": "Laikraščiai ir žurnalai",
+      "url": "https://kaunobiblioteka.lt/paslaugos/laikrasciai-ir-zurnalai",
+      "date": "2026-03-11",
       "source": "Biblioteka"
     },
     {
-      "title": "Bundančios gamtos stovykla",
-      "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
-      "date": "2026-03-30",
-      "source": "Botanikos sodas"
+      "title": "Mokamos paslaugos",
+      "url": "https://kaunobiblioteka.lt/paslaugos/mokamos-paslaugos",
+      "date": "2026-03-11",
+      "source": "Biblioteka"
     },
     {
-      "title": "Šarūno Matijošaičio darbų ciklo „Dainos“ paroda",
-      "url": "https://kaunobiblioteka.lt/saruno-matijosaicio-darbu-ciklo-dainos-paroda",
-      "date": "2026-03-31",
+      "title": "Mokymai gyventojams",
+      "url": "https://kaunobiblioteka.lt/paslaugos/mokymai-gyventojams",
+      "date": "2026-03-11",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Neformalusis vaikų švietimas",
+      "url": "https://kaunobiblioteka.lt/paslaugos/neformalusis-vaiku-svietimas",
+      "date": "2026-03-11",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Viešoji interneto prieiga",
+      "url": "https://kaunobiblioteka.lt/paslaugos/viesoji-interneto-prieiga",
+      "date": "2026-03-11",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Pabėgimo kambarys",
+      "url": "https://kaunobiblioteka.lt/uzduociu-kambarys",
+      "date": "2026-03-11",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Žydų paveldo Kaune žemėlapis",
+      "url": "https://kaunobiblioteka.lt/kaunozydai/",
+      "date": "2026-03-11",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Tarpbibliotekinis abonementas",
+      "url": "https://kaunobiblioteka.lt/paslaugos/tarpbibliotekinis-abonementas",
+      "date": "2026-03-11",
       "source": "Biblioteka"
     }
   ],
-  "kaunas_events": [],
+  "kaunas_events": [
+    {
+      "title": "Edukacija CIRKE su Kultūros pasu",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-cirke-su-kulturos-pasu-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "R. Vaicekausko knygos „Eglė žaislų karalienė“ pristatymas",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/r-vaicekausko-knygos-egle-zaislu-karaliene-pristatymas-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Kviečiame į parodos ir knygos pristatymą!",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvieciame-i-parodos-ir-knygos-pristatyma-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Jubiliejinis vakaras, skirtas Sofijai Čiurlionienei-Kymantaitei",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jubiliejinis-vakaras-skirtas-sofijai-ciurlionienei-kymantaitei-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Edukacija CIRKE su Kultūros pasu",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-cirke-su-kulturos-pasu-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "R. Vaicekausko knygos „Eglė žaislų karalienė“ pristatymas",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/r-vaicekausko-knygos-egle-zaislu-karaliene-pristatymas-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Kviečiame į parodos ir knygos pristatymą!",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvieciame-i-parodos-ir-knygos-pristatyma-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Jubiliejinis vakaras, skirtas Sofijai Čiurlionienei-Kymantaitei",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jubiliejinis-vakaras-skirtas-sofijai-ciurlionienei-kymantaitei-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Arūno Daujoto tapybos paroda \"Nežiūrėk per ilgai\"",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aruno-daujoto-tapybos-paroda-neziurek-per-ilgai-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Linos Vėželienės-Dirmotės knygos „Laiškai prie kavos“ pristatymas",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/linos-vezelienes-dirmotes-knygos-laiskai-prie-kavos-pristatymas-2026-03-12",
+      "source": "Kaunas Pilnas"
+    }
+  ],
   "air_quality": {
     "index": 18,
     "status": "Puiki",
