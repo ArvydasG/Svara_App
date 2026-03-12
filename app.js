@@ -579,6 +579,18 @@ function toggleNews() {
     }
 }
 
+function toggleSchedule() {
+    const wrapper = document.getElementById('schedule-wrapper');
+    const content = document.getElementById('schedule-content');
+    if (wrapper.classList.contains('expanded')) {
+        wrapper.classList.remove('expanded');
+        content.classList.remove('expanded');
+    } else {
+        wrapper.classList.add('expanded');
+        content.classList.add('expanded');
+    }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     fetchData();
 });
