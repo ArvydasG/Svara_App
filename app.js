@@ -6,19 +6,11 @@ const months_lt = ['Sausio', 'Vasario', 'Kovo', 'Balandžio', 'Gegužės', 'Bir�
 const weekdays_lt = ['Sekmadienis', 'Pirmadienis', 'Antradienis', 'Trečiadienis',
     'Ketvirtadienis', 'Penktadienis', 'Šeštadienis'];
 
-// ─── Šventės ────────────────────────────────────────
-
-function getEaster(year) {
-    const f = Math.floor,
-        G = year % 19,
-        C = f(year / 100),
-        H = (C - f(C / 4) - f((8 * C + 13) / 25) + 19 * G + 15) % 30,
-        I = H - f(H / 28) * (1 - f(29 / (H + 1)) * f((21 - G) / 11)),
-        J = (year + f(year / 4) + I + 2 - C + f(C / 4)) % 7,
-        L = I - J,
-        month = 3 + f((L + 40) / 44),
-        day = L + 28 - 31 * f(month / 4);
-    return new Date(year, month - 1, day);
+function toLocalISOString(date) {
+    const y = date.getFullYear();
+    const m = String(date.getMonth() + 1).padStart(2, '0');
+    const d = String(date.getDate()).padStart(2, '0');
+    return `${y}-${m}-${d}`;
 }
 
 function getLithuanianHolidays(year) {
@@ -30,8 +22,8 @@ function getLithuanianHolidays(year) {
         { date: `${year}-01-01`, name: "Naujieji metai" },
         { date: `${year}-02-16`, name: "Valstybės atkūrimo diena" },
         { date: `${year}-03-11`, name: "Nepriklausomybės atkūrimo diena" },
-        { date: easter.toISOString().split('T')[0], name: "Velykos" },
-        { date: easterMonday.toISOString().split('T')[0], name: "Velykų antroji diena" },
+        { date: toLocalISOString(easter), name: "Velykos" },
+        { date: toLocalISOString(easterMonday), name: "Velykų antroji diena" },
         { date: `${year}-05-01`, name: "Tarptautinė darbininkų diena" },
         { date: `${year}-06-24`, name: "Joninės" },
         { date: `${year}-07-06`, name: "Valstybės diena (Mindaugo karūnavimas)" },
@@ -110,8 +102,9 @@ function estimateDates(desc, idx) {
     for (let i = 0; i < 5; i++) {
         const d = new Date(start);
         d.setDate(d.getDate() + i * interval * 7);
-        if (daysUntil(d.toISOString().slice(0, 10)) >= 0)
-            dates.push(d.toISOString().slice(0, 10));
+        const iso = toLocalISOString(d);
+        if (daysUntil(iso) >= 0)
+            dates.push(iso);
     }
     return dates.slice(0, 4);
 }
