@@ -613,6 +613,40 @@
             text-decoration: underline;
         }
 
+        /* Category filter tabs */
+        .category-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            padding: 0.75rem 0 1rem 0;
+        }
+
+        .cat-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: var(--text-dim);
+            padding: 0.35rem 0.85rem;
+            border-radius: 100px;
+            font-size: 0.78rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: var(--font);
+        }
+
+        .cat-btn:hover {
+            background: rgba(99, 102, 241, 0.15);
+            border-color: rgba(99, 102, 241, 0.3);
+            color: var(--text);
+        }
+
+        .cat-btn.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: white;
+            box-shadow: 0 4px 12px -4px var(--accent-glow);
+        }
+
         /* Collapsible Section */
         .collapsible-header {
             display: flex;
@@ -812,6 +846,7 @@
                     <span class="toggle-icon">▼</span>
                 </div>
                 <div id="kaunas-events-content" class="collapsible-content">
+                    <div class="category-filters" id="kaunas-cat-filters"></div>
                     <div id="kaunas-events-container"></div>
                 </div>
             </div>

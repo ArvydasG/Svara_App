@@ -141,6 +141,22 @@ def scrape():
             if kp_resp.ok:
                 soup = BeautifulSoup(kp_resp.text, 'html.parser')
                 m_map = {"sausio":1,"vasario":2,"kovo":3,"balandžio":4,"gegužės":5,"birželio":6,"liepos":7,"rugpjūčio":8,"rugsėjo":9,"spalio":10,"lapkričio":11,"gruodžio":12}
+
+                def classify_event(title):
+                    t = title.lower()
+                    if any(x in t for x in ["paroda", "ekspozicija", "galerija", "fotografij"]): return "Parodos"
+                    if any(x in t for x in ["koncert", "muzik", "džiaz", "džez", "simfonij", "choras", "orkestras", "flamenko", "jazz", "rock", "pop", "naktys"]): return "Muzika"
+                    if any(x in t for x in ["spektakl", "teatro", "pantomim", "šokis", "šokių", "baletą", "opera", "scen", "drama", "monospektakl"]): return "Scena"
+                    if any(x in t for x in ["film", "kino", "kinas", "dokumentin"]): return "Kinas"
+                    if any(x in t for x in ["knygos", "literatūr", "pristatymas", "poezij", "skaitymai", "knyg"]): return "Literatūra"
+                    if any(x in t for x in ["festival", "festivalis"]): return "Festivaliai"
+                    if any(x in t for x in ["šventė", "šventės", "mugė", "karnavalas", "kalėd", "velyk", "joninės"]): return "Šventės"
+                    if any(x in t for x in ["ekskursij", "turas", "kelionė", "pasivaikščioj"]): return "Ekskursijos"
+                    if any(x in t for x in ["bendruomen", "susitikimas", "diskusij", "pabendravim"]): return "Bendruomenės"
+                    if any(x in t for x in ["edukacij", "seminar", "mokym", "dirbtuvės", "dirbtuves", "kūrybinės", "kryptinė", "kūrybinis", "stovykl"]): return "Edukaciniai"
+                    if any(x in t for x in ["naktis", "naktinė", "naktines", "after"]): return "Naktinė kultūra"
+                    return "Kiti"
+
                 for h3 in soup.find_all('h3'):
                     title = h3.get_text(strip=True)
                     if not title or any(x in title for x in ["Pranešk", "Organizuoji", "Partneris"]): continue
@@ -158,10 +174,12 @@ def scrape():
                                     link_tag = h3.find_parent('a') or h3.parent.find('a', href=True)
                                     url = link_tag['href'] if link_tag else ""
                                     if url and not url.startswith('http'): url = "https://kaunaspilnasrenginiu.lt" + url
+                                    category = classify_event(title)
                                     if not any(e['title'] == title and e['date'] == iso for e in kaunas_events):
-                                        kaunas_events.append({"title": title, "date": iso, "url": url, "source": "Kaunas Pilnas"})
+                                        kaunas_events.append({"title": title, "date": iso, "url": url, "source": "Kaunas Pilnas", "category": category})
                                 break
         except Exception as e: print(f"⚠️ Kauno renginių klaida: {e}")
+
 
         # 4. ALEKSOTO RENGINIAI (BIBLIOTEKA, BOTANIKA, BC)
         try:

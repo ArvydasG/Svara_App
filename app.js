@@ -263,10 +263,79 @@ function renderWorks(works) {
     container.parentElement.classList.remove('hidden');
 }
 
+let kaunasAllEvents = [];
+let kaunasActiveCategory = 'Visi';
+
+const KAUNAS_CATEGORIES = ['Visi', 'Parodos', 'Muzika', 'Scena', 'Kinas', 'Literatūra', 'Festivaliai', 'Šventės', 'Ekskursijos', 'Bendruomenės', 'Edukaciniai', 'Naktinė kultūra', 'Kiti'];
+
+function renderKaunasCategories() {
+    const filtersEl = document.getElementById('kaunas-cat-filters');
+    if (!filtersEl) return;
+
+    // Only show categories that have at least one event
+    const presentCats = new Set(kaunasAllEvents.map(e => e.category || 'Kiti'));
+    const visibleCats = KAUNAS_CATEGORIES.filter(c => c === 'Visi' || presentCats.has(c));
+
+    filtersEl.innerHTML = visibleCats.map(cat => `
+        <button class="cat-btn ${cat === kaunasActiveCategory ? 'active' : ''}"
+                onclick="selectKaunasCategory('${cat}')">${cat}</button>
+    `).join('');
+}
+
+function selectKaunasCategory(cat) {
+    kaunasActiveCategory = cat;
+    renderKaunasCategories();
+    renderKaunasEventsList();
+}
+
+function renderKaunasEventsList() {
+    const container = document.getElementById('kaunas-events-container');
+    if (!container) return;
+
+    const filtered = kaunasActiveCategory === 'Visi'
+        ? kaunasAllEvents
+        : kaunasAllEvents.filter(e => (e.category || 'Kiti') === kaunasActiveCategory);
+
+    if (!filtered.length) {
+        container.innerHTML = `<p style="color:var(--text-dim);padding:1rem 0;font-size:0.88rem;">Šioje kategorijoje renginių nerasta.</p>`;
+        return;
+    }
+
+    const sortedEvents = [...filtered].sort((a, b) => {
+        if (a.date && b.date && a.date.match(/\d{4}-\d{2}-\d{2}/) && b.date.match(/\d{4}-\d{2}-\d{2}/)) {
+            return new Date(a.date) - new Date(b.date);
+        }
+        return 0;
+    });
+
+    container.innerHTML = sortedEvents.map(e => {
+        let displayDate = e.date || 'Aktualu';
+        if (e.date && e.date.match(/^\d{4}-\d{2}-\d{2}$/)) {
+            const d = new Date(e.date);
+            displayDate = `${d.getDate()} ${months_lt[d.getMonth()]}`;
+        }
+        return `
+            <div class="event-card">
+                <div class="event-date-badge">
+                    <span class="event-icon">📅</span>
+                    <span class="event-date-text">${displayDate}</span>
+                </div>
+                <div class="event-info">
+                    <h4>${e.title}</h4>
+                    <div class="event-footer">
+                        <span class="event-source">📍 ${e.source}</span>
+                        <a href="${e.url}" target="_blank" class="event-link">Daugiau →</a>
+                    </div>
+                </div>
+            </div>
+        `;
+    }).join('');
+}
+
 function renderEvents(events, type = 'aleksotas') {
     const containerId = type === 'aleksotas' ? 'events-container' : 'kaunas-events-container';
     const wrapperId = type === 'aleksotas' ? 'events-wrapper' : 'kaunas-events-wrapper';
-    
+
     const container = document.getElementById(containerId);
     if (!container) return;
 
@@ -277,7 +346,17 @@ function renderEvents(events, type = 'aleksotas') {
         return;
     }
 
-    // Bandome rūšiuoti renginius pagal datą
+    if (type === 'kaunas') {
+        // Use category filter system for Kaunas events
+        kaunasAllEvents = events;
+        kaunasActiveCategory = 'Visi';
+        renderKaunasCategories();
+        renderKaunasEventsList();
+        if(wrapper) wrapper.classList.remove('hidden');
+        return;
+    }
+
+    // Aleksotas events – simple sorted list (don't touch!)
     const sortedEvents = [...events].sort((a, b) => {
         if (a.date && b.date && a.date.match(/\d{4}-\d{2}-\d{2}/) && b.date.match(/\d{4}-\d{2}-\d{2}/)) {
             return new Date(a.date) - new Date(b.date);
@@ -310,6 +389,7 @@ function renderEvents(events, type = 'aleksotas') {
     }).join('');
     if(wrapper) wrapper.classList.remove('hidden');
 }
+
 
 function renderNews(news) {
     const container = document.getElementById('news-container');
