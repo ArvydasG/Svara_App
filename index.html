@@ -410,19 +410,21 @@
         }
 
         .work-card {
-            background: rgba(59, 130, 246, 0.05);
-            border: 1px solid rgba(59, 130, 246, 0.1);
-            padding: 1.2rem;
+            background: rgba(59, 130, 246, 0.08);
+            border: 1px solid rgba(59, 130, 246, 0.15);
+            padding: 1rem 1.25rem;
             border-radius: 16px;
             display: flex;
-            gap: 1rem;
-            transition: all 0.3s ease;
+            gap: 1.25rem;
+            transition: all 0.2s ease;
+            margin-bottom: 0.75rem;
+            align-items: center;
         }
 
         .work-card:hover {
-            background: rgba(59, 130, 246, 0.1);
-            border-color: rgba(59, 130, 246, 0.3);
-            transform: translateY(-2px);
+            background: rgba(59, 130, 246, 0.12);
+            border-color: rgba(59, 130, 246, 0.25);
+            transform: translateX(4px);
         }
 
         .work-icon {
@@ -539,17 +541,19 @@
 
         .event-card {
             display: flex;
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(255, 255, 255, 0.05);
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.08);
             border-radius: 16px;
             margin-bottom: 0.75rem;
             overflow: hidden;
             transition: all 0.2s ease;
+            align-items: stretch;
         }
 
         .event-card:hover {
-            background: rgba(255, 255, 255, 0.06);
-            transform: translateY(-2px);
+            background: rgba(255, 255, 255, 0.07);
+            border-color: rgba(255, 255, 255, 0.15);
+            transform: translateX(4px);
         }
 
         .event-date-badge {
@@ -702,14 +706,24 @@
         }
 
         .aqi-card {
-            padding: 1rem;
+            padding: 1rem 1.25rem;
             border-radius: 16px;
             border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.2s ease;
+            cursor: default;
+        }
+
+        .aqi-card:hover {
+            transform: translateX(4px);
         }
 
         .aqi-excellent {
-            background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), rgba(16, 185, 129, 0.05));
+            background: rgba(16, 185, 129, 0.1);
             border-color: rgba(16, 185, 129, 0.2);
+        }
+
+        .aqi-excellent:hover {
+            background: rgba(16, 185, 129, 0.15);
         }
 
         .aqi-excellent .aqi-status {
@@ -717,12 +731,29 @@
         }
 
         .aqi-good {
-            background: linear-gradient(135deg, rgba(245, 158, 11, 0.1), rgba(245, 158, 11, 0.05));
+            background: rgba(245, 158, 11, 0.1);
             border-color: rgba(245, 158, 11, 0.2);
+        }
+
+        .aqi-good:hover {
+            background: rgba(245, 158, 11, 0.15);
         }
 
         .aqi-good .aqi-status {
             color: #f59e0b;
+        }
+
+        .aqi-moderate {
+            background: rgba(99, 102, 241, 0.1);
+            border-color: rgba(99, 102, 241, 0.2);
+        }
+
+        .aqi-moderate:hover {
+            background: rgba(99, 102, 241, 0.15);
+        }
+
+        .aqi-moderate .aqi-status {
+            color: var(--accent);
         }
 
         .aqi-header {
