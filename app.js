@@ -238,10 +238,11 @@ function renderHolidays() {
 
 function renderWorks(works) {
     const container = document.getElementById('works-container');
-    if (!container) return;
+    const wrapper = document.getElementById('works-wrapper');
+    if (!container || !wrapper) return;
 
     if (!works || works.length === 0) {
-        container.parentElement.classList.add('hidden');
+        wrapper.classList.add('hidden');
         return;
     }
 
@@ -260,7 +261,7 @@ function renderWorks(works) {
             </div>
         </div>
     `).join('');
-    container.parentElement.classList.remove('hidden');
+    wrapper.classList.remove('hidden');
 }
 
 let kaunasAllEvents = [];
@@ -544,6 +545,18 @@ function toggleEvents() {
 function toggleKaunasEvents() {
     const wrapper = document.getElementById('kaunas-events-wrapper');
     const content = document.getElementById('kaunas-events-content');
+    if (wrapper.classList.contains('expanded')) {
+        wrapper.classList.remove('expanded');
+        content.classList.remove('expanded');
+    } else {
+        wrapper.classList.add('expanded');
+        content.classList.add('expanded');
+    }
+}
+
+function toggleWorks() {
+    const wrapper = document.getElementById('works-wrapper');
+    const content = document.getElementById('works-content');
     if (wrapper.classList.contains('expanded')) {
         wrapper.classList.remove('expanded');
         content.classList.remove('expanded');
