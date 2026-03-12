@@ -134,51 +134,73 @@ def scrape():
         except: 
             aleksotas_news = [{"title": "Aleksoto naujienos", "url": "https://www.kaunas.lt", "date": "Nuoroda"}]
 
-        # 3. KAUNO RENGINIAI (KAUNASPILNAS)
+        # 3. KAUNO RENGINIAI (KAUNASPILNAS) – puslapiuojame kol gauname 30 dienų renginius
         try:
             print("🎭 Ieškoma renginių iš kaunaspilnasrenginiu.lt...")
-            kp_resp = requests.get("https://kaunaspilnasrenginiu.lt/lt/renginiai", headers={'User-Agent': 'Mozilla/5.0'}, timeout=20)
-            if kp_resp.ok:
+            base_url = "https://kaunaspilnasrenginiu.lt"
+            kp_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+
+            def classify_event(title):
+                t = title.lower()
+                if any(x in t for x in ["paroda", "ekspozicija", "galerija", "fotografij"]): return "Parodos"
+                if any(x in t for x in ["koncert", "muzik", "džiaz", "džez", "simfonij", "choras", "orkestras", "flamenko", "jazz", "rock", "pop", "naktys"]): return "Muzika"
+                if any(x in t for x in ["spektakl", "teatro", "pantomim", "šokis", "šokių", "baletą", "opera", "scen", "drama", "monospektakl"]): return "Scena"
+                if any(x in t for x in ["film", "kino", "kinas", "dokumentin"]): return "Kinas"
+                if any(x in t for x in ["knygos", "literatūr", "pristatymas", "poezij", "skaitymai", "knyg"]): return "Literatūra"
+                if any(x in t for x in ["festival", "festivalis"]): return "Festivaliai"
+                if any(x in t for x in ["šventė", "šventės", "mugė", "karnavalas", "kalėd", "velyk", "joninės"]): return "Šventės"
+                if any(x in t for x in ["ekskursij", "turas", "kelionė", "pasivaikščioj"]): return "Ekskursijos"
+                if any(x in t for x in ["bendruomen", "susitikimas", "diskusij", "pabendravim"]): return "Bendruomenės"
+                if any(x in t for x in ["edukacij", "seminar", "mokym", "dirbtuvės", "dirbtuves", "kūrybinės", "kryptinė", "kūrybinis", "stovykl"]): return "Edukaciniai"
+                if any(x in t for x in ["naktis", "naktinė", "naktines", "after"]): return "Naktinė kultūra"
+                return "Kiti"
+
+            page_num = 1
+            past_window = False  # kai pastebime, kad datos jau praėjo 30d langą – sustojame
+
+            while page_num <= 20 and not past_window:
+                page_url = f"{base_url}/lt/renginiai" + (f"?page={page_num}" if page_num > 1 else "")
+                kp_resp = requests.get(page_url, headers=kp_headers, timeout=20)
+                if not kp_resp.ok:
+                    break
                 soup = BeautifulSoup(kp_resp.text, 'html.parser')
-                m_map = {"sausio":1,"vasario":2,"kovo":3,"balandžio":4,"gegužės":5,"birželio":6,"liepos":7,"rugpjūčio":8,"rugsėjo":9,"spalio":10,"lapkričio":11,"gruodžio":12}
 
-                def classify_event(title):
-                    t = title.lower()
-                    if any(x in t for x in ["paroda", "ekspozicija", "galerija", "fotografij"]): return "Parodos"
-                    if any(x in t for x in ["koncert", "muzik", "džiaz", "džez", "simfonij", "choras", "orkestras", "flamenko", "jazz", "rock", "pop", "naktys"]): return "Muzika"
-                    if any(x in t for x in ["spektakl", "teatro", "pantomim", "šokis", "šokių", "baletą", "opera", "scen", "drama", "monospektakl"]): return "Scena"
-                    if any(x in t for x in ["film", "kino", "kinas", "dokumentin"]): return "Kinas"
-                    if any(x in t for x in ["knygos", "literatūr", "pristatymas", "poezij", "skaitymai", "knyg"]): return "Literatūra"
-                    if any(x in t for x in ["festival", "festivalis"]): return "Festivaliai"
-                    if any(x in t for x in ["šventė", "šventės", "mugė", "karnavalas", "kalėd", "velyk", "joninės"]): return "Šventės"
-                    if any(x in t for x in ["ekskursij", "turas", "kelionė", "pasivaikščioj"]): return "Ekskursijos"
-                    if any(x in t for x in ["bendruomen", "susitikimas", "diskusij", "pabendravim"]): return "Bendruomenės"
-                    if any(x in t for x in ["edukacij", "seminar", "mokym", "dirbtuvės", "dirbtuves", "kūrybinės", "kryptinė", "kūrybinis", "stovykl"]): return "Edukaciniai"
-                    if any(x in t for x in ["naktis", "naktinė", "naktines", "after"]): return "Naktinė kultūra"
-                    return "Kiti"
+                found_on_page = 0
+                for a in soup.find_all('a', href=True):
+                    href = a['href']
+                    # Data paslėpta nuorodos gale: /lt/renginiai/pavadinimas-YYYY-MM-DD
+                    date_m = re.search(r'(\d{4}-\d{2}-\d{2})$', href)
+                    if not date_m: continue
+                    iso = date_m.group(1)
 
-                for h3 in soup.find_all('h3'):
-                    title = h3.get_text(strip=True)
-                    if not title or any(x in title for x in ["Pranešk", "Organizuoji", "Partneris"]): continue
-                    text = h3.parent.get_text()
-                    d_match = re.search(r'([A-Z][a-z]+ \d+ d\.)', text)
-                    if d_match:
-                        d_str = d_match.group(1).lower()
-                        for m_name, m_num in m_map.items():
-                            if m_name in d_str:
-                                day = int(re.search(r'\d+', d_str).group())
-                                yr = today_obj.year
-                                if m_num < today_obj.month: yr += 1
-                                iso = date(yr, m_num, day).isoformat()
-                                if today_str <= iso <= max_date_str:
-                                    link_tag = h3.find_parent('a') or h3.parent.find('a', href=True)
-                                    url = link_tag['href'] if link_tag else ""
-                                    if url and not url.startswith('http'): url = "https://kaunaspilnasrenginiu.lt" + url
-                                    category = classify_event(title)
-                                    if not any(e['title'] == title and e['date'] == iso for e in kaunas_events):
-                                        kaunas_events.append({"title": title, "date": iso, "url": url, "source": "Kaunas Pilnas", "category": category})
-                                break
+                    # Jei data viršija 30 dienų langą – baigiam
+                    if iso > max_date_str:
+                        continue
+                    # Jei data per sena (anksčiau nei šiandien)
+                    if iso < today_str:
+                        continue
+
+                    # Pavadinimas
+                    title = a.get_text(strip=True)
+                    if not title or len(title) < 5: continue
+                    if any(x in title for x in ["Pranešk", "Organizuoji", "Partneris", "Filtravimas"]): continue
+
+                    full_url = base_url + href if not href.startswith('http') else href
+                    category = classify_event(title)
+
+                    if not any(e['title'] == title and e['date'] == iso for e in kaunas_events):
+                        kaunas_events.append({"title": title, "date": iso, "url": full_url, "source": "Kaunas Pilnas", "category": category})
+                        found_on_page += 1
+
+                # Jei šiame puslapyje neradome nė vieno renginio ir puslapis > 1 – turbūt visi renginiai praėję
+                if found_on_page == 0 and page_num > 1:
+                    past_window = True
+
+                page_num += 1
+
+            print(f"   ✅ Rasta {len(kaunas_events)} Kauno renginių per 30 dienų")
         except Exception as e: print(f"⚠️ Kauno renginių klaida: {e}")
+
 
 
         # 4. ALEKSOTO RENGINIAI (BIBLIOTEKA, BOTANIKA, BC)
@@ -309,7 +331,7 @@ def scrape():
         'neighborhood_works': neighborhood_works,
         'news': aleksotas_news,
         'events': community_events[:10],
-        'kaunas_events': kaunas_events[:10],
+        'kaunas_events': kaunas_events[:100],
         'air_quality': air_quality
     }
     with open('grafikas.json', 'w', encoding='utf-8') as f:
