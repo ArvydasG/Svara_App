@@ -166,20 +166,121 @@ def scrape():
         # 4. ALEKSOTO RENGINIAI (BIBLIOTEKA, BOTANIKA, BC)
         try:
             print("📅 Ieškoma Aleksoto renginių...")
-            # Biblioteka (Tiesioginė nuoroda, nes puslapis naudoja dinaminį krovimą)
-            community_events.append({
-                "title": "Kauno bibliotekos renginiai",
-                "url": "https://www.kaunobiblioteka.lt/renginiai/",
-                "date": "Aktualu",
-                "source": "Biblioteka"
-            })
+            
             # Botanika
-            page.goto("https://botanika.vdu.lt/renginiai", timeout=20000)
-            vdu_links = page.locator("a[href*='/ivykiai/']").all()
-            for l in vdu_links[:5]:
-                t = l.inner_text().strip()
-                if t: community_events.append({"title": t, "url": l.get_attribute("href"), "date": "Sezoninis", "source": "Botanikos sodas"})
-        except: pass
+            bot_resp = requests.get("https://botanika.vdu.lt/renginiai", timeout=20)
+            if bot_resp.ok:
+                soup = BeautifulSoup(bot_resp.text, 'html.parser')
+                for e in soup.find_all('a', href=lambda h: h and '/ivykiai/' in h):
+                    t_el = e.find('div', class_='PANEL__title')
+                    d_el = e.find('div', class_='PANEL__date')
+                    if not t_el: continue
+                    t = t_el.get_text(strip=True)
+                    url = e.get('href')
+                    date_str = "Sezoninis"
+                    
+                    if d_el:
+                        parsed_date = d_el.get_text(strip=True).replace(' ', '-')
+                        if re.match(r'^\d{4}-\d{2}-\d{2}$', parsed_date):
+                            if today_str <= parsed_date <= max_date_str:
+                                date_str = parsed_date
+                            else:
+                                continue # Nepraeina 30 dienų filtro
+                    
+                    if not any(ev['title'] == t for ev in community_events):
+                        community_events.append({"title": t, "url": url, "date": date_str, "source": "Botanikos sodas"})
+
+            # Biblioteka (kaunobiblioteka.lt/aleksotas)
+            m_map_lt = {
+                "sausio":1,"vasario":2,"kovo":3,"balandžio":4,"gegužės":5,"birželio":6,
+                "liepos":7,"rugpjūčio":8,"rugsėjo":9,"spalio":10,"lapkričio":11,"gruodžio":12
+            }
+            def parse_lt_date_from_text(text):
+                """Ieško datos tekste. Grąžina (iso_date|None, date_found_in_text).
+                Aptinka formatus: 'Kovo 26 d.', 'Kovo 4, 18 d.', 'Vasario 2–28 d.'"""
+                from datetime import date as _d
+                months_re = r'(sausio|vasario|kovo|balandžio|gegužės|birželio|liepos|rugpjūčio|rugsėjo|spalio|lapkričio|gruodžio)'
+                
+                # Bandome surasti visias datos paminėjimus su mėnesiu
+                all_matches = list(re.finditer(
+                    months_re + r'\s+' + r'(\d{1,2}(?:[–\-,\s]+\d{1,2})*)\s+d\.',
+                    text, re.IGNORECASE
+                ))
+                
+                if not all_matches:
+                    return None, False
+                
+                # Iš kiekvienos atitikties imame PASKUTINĮ dienų skaičių (pvz. iš "4, 18" imame 18)
+                best_date = None
+                for match in all_matches:
+                    month_num = m_map_lt.get(match.group(1).lower())
+                    if not month_num: continue
+                    days_str = match.group(2)
+                    # Ištraukiame visus skaičius
+                    days = re.findall(r'\d{1,2}', days_str)
+                    if not days: continue
+                    # Imame paskutinį dienų skaičių (pvz. rango pabaigą arba paskutinę datą)
+                    day = int(days[-1])
+                    yr = today_obj.year
+                    try:
+                        evt = _d(yr, month_num, day)
+                        if evt < today_obj - timedelta(days=1):
+                            # Praeities data – žymime kaip rastą bet praėjusią
+                            if best_date is None:
+                                best_date = (None, True)
+                            continue
+                        if best_date is None or (best_date[0] is not None and evt.isoformat() < best_date[0]):
+                            best_date = (evt.isoformat(), True)
+                        elif best_date[0] is None:
+                            best_date = (evt.isoformat(), True)
+                    except: continue
+                
+                if best_date is not None:
+                    return best_date
+                return None, True  # rasta, bet visos praėjusios
+
+
+            try:
+                page.goto("https://kaunobiblioteka.lt/aleksotas", wait_until="networkidle", timeout=40000)
+                page.wait_for_timeout(3000)
+                articles = page.locator("article").all()
+                for art in articles:
+                    full_text = art.inner_text().strip()
+                    try:
+                        title = art.locator(".elementor-post__title, h2 a, h3 a").first.inner_text().strip()
+                    except: continue
+                    try:
+                        link = art.locator("a").first.get_attribute("href") or ""
+                    except: link = ""
+                    if not title or len(title) < 5: continue
+
+                    event_date, date_found = parse_lt_date_from_text(full_text)
+                    
+                    # Jei data rasta tekste, bet ji praėjusi – praleidžiame
+                    if date_found and event_date is None:
+                        continue
+                    # Jei data rasta ir ji > 30 dienų – praleidžiame
+                    if event_date and event_date > max_date_str:
+                        continue
+                    
+                    date_val = event_date if event_date else "Aktualu"
+
+                    if not any(ev['title'] == title for ev in community_events):
+                        community_events.append({
+                            "title": title, "url": link, "date": date_val, "source": "Biblioteka"
+                        })
+
+            except Exception as e:
+                print(f"⚠️ Bibliotekos klaida: {e}")
+                community_events.append({
+                    "title": "Kauno bibliotekos renginiai",
+                    "url": "https://kaunobiblioteka.lt/aleksotas",
+                    "date": "Aktualu",
+                    "source": "Biblioteka"
+                })
+
+
+        except Exception as e: print(f"⚠️ Aleksoto bendra klaida: {e}")
 
         browser.close()
 

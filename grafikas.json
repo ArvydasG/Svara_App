@@ -197,40 +197,52 @@
   ],
   "events": [
     {
-      "title": "Kauno bibliotekos renginiai",
-      "url": "https://www.kaunobiblioteka.lt/renginiai/",
-      "date": "Aktualu",
+      "title": "Bundančios gamtos stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
+      "date": "2026-03-30",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "SEMINARAS",
+      "url": "https://botanika.vdu.lt/ivykiai/seminaras-9",
+      "date": "2026-03-25",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Laiminga paukščių diena Botanikos sode",
+      "url": "https://botanika.vdu.lt/ivykiai/laiminga-pauksciu-diena-botanikos-sode",
+      "date": "2026-03-21",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Kūrybinės dirbtuvės „Verbų rišimas“",
+      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-verbu-risimas",
+      "date": "2026-03-26",
       "source": "Biblioteka"
     },
     {
-      "title": "2026 09 05\nBOTANINĖS NAKTYS | LEMON JOY\nRugsėjo 3–5 d. VDU Botanikos sode Kaune vyks festivalis „Botaninės naktys“ ir Tarptautinis jurginų festivalis: koncertai, ekskursijos, gėlių parodos ir veiklos visai šeimai. Rugsėjo 5 d. vakare laukia Lemon Joy koncertas.\nPLAČIAU",
-      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-lemon-joy",
-      "date": "Sezoninis",
-      "source": "Botanikos sodas"
+      "title": "Linos Vėželienės-Dirmotės knygos „Laiškai prie kavos“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/linos-vezelienes-dirmotes-knygos-laiskai-prie-kavos-pristatymas",
+      "date": "2026-03-12",
+      "source": "Biblioteka"
     },
     {
-      "title": "2026 09 04\nBOTANINĖS NAKTYS | DADDY WAS A MILKMAN\nRugsėjo 3–5 d. VDU Botanikos sode Kaune vyks festivalis „Botaninės naktys“ ir Tarptautinis jurginų festivalis: koncertai, ekskursijos, gėlių parodos ir veiklos visai šeimai. Rugsėjo 4 d. vakare laukia Daddy Was A Milkman koncertas.\nPLAČIAU",
-      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-daddy-was-a-milkman-2",
-      "date": "Sezoninis",
-      "source": "Botanikos sodas"
+      "title": "Kūrybinės dirbtuvės vaikams „Darbeliai iš modelino“",
+      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-darbeliai-is-modelino",
+      "date": "2026-03-18",
+      "source": "Biblioteka"
     },
     {
-      "title": "2026 09 03\nBOTANINĖS NAKTYS | GusGus\nRugsėjo 3–5 d. VDU Botanikos sode Kaune vyks festivalis „Botaninės naktys“ ir Tarptautinis jurginų festivalis: koncertai, ekskursijos, gėlių parodos ir veiklos visai šeimai. Rugsėjo 3 d. vakare laukia GusGus koncertas.\nPLAČIAU",
-      "url": "https://botanika.vdu.lt/ivykiai/36456",
-      "date": "Sezoninis",
-      "source": "Botanikos sodas"
+      "title": "Šarūno Matijošaičio darbų ciklo „Dainos“ paroda",
+      "url": "https://kaunobiblioteka.lt/saruno-matijosaicio-darbu-ciklo-dainos-paroda",
+      "date": "2026-03-31",
+      "source": "Biblioteka"
     },
     {
-      "title": "2026 03 30\nBundančios gamtos stovykla\n  2026 m. kovo 30 – balandžio 3 d. Pavasaris Botanikos sode prasideda anksčiau. O šiemet kviečiame vaikus jį patirti iš arti – pavasario atostogų metu tyrinėkime, kurkime, judėkime ir klausykimės bundančios gamtos kartu! Stovykla skirta 7–11 metų vaikams. ...\nPLAČIAU",
-      "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
-      "date": "Sezoninis",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "2026 03 25\nSEMINARAS\nTeorinis-praktinis genėjimo seminaras su atestuotu arboristu Leonardu Mekioniu, kurio metu bus demonstruojamas vaismedžių genėjimas, supažindinama su genėjimo darbo įrankiais.\nPLAČIAU",
-      "url": "https://botanika.vdu.lt/ivykiai/seminaras-9",
-      "date": "Sezoninis",
-      "source": "Botanikos sodas"
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-7",
+      "date": "Aktualu",
+      "source": "Biblioteka"
     }
   ],
   "kaunas_events": [
