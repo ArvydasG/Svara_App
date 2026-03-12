@@ -262,6 +262,13 @@ function renderWorks(works) {
         </div>
     `).join('');
     wrapper.classList.remove('hidden');
+    
+    // Pagal nutylėjimą išskleidžiame, kad vartotojas matytų informaciją
+    const content = document.getElementById('works-content');
+    if (wrapper && content) {
+        wrapper.classList.add('expanded');
+        content.classList.add('expanded');
+    }
 }
 
 let kaunasAllEvents = [];

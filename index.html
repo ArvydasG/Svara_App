@@ -829,9 +829,14 @@
                 <div id="holidays-container"></div>
             </div>
 
-            <div class="works-section hidden">
-                <div class="section-title">🏗️ Vykdomi darbai (2 Km atstumu)</div>
-                <div id="works-container"></div>
+            <div class="works-section hidden expanded" id="works-wrapper">
+                <div class="collapsible-header" onclick="toggleWorks()">
+                    <div class="section-title">🏗️ Vykdomi darbai (2 Km atstumu)</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div id="works-content" class="collapsible-content expanded">
+                    <div id="works-container"></div>
+                </div>
             </div>
 
             <div id="aqi-widget" class="hidden"></div>
