@@ -46,12 +46,39 @@ def scrape():
     aleksotas_news = []
     kaunas_events = []
     community_events = []
+    # 0. ORO KOKYBĖ (AUTOMATIZUOTA)
+    print("🌍 Tikrinama Noreikiškių oro kokybė...")
     air_quality = {
-        "index": 18,
-        "status": "Puiki",
-        "description": "Oras švarus, galite drąsiai vėdinti namus.",
+        "index": 0,
+        "status": "Nėra duomenų",
+        "description": "Nepavyko pasiekti oro kokybės duomenų.",
         "station": "Noreikiškės"
     }
+    try:
+        aq_url = "https://air-quality-api.open-meteo.com/v1/air-quality?latitude=54.8872&longitude=23.8347&current=european_aqi"
+        aq_resp = requests.get(aq_url, timeout=10)
+        if aq_resp.ok:
+            aq_data = aq_resp.json()
+            aqi = aq_data.get('current', {}).get('european_aqi', 0)
+            air_quality["index"] = aqi
+            if aqi <= 20:
+                air_quality["status"] = "Puiki"
+                air_quality["description"] = "Oras švarus, galite drąsiai vėdinti namus."
+            elif aqi <= 40:
+                air_quality["status"] = "Gera"
+                air_quality["description"] = "Oro kokybė gera, tinkama lauko veikloms."
+            elif aqi <= 60:
+                air_quality["status"] = "Vidutinė"
+                air_quality["description"] = "Oro kokybė vidutinė, jautriems asmenims rekomenduojama riboti buvimą lauke."
+            elif aqi <= 80:
+                air_quality["status"] = "Prasta"
+                air_quality["description"] = "Oro užterštumas padidėjęs, rekomenduojama vengti ilgo buvimo lauke."
+            else:
+                air_quality["status"] = "Labai prasta"
+                air_quality["description"] = "Didelis oro užterštumas, rekomenduojama likti viduje."
+    except Exception as e:
+        print(f"⚠️ Oro kokybės klaida: {e}")
+
 
     today_obj = date.today()
     max_date_obj = today_obj + timedelta(days=30)

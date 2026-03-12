@@ -247,20 +247,6 @@
   ],
   "kaunas_events": [
     {
-      "title": "Edukacija CIRKE su Kultūros pasu",
-      "date": "2026-03-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-cirke-su-kulturos-pasu-2026-03-12",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "R. Vaicekausko knygos „Eglė žaislų karalienė“ pristatymas",
-      "date": "2026-03-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/r-vaicekausko-knygos-egle-zaislu-karaliene-pristatymas-2026-03-12",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
       "title": "Kviečiame į parodos ir knygos pristatymą!",
       "date": "2026-03-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvieciame-i-parodos-ir-knygos-pristatyma-2026-03-12",
@@ -945,12 +931,26 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velykiniu-kiausiniu-marginimas-senaja-technika-2026-03-29",
       "source": "Kaunas Pilnas",
       "category": "Šventės"
+    },
+    {
+      "title": "Muzikinė Velykų pasakaitė KAIP MAUMUKAS KIAUŠINIUS SLĖPĖ",
+      "date": "2026-03-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikine-velyku-pasakaite-kaip-maumukas-kiausinius-slepe-2026-03-29",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "OPERA (Revoliucijos) Giuseppe Verdi ir Richard Wagner kūriniai atliekami Kristinos Zmailaitės ir Edmundo Seiliaus.",
+      "date": "2026-03-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/opera-revoliucijos-giuseppe-verdi-ir-richard-wagner-kuriniai-atliekami-kristinos-zmailaites-ir-edmundo-seiliaus-2026-03-29",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 18,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 62,
+    "status": "Prasta",
+    "description": "Oro užterštumas padidėjęs, rekomenduojama vengti ilgo buvimo lauke.",
     "station": "Noreikiškės"
   }
 }
