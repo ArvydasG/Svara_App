@@ -158,21 +158,21 @@ def scrape():
                                     link_tag = h3.find_parent('a') or h3.parent.find('a', href=True)
                                     url = link_tag['href'] if link_tag else ""
                                     if url and not url.startswith('http'): url = "https://kaunaspilnasrenginiu.lt" + url
-                                    kaunas_events.append({"title": title, "date": iso, "url": url, "source": "Kaunas Pilnas"})
+                                    if not any(e['title'] == title and e['date'] == iso for e in kaunas_events):
+                                        kaunas_events.append({"title": title, "date": iso, "url": url, "source": "Kaunas Pilnas"})
                                 break
         except Exception as e: print(f"⚠️ Kauno renginių klaida: {e}")
 
         # 4. ALEKSOTO RENGINIAI (BIBLIOTEKA, BOTANIKA, BC)
         try:
             print("📅 Ieškoma Aleksoto renginių...")
-            # Biblioteka
-            page.goto("https://www.kaunobiblioteka.lt/aleksotas", timeout=30000)
-            b_links = page.locator("a").all()
-            for l in b_links:
-                t = l.inner_text().strip()
-                u = l.get_attribute("href")
-                if t and len(t) > 15 and u:
-                    community_events.append({"title": t, "url": u if u.startswith('http') else f"https://www.kaunobiblioteka.lt{u}", "date": today_str, "source": "Biblioteka"})
+            # Biblioteka (Tiesioginė nuoroda, nes puslapis naudoja dinaminį krovimą)
+            community_events.append({
+                "title": "Kauno bibliotekos renginiai",
+                "url": "https://www.kaunobiblioteka.lt/renginiai/",
+                "date": "Aktualu",
+                "source": "Biblioteka"
+            })
             # Botanika
             page.goto("https://botanika.vdu.lt/renginiai", timeout=20000)
             vdu_links = page.locator("a[href*='/ivykiai/']").all()

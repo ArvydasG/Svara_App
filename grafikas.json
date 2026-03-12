@@ -197,91 +197,43 @@
   ],
   "events": [
     {
-      "title": "Bibliotekos istorija",
-      "url": "https://kaunobiblioteka.lt/apie-mus/istorija",
-      "date": "2026-03-12",
+      "title": "Kauno bibliotekos renginiai",
+      "url": "https://www.kaunobiblioteka.lt/renginiai/",
+      "date": "Aktualu",
       "source": "Biblioteka"
     },
     {
-      "title": "Bibliotekos įkūrėjas Vincas Ruzgas",
-      "url": "https://kaunobiblioteka.lt/apie-mus/bibliotekos-ikurejas-vincas-ruzgas",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
+      "title": "2026 09 05\nBOTANINĖS NAKTYS | LEMON JOY\nRugsėjo 3–5 d. VDU Botanikos sode Kaune vyks festivalis „Botaninės naktys“ ir Tarptautinis jurginų festivalis: koncertai, ekskursijos, gėlių parodos ir veiklos visai šeimai. Rugsėjo 5 d. vakare laukia Lemon Joy koncertas.\nPLAČIAU",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-lemon-joy",
+      "date": "Sezoninis",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Laikraščiai ir žurnalai",
-      "url": "https://kaunobiblioteka.lt/paslaugos/laikrasciai-ir-zurnalai",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
+      "title": "2026 09 04\nBOTANINĖS NAKTYS | DADDY WAS A MILKMAN\nRugsėjo 3–5 d. VDU Botanikos sode Kaune vyks festivalis „Botaninės naktys“ ir Tarptautinis jurginų festivalis: koncertai, ekskursijos, gėlių parodos ir veiklos visai šeimai. Rugsėjo 4 d. vakare laukia Daddy Was A Milkman koncertas.\nPLAČIAU",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-daddy-was-a-milkman-2",
+      "date": "Sezoninis",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Mokamos paslaugos",
-      "url": "https://kaunobiblioteka.lt/paslaugos/mokamos-paslaugos",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
+      "title": "2026 09 03\nBOTANINĖS NAKTYS | GusGus\nRugsėjo 3–5 d. VDU Botanikos sode Kaune vyks festivalis „Botaninės naktys“ ir Tarptautinis jurginų festivalis: koncertai, ekskursijos, gėlių parodos ir veiklos visai šeimai. Rugsėjo 3 d. vakare laukia GusGus koncertas.\nPLAČIAU",
+      "url": "https://botanika.vdu.lt/ivykiai/36456",
+      "date": "Sezoninis",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Mokymai gyventojams",
-      "url": "https://kaunobiblioteka.lt/paslaugos/mokymai-gyventojams",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
+      "title": "2026 03 30\nBundančios gamtos stovykla\n  2026 m. kovo 30 – balandžio 3 d. Pavasaris Botanikos sode prasideda anksčiau. O šiemet kviečiame vaikus jį patirti iš arti – pavasario atostogų metu tyrinėkime, kurkime, judėkime ir klausykimės bundančios gamtos kartu! Stovykla skirta 7–11 metų vaikams. ...\nPLAČIAU",
+      "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
+      "date": "Sezoninis",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Neformalusis vaikų švietimas",
-      "url": "https://kaunobiblioteka.lt/paslaugos/neformalusis-vaiku-svietimas",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Viešoji interneto prieiga",
-      "url": "https://kaunobiblioteka.lt/paslaugos/viesoji-interneto-prieiga",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Pabėgimo kambarys",
-      "url": "https://kaunobiblioteka.lt/uzduociu-kambarys",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Žydų paveldo Kaune žemėlapis",
-      "url": "https://kaunobiblioteka.lt/kaunozydai/",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Tarpbibliotekinis abonementas",
-      "url": "https://kaunobiblioteka.lt/paslaugos/tarpbibliotekinis-abonementas",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
+      "title": "2026 03 25\nSEMINARAS\nTeorinis-praktinis genėjimo seminaras su atestuotu arboristu Leonardu Mekioniu, kurio metu bus demonstruojamas vaismedžių genėjimas, supažindinama su genėjimo darbo įrankiais.\nPLAČIAU",
+      "url": "https://botanika.vdu.lt/ivykiai/seminaras-9",
+      "date": "Sezoninis",
+      "source": "Botanikos sodas"
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Edukacija CIRKE su Kultūros pasu",
-      "date": "2026-03-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-cirke-su-kulturos-pasu-2026-03-12",
-      "source": "Kaunas Pilnas"
-    },
-    {
-      "title": "R. Vaicekausko knygos „Eglė žaislų karalienė“ pristatymas",
-      "date": "2026-03-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/r-vaicekausko-knygos-egle-zaislu-karaliene-pristatymas-2026-03-12",
-      "source": "Kaunas Pilnas"
-    },
-    {
-      "title": "Kviečiame į parodos ir knygos pristatymą!",
-      "date": "2026-03-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvieciame-i-parodos-ir-knygos-pristatyma-2026-03-12",
-      "source": "Kaunas Pilnas"
-    },
-    {
-      "title": "Jubiliejinis vakaras, skirtas Sofijai Čiurlionienei-Kymantaitei",
-      "date": "2026-03-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jubiliejinis-vakaras-skirtas-sofijai-ciurlionienei-kymantaitei-2026-03-12",
-      "source": "Kaunas Pilnas"
-    },
     {
       "title": "Edukacija CIRKE su Kultūros pasu",
       "date": "2026-03-12",
@@ -316,6 +268,30 @@
       "title": "Linos Vėželienės-Dirmotės knygos „Laiškai prie kavos“ pristatymas",
       "date": "2026-03-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/linos-vezelienes-dirmotes-knygos-laiskai-prie-kavos-pristatymas-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Agnės Jonkutės parodos „Judanti Žemė yra vanduo“ atidarymas",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/agnes-jonkutes-parodos-judanti-zeme-yra-vanduo-atidarymas-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Andrėjos Puskunigytės ir Saulės Šmidtaitės parodos „Atoslūgis“ atidarymas",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/andrejos-puskunigytes-ir-saules-smidtaites-parodos-atoslugis-atidarymas-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "OLÉ!- Flamenko ir Lotynų Amerikos ritmai",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ol-flamenko-ir-lotynu-amerikos-ritmai-2026-03-12",
+      "source": "Kaunas Pilnas"
+    },
+    {
+      "title": "Moteris su akmeniu burnoje (N-16)",
+      "date": "2026-03-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/moteris-su-akmeniu-burnoje-n-16-2026-03-12",
       "source": "Kaunas Pilnas"
     }
   ],
