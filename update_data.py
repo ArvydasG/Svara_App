@@ -180,8 +180,14 @@ def scrape():
                     if iso < today_str:
                         continue
 
-                    # Pavadinimas
-                    title = a.get_text(strip=True)
+                    # Pavadinimas – ištraukiame tekstą iš <h3> žymės, esančios <a> viduje (švarus pavadinimas)
+                    h3_tag = a.find('h3')
+                    if h3_tag:
+                        title = h3_tag.get_text(strip=True)
+                    else:
+                        # Fallback, jei h3 nėra (nors turėtų būti)
+                        title = a.get_text(strip=True)
+                    
                     if not title or len(title) < 5: continue
                     if any(x in title for x in ["Pranešk", "Organizuoji", "Partneris", "Filtravimas"]): continue
 
