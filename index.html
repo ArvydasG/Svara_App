@@ -849,6 +849,19 @@
 
         <!-- Content -->
         <div id="content" class="hidden">
+            <div id="next-pickup-hero">
+                <div class="days-counter" id="hero-counter">
+                    <div class="days-label" id="hero-days-prefix"></div>
+                    <div class="days-number" id="hero-days">–</div>
+                    <div class="days-label" id="hero-days-label">...</div>
+                </div>
+                <div class="next-info">
+                    <h2 id="hero-title">Kitas išvežimas</h2>
+                    <div class="next-date" id="hero-date"></div>
+                    <div class="next-type-badges" id="hero-badges"></div>
+                </div>
+            </div>
+
             <div id="aqi-widget" class="hidden"></div>
 
             <div class="holiday-section hidden">
@@ -897,22 +910,10 @@
                 </div>
             </div>
 
-            <div id="next-pickup-hero">
-                <div class="days-counter" id="hero-counter">
-                    <div class="days-label" id="hero-days-prefix"></div>
-                    <div class="days-number" id="hero-days">–</div>
-                    <div class="days-label" id="hero-days-label">...</div>
-                </div>
-                <div class="next-info">
-                    <h2 id="hero-title">Kitas išvežimas</h2>
-                    <div class="next-date" id="hero-date"></div>
-                    <div class="next-type-badges" id="hero-badges"></div>
-                </div>
-            </div>
 
             <div class="schedule-section" id="schedule-wrapper">
                 <div class="collapsible-header" onclick="toggleSchedule()">
-                    <div class="section-title">Visi artimiausi išvežimai</div>
+                    <div class="section-title">Artimiausi šiukšlių išvežimai</div>
                     <span class="toggle-icon">▼</span>
                 </div>
                 <div id="schedule-content" class="collapsible-content">
