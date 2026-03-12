@@ -262,13 +262,6 @@ function renderWorks(works) {
         </div>
     `).join('');
     wrapper.classList.remove('hidden');
-    
-    // Pagal nutylėjimą išskleidžiame, kad vartotojas matytų informaciją
-    const content = document.getElementById('works-content');
-    if (wrapper && content) {
-        wrapper.classList.add('expanded');
-        content.classList.add('expanded');
-    }
 }
 
 let kaunasAllEvents = [];
@@ -401,10 +394,11 @@ function renderEvents(events, type = 'aleksotas') {
 
 function renderNews(news) {
     const container = document.getElementById('news-container');
-    if (!container) return;
+    const wrapper = document.getElementById('news-wrapper');
+    if (!container || !wrapper) return;
 
     if (!news || news.length === 0) {
-        container.parentElement.classList.add('hidden');
+        wrapper.classList.add('hidden');
         return;
     }
 
@@ -564,6 +558,18 @@ function toggleKaunasEvents() {
 function toggleWorks() {
     const wrapper = document.getElementById('works-wrapper');
     const content = document.getElementById('works-content');
+    if (wrapper.classList.contains('expanded')) {
+        wrapper.classList.remove('expanded');
+        content.classList.remove('expanded');
+    } else {
+        wrapper.classList.add('expanded');
+        content.classList.add('expanded');
+    }
+}
+
+function toggleNews() {
+    const wrapper = document.getElementById('news-wrapper');
+    const content = document.getElementById('news-content');
     if (wrapper.classList.contains('expanded')) {
         wrapper.classList.remove('expanded');
         content.classList.remove('expanded');

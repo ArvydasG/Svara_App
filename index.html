@@ -62,8 +62,8 @@
             --surface-hover: rgba(31, 41, 55, 0.85);
             --border: rgba(255, 255, 255, 0.08);
             --border-hover: rgba(108, 99, 255, 0.3);
-            --accent: #6366f1;
-            --accent-glow: rgba(99, 102, 241, 0.4);
+            --accent: #f59e0b;
+            --accent-glow: rgba(245, 158, 11, 0.4);
             --text: #f8fafc;
             --text-dim: #94a3b8;
             --radius-lg: 24px;
@@ -348,9 +348,6 @@
         }
 
         /* Holiday Styles */
-        .holiday-section {
-            margin-bottom: 2rem;
-        }
 
         #holidays-container {
             display: flex;
@@ -399,8 +396,8 @@
         }
 
         /* Works Styles */
-        .works-section {
-            margin-bottom: 2.5rem;
+        .works-section, .events-section, .news-section, .holiday-section {
+            margin-bottom: 1.25rem;
         }
 
         #works-container {
@@ -410,8 +407,8 @@
         }
 
         .work-card {
-            background: rgba(59, 130, 246, 0.08);
-            border: 1px solid rgba(59, 130, 246, 0.15);
+            background: rgba(245, 158, 11, 0.1);
+            border: 1px solid rgba(245, 158, 11, 0.2);
             padding: 1rem 1.25rem;
             border-radius: 16px;
             display: flex;
@@ -422,14 +419,14 @@
         }
 
         .work-card:hover {
-            background: rgba(59, 130, 246, 0.12);
-            border-color: rgba(59, 130, 246, 0.25);
+            background: rgba(245, 158, 11, 0.15);
+            border-color: rgba(245, 158, 11, 0.3);
             transform: translateX(4px);
         }
 
         .work-icon {
             font-size: 1.5rem;
-            background: rgba(59, 130, 246, 0.1);
+            background: rgba(245, 158, 11, 0.1);
             width: 44px;
             height: 44px;
             display: flex;
@@ -467,13 +464,13 @@
         }
 
         .status-active {
-            background: rgba(16, 185, 129, 0.1);
-            color: #10b981;
+            background: rgba(245, 158, 11, 0.1);
+            color: #f59e0b;
         }
 
         .status-planned {
-            background: rgba(59, 130, 246, 0.1);
-            color: #3b82f6;
+            background: rgba(245, 158, 11, 0.05);
+            color: var(--text-dim);
         }
 
         .work-desc {
@@ -494,10 +491,6 @@
             font-weight: 500;
         }
 
-        /* News Styles */
-        .news-section {
-            margin-bottom: 2.5rem;
-        }
 
         .news-card {
             display: block;
@@ -541,8 +534,8 @@
 
         .event-card {
             display: flex;
-            background: rgba(255, 255, 255, 0.04);
-            border: 1px solid rgba(255, 255, 255, 0.08);
+            background: rgba(245, 158, 11, 0.1);
+            border: 1px solid rgba(245, 158, 11, 0.2);
             border-radius: 16px;
             margin-bottom: 0.75rem;
             overflow: hidden;
@@ -551,8 +544,8 @@
         }
 
         .event-card:hover {
-            background: rgba(255, 255, 255, 0.07);
-            border-color: rgba(255, 255, 255, 0.15);
+            background: rgba(245, 158, 11, 0.15);
+            border-color: rgba(245, 158, 11, 0.3);
             transform: translateX(4px);
         }
 
@@ -576,7 +569,7 @@
             font-size: 0.7rem;
             font-weight: 600;
             text-align: center;
-            color: var(--primary);
+            color: #f59e0b;
         }
 
         .event-info {
@@ -645,15 +638,16 @@
         }
 
         .cat-btn:hover {
-            background: rgba(99, 102, 241, 0.15);
-            border-color: rgba(99, 102, 241, 0.3);
+            background: rgba(245, 158, 11, 0.15);
+            border-color: rgba(245, 158, 11, 0.3);
             color: var(--text);
         }
 
         .cat-btn.active {
             background: var(--accent);
             border-color: var(--accent);
-            color: white;
+            color: #000;
+            font-weight: 800;
             box-shadow: 0 4px 12px -4px var(--accent-glow);
         }
 
@@ -664,7 +658,7 @@
             justify-content: space-between;
             cursor: pointer;
             padding: 0.5rem;
-            margin-bottom: 1rem;
+            margin-bottom: 0.5rem;
             border-radius: 8px;
             transition: background 0.2s ease;
         }
@@ -718,16 +712,16 @@
         }
 
         .aqi-excellent {
-            background: rgba(16, 185, 129, 0.1);
-            border-color: rgba(16, 185, 129, 0.2);
+            background: rgba(245, 158, 11, 0.1);
+            border-color: rgba(245, 158, 11, 0.2);
         }
 
         .aqi-excellent:hover {
-            background: rgba(16, 185, 129, 0.15);
+            background: rgba(245, 158, 11, 0.15);
         }
 
         .aqi-excellent .aqi-status {
-            color: #10b981;
+            color: #f59e0b;
         }
 
         .aqi-good {
@@ -744,16 +738,16 @@
         }
 
         .aqi-moderate {
-            background: rgba(99, 102, 241, 0.1);
-            border-color: rgba(99, 102, 241, 0.2);
+            background: rgba(245, 158, 11, 0.1);
+            border-color: rgba(245, 158, 11, 0.2);
         }
 
         .aqi-moderate:hover {
-            background: rgba(99, 102, 241, 0.15);
+            background: rgba(245, 158, 11, 0.15);
         }
 
         .aqi-moderate .aqi-status {
-            color: var(--accent);
+            color: #f59e0b;
         }
 
         .aqi-header {
@@ -862,12 +856,12 @@
                 <div id="holidays-container"></div>
             </div>
 
-            <div class="works-section hidden expanded" id="works-wrapper">
+            <div class="works-section hidden" id="works-wrapper">
                 <div class="collapsible-header" onclick="toggleWorks()">
                     <div class="section-title">🏗️ Vykdomi darbai (2 Km atstumu)</div>
                     <span class="toggle-icon">▼</span>
                 </div>
-                <div id="works-content" class="collapsible-content expanded">
+                <div id="works-content" class="collapsible-content">
                     <div id="works-container"></div>
                 </div>
             </div>
@@ -893,9 +887,14 @@
                 </div>
             </div>
 
-            <div class="news-section hidden">
-                <div class="section-title">Aleksoto seniūnijos naujienos</div>
-                <div id="news-container"></div>
+            <div class="news-section hidden" id="news-wrapper">
+                <div class="collapsible-header" onclick="toggleNews()">
+                    <div class="section-title">Aleksoto seniūnijos naujienos</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div id="news-content" class="collapsible-content">
+                    <div id="news-container"></div>
+                </div>
             </div>
 
             <div id="next-pickup-hero">
