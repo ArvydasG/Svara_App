@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-13",
+  "updated_at": "2026-03-14",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -196,6 +196,12 @@
     }
   ],
   "events": [
+    {
+      "title": "",
+      "url": "https://botanika.vdu.lt/ivykiai/modernus-darzas",
+      "date": "2026-04-11",
+      "source": "Botanikos sodas"
+    },
     {
       "title": "Bundančios gamtos stovykla",
       "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
@@ -221,12 +227,6 @@
       "source": "Biblioteka"
     },
     {
-      "title": "Linos Vėželienės-Dirmotės knygos „Laiškai prie kavos“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/linos-vezelienes-dirmotes-knygos-laiskai-prie-kavos-pristatymas",
-      "date": "2026-03-12",
-      "source": "Biblioteka"
-    },
-    {
       "title": "Kūrybinės dirbtuvės vaikams „Darbeliai iš modelino“",
       "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-darbeliai-is-modelino",
       "date": "2026-03-18",
@@ -246,34 +246,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Galerija kuria bendruomenę. Galerijos „101“ 18-asis gimtadienis",
-      "date": "2026-03-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/galerija-kuria-bendruomene-galerijos-101-18-asis-gimtadienis-2026-03-13",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Sofija Čiurlionienė-Kymantaitė – kultūrinio lietuvių sąjūdžio aktyvistė",
-      "date": "2026-03-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sofija-ciurlioniene-kymantaite-kulturinio-lietuviu-sajudzio-aktyviste-2026-03-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Riedučių renginys visiems, penktadienį",
-      "date": "2026-03-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rieduciu-renginys-visiems-penktadieni-2026-03-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "ŠEIMŲ ŠEŠTADIENIS SPORTO MUZIEJUJE, KOVO 14 D.",
-      "date": "2026-03-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seimu-sestadienis-sporto-muziejuje-kovo-14-d-2026-03-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Šeštadieniai šeimai | Velykų belaukiant Gruodžių namuose",
       "date": "2026-03-14",
@@ -597,9 +569,9 @@
       "category": "Literatūra"
     },
     {
-      "title": "Lėtos, ritualinės kultūros ciklas „Kvėpuojanti biblioteka“",
+      "title": "Lėtos, ritualinės kultūros ciklas „Kvėpuojanti biblioteka“ (registracija sustabdyta)",
       "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/letos-ritualines-kulturos-ciklas-kvepuojanti-biblioteka-2026-03-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/letos-ritualines-kulturos-ciklas-kvepuojanti-biblioteka-registracija-sustabdyta-2026-03-20",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -749,6 +721,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ilonos-skujaites-paskaita-kotrynos-jogailaites-pedsakai-svedijoje-2026-03-23",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Rositos Kanapeckaitės knygos „Realybės vadovėlis“ pristatymas",
+      "date": "2026-03-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rositos-kanapeckaites-knygos-realybes-vadovelis-pristatymas-2026-03-23",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "PERKELIAMAS iš 03-11 į 03-23. Kovo 11 d. minėjimas. „Thundertale“ koncertas",
@@ -945,10 +924,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/literaturines-arbateles-balio-sruogos-seimyniniai-santykiai-2026-03-28",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Šiuolaikinio cirkos spektaklis IKARAS",
+      "date": "2026-03-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siuolaikinio-cirkos-spektaklis-ikaras-2026-03-28",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Tarptautinė teatro diena ir mėgėjų teatro „SIENA“ kūrybinės veiklos 20-metis",
+      "date": "2026-03-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautine-teatro-diena-ir-megeju-teatro-siena-kurybines-veiklos-20-metis-2026-03-28",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "TARP TYLOS IR UGNIES",
+      "date": "2026-03-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarp-tylos-ir-ugnies-2026-03-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 40,
+    "index": 30,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
