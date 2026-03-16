@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-15",
+  "updated_at": "2026-03-16",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -246,27 +246,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Studentų grafinių piešinių paroda „Nuo vandenyno gelmių iki graikų mitologijos“",
-      "date": "2026-03-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/studentu-grafiniu-piesiniu-paroda-nuo-vandenyno-gelmiu-iki-graiku-mitologijos-2026-03-15",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "XI RESPUBLIKINIS VIOLONČELĖS FESTIVALIS „POPULIARINAME VIOLONČELĖS MUZIKĄ“",
-      "date": "2026-03-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/xi-respublikinis-violonceles-festivalis-populiariname-violonceles-muzika-2026-03-15",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Piknikas kine: „Džiulė ir Džulija“ | KINO PAVASARIS",
-      "date": "2026-03-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/piknikas-kine-dziule-ir-dzulija-kino-pavasaris-2026-03-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "Susitikimas su motokeliautoju Vytautu Jakelaičiu: kelionė iš Lietuvos į Graikiją",
       "date": "2026-03-16",
@@ -926,6 +905,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Tomas Kregždė personalinė paroda „(DE)KONSTRUOTA TAPATYBĖ\"",
+      "date": "2026-04-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tomas-kregzde-personaline-paroda-de-konstruota-tapatybe-2026-04-02",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Spektaklis I Pažadink savo vidinę deivę",
       "date": "2026-04-02",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-i-pazadink-savo-vidine-deive-2026-04-02",
@@ -945,12 +931,26 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/2026-m-shotokan-karate-turnyras-meistriskumo-kelias-2026-04-04",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Šokio spektaklis ,,Anksti rytą...''",
+      "date": "2026-04-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokio-spektaklis-anksti-ryta-2026-04-07",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Spektaklis ARTIMOS",
+      "date": "2026-04-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-artimos-2026-04-08",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 25,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 20,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
