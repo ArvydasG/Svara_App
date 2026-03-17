@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-16",
+  "updated_at": "2026-03-17",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -203,7 +203,7 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Bundančios gamtos stovykla",
+      "title": "Pavasario stovykla",
       "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
       "date": "2026-03-30",
       "source": "Botanikos sodas"
@@ -246,13 +246,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Susitikimas su motokeliautoju Vytautu Jakelaičiu: kelionė iš Lietuvos į Graikiją",
-      "date": "2026-03-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-motokeliautoju-vytautu-jakelaiciu-kelione-is-lietuvos-i-graikija-2026-03-16",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "Kūrybinė edukacija \"Mano medalis\" Lietuvos sporto muziejuje",
       "date": "2026-03-17",
@@ -313,6 +306,20 @@
       "title": "Mažylių trečiadienis | Spalvoti ledukai – tyrinėjame spalvas ir pojūčius",
       "date": "2026-03-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-spalvoti-ledukai-tyrinejame-spalvas-ir-pojucius-2026-03-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "SMK EcoVibe - tarptautinis tarpdisciplininis renginys",
+      "date": "2026-03-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/smk-ecovibe-tarptautinis-tarpdisciplininis-renginys-2026-03-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Avraham Kan tapybos parodos „SUGRĮŽIMAI“ atidarymas",
+      "date": "2026-03-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/avraham-kan-tapybos-parodos-sugrizimai-atidarymas-2026-03-18",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -413,6 +420,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/potyriai-trys-povilo-ventos-kuprio-smulkiosios-prozos-dvitomio-pristatymas-2026-03-19",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Improvizuotos komedijos šou TRYS VIENAME",
+      "date": "2026-03-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizuotos-komedijos-sou-trys-viename-2026-03-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "KINO PAVASARIS x Improdimensija: BEKELE ft. Liudas Mockūnas.",
@@ -553,6 +567,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/su-benjaminu-gorbulskiu-gyventi-nuostabu-2026-03-21",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Impro Kaunas 9-ojo gimtadienio šventė",
+      "date": "2026-03-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-kaunas-9-ojo-gimtadienio-svente-2026-03-21",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     },
     {
       "title": "Velykinių kiaušinių marginimas senąja technika",
@@ -716,6 +737,13 @@
       "category": "Literatūra"
     },
     {
+      "title": "IMPRO džemas Kauno meninkų namuose (komedijos vakaras)",
+      "date": "2026-03-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-kauno-meninku-namuose-komedijos-vakaras-2026-03-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Spektaklis „Plieninės magnolijos“",
       "date": "2026-03-26",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-plienines-magnolijos-2026-03-26",
@@ -737,9 +765,9 @@
       "category": "Kinas"
     },
     {
-      "title": "Psichologės dr. Evelinos Savickaitės-Kazlauskės paskaita „Ritualai: psichologinio atsparumo paieškos“",
+      "title": "Psichologės dr. Evelinos Savickaitės-Kazlauskės paskaita „Ritualai: psichologinio atsparumo paieškos“ (registracija sustabdyta)",
       "date": "2026-03-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/psichologes-dr-evelinos-savickaites-kazlauskes-paskaita-ritualai-psichologinio-atsparumo-paieskos-2026-03-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/psichologes-dr-evelinos-savickaites-kazlauskes-paskaita-ritualai-psichologinio-atsparumo-paieskos-registracija-sustabdyta-2026-03-27",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -905,52 +933,24 @@
       "category": "Kiti"
     },
     {
+      "title": "NICHE 2026 ⑉⑇ Arturas Bumšteinas, Katarsis4",
+      "date": "2026-04-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/niche-2026-arturas-bumsteinas-katarsis4-2026-04-01",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Tomas Kregždė personalinė paroda „(DE)KONSTRUOTA TAPATYBĖ\"",
       "date": "2026-04-02",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tomas-kregzde-personaline-paroda-de-konstruota-tapatybe-2026-04-02",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
-    },
-    {
-      "title": "Spektaklis I Pažadink savo vidinę deivę",
-      "date": "2026-04-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-i-pazadink-savo-vidine-deive-2026-04-02",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Gintauto Mažeikio kūrinio „Lilimų knyga II. Apsėdimai“ pristatymas",
-      "date": "2026-04-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gintauto-mazeikio-kurinio-lilimu-knyga-ii-apsedimai-pristatymas-2026-04-03",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "2026 m. Shotokan karatė turnyras „Meistriškumo kelias“",
-      "date": "2026-04-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/2026-m-shotokan-karate-turnyras-meistriskumo-kelias-2026-04-04",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Šokio spektaklis ,,Anksti rytą...''",
-      "date": "2026-04-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokio-spektaklis-anksti-ryta-2026-04-07",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Spektaklis ARTIMOS",
-      "date": "2026-04-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-artimos-2026-04-08",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 20,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 24,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
