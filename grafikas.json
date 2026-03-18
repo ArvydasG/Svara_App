@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-17",
+  "updated_at": "2026-03-18",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -247,60 +247,11 @@
   ],
   "kaunas_events": [
     {
-      "title": "Kūrybinė edukacija \"Mano medalis\" Lietuvos sporto muziejuje",
-      "date": "2026-03-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybine-edukacija-mano-medalis-lietuvos-sporto-muziejuje-2026-03-17",
+      "title": "Edukacija „Greičiau, aukščiau, tvirčiau, kartu“ (lot. „Citius, altius, fortius, communis)“ / 5–10 m. vaikams",
+      "date": "2026-03-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-greiciau-auksciau-tvirciau-kartu-lot-citius-altius-fortius-communis-510-m-vaikams-2026-03-18",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
-    },
-    {
-      "title": "Edukacija „Skirtukas laisvam žodžiui“",
-      "date": "2026-03-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-skirtukas-laisvam-zodziui-2026-03-17",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Teatralizuota koncertinė programa „Vytauto Klovos kūrinių pastišas“",
-      "date": "2026-03-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatralizuota-koncertine-programa-vytauto-klovos-kuriniu-pastisas-2026-03-17",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Violetos Šoblinskaitės-Aleksos knygos „Edipo dukterys“ pristatymas",
-      "date": "2026-03-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/violetos-soblinskaites-aleksos-knygos-edipo-dukterys-pristatymas-2026-03-17",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Paskaita „Gubernijos laikų Kaunas“",
-      "date": "2026-03-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-gubernijos-laiku-kaunas-2026-03-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Poezijos vakaras Ąžuolyno bibliotekoje: Indrė Valantinaitė kviečia į kelionę iki pat širdies",
-      "date": "2026-03-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/poezijos-vakaras-azuolyno-bibliotekoje-indre-valantinaite-kviecia-i-kelione-iki-pat-sirdies-2026-03-17",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Edukacija: Tradicinių verbų gamyba",
-      "date": "2026-03-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-tradiciniu-verbu-gamyba-2026-03-17",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Riedučių renginys visiems, antradienį",
-      "date": "2026-03-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rieduciu-renginys-visiems-antradieni-2026-03-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     },
     {
       "title": "Mažylių trečiadienis | Spalvoti ledukai – tyrinėjame spalvas ir pojūčius",
@@ -443,6 +394,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Penktadienio pietums – turas po parodą",
+      "date": "2026-03-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/penktadienio-pietums-turas-po-paroda-2026-03-20",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Edukacija „Mėlynas pavasaris: saulės ir žolynų atspaudas“",
       "date": "2026-03-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-melynas-pavasaris-saules-ir-zolynu-atspaudas-2026-03-20",
@@ -490,13 +448,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rieduciu-renginys-visiems-penktadieni-2026-03-20",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "KINO PAVASARIS x Pusės dainos festivalis",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kino-pavasaris-x-puses-dainos-festivalis-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
     },
     {
       "title": "„Žalias paukštis“ | Skaitymų ciklas „Knygų kalendorius“",
@@ -667,6 +618,13 @@
       "category": "Kiti"
     },
     {
+      "title": "„Susitikime bokso ringe“ (6–12 m. vaikams) Lietuvos sporto muziejuje",
+      "date": "2026-03-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikime-bokso-ringe-612-m-vaikams-lietuvos-sporto-muziejuje-2026-03-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Klubo „Pasibalbatuokim“ susitikimas",
       "date": "2026-03-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klubo-pasibalbatuokim-susitikimas-2026-03-25",
@@ -803,6 +761,13 @@
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-03-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-03-28",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija Galaunių namuose-muziejuje",
+      "date": "2026-03-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-galauniu-namuose-muziejuje-2026-03-28",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
     },
@@ -945,12 +910,47 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tomas-kregzde-personaline-paroda-de-konstruota-tapatybe-2026-04-02",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Spektaklis I Pažadink savo vidinę deivę",
+      "date": "2026-04-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-i-pazadink-savo-vidine-deive-2026-04-02",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Knygos „Sparnuotas kelias“ pristatymas",
+      "date": "2026-04-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-sparnuotas-kelias-pristatymas-2026-04-02",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Gintauto Mažeikio kūrinio „Lilimų knyga II. Apsėdimai“ pristatymas",
+      "date": "2026-04-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gintauto-mazeikio-kurinio-lilimu-knyga-ii-apsedimai-pristatymas-2026-04-03",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "2026 m. Shotokan karatė turnyras „Meistriškumo kelias“",
+      "date": "2026-04-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/2026-m-shotokan-karate-turnyras-meistriskumo-kelias-2026-04-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Improvizacijos pamokos Ąžuolyno bibliotekoje (nemokamai)",
+      "date": "2026-04-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-pamokos-azuolyno-bibliotekoje-nemokamai-2026-04-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 24,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 41,
+    "status": "Vidutinė",
+    "description": "Oro kokybė vidutinė, jautriems asmenims rekomenduojama riboti buvimą lauke.",
     "station": "Noreikiškės"
   }
 }
