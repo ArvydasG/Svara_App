@@ -73,7 +73,8 @@
         "2027-04-19",
         "2027-05-03",
         "2027-05-17",
-        "2027-05-31"
+        "2027-05-31",
+        "2027-06-14"
       ],
       "hasRealDates": true
     },
@@ -150,7 +151,8 @@
         "2027-04-19",
         "2027-05-03",
         "2027-05-17",
-        "2027-05-31"
+        "2027-05-31",
+        "2027-06-14"
       ],
       "hasRealDates": true
     },
@@ -173,7 +175,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-20",
+  "updated_at": "2026-03-21",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -221,9 +223,21 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Kūrybinės dirbtuvės „Verbų rišimas“",
-      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-verbu-risimas",
-      "date": "2026-03-26",
+      "title": "Kūrybinės dirbtuvės vaikams „Kuriu knygos skirtuką“",
+      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-kuriu-knygos-skirtuka",
+      "date": "2026-04-15",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Tomo Kregždės darbų paroda „(De)konstruota tapatybė“",
+      "url": "https://kaunobiblioteka.lt/tomo-kregzdes-darbu-paroda-dekonstruota-tapatybe-2",
+      "date": "2026-04-02",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
+      "date": "Aktualu",
       "source": "Biblioteka"
     },
     {
@@ -233,76 +247,13 @@
       "source": "Biblioteka"
     },
     {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-7",
-      "date": "Aktualu",
+      "title": "Kūrybinės dirbtuvės „Verbų rišimas“",
+      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-verbu-risimas",
+      "date": "2026-03-26",
       "source": "Biblioteka"
     }
   ],
   "kaunas_events": [
-    {
-      "title": "„Turnyras 4x4“ (12–16 m. vaikams) Lietuvos sporto muziejuje",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turnyras-4x4-1216-m-vaikams-lietuvos-sporto-muziejuje-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Penktadienio pietums – turas po parodą",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/penktadienio-pietums-turas-po-paroda-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Edukacija „Mėlynas pavasaris: saulės ir žolynų atspaudas“",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-melynas-pavasaris-saules-ir-zolynu-atspaudas-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Konferencija Kaune „TerraCREAToris“: kūrybos, vaizduotės ir dvasingumo dialogas",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/konferencija-kaune-terracreatoris-kurybos-vaizduotes-ir-dvasingumo-dialogas-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Seminaras PAVASARIO PAPROČIAI TRADICINĖJE IR ŠIUOLAIKINĖJE KULTŪROJE",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seminaras-pavasario-paprociai-tradicineje-ir-siuolaikineje-kulturoje-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Prano Šarpnickio knygos „Tarpukario Lietuva. Kai Kaunas skendo 100 kartų“ pristatymas",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/prano-sarpnickio-knygos-tarpukario-lietuva-kai-kaunas-skendo-100-kartu-pristatymas-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Lėtos, ritualinės kultūros ciklas „Kvėpuojanti biblioteka“ (registracija sustabdyta)",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/letos-ritualines-kulturos-ciklas-kvepuojanti-biblioteka-registracija-sustabdyta-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Jaunosios kartos AKUSTINIS MUZIKOS VAKARAS",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunosios-kartos-akustinis-muzikos-vakaras-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Riedučių renginys visiems, penktadienį",
-      "date": "2026-03-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rieduciu-renginys-visiems-penktadieni-2026-03-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "„Žalias paukštis“ | Skaitymų ciklas „Knygų kalendorius“",
       "date": "2026-03-21",
@@ -542,6 +493,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Jaunų grupių ir atlikėjų konkursas “HOGAS OPEN 2026”| GYVA ATRANKA #4",
+      "date": "2026-03-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunu-grupiu-ir-atlikeju-konkursas-hogas-open-2026-gyva-atranka-4-2026-03-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Šokio spektaklis ,, Prarasti prisiminimai ''",
       "date": "2026-03-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokio-spektaklis-prarasti-prisiminimai-1-2026-03-25",
@@ -575,6 +533,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meno-ir-muzikos-myletoju-klubas-meno-ritmu-2026-03-26",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Susitikimas su kūrėjais: „Renovacija“",
+      "date": "2026-03-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-kurejais-renovacija-2026-03-26",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
     },
     {
       "title": "ŠLOVINIMO GIESMĖ",
@@ -773,6 +738,13 @@
       "category": "Muzika"
     },
     {
+      "title": "KTU tautinio meno ansamblio „Nemunas“ koncertas „Vilties garsai“",
+      "date": "2026-03-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ktu-tautinio-meno-ansamblio-nemunas-koncertas-vilties-garsai-2026-03-29",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "OPERA (Revoliucijos) Giuseppe Verdi ir Richard Wagner kūriniai atliekami Kristinos Zmailaitės ir Edmundo Seiliaus.",
       "date": "2026-03-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/opera-revoliucijos-giuseppe-verdi-ir-richard-wagner-kuriniai-atliekami-kristinos-zmailaites-ir-edmundo-seiliaus-2026-03-29",
@@ -815,6 +787,13 @@
       "category": "Parodos"
     },
     {
+      "title": "TAU paskaita „Nugalėsim arba mirsim. Husarų reikšmė tarpukario Lietuvos karinėje ir visuomeninėje aplinkoje“",
+      "date": "2026-03-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tau-paskaita-nugalesim-arba-mirsim-husaru-reiksme-tarpukario-lietuvos-karineje-ir-visuomenineje-aplinkoje-2026-03-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Pasaka suaugusiems PITERIS PENAS | rež. K. Zajauskas",
       "date": "2026-03-31",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaka-suaugusiems-piteris-penas-rez-k-zajauskas-2026-03-31",
@@ -827,6 +806,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/slemas-sveciuojasi-azuolyno-bibliotekoje-2026-03-31",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Diskusiją su Andžej Pukšto ir Tomasz Błaszczak: Dėl ko lenkai ginčijasi prie Velykų stalo? Lenkijos vidaus ir užsienio politikos iššūkiai.",
+      "date": "2026-03-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusija-su-andzej-puksto-ir-tomasz-baszczak-del-ko-lenkai-gincijasi-prie-velyku-stalo-lenkijos-vidaus-ir-uzsienio-politikos-issukiai-2026-03-31",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     },
     {
       "title": "TRENKSMAS | Slemas #92",
@@ -885,6 +871,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Gabrieliaus Mackevičiaus darbų parodo „2D žmogus“ ir atidarymas",
+      "date": "2026-04-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabrieliaus-mackeviciaus-darbu-parodo-2d-zmogus-ir-atidarymas-2026-04-02",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Gintauto Mažeikio kūrinio „Lilimų knyga II. Apsėdimai“ pristatymas",
       "date": "2026-04-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gintauto-mazeikio-kurinio-lilimu-knyga-ii-apsedimai-pristatymas-2026-04-03",
@@ -939,12 +932,33 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/is-gyvenimo-parseliu-51-oji-kauno-rampa-2026-04-09",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "„TEISMO VALANDA“ │51-oji Kauno Rampa",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teismo-valanda-51-oji-kauno-rampa-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "KEISTI LAIKAI. „Literatūros savaitės“ klubo 4 sezono 5 susitikimas",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/keisti-laikai-literaturos-savaites-klubo-4-sezono-5-susitikimas-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "„RANDOR KVIT ARBA KAS GUDRESNIS?“ │51-oji Kauno Rampa",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/randor-kvit-arba-kas-gudresnis-51-oji-kauno-rampa-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 21,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 16,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
