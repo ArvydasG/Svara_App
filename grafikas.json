@@ -175,7 +175,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-21",
+  "updated_at": "2026-03-22",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -217,12 +217,6 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Laiminga paukščių diena Botanikos sode",
-      "url": "https://botanika.vdu.lt/ivykiai/laiminga-pauksciu-diena-botanikos-sode",
-      "date": "2026-03-21",
-      "source": "Botanikos sodas"
-    },
-    {
       "title": "Kūrybinės dirbtuvės vaikams „Kuriu knygos skirtuką“",
       "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-kuriu-knygos-skirtuka",
       "date": "2026-04-15",
@@ -254,97 +248,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "„Žalias paukštis“ | Skaitymų ciklas „Knygų kalendorius“",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zalias-paukstis-skaitymu-ciklas-knygu-kalendorius-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Pavasariškos kūrybinės dirbtuvės Galaunių namuose-muziejuje",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pavasariskos-kurybines-dirbtuves-galauniu-namuose-muziejuje-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Kauno Tado Ivanausko zoologijos muziejuje savaitgalio ekskursijos",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-tado-ivanausko-zoologijos-muziejuje-savaitgalio-ekskursijos-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kontaktinės improvizacijos seminarų ciklas su Aiste Jančiūte",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kontaktines-improvizacijos-seminaru-ciklas-su-aiste-janciute-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Pavasario fiesta Kameriniame CIRKE!",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pavasario-fiesta-kameriniame-cirke-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija „Gyvi namai“",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-gyvi-namai-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Vieno lito literatūrinės premijos įteikimas laureatui GVIDUI LATAKUI",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vieno-lito-literaturines-premijos-iteikimas-laureatui-gvidui-latakui-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 03.21 14:00",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-03-21-14-00-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Juozapinės",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/juozapines-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis I KVĖPAVIMAS",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-i-kvepavimas-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Su Benjaminu Gorbulskiu GYVENTI NUOSTABU!",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/su-benjaminu-gorbulskiu-gyventi-nuostabu-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Impro Kaunas 9-ojo gimtadienio šventė",
-      "date": "2026-03-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-kaunas-9-ojo-gimtadienio-svente-2026-03-21",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
     {
       "title": "Velykinių kiaušinių marginimas senąja technika",
       "date": "2026-03-22",
@@ -953,12 +856,103 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/randor-kvit-arba-kas-gudresnis-51-oji-kauno-rampa-2026-04-09",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "VISI F. SCHUBERTO VOKALINIAI CIKLAI: GULBĖS GIESMĖ",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/visi-f-schuberto-vokaliniai-ciklai-gulbes-giesme-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Kovo 11-oji Kaune 2026",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kovo-11-oji-kaune-2026-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Zitos Gaižauskaitės knygos „Paskui bėgantį takelį“ teatralizuotas pristatymas",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zitos-gaizauskaites-knygos-paskui-beganti-takeli-teatralizuotas-pristatymas-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "„MEŠKIUKAS GO“ │51-oji Kauno Rampa",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meskiukas-go-51-oji-kauno-rampa-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Teatro dirbtuvės │51-oji Kauno Rampa",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatro-dirbtuves-51-oji-kauno-rampa-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "NACIONALINĖS DARŽOVĖS (N-16)",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nacionalines-darzoves-n-16-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Donato Brandišausko paskaita „Gyvenimas kartu su plėšrūnais Rytų Sibire: vilkai, lokiai ir elnių augintojai“",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/donato-brandisausko-paskaita-gyvenimas-kartu-su-plesrunais-rytu-sibire-vilkai-lokiai-ir-elniu-augintojai-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "„PAVĖLAVAU“ │51-oji Kauno Rampa",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pavelavau-51-oji-kauno-rampa-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "„MAŽASIS PRINCAS“ │51-oji Kauno Rampa",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazasis-princas-51-oji-kauno-rampa-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Etiudų spektaklis „ARBATOS IR SAUSAINIŲ“ │51-oji Kauno Rampa",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/etiudu-spektaklis-arbatos-ir-sausainiu-51-oji-kauno-rampa-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Balandžio 11 d. 15:30 val. Ekskursija: IX fortas. TUNELIAIS. Kelionė laiku.",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/balandzio-11-d-15-30-val-ekskursija-ix-fortas-tuneliais-kelione-laiku-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 16,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 23,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
