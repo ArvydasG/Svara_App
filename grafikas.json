@@ -175,7 +175,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-22",
+  "updated_at": "2026-03-23",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -249,62 +249,6 @@
   ],
   "kaunas_events": [
     {
-      "title": "Velykinių kiaušinių marginimas senąja technika",
-      "date": "2026-03-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velykiniu-kiausiniu-marginimas-senaja-technika-2026-03-22",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Teminė ekskursija \"Sutikau Čiurlionį Kaune\"",
-      "date": "2026-03-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/temine-ekskursija-sutikau-ciurlioni-kaune-2026-03-22",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Spektaklis APIE DRAUGYSTĘ (N-4)",
-      "date": "2026-03-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-apie-draugyste-n-4-2026-03-22",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Muzikinė popietė visai šeimai DVIEJŲ VEIKSMŲ OPERA VAIKAMS „BATUOTAS KATINAS“",
-      "date": "2026-03-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikine-popiete-visai-seimai-dvieju-veiksmu-opera-vaikams-batuotas-katinas-2026-03-22",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Kino pavasaris: ĮKVĖPK RAMYBĖS MIESTE",
-      "date": "2026-03-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kino-pavasaris-ikvepk-ramybes-mieste-2026-03-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Pavasario fiesta Kameriniame CIRKE!",
-      "date": "2026-03-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pavasario-fiesta-kameriniame-cirke-2026-03-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Edukacinis užsiėmimas suaugusiesiems „Eilėraščiai, virtę dainomis“",
-      "date": "2026-03-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-suaugusiesiems-eilerasciai-virte-dainomis-2026-03-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "ARFOS IR FORTEPIJONO IMPRESIJOS",
-      "date": "2026-03-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/arfos-ir-fortepijono-impresijos-2026-03-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
       "title": "Ilonos Skujaitės paskaita „Kotrynos Jogailaitės pėdsakai Švedijoje“",
       "date": "2026-03-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ilonos-skujaites-paskaita-kotrynos-jogailaites-pedsakai-svedijoje-2026-03-23",
@@ -345,13 +289,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-kauno-vinco-kudirkos-viesojoje-bibliotekoje-is-gelmiu-2026-03-24",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
-    },
-    {
-      "title": "Riedučių renginys visiems, antradienį",
-      "date": "2026-03-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rieduciu-renginys-visiems-antradieni-2026-03-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     },
     {
       "title": "„Susitikime bokso ringe“ (6–12 m. vaikams) Lietuvos sporto muziejuje",
@@ -646,6 +583,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ktu-tautinio-meno-ansamblio-nemunas-koncertas-vilties-garsai-2026-03-29",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Velykinės šokolado dirbtuvės",
+      "date": "2026-03-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velykines-sokolado-dirbtuves-2026-03-29",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     },
     {
       "title": "OPERA (Revoliucijos) Giuseppe Verdi ir Richard Wagner kūriniai atliekami Kristinos Zmailaitės ir Edmundo Seiliaus.",
@@ -947,10 +891,66 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/balandzio-11-d-15-30-val-ekskursija-ix-fortas-tuneliais-kelione-laiku-2026-04-11",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "„UŽ TAVE TO PADARYT NEGALIU“ │51-oji Kauno Rampa",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/uz-tave-to-padaryt-negaliu-51-oji-kauno-rampa-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Apie meilę, viltį ir gyvenimą: susitikimas su kunigu Benu Lyriu",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apie-meile-vilti-ir-gyvenima-susitikimas-su-kunigu-benu-lyriu-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "NEMATOMO LAIKO MODUSAI: Sergejaus Okruško fortepijono rečitalis",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nematomo-laiko-modusai-sergejaus-okrusko-fortepijono-recitalis-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Spektaklis vaikams 7 RATAI",
+      "date": "2026-04-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vaikams-7-ratai-2026-04-12",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "MEILĖS ĮKVĖPTI",
+      "date": "2026-04-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meiles-ikvepti-2026-04-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Lietuviškų šokių vakaras",
+      "date": "2026-04-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisku-sokiu-vakaras-2026-04-13",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "LNDT gastrolės Kaune: STAND-UP'AS PRASMEI IR BEPRASMYBEI, rež. Eglė Švedkauskaitė",
+      "date": "2026-04-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lndt-gastroles-kaune-stand-up-as-prasmei-ir-beprasmybei-rez-egle-svedkauskaite-2026-04-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Spektaklis VĖJO PRIGIMTIS (rež. Gildas Aleksa)",
+      "date": "2026-04-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vejo-prigimtis-rez-gildas-aleksa-2026-04-15",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 23,
+    "index": 29,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
