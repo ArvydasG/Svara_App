@@ -42,7 +42,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501 0,14",
       "dates": [
-        "2026-03-23",
         "2026-04-06",
         "2026-04-20",
         "2026-05-04",
@@ -120,7 +119,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627 0,14",
       "dates": [
-        "2026-03-23",
         "2026-04-06",
         "2026-04-20",
         "2026-05-04",
@@ -175,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-23",
+  "updated_at": "2026-03-24",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -198,6 +196,12 @@
     }
   ],
   "events": [
+    {
+      "title": "MUGĖ",
+      "url": "https://botanika.vdu.lt/ivykiai/muge-7",
+      "date": "2026-04-23",
+      "source": "Botanikos sodas"
+    },
     {
       "title": "",
       "url": "https://botanika.vdu.lt/ivykiai/modernus-darzas",
@@ -223,12 +227,6 @@
       "source": "Biblioteka"
     },
     {
-      "title": "Tomo Kregždės darbų paroda „(De)konstruota tapatybė“",
-      "url": "https://kaunobiblioteka.lt/tomo-kregzdes-darbu-paroda-dekonstruota-tapatybe-2",
-      "date": "2026-04-02",
-      "source": "Biblioteka"
-    },
-    {
       "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
       "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
       "date": "Aktualu",
@@ -248,34 +246,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ilonos Skujaitės paskaita „Kotrynos Jogailaitės pėdsakai Švedijoje“",
-      "date": "2026-03-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ilonos-skujaites-paskaita-kotrynos-jogailaites-pedsakai-svedijoje-2026-03-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Rositos Kanapeckaitės knygos „Realybės vadovėlis“ pristatymas",
-      "date": "2026-03-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rositos-kanapeckaites-knygos-realybes-vadovelis-pristatymas-2026-03-23",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "PERKELIAMAS iš 03-11 į 03-23. Kovo 11 d. minėjimas. „Thundertale“ koncertas",
-      "date": "2026-03-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/perkeliamas-is-03-11-i-03-23-kovo-11-d-minejimas-thundertale-koncertas-2026-03-23",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "ETNO dirbtuvėlės visai šeimai: velykaičių marginimas",
-      "date": "2026-03-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/etno-dirbtuveles-visai-seimai-velykaiciu-marginimas-2026-03-23",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
     {
       "title": "Margučių marginimas bičių vašku",
       "date": "2026-03-24",
@@ -515,6 +485,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Apyrankių dirbtuvės „Upės mitai“",
+      "date": "2026-03-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apyrankiu-dirbtuves-upes-mitai-2026-03-28",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "KAUNO POŽEMIAI. EKSKURSIJA kovo 28 d. 14:15",
       "date": "2026-03-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-pozemiai-ekskursija-kovo-28-d-14-15-2026-03-28",
@@ -550,11 +527,25 @@
       "category": "Scena"
     },
     {
+      "title": "Kariljono varpų muzikos koncertas „Gamtos varpai“",
+      "date": "2026-03-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kariljono-varpu-muzikos-koncertas-gamtos-varpai-2026-03-28",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Teatralizuota ekskursija \"Pasimatymas su tarpukario Kaunu\"",
       "date": "2026-03-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatralizuota-ekskursija-pasimatymas-su-tarpukario-kaunu-2026-03-28",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Detektyvų vakaras improvizacijos teatre",
+      "date": "2026-03-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/detektyvu-vakaras-improvizacijos-teatre-2026-03-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "TARP TYLOS IR UGNIES",
@@ -669,6 +660,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Patyriminis spektaklis „DANSE MACABRE“",
+      "date": "2026-03-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/patyriminis-spektaklis-danse-macabre-2026-03-31",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "Skrydis prasideda čia! Naujos ekspozicijos atidarymas",
       "date": "2026-04-01",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skrydis-prasideda-cia-naujos-ekspozicijos-atidarymas-2026-04-01",
@@ -688,6 +686,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tomas-kregzde-personaline-paroda-de-konstruota-tapatybe-2026-04-02",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Atviros renginio dekoracijų dirbtuvės „Upės mitai“",
+      "date": "2026-04-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atviros-renginio-dekoraciju-dirbtuves-upes-mitai-2026-04-02",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "Spektaklis I Pažadink savo vidinę deivę",
@@ -746,6 +751,20 @@
       "category": "Šventės"
     },
     {
+      "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO 04.06 14:15",
+      "date": "2026-04-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tarpukario-modernizmas-ir-art-deco-04-06-14-15-2026-04-06",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Paskaita „Kas valdė Kauną tarpukariu: miesto valdžia 1918–1940“",
+      "date": "2026-04-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kas-valde-kauna-tarpukariu-miesto-valdzia-19181940-2026-04-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Improvizacijos pamokos Ąžuolyno bibliotekoje (nemokamai)",
       "date": "2026-04-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-pamokos-azuolyno-bibliotekoje-nemokamai-2026-04-07",
@@ -798,6 +817,13 @@
       "title": "„RANDOR KVIT ARBA KAS GUDRESNIS?“ │51-oji Kauno Rampa",
       "date": "2026-04-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/randor-kvit-arba-kas-gudresnis-51-oji-kauno-rampa-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "„Drąsa ir orumas šiandien“. Leonidas Donskis tarp mūsų",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/drasa-ir-orumas-siandien-leonidas-donskis-tarp-musu-2026-04-09",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -858,6 +884,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Viktorijos Vitkauskaitės knygos „Namai ir likimai“ pristatymas",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/viktorijos-vitkauskaites-knygos-namai-ir-likimai-pristatymas-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "„MAŽASIS PRINCAS“ │51-oji Kauno Rampa",
       "date": "2026-04-11",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazasis-princas-51-oji-kauno-rampa-2026-04-11",
@@ -912,45 +945,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nematomo-laiko-modusai-sergejaus-okrusko-fortepijono-recitalis-2026-04-11",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis vaikams 7 RATAI",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vaikams-7-ratai-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "MEILĖS ĮKVĖPTI",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meiles-ikvepti-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Lietuviškų šokių vakaras",
-      "date": "2026-04-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisku-sokiu-vakaras-2026-04-13",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "LNDT gastrolės Kaune: STAND-UP'AS PRASMEI IR BEPRASMYBEI, rež. Eglė Švedkauskaitė",
-      "date": "2026-04-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lndt-gastroles-kaune-stand-up-as-prasmei-ir-beprasmybei-rez-egle-svedkauskaite-2026-04-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis VĖJO PRIGIMTIS (rež. Gildas Aleksa)",
-      "date": "2026-04-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vejo-prigimtis-rez-gildas-aleksa-2026-04-15",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 29,
+    "index": 28,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
