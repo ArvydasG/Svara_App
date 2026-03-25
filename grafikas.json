@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-24",
+  "updated_at": "2026-03-25",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -198,8 +198,8 @@
   "events": [
     {
       "title": "MUGĖ",
-      "url": "https://botanika.vdu.lt/ivykiai/muge-7",
-      "date": "2026-04-23",
+      "url": "https://botanika.vdu.lt/ivykiai/muge-botanikos-sode",
+      "date": "2026-04-24",
       "source": "Botanikos sodas"
     },
     {
@@ -219,6 +219,12 @@
       "url": "https://botanika.vdu.lt/ivykiai/seminaras-9",
       "date": "2026-03-25",
       "source": "Botanikos sodas"
+    },
+    {
+      "title": "Paskaita „Kraujo spaudimas ir cholesterolis“",
+      "url": "https://kaunobiblioteka.lt/paskaita-kraujo-spaudimas-ir-cholesterolis",
+      "date": "2026-04-15",
+      "source": "Biblioteka"
     },
     {
       "title": "Kūrybinės dirbtuvės vaikams „Kuriu knygos skirtuką“",
@@ -246,20 +252,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Margučių marginimas bičių vašku",
-      "date": "2026-03-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/marguciu-marginimas-biciu-vasku-2026-03-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "SENGIRĖS KINAS Kauno Vinco Kudirkos viešojoje bibliotekoje: „Iš gelmių“",
-      "date": "2026-03-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-kauno-vinco-kudirkos-viesojoje-bibliotekoje-is-gelmiu-2026-03-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "„Susitikime bokso ringe“ (6–12 m. vaikams) Lietuvos sporto muziejuje",
       "date": "2026-03-25",
@@ -385,6 +377,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stasys-eidrigevicius-hommage-a-ciurlionis-2026-03-27",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "VDU TEATRO DISKUSIJŲ KLUBAS. Pokalbis su intymumo koordinatore",
+      "date": "2026-03-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-teatro-diskusiju-klubas-pokalbis-su-intymumo-koordinatore-2026-03-27",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
     },
     {
       "title": "„Sengirės kinas“ leidžiasi gilyn, į vandenynų dugną",
@@ -653,6 +652,13 @@
       "category": "Šventės"
     },
     {
+      "title": "Grupinė paroda ORÓNYS | Atidarymas",
+      "date": "2026-03-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupine-paroda-ornys-atidarymas-2026-03-31",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "TRENKSMAS | Slemas #92",
       "date": "2026-03-31",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-slemas-92-2026-03-31",
@@ -665,6 +671,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/patyriminis-spektaklis-danse-macabre-2026-03-31",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Grupinė paroda ORÓNYS",
+      "date": "2026-04-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupine-paroda-ornys-2026-04-01",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Skrydis prasideda čia! Naujos ekspozicijos atidarymas",
@@ -758,6 +771,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Aukok kraują Ąžuolyno bibliotekoje!",
+      "date": "2026-04-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aukok-krauja-azuolyno-bibliotekoje-2026-04-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Paskaita „Kas valdė Kauną tarpukariu: miesto valdžia 1918–1940“",
       "date": "2026-04-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kas-valde-kauna-tarpukariu-miesto-valdzia-19181940-2026-04-07",
@@ -828,6 +848,20 @@
       "category": "Kiti"
     },
     {
+      "title": "Mindaugo Milinio knygos „Klastotė“ pristatymas",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mindaugo-milinio-knygos-klastote-pristatymas-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Parodos „9 priežastys tapti karo lakūnu Lietuvoje 1919–1940“ pristatymas",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-9-priezastys-tapti-karo-lakunu-lietuvoje-19191940-pristatymas-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "VISI F. SCHUBERTO VOKALINIAI CIKLAI: GULBĖS GIESMĖ",
       "date": "2026-04-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/visi-f-schuberto-vokaliniai-ciklai-gulbes-giesme-2026-04-09",
@@ -854,6 +888,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meskiukas-go-51-oji-kauno-rampa-2026-04-10",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Teatro dirbtuvės │51-oji Kauno Rampa",
@@ -910,45 +951,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-11",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
-    },
-    {
-      "title": "Etiudų spektaklis „ARBATOS IR SAUSAINIŲ“ │51-oji Kauno Rampa",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/etiudu-spektaklis-arbatos-ir-sausainiu-51-oji-kauno-rampa-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Balandžio 11 d. 15:30 val. Ekskursija: IX fortas. TUNELIAIS. Kelionė laiku.",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/balandzio-11-d-15-30-val-ekskursija-ix-fortas-tuneliais-kelione-laiku-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "„UŽ TAVE TO PADARYT NEGALIU“ │51-oji Kauno Rampa",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/uz-tave-to-padaryt-negaliu-51-oji-kauno-rampa-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Apie meilę, viltį ir gyvenimą: susitikimas su kunigu Benu Lyriu",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apie-meile-vilti-ir-gyvenima-susitikimas-su-kunigu-benu-lyriu-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "NEMATOMO LAIKO MODUSAI: Sergejaus Okruško fortepijono rečitalis",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nematomo-laiko-modusai-sergejaus-okrusko-fortepijono-recitalis-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 28,
+    "index": 32,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
