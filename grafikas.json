@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-25",
+  "updated_at": "2026-03-26",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -198,8 +198,8 @@
   "events": [
     {
       "title": "MUGĖ",
-      "url": "https://botanika.vdu.lt/ivykiai/muge-botanikos-sode",
-      "date": "2026-04-24",
+      "url": "https://botanika.vdu.lt/ivykiai/muge-augalu-kaune",
+      "date": "2026-04-25",
       "source": "Botanikos sodas"
     },
     {
@@ -212,12 +212,6 @@
       "title": "Pavasario stovykla",
       "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
       "date": "2026-03-30",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "SEMINARAS",
-      "url": "https://botanika.vdu.lt/ivykiai/seminaras-9",
-      "date": "2026-03-25",
       "source": "Botanikos sodas"
     },
     {
@@ -253,67 +247,11 @@
   ],
   "kaunas_events": [
     {
-      "title": "„Susitikime bokso ringe“ (6–12 m. vaikams) Lietuvos sporto muziejuje",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikime-bokso-ringe-612-m-vaikams-lietuvos-sporto-muziejuje-2026-03-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Filmų „Knygnešystė ir knygnešiai“ ir „Knygnešys Jurgis Bielinis“ peržiūra archyve",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmu-knygnesyste-ir-knygnesiai-ir-knygnesys-jurgis-bielinis-perziura-archyve-2026-03-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Klubo „Pasibalbatuokim“ susitikimas",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klubo-pasibalbatuokim-susitikimas-2026-03-25",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "VISI F. SCHUBERTO VOKALINIAI CIKLAI: ŽIEMOS KELIONĖ",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/visi-f-schuberto-vokaliniai-ciklai-ziemos-kelione-2026-03-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kūrybinio rašymo dirbtuvės „Tekstas ir kūnas“",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybinio-rasymo-dirbtuves-tekstas-ir-kunas-2026-03-25",
+      "title": "Edukacija CIRKE su Kultūros pasu",
+      "date": "2026-03-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-cirke-su-kulturos-pasu-2026-03-26",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
-    },
-    {
-      "title": "Arbatos ceremonija su Raimona Strazdiene│Lietuvos švietimo muziejuje",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/arbatos-ceremonija-su-raimona-strazdienelietuvos-svietimo-muziejuje-2026-03-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Jaunų grupių ir atlikėjų konkursas “HOGAS OPEN 2026”| GYVA ATRANKA #4",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunu-grupiu-ir-atlikeju-konkursas-hogas-open-2026-gyva-atranka-4-2026-03-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Šokio spektaklis ,, Prarasti prisiminimai ''",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokio-spektaklis-prarasti-prisiminimai-1-2026-03-25",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Etno dirbtuvėlės visai šeimai VELYKAIČIŲ MARGINIMAS",
-      "date": "2026-03-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/etno-dirbtuveles-visai-seimai-velykaiciu-marginimas-2026-03-25",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
     },
     {
       "title": "Edukacija „Nuostabioji Lietuvos sporto istorija“ (10–15 m. vaikams)",
@@ -694,6 +632,20 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Japonų tradicinis rūbas kimono: taisyklės ir įvairovė │Lietuvos švietimo muziejuje",
+      "date": "2026-04-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/japonu-tradicinis-rubas-kimono-taisykles-ir-ivairove-lietuvos-svietimo-muziejuje-2026-04-01",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Parodos „Ateję žvaigždžių takais“ atidarymas",
+      "date": "2026-04-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-ateje-zvaigzdziu-takais-atidarymas-2026-04-01",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Tomas Kregždė personalinė paroda „(DE)KONSTRUOTA TAPATYBĖ\"",
       "date": "2026-04-02",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tomas-kregzde-personaline-paroda-de-konstruota-tapatybe-2026-04-02",
@@ -706,6 +658,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atviros-renginio-dekoraciju-dirbtuves-upes-mitai-2026-04-02",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "BALTAS KAMBARYS. Meno kūrinys iš žmonių? | Susitikimas su leidinio kūrėjais",
+      "date": "2026-04-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltas-kambarys-meno-kurinys-is-zmoniu-susitikimas-su-leidinio-kurejais-2026-04-02",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
     },
     {
       "title": "Spektaklis I Pažadink savo vidinę deivę",
@@ -739,6 +698,13 @@
       "title": "Gabrieliaus Mackevičiaus darbų parodo „2D žmogus“ ir atidarymas",
       "date": "2026-04-02",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabrieliaus-mackeviciaus-darbu-parodo-2d-zmogus-ir-atidarymas-2026-04-02",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Kabloonak solo - Kaunas",
+      "date": "2026-04-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kabloonak-solo-kaunas-2026-04-02",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -797,6 +763,20 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokio-spektaklis-anksti-ryta-2026-04-07",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Eglės Baliutavičiūtės paskaita apie ankstyvąjį skaitymą",
+      "date": "2026-04-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/egles-baliutaviciutes-paskaita-apie-ankstyvaji-skaityma-2026-04-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Almos Braziūnienės paskaita „Vladas Daumantas ir Kazys Varnelis: bibliofilinės paralelės“",
+      "date": "2026-04-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/almos-braziunienes-paskaita-vladas-daumantas-ir-kazys-varnelis-bibliofilines-paraleles-2026-04-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "DAINUOKIM: vakarynos su „Kupole\" ir „Linago\"",
@@ -951,10 +931,24 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-11",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Kūrybinio rašymo dirbtuvės",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybinio-rasymo-dirbtuves-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Edukacinis užsiėmimas šeimoms „Daiktai pasakoja“",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-daiktai-pasakoja-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 32,
+    "index": 29,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
