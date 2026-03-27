@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-26",
+  "updated_at": "2026-03-27",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -246,69 +246,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Edukacija CIRKE su Kultūros pasu",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-cirke-su-kulturos-pasu-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Edukacija „Nuostabioji Lietuvos sporto istorija“ (10–15 m. vaikams)",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-nuostabioji-lietuvos-sporto-istorija-1015-m-vaikams-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "ETNO dirbtuvėlės visai šeimai: velykaičių marginimas",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/etno-dirbtuveles-visai-seimai-velykaiciu-marginimas-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Meno ir muzikos mylėtojų klubas „Meno ritmu“",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meno-ir-muzikos-myletoju-klubas-meno-ritmu-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Susitikimas su kūrėjais: „Renovacija“",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-kurejais-renovacija-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "ŠLOVINIMO GIESMĖ",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/slovinimo-giesme-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Rimanto Kmitos knygos „Editas kompleksas. Normalūs žmones nesišypsa“ pristatymas",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rimanto-kmitos-knygos-editas-kompleksas-normalus-zmones-nesisypsa-pristatymas-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "IMPRO džemas Kauno meninkų namuose (komedijos vakaras)",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-kauno-meninku-namuose-komedijos-vakaras-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis „Plieninės magnolijos“",
-      "date": "2026-03-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-plienines-magnolijos-2026-03-26",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
     {
       "title": "„Stasys Eidrigevičius. Hommage à Čiurlionis“",
       "date": "2026-03-27",
@@ -786,6 +723,13 @@
       "category": "Kiti"
     },
     {
+      "title": "„Išvarymas“ atkeliauja į Kauną",
+      "date": "2026-04-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/isvarymas-atkeliauja-i-kauna-2026-04-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Spektaklis ARTIMOS",
       "date": "2026-04-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-artimos-2026-04-08",
@@ -945,12 +889,68 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-daiktai-pasakoja-2026-04-11",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Etiudų spektaklis „ARBATOS IR SAUSAINIŲ“ │51-oji Kauno Rampa",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/etiudu-spektaklis-arbatos-ir-sausainiu-51-oji-kauno-rampa-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Apie meilę, viltį ir gyvenimą: susitikimas su kunigu Benu Lyriu (registracija sustabdyta)",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apie-meile-vilti-ir-gyvenima-susitikimas-su-kunigu-benu-lyriu-registracija-sustabdyta-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Balandžio 11 d. 15:30 val. Ekskursija: IX fortas. TUNELIAIS. Kelionė laiku.",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/balandzio-11-d-15-30-val-ekskursija-ix-fortas-tuneliais-kelione-laiku-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "„UŽ TAVE TO PADARYT NEGALIU“ │51-oji Kauno Rampa",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/uz-tave-to-padaryt-negaliu-51-oji-kauno-rampa-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "NEMATOMO LAIKO MODUSAI: Sergejaus Okruško fortepijono rečitalis",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nematomo-laiko-modusai-sergejaus-okrusko-fortepijono-recitalis-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Papildomas renginys | Apie meilę, viltį ir gyvenimą: susitikimas su kunigu Benu Lyriu",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/papildomas-renginys-apie-meile-vilti-ir-gyvenima-susitikimas-su-kunigu-benu-lyriu-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Spektaklis vaikams 7 RATAI",
+      "date": "2026-04-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vaikams-7-ratai-2026-04-12",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Margučių ridenimo varžytuvės // Kauno miesto šventė VAIKŲ VELYKĖLĖS 2026",
+      "date": "2026-04-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/marguciu-ridenimo-varzytuves-kauno-miesto-svente-vaiku-velykeles-2026-2026-04-12",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     }
   ],
   "air_quality": {
-    "index": 29,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 19,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
