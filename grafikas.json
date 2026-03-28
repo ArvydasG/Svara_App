@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-27",
+  "updated_at": "2026-03-28",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -203,15 +203,9 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "",
-      "url": "https://botanika.vdu.lt/ivykiai/modernus-darzas",
-      "date": "2026-04-11",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Pavasario stovykla",
-      "url": "https://botanika.vdu.lt/ivykiai/bundancios-gamtos-stovykla",
-      "date": "2026-03-30",
+      "title": "K. Obelevičiaus fotografijų parodos atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/obelevicius-fotografiju-paroda",
+      "date": "2026-04-13",
       "source": "Botanikos sodas"
     },
     {
@@ -237,57 +231,9 @@
       "url": "https://kaunobiblioteka.lt/saruno-matijosaicio-darbu-ciklo-dainos-paroda",
       "date": "2026-03-31",
       "source": "Biblioteka"
-    },
-    {
-      "title": "Kūrybinės dirbtuvės „Verbų rišimas“",
-      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-verbu-risimas",
-      "date": "2026-03-26",
-      "source": "Biblioteka"
     }
   ],
   "kaunas_events": [
-    {
-      "title": "„Stasys Eidrigevičius. Hommage à Čiurlionis“",
-      "date": "2026-03-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stasys-eidrigevicius-hommage-a-ciurlionis-2026-03-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "VDU TEATRO DISKUSIJŲ KLUBAS. Pokalbis su intymumo koordinatore",
-      "date": "2026-03-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-teatro-diskusiju-klubas-pokalbis-su-intymumo-koordinatore-2026-03-27",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "„Sengirės kinas“ leidžiasi gilyn, į vandenynų dugną",
-      "date": "2026-03-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-leidziasi-gilyn-i-vandenynu-dugna-2026-03-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Psichologės dr. Evelinos Savickaitės-Kazlauskės paskaita „Ritualai: psichologinio atsparumo paieškos“ (registracija sustabdyta)",
-      "date": "2026-03-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/psichologes-dr-evelinos-savickaites-kazlauskes-paskaita-ritualai-psichologinio-atsparumo-paieskos-registracija-sustabdyta-2026-03-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Susitikimas su žygeive Aiste Zizevskyte „Į Kirgizijos kalnus su lietuvišku folkloru“",
-      "date": "2026-03-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-zygeive-aiste-zizevskyte-i-kirgizijos-kalnus-su-lietuvisku-folkloru-2026-03-27",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Riedučių renginys visiems, penktadienį",
-      "date": "2026-03-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rieduciu-renginys-visiems-penktadieni-2026-03-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Šeštadieniai šeimai | Velykų belaukiant Gruodžių namuose",
       "date": "2026-03-28",
@@ -455,13 +401,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velykines-sokolado-dirbtuves-2026-03-29",
       "source": "Kaunas Pilnas",
       "category": "Šventės"
-    },
-    {
-      "title": "OPERA (Revoliucijos) Giuseppe Verdi ir Richard Wagner kūriniai atliekami Kristinos Zmailaitės ir Edmundo Seiliaus.",
-      "date": "2026-03-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/opera-revoliucijos-giuseppe-verdi-ir-richard-wagner-kuriniai-atliekami-kristinos-zmailaites-ir-edmundo-seiliaus-2026-03-29",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
     },
     {
       "title": "KONCERTAS IN B",
@@ -646,6 +585,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Baltos Varnos | koncertas su styginių kvartetu",
+      "date": "2026-04-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltos-varnos-koncertas-su-styginiu-kvartetu-2026-04-03",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Gintauto Mažeikio kūrinio „Lilimų knyga II. Apsėdimai“ pristatymas",
       "date": "2026-04-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gintauto-mazeikio-kurinio-lilimu-knyga-ii-apsedimai-pristatymas-2026-04-03",
@@ -665,6 +611,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dirbtuves-velyku-laiskas-2026-04-04",
       "source": "Kaunas Pilnas",
       "category": "Šventės"
+    },
+    {
+      "title": "Šeimų šeštadienis muziejuje: viščiukų orientacinės žaidynės!",
+      "date": "2026-04-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seimu-sestadienis-muziejuje-visciuku-orientacines-zaidynes-2026-04-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO 04.06 14:15",
@@ -749,6 +702,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teismo-valanda-51-oji-kauno-rampa-2026-04-09",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Paroda „Kolekcininkai: Atviros kortos“",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-kolekcininkai-atviros-kortos-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "KEISTI LAIKAI. „Literatūros savaitės“ klubo 4 sezono 5 susitikimas",
@@ -945,10 +905,38 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/marguciu-ridenimo-varzytuves-kauno-miesto-svente-vaiku-velykeles-2026-2026-04-12",
       "source": "Kaunas Pilnas",
       "category": "Šventės"
+    },
+    {
+      "title": "VELYKŲ MUZIKA",
+      "date": "2026-04-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velyku-muzika-2026-04-12",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "MEILĖS ĮKVĖPTI",
+      "date": "2026-04-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meiles-ikvepti-2026-04-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Projekto „Kalbà kal̃ba laisvai“ konferencija",
+      "date": "2026-04-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/projekto-kalba-kalba-laisvai-konferencija-2026-04-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Gyventojų pajamų deklaravimas su VMI specialistų pagalba",
+      "date": "2026-04-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gyventoju-pajamu-deklaravimas-su-vmi-specialistu-pagalba-2026-04-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 19,
+    "index": 13,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
