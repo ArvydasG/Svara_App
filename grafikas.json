@@ -168,12 +168,13 @@
         "2026-10-14",
         "2026-11-11",
         "2027-04-28",
-        "2027-05-26"
+        "2027-05-26",
+        "2027-06-23"
       ],
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-03-30",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -209,6 +210,12 @@
       "source": "Botanikos sodas"
     },
     {
+      "title": "Povilo Ventos Kuprio knygų „Potyriai trys“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/povilo-ventos-kuprio-knygu-potyriai-trys-pristatymas-3",
+      "date": "2026-04-29",
+      "source": "Biblioteka"
+    },
+    {
       "title": "Paskaita „Kraujo spaudimas ir cholesterolis“",
       "url": "https://kaunobiblioteka.lt/paskaita-kraujo-spaudimas-ir-cholesterolis",
       "date": "2026-04-15",
@@ -234,48 +241,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Velykinių kiaušinių marginimas senąja technika",
-      "date": "2026-03-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velykiniu-kiausiniu-marginimas-senaja-technika-2026-03-29",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Muzikinė Velykų pasakaitė KAIP MAUMUKAS KIAUŠINIUS SLĖPĖ",
-      "date": "2026-03-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikine-velyku-pasakaite-kaip-maumukas-kiausinius-slepe-2026-03-29",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "KTU tautinio meno ansamblio „Nemunas“ koncertas „Vilties garsai“",
-      "date": "2026-03-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ktu-tautinio-meno-ansamblio-nemunas-koncertas-vilties-garsai-2026-03-29",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Velykinės šokolado dirbtuvės",
-      "date": "2026-03-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velykines-sokolado-dirbtuves-2026-03-29",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "KONCERTAS IN B",
-      "date": "2026-03-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-in-b-2026-03-29",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Videokaukas Romuvoje: „Ji“",
-      "date": "2026-03-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/videokaukas-romuvoje-ji-2026-03-29",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Vido Mačiulio knygos „Kitas gyvenimas“ pristatymas",
       "date": "2026-03-30",
@@ -933,12 +898,54 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rasytoja-ir-jos-paroda-lina-simutyte-2026-04-17",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "„CAMERATA SOLARIS“ IR SMUIKO VIRTUOZAS PH. QUINT",
+      "date": "2026-04-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/camerata-solaris-ir-smuiko-virtuozas-ph-quint-2026-04-17",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "„MIGLA“ | Lietuvos teatrų pavasaris",
+      "date": "2026-04-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/migla-lietuvos-teatru-pavasaris-2026-04-17",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Edukacinis užsiėmimas šeimoms „Būk personažas“",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-buk-personazas-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "PREMJERA. „TIP TOP“ | Lietuvos teatrų pavasaris",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-tip-top-lietuvos-teatru-pavasaris-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 04.18 14:00",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-04-18-14-00-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 19,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 25,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
