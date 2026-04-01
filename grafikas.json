@@ -174,7 +174,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-03-31",
+  "updated_at": "2026-04-01",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -247,69 +247,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "TAU paskaita „Nugalėsim arba mirsim. Husarų reikšmė tarpukario Lietuvos karinėje ir visuomeninėje aplinkoje“",
-      "date": "2026-03-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tau-paskaita-nugalesim-arba-mirsim-husaru-reiksme-tarpukario-lietuvos-karineje-ir-visuomenineje-aplinkoje-2026-03-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Pasaka suaugusiems PITERIS PENAS | rež. K. Zajauskas",
-      "date": "2026-03-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaka-suaugusiems-piteris-penas-rez-k-zajauskas-2026-03-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Slemas svečiuojasi Ąžuolyno bibliotekoje",
-      "date": "2026-03-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/slemas-sveciuojasi-azuolyno-bibliotekoje-2026-03-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Diskusiją su Andžej Pukšto ir Tomasz Błaszczak: Dėl ko lenkai ginčijasi prie Velykų stalo? Lenkijos vidaus ir užsienio politikos iššūkiai.",
-      "date": "2026-03-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusija-su-andzej-puksto-ir-tomasz-baszczak-del-ko-lenkai-gincijasi-prie-velyku-stalo-lenkijos-vidaus-ir-uzsienio-politikos-issukiai-2026-03-31",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Grupinė paroda ORÓNYS | Atidarymas",
-      "date": "2026-03-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupine-paroda-ornys-atidarymas-2026-03-31",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Improvizacijos pamokos suaugusiems ir jaunimui",
-      "date": "2026-03-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-pamokos-suaugusiems-ir-jaunimui-2026-03-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "TRENKSMAS | Slemas #92",
-      "date": "2026-03-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-slemas-92-2026-03-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Patyriminis spektaklis „DANSE MACABRE“",
-      "date": "2026-03-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/patyriminis-spektaklis-danse-macabre-2026-03-31",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Grupinė paroda ORÓNYS",
-      "date": "2026-04-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupine-paroda-ornys-2026-04-01",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
     {
       "title": "Skrydis prasideda čia! Naujos ekspozicijos atidarymas",
       "date": "2026-04-01",
@@ -442,6 +379,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/2026-m-shotokan-karate-turnyras-meistriskumo-kelias-2026-04-04",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Lauros Slavinskaitės personalinė tapybos paroda „Ar man pasigirdo?“",
+      "date": "2026-04-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lauros-slavinskaites-personaline-tapybos-paroda-ar-man-pasigirdo-2026-04-04",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Dirbtuvės „Velykų laiškas“",
@@ -801,6 +745,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Motiejaus Valančiaus paveldas: dieviški ir pasaulietiniai sodai",
+      "date": "2026-04-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/motiejaus-valanciaus-paveldas-dieviski-ir-pasaulietiniai-sodai-2026-04-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Lietuviškų šokių vakaras",
       "date": "2026-04-13",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisku-sokiu-vakaras-2026-04-13",
@@ -946,10 +897,59 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/migla-lietuvos-teatru-pavasaris-2026-04-17",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Edukacinis užsiėmimas šeimoms „Būk personažas“",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-buk-personazas-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Pačios linksmiausios improvizacijos dirbtuvės",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pacios-linksmiausios-improvizacijos-dirbtuves-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "PREMJERA. „TIP TOP“ | Lietuvos teatrų pavasaris",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-tip-top-lietuvos-teatru-pavasaris-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 04.18 14:00",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-04-18-14-00-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "EKSKURSIJA, SKIRTA ARCHITEKTO E. A. FRYKO 150-AJAM GIMTADIENIUI",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-skirta-architekto-e-a-fryko-150-ajam-gimtadieniui-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "KVĖPAVIMAS (N-16)",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 23,
+    "index": 24,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
