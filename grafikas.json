@@ -158,7 +158,6 @@
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384 0,24",
       "dates": [
-        "2026-04-01",
         "2026-04-29",
         "2026-05-27",
         "2026-06-24",
@@ -174,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-01",
+  "updated_at": "2026-04-02",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -238,50 +237,9 @@
       "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
       "date": "Aktualu",
       "source": "Biblioteka"
-    },
-    {
-      "title": "Šarūno Matijošaičio darbų ciklo „Dainos“ paroda",
-      "url": "https://kaunobiblioteka.lt/saruno-matijosaicio-darbu-ciklo-dainos-paroda",
-      "date": "2026-03-31",
-      "source": "Biblioteka"
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Skrydis prasideda čia! Naujos ekspozicijos atidarymas",
-      "date": "2026-04-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skrydis-prasideda-cia-naujos-ekspozicijos-atidarymas-2026-04-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "PORTRETAS NR. 21. Fotografijų paroda",
-      "date": "2026-04-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/portretas-nr-21-fotografiju-paroda-2026-04-01",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "NICHE 2026 ⑉⑇ Arturas Bumšteinas, Katarsis4",
-      "date": "2026-04-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/niche-2026-arturas-bumsteinas-katarsis4-2026-04-01",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Japonų tradicinis rūbas kimono: taisyklės ir įvairovė │Lietuvos švietimo muziejuje",
-      "date": "2026-04-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/japonu-tradicinis-rubas-kimono-taisykles-ir-ivairove-lietuvos-svietimo-muziejuje-2026-04-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Parodos „Ateję žvaigždžių takais“ atidarymas",
-      "date": "2026-04-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-ateje-zvaigzdziu-takais-atidarymas-2026-04-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Tomas Kregždė personalinė paroda „(DE)KONSTRUOTA TAPATYBĖ\"",
       "date": "2026-04-02",
@@ -556,6 +514,13 @@
       "category": "Parodos"
     },
     {
+      "title": "XIX a. KULTŪROS PASAKOJIMAI | paskaitų ciklas Kauno rotušėje",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/xix-a-kulturos-pasakojimai-paskaitu-ciklas-kauno-rotuseje-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "VISI F. SCHUBERTO VOKALINIAI CIKLAI: GULBĖS GIESMĖ",
       "date": "2026-04-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/visi-f-schuberto-vokaliniai-ciklai-gulbes-giesme-2026-04-09",
@@ -717,11 +682,25 @@
       "category": "Šventės"
     },
     {
+      "title": "Kauno miesto šventė VAIKŲ VELYKĖLĖS 2026",
+      "date": "2026-04-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-miesto-svente-vaiku-velykeles-2026-2026-04-12",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
       "title": "VELYKŲ MUZIKA",
       "date": "2026-04-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velyku-muzika-2026-04-12",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Tarpukario inteligentija. Svečiuose pas pulkininką D. Grabį | Ekskursija-viešnagė | 04.12",
+      "date": "2026-04-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-inteligentija-sveciuose-pas-pulkininka-d-grabi-ekskursija-viesnage-04-12-2026-04-12",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "MEILĖS ĮKVĖPTI",
@@ -850,6 +829,13 @@
       "category": "Scena"
     },
     {
+      "title": "Buduaro paskalos | Tarpukario istorijų vakarėlis | 04.16",
+      "date": "2026-04-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/buduaro-paskalos-tarpukario-istoriju-vakarelis-04-16-2026-04-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "„MAMA“ | Lietuvos teatrų pavasaris",
       "date": "2026-04-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mama-lietuvos-teatru-pavasaris-2026-04-16",
@@ -946,12 +932,19 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-2026-04-18",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Kūrybinio rašymo dirbtuvės",
+      "date": "2026-04-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybinio-rasymo-dirbtuves-2026-04-19",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 24,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 15,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
