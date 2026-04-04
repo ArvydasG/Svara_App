@@ -19,7 +19,8 @@
         "2027-03-08",
         "2027-04-05",
         "2027-05-03",
-        "2027-05-31"
+        "2027-05-31",
+        "2027-06-28"
       ],
       "hasRealDates": true
     },
@@ -73,7 +74,8 @@
         "2027-05-03",
         "2027-05-17",
         "2027-05-31",
-        "2027-06-14"
+        "2027-06-14",
+        "2027-06-28"
       ],
       "hasRealDates": true
     },
@@ -111,7 +113,8 @@
         "2027-03-08",
         "2027-04-05",
         "2027-05-03",
-        "2027-05-31"
+        "2027-05-31",
+        "2027-06-28"
       ],
       "hasRealDates": true
     },
@@ -150,7 +153,8 @@
         "2027-05-03",
         "2027-05-17",
         "2027-05-31",
-        "2027-06-14"
+        "2027-06-14",
+        "2027-06-28"
       ],
       "hasRealDates": true
     },
@@ -173,7 +177,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-03",
+  "updated_at": "2026-04-04",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -240,20 +244,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Baltos Varnos | koncertas su styginių kvartetu",
-      "date": "2026-04-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltos-varnos-koncertas-su-styginiu-kvartetu-2026-04-03",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Gintauto Mažeikio kūrinio „Lilimų knyga II. Apsėdimai“ pristatymas",
-      "date": "2026-04-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gintauto-mazeikio-kurinio-lilimu-knyga-ii-apsedimai-pristatymas-2026-04-03",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
     {
       "title": "2026 m. Shotokan karatė turnyras „Meistriškumo kelias“",
       "date": "2026-04-04",
@@ -444,6 +434,13 @@
       "category": "Kiti"
     },
     {
+      "title": "LIEKAMOJI BŪSENA | Grupinė menininkų paroda",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/liekamoji-busena-grupine-menininku-paroda-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "VISI F. SCHUBERTO VOKALINIAI CIKLAI: GULBĖS GIESMĖ",
       "date": "2026-04-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/visi-f-schuberto-vokaliniai-ciklai-gulbes-giesme-2026-04-09",
@@ -484,6 +481,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupe-pilna-teatro-dirbtuves-51-oji-kauno-rampa-2026-04-10",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Justino Krasucko tapybos paroda \"TIKRUMO BEIEŠKANT\"",
+      "date": "2026-04-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/justino-krasucko-tapybos-paroda-tikrumo-beieskant-2026-04-10",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "NACIONALINĖS DARŽOVĖS (N-16)",
@@ -710,6 +714,13 @@
       "category": "Kiti"
     },
     {
+      "title": "TRENKSMAS 2026: Tavo ėjimas! | Slemo duetai",
+      "date": "2026-04-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-slemo-duetai-2026-04-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Apyrankių dirbtuvės „Upės mitai“",
       "date": "2026-04-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apyrankiu-dirbtuves-upes-mitai-2026-04-15",
@@ -750,6 +761,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/projekto-kalba-kalba-laisvai-konferencija-2026-04-16",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "„Dainuok širdie“ | LMTA studentų koncertas",
+      "date": "2026-04-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dainuok-sirdie-lmta-studentu-koncertas-2026-04-16",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     },
     {
       "title": "Fotografijos dirbtuvės „Eilutė ir kadras“",
@@ -829,6 +847,13 @@
       "category": "Kiti"
     },
     {
+      "title": "PAVELDAS IR VIZIJOS // AUŠRA VAITKŪNIENĖ",
+      "date": "2026-04-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paveldas-ir-vizijos-ausra-vaitkuniene-2026-04-17",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Edukacinis užsiėmimas šeimoms „Būk personažas“",
       "date": "2026-04-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-buk-personazas-2026-04-18",
@@ -853,6 +878,13 @@
       "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
       "date": "2026-04-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija GYVI NAMAI | Balandis",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-gyvi-namai-balandis-2026-04-18",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
     },
@@ -911,40 +943,12 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mano-pasveikinimas-tau-2026-04-19",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "„VOLPONĖ“ | Lietuvos teatrų pavasaris",
-      "date": "2026-04-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/volpone-lietuvos-teatru-pavasaris-2026-04-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Videokaukas Romuvoje: „Artimi trečiojo laipsnio kontaktai“",
-      "date": "2026-04-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/videokaukas-romuvoje-artimi-treciojo-laipsnio-kontaktai-2026-04-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Projekto „Kalbà kal̃ba laisvai“ konferencija",
-      "date": "2026-04-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/projekto-kalba-kalba-laisvai-konferencija-2026-04-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Faustos Dambrauskaitės paskaita-mokymai apie emocijų neurologiją",
-      "date": "2026-04-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/faustos-dambrauskaites-paskaita-mokymai-apie-emociju-neurologija-2026-04-20",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 15,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 27,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
