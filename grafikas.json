@@ -177,7 +177,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-05",
+  "updated_at": "2026-04-06",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -721,6 +721,13 @@
       "category": "Scena"
     },
     {
+      "title": "Žaliakalnio protmūšis",
+      "date": "2026-04-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zaliakalnio-protmusis-2026-04-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Šokio spektaklis ,,Anksti rytą...''",
       "date": "2026-04-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokio-spektaklis-anksti-ryta-2026-04-15",
@@ -936,17 +943,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/projekto-kalba-kalba-laisvai-konferencija-2026-04-20",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Faustos Dambrauskaitės paskaita-mokymai apie emocijų neurologiją",
-      "date": "2026-04-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/faustos-dambrauskaites-paskaita-mokymai-apie-emociju-neurologija-2026-04-20",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 29,
+    "index": 31,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
