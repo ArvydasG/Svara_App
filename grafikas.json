@@ -4,7 +4,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461 0,24",
       "dates": [
-        "2026-04-06",
         "2026-05-04",
         "2026-06-01",
         "2026-06-29",
@@ -43,7 +42,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501 0,14",
       "dates": [
-        "2026-04-06",
         "2026-04-20",
         "2026-05-04",
         "2026-05-18",
@@ -98,7 +96,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262 0,24",
       "dates": [
-        "2026-04-06",
         "2026-05-04",
         "2026-06-01",
         "2026-06-29",
@@ -122,7 +119,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627 0,14",
       "dates": [
-        "2026-04-06",
         "2026-04-20",
         "2026-05-04",
         "2026-05-18",
@@ -177,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-06",
+  "updated_at": "2026-04-07",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -245,20 +241,6 @@
   ],
   "kaunas_events": [
     {
-      "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO 04.06 14:15",
-      "date": "2026-04-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tarpukario-modernizmas-ir-art-deco-04-06-14-15-2026-04-06",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "IMPRO Velykos (komedijos ir žaidimų vakaras)",
-      "date": "2026-04-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-velykos-komedijos-ir-zaidimu-vakaras-2026-04-06",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
       "title": "Aukok kraują Ąžuolyno bibliotekoje!",
       "date": "2026-04-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aukok-krauja-azuolyno-bibliotekoje-2026-04-07",
@@ -276,6 +258,13 @@
       "title": "Improvizacijos pamokos Ąžuolyno bibliotekoje (nemokamai)",
       "date": "2026-04-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-pamokos-azuolyno-bibliotekoje-nemokamai-2026-04-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Improvizacijos klubas antradieniais",
+      "date": "2026-04-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-klubas-antradieniais-2026-04-07",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -565,6 +554,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/papildomas-renginys-apie-meile-vilti-ir-gyvenima-susitikimas-su-kunigu-benu-lyriu-2026-04-11",
       "source": "Kaunas Pilnas",
       "category": "Bendruomenės"
+    },
+    {
+      "title": "Impro džemas (komedijos vakaras)",
+      "date": "2026-04-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-komedijos-vakaras-2026-04-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Spektaklis vaikams 7 RATAI",
@@ -946,7 +942,7 @@
     }
   ],
   "air_quality": {
-    "index": 31,
+    "index": 27,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
