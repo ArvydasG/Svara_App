@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-07",
+  "updated_at": "2026-04-08",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,92 +195,21 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "MUGĖ",
-      "url": "https://botanika.vdu.lt/ivykiai/muge-augalu-kaune",
-      "date": "2026-04-25",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Povilo Ventos Kuprio knygų „Potyriai trys“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/povilo-ventos-kuprio-knygu-potyriai-trys-pristatymas-3",
-      "date": "2026-04-29",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Paskaita „Kraujo spaudimas ir cholesterolis“",
-      "url": "https://kaunobiblioteka.lt/paskaita-kraujo-spaudimas-ir-cholesterolis",
-      "date": "2026-04-15",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Romarikos Pikelienės stiklo paroda „Tirpstantys ledynai“",
-      "url": "https://kaunobiblioteka.lt/romarikos-pikelienes-stiklo-paroda-tirpstantys-ledynai",
-      "date": "2026-04-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Viktorijos Brundzaitės fotografijų paroda „Pirmą kartą Vietname“",
-      "url": "https://kaunobiblioteka.lt/viktorijos-brundzaites-fotografiju-paroda-pirma-karta-vietname-2",
-      "date": "2026-04-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Kūrybinės dirbtuvės vaikams „Kuriu knygos skirtuką“",
-      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-kuriu-knygos-skirtuka",
-      "date": "2026-04-15",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Aukok kraują Ąžuolyno bibliotekoje!",
-      "date": "2026-04-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aukok-krauja-azuolyno-bibliotekoje-2026-04-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Paskaita „Kas valdė Kauną tarpukariu: miesto valdžia 1918–1940“",
-      "date": "2026-04-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kas-valde-kauna-tarpukariu-miesto-valdzia-19181940-2026-04-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Improvizacijos pamokos Ąžuolyno bibliotekoje (nemokamai)",
-      "date": "2026-04-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-pamokos-azuolyno-bibliotekoje-nemokamai-2026-04-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Improvizacijos klubas antradieniais",
-      "date": "2026-04-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-klubas-antradieniais-2026-04-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Šokio spektaklis ,,Anksti rytą...''",
-      "date": "2026-04-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokio-spektaklis-anksti-ryta-2026-04-07",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
     {
       "title": "Eglės Baliutavičiūtės paskaita apie ankstyvąjį skaitymą",
       "date": "2026-04-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/egles-baliutaviciutes-paskaita-apie-ankstyvaji-skaityma-2026-04-08",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Nuo archyvų iki dirbtinio intelekto: nauja interaktyvi ekspozicija Kaune",
+      "date": "2026-04-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-archyvu-iki-dirbtinio-intelekto-nauja-interaktyvi-ekspozicija-kaune-2026-04-08",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Almos Braziūnienės paskaita „Vladas Daumantas ir Kazys Varnelis: bibliofilinės paralelės“",
@@ -402,9 +331,23 @@
       "category": "Parodos"
     },
     {
+      "title": "Oratorija „miške“",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/oratorija-miske-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "VISI F. SCHUBERTO VOKALINIAI CIKLAI: GULBĖS GIESMĖ",
       "date": "2026-04-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/visi-f-schuberto-vokaliniai-ciklai-gulbes-giesme-2026-04-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Jaunų grupių ir atlikėjų konkursas “HOGAS OPEN 2026”| #1 PUSFINALIS",
+      "date": "2026-04-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunu-grupiu-ir-atlikeju-konkursas-hogas-open-2026-1-pusfinalis-2026-04-09",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -654,6 +597,20 @@
       "category": "Parodos"
     },
     {
+      "title": "„Miško dialogai“",
+      "date": "2026-04-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/misko-dialogai-2026-04-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Erikos Stankevičiūtės pirmoji personalinė fotografijų paroda „PASTEBĖTI IŠ ARTI“",
+      "date": "2026-04-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/erikos-stankeviciutes-pirmoji-personaline-fotografiju-paroda-pastebeti-is-arti-2026-04-14",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "„Šviesa pro stiklo lubas”: moterų balsai išeivijoje",
       "date": "2026-04-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sviesa-pro-stiklo-lubas-moteru-balsai-iseivijoje-2026-04-14",
@@ -687,6 +644,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-slemo-duetai-2026-04-14",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Šiuolaikinio šokio spektaklis PERDEGIMAS",
+      "date": "2026-04-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siuolaikinio-sokio-spektaklis-perdegimas-2026-04-14",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
     },
     {
       "title": "Apyrankių dirbtuvės „Upės mitai“",
@@ -773,6 +737,13 @@
       "category": "Literatūra"
     },
     {
+      "title": "Susitikimas su profesoriumi B. Bakučiu ir jo poezijos knygos „Paklydusios mūzos“ pristatymas",
+      "date": "2026-04-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-profesoriumi-b-bakuciu-ir-jo-poezijos-knygos-paklydusios-muzos-pristatymas-2026-04-16",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "„MAMA“ | Lietuvos teatrų pavasaris",
       "date": "2026-04-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mama-lietuvos-teatru-pavasaris-2026-04-16",
@@ -841,6 +812,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pacios-linksmiausios-improvizacijos-dirbtuves-2026-04-18",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Šeimų pažintinė ekspedicija",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seimu-pazintine-ekspedicija-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "PREMJERA. „TIP TOP“ | Lietuvos teatrų pavasaris",
@@ -918,31 +896,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mano-pasveikinimas-tau-2026-04-19",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "„VOLPONĖ“ | Lietuvos teatrų pavasaris",
-      "date": "2026-04-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/volpone-lietuvos-teatru-pavasaris-2026-04-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Videokaukas Romuvoje: „Artimi trečiojo laipsnio kontaktai“",
-      "date": "2026-04-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/videokaukas-romuvoje-artimi-treciojo-laipsnio-kontaktai-2026-04-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Projekto „Kalbà kal̃ba laisvai“ konferencija",
-      "date": "2026-04-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/projekto-kalba-kalba-laisvai-konferencija-2026-04-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 27,
+    "index": 23,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
