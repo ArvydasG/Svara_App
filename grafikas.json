@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-10",
+  "updated_at": "2026-04-11",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -240,83 +240,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Kovo 11-oji Kaune 2026",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kovo-11-oji-kaune-2026-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Zitos Gaižauskaitės knygos „Paskui bėgantį takelį“ teatralizuotas pristatymas",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zitos-gaizauskaites-knygos-paskui-beganti-takeli-teatralizuotas-pristatymas-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Nuo archyvų iki dirbtinio intelekto: nauja interaktyvi ekspozicija Kaune",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-archyvu-iki-dirbtinio-intelekto-nauja-interaktyvi-ekspozicija-kaune-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "VIETŲ NEBĖRA. „MEŠKIUKAS GO“ │51-oji Kauno Rampa",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vietu-nebera-meskiukas-go-51-oji-kauno-rampa-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija J. Zikaro namuose-muziejuje",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "GRUPĖ PILNA. Teatro dirbtuvės │51-oji Kauno Rampa",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupe-pilna-teatro-dirbtuves-51-oji-kauno-rampa-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Justino Krasucko tapybos paroda \"TIKRUMO BEIEŠKANT\"",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/justino-krasucko-tapybos-paroda-tikrumo-beieskant-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "NACIONALINĖS DARŽOVĖS (N-16)",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nacionalines-darzoves-n-16-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Donato Brandišausko paskaita „Gyvenimas kartu su plėšrūnais Rytų Sibire: vilkai, lokiai ir elnių augintojai“",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/donato-brandisausko-paskaita-gyvenimas-kartu-su-plesrunais-rytu-sibire-vilkai-lokiai-ir-elniu-augintojai-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„PAVĖLAVAU“ │51-oji Kauno Rampa",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pavelavau-51-oji-kauno-rampa-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Viktorijos Vitkauskaitės knygos „Namai ir likimai“ pristatymas",
-      "date": "2026-04-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/viktorijos-vitkauskaites-knygos-namai-ir-likimai-pristatymas-2026-04-10",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
     {
       "title": "„MAŽASIS PRINCAS“ │51-oji Kauno Rampa",
       "date": "2026-04-11",
@@ -626,6 +549,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Nacionalinis diktantas Ąžuolyno bibliotekoje!",
+      "date": "2026-04-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nacionalinis-diktantas-azuolyno-bibliotekoje-2026-04-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "„Dainuok širdie“ | LMTA studentų koncertas",
       "date": "2026-04-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dainuok-sirdie-lmta-studentu-koncertas-2026-04-16",
@@ -724,6 +654,13 @@
       "category": "Parodos"
     },
     {
+      "title": "Susitikimas su Jaakovu Blumu parodoje „Multivisata“",
+      "date": "2026-04-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-jaakovu-blumu-parodoje-multivisata-2026-04-17",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
       "title": "„CAMERATA SOLARIS“ IR SMUIKO VIRTUOZAS PH. QUINT",
       "date": "2026-04-17",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/camerata-solaris-ir-smuiko-virtuozas-ph-quint-2026-04-17",
@@ -771,6 +708,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pacios-linksmiausios-improvizacijos-dirbtuves-2026-04-18",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Labai Erzinančių Paauglių Teatras ,,LEPT!'' kviečia į antrojo sezono premjerą ,,LIKSIU''",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/labai-erzinanciu-paaugliu-teatras-lept-kviecia-i-antrojo-sezono-premjera-liksiu-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Šeimų pažintinė ekspedicija",
@@ -899,6 +843,20 @@
       "category": "Kiti"
     },
     {
+      "title": "Paskaita „Kauniečių rūpesčiai tarpukariu: nuo sanitarijos būklės iki butų trūkumų“",
+      "date": "2026-04-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kaunieciu-rupesciai-tarpukariu-nuo-sanitarijos-bukles-iki-butu-trukumu-2026-04-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Pavasariniai muzikos garsai Ąžuolyne",
+      "date": "2026-04-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pavasariniai-muzikos-garsai-azuolyne-2026-04-21",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Algio Bitauto knygos „Atminties karai“ pristatymas",
       "date": "2026-04-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/algio-bitauto-knygos-atminties-karai-pristatymas-2026-04-22",
@@ -939,10 +897,52 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-seimai-indenu-vadas-pagal-o-henry-noveles-indenu-vado-ispirka-motyvus-2026-04-23",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Fotografijos dirbtuvės „Eilutė ir kadras“",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fotografijos-dirbtuves-eilute-ir-kadras-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "LISZT MEETS THE QUEEN",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/liszt-meets-the-queen-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "„Šviesa pro stiklo lubas”: diplomatinio veido kūrėja",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sviesa-pro-stiklo-lubas-diplomatinio-veido-kureja-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Kotrynos Nausėdės knygos „Ačiū už nieką / Ačiū už viską“ pristatymas",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kotrynos-nausedes-knygos-aciu-uz-nieka-aciu-uz-viska-pristatymas-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Vaikų ir moksleivių – lietuvių liaudies kūrybos atlikėjų – konkurso TRAMTATULIS 2026 Kauno ratas",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vaiku-ir-moksleiviu-lietuviu-liaudies-kurybos-atlikeju-konkurso-tramtatulis-2026-kauno-ratas-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Parodos „Prikelti iš pelenų. Kaunas“ atidarymas",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-prikelti-is-pelenu-kaunas-atidarymas-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 16,
+    "index": 17,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
