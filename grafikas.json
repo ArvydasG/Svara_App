@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-11",
+  "updated_at": "2026-04-12",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -240,90 +240,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "„MAŽASIS PRINCAS“ │51-oji Kauno Rampa",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazasis-princas-51-oji-kauno-rampa-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kūrybinio rašymo dirbtuvės",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybinio-rasymo-dirbtuves-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Edukacinis užsiėmimas šeimoms „Daiktai pasakoja“",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-daiktai-pasakoja-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Etiudų spektaklis „ARBATOS IR SAUSAINIŲ“ │51-oji Kauno Rampa",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/etiudu-spektaklis-arbatos-ir-sausainiu-51-oji-kauno-rampa-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Apie meilę, viltį ir gyvenimą: susitikimas su kunigu Benu Lyriu (registracija sustabdyta)",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apie-meile-vilti-ir-gyvenima-susitikimas-su-kunigu-benu-lyriu-registracija-sustabdyta-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Balandžio 11 d. 15:30 val. Ekskursija: IX fortas. TUNELIAIS. Kelionė laiku.",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/balandzio-11-d-15-30-val-ekskursija-ix-fortas-tuneliais-kelione-laiku-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "„UŽ TAVE TO PADARYT NEGALIU“ │51-oji Kauno Rampa",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/uz-tave-to-padaryt-negaliu-51-oji-kauno-rampa-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "NEMATOMO LAIKO MODUSAI: Sergejaus Okruško fortepijono rečitalis",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nematomo-laiko-modusai-sergejaus-okrusko-fortepijono-recitalis-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Papildomas renginys | Apie meilę, viltį ir gyvenimą: susitikimas su kunigu Benu Lyriu",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/papildomas-renginys-apie-meile-vilti-ir-gyvenima-susitikimas-su-kunigu-benu-lyriu-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Impro džemas (komedijos vakaras)",
-      "date": "2026-04-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-komedijos-vakaras-2026-04-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Spektaklis vaikams 7 RATAI",
       "date": "2026-04-12",
@@ -843,6 +759,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Žaidinimų rytmetis šeimoms \"Krepštu, krepštu katinėlį\"",
+      "date": "2026-04-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zaidinimu-rytmetis-seimoms-krepstu-krepstu-katineli-2026-04-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Paskaita „Kauniečių rūpesčiai tarpukariu: nuo sanitarijos būklės iki butų trūkumų“",
       "date": "2026-04-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kaunieciu-rupesciai-tarpukariu-nuo-sanitarijos-bukles-iki-butu-trukumu-2026-04-21",
@@ -939,10 +862,87 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-prikelti-is-pelenu-kaunas-atidarymas-2026-04-24",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "PUTVINSKIO GATVĖS DIENA: šokio filmų kūrimo dirbtuvės su Alina Pilecka ir Ugne Lučauskaite",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/putvinskio-gatves-diena-sokio-filmu-kurimo-dirbtuves-su-alina-pilecka-ir-ugne-lucauskaite-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "Spektaklis PAGALVINIS N-16 (rež. Gintaras Varnas)",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-pagalvinis-n-16-rez-gintaras-varnas-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "KAUNO MIESTO SIMFONINIO ORKESTRO KONCERTAS-STAIGMENA!",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-miesto-simfoninio-orkestro-koncertas-staigmena-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Monika Marija su gyvo garso grupe | Raudondvario dvaro menų inkubatorius",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/monika-marija-su-gyvo-garso-grupe-raudondvario-dvaro-menu-inkubatorius-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "101-asis bibliotekos gimtadienis | Comedy Kastos pasirodymas",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/101-asis-bibliotekos-gimtadienis-comedy-kastos-pasirodymas-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "36-asis respublikinis šokių festivalis „ŠOKU TAU“",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/36-asis-respublikinis-sokiu-festivalis-soku-tau-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "GL1TCH",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gl1tch-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Labai Erzinančių Paauglių Teatras ,,LEPT!'' kviečia į antrojo sezono premjerą ,,LIKSIU''",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/labai-erzinanciu-paaugliu-teatras-lept-kviecia-i-antrojo-sezono-premjera-liksiu-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Playback teatro pasirodymas „Tavo istorijų teatras“",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/playback-teatro-pasirodymas-tavo-istoriju-teatras-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 17,
+    "index": 16,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
