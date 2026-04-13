@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-12",
+  "updated_at": "2026-04-13",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -240,62 +240,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Spektaklis vaikams 7 RATAI",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vaikams-7-ratai-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Margučių ridenimo varžytuvės // Kauno miesto šventė VAIKŲ VELYKĖLĖS 2026",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/marguciu-ridenimo-varzytuves-kauno-miesto-svente-vaiku-velykeles-2026-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Kauno miesto šventė VAIKŲ VELYKĖLĖS 2026",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-miesto-svente-vaiku-velykeles-2026-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "VELYKŲ MUZIKA",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/velyku-muzika-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Ekskursija Art deco Kaune(Laisvės.al)",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-art-deco-kaune-laisves-al-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Tarpukario inteligentija. Svečiuose pas pulkininką D. Grabį | Ekskursija-viešnagė | 04.12",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-inteligentija-sveciuose-pas-pulkininka-d-grabi-ekskursija-viesnage-04-12-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Susitikimas su kūrėjais: „Dulkės, kaulai ir stebuklai“",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-kurejais-dulkes-kaulai-ir-stebuklai-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "MEILĖS ĮKVĖPTI",
-      "date": "2026-04-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meiles-ikvepti-2026-04-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Projekto „Kalbà kal̃ba laisvai“ konferencija",
       "date": "2026-04-13",
@@ -939,10 +883,66 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-04-25",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 04.25 14:00",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-04-25-14-00-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Motinos dienai skirtas koncertas \"Motinėlė Obelėlė\"",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/motinos-dienai-skirtas-koncertas-motinele-obelele-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "AKMENYS JO KIŠENĖSE",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/akmenys-jo-kisenese-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Koncertas „Pavasario garsai“",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-pavasario-garsai-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "LIETUVOS POETŲ DAINOS",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvos-poetu-dainos-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "A.Lipsko kūrybos vakaras",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/a-lipsko-kurybos-vakaras-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Spektaklis „Galaktikos“ (N-10)",
+      "date": "2026-04-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-galaktikos-n-10-2026-04-26",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Tamsusis Kauno tarpukaris",
+      "date": "2026-04-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-04-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 16,
+    "index": 13,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
