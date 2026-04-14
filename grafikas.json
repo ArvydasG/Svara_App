@@ -1,179 +1,6 @@
 {
-  "contracts": [
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-118461 0,24",
-      "dates": [
-        "2026-05-04",
-        "2026-06-01",
-        "2026-06-29",
-        "2026-07-27",
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598 0,12",
-      "dates": [
-        "2026-05-04",
-        "2026-06-29",
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Mišrios komunalinės",
-      "containerType": "MK-128501 0,14",
-      "dates": [
-        "2026-04-20",
-        "2026-05-04",
-        "2026-05-18",
-        "2026-06-01",
-        "2026-06-15",
-        "2026-06-29",
-        "2026-07-13",
-        "2026-07-27",
-        "2026-08-10",
-        "2026-08-24",
-        "2026-09-07",
-        "2026-09-21",
-        "2026-10-05",
-        "2026-10-19",
-        "2026-11-02",
-        "2026-11-16",
-        "2026-11-30",
-        "2026-12-14",
-        "2026-12-28",
-        "2027-01-11",
-        "2027-01-25",
-        "2027-02-08",
-        "2027-02-22",
-        "2027-03-08",
-        "2027-03-22",
-        "2027-04-05",
-        "2027-04-19",
-        "2027-05-03",
-        "2027-05-17",
-        "2027-05-31",
-        "2027-06-14",
-        "2027-06-28"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-117894 0,12",
-      "dates": [
-        "2026-05-04",
-        "2026-06-29",
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-122262 0,24",
-      "dates": [
-        "2026-05-04",
-        "2026-06-01",
-        "2026-06-29",
-        "2026-07-27",
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Mišrios komunalinės",
-      "containerType": "MK-140627 0,14",
-      "dates": [
-        "2026-04-20",
-        "2026-05-04",
-        "2026-05-18",
-        "2026-06-01",
-        "2026-06-15",
-        "2026-06-29",
-        "2026-07-13",
-        "2026-07-27",
-        "2026-08-10",
-        "2026-08-24",
-        "2026-09-07",
-        "2026-09-21",
-        "2026-10-05",
-        "2026-10-19",
-        "2026-11-02",
-        "2026-11-16",
-        "2026-11-30",
-        "2026-12-14",
-        "2026-12-28",
-        "2027-01-11",
-        "2027-01-25",
-        "2027-02-08",
-        "2027-02-22",
-        "2027-03-08",
-        "2027-03-22",
-        "2027-04-05",
-        "2027-04-19",
-        "2027-05-03",
-        "2027-05-17",
-        "2027-05-31",
-        "2027-06-14",
-        "2027-06-28"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Žaliųjų atliekų",
-      "containerType": "BZ-113384 0,24",
-      "dates": [
-        "2026-04-29",
-        "2026-05-27",
-        "2026-06-24",
-        "2026-07-22",
-        "2026-08-19",
-        "2026-09-16",
-        "2026-10-14",
-        "2026-11-11",
-        "2027-04-28",
-        "2027-05-26",
-        "2027-06-23"
-      ],
-      "hasRealDates": true
-    }
-  ],
-  "updated_at": "2026-04-13",
+  "contracts": [],
+  "updated_at": "2026-04-14",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,79 +22,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "MUGĖ",
-      "url": "https://botanika.vdu.lt/ivykiai/muge-augalu-kaune",
-      "date": "2026-04-25",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Povilo Ventos Kuprio knygų „Potyriai trys“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/povilo-ventos-kuprio-knygu-potyriai-trys-pristatymas-3",
-      "date": "2026-04-29",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Paskaita „Kraujo spaudimas ir cholesterolis“",
-      "url": "https://kaunobiblioteka.lt/paskaita-kraujo-spaudimas-ir-cholesterolis",
-      "date": "2026-04-15",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Romarikos Pikelienės stiklo paroda „Tirpstantys ledynai“",
-      "url": "https://kaunobiblioteka.lt/romarikos-pikelienes-stiklo-paroda-tirpstantys-ledynai",
-      "date": "2026-04-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Viktorijos Brundzaitės fotografijų paroda „Pirmą kartą Vietname“",
-      "url": "https://kaunobiblioteka.lt/viktorijos-brundzaites-fotografiju-paroda-pirma-karta-vietname-2",
-      "date": "2026-04-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Kūrybinės dirbtuvės vaikams „Kuriu knygos skirtuką“",
-      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-kuriu-knygos-skirtuka",
-      "date": "2026-04-15",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Projekto „Kalbà kal̃ba laisvai“ konferencija",
-      "date": "2026-04-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/projekto-kalba-kalba-laisvai-konferencija-2026-04-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Gyventojų pajamų deklaravimas su VMI specialistų pagalba",
-      "date": "2026-04-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gyventoju-pajamu-deklaravimas-su-vmi-specialistu-pagalba-2026-04-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Motiejaus Valančiaus paveldas: dieviški ir pasaulietiniai sodai",
-      "date": "2026-04-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/motiejaus-valanciaus-paveldas-dieviski-ir-pasaulietiniai-sodai-2026-04-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Lietuviškų šokių vakaras",
-      "date": "2026-04-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisku-sokiu-vakaras-2026-04-13",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
     {
       "title": "Šarūno Matijošaičio darbų paroda „Dainos ir albumai“",
       "date": "2026-04-14",
@@ -386,6 +142,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kiek-sunzi-karybos-desniai-aktualus-dabar-pokalbis-su-filosofu-ir-verteju-vyciu-siliumi-2026-04-15",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Susitikimas su mainų programos studentais iš Japonijos",
+      "date": "2026-04-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-mainu-programos-studentais-is-japonijos-2026-04-15",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
     },
     {
       "title": "Žaliakalnio protmūšis",
@@ -577,11 +340,25 @@
       "category": "Kiti"
     },
     {
+      "title": "Paskaita „Stilius be pertekliaus: kaip kurti garderobą protingai“ su tvarios mados dizainere Olesia Les",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-stilius-be-pertekliaus-kaip-kurti-garderoba-protingai-su-tvarios-mados-dizainere-olesia-les-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Šeimų pažintinė ekspedicija",
       "date": "2026-04-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seimu-pazintine-ekspedicija-2026-04-18",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Kauno Tado Ivanausko zoologijos muziejuje savaitgalio ekskursijos",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-tado-ivanausko-zoologijos-muziejuje-savaitgalio-ekskursijos-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "PREMJERA. „TIP TOP“ | Lietuvos teatrų pavasaris",
@@ -629,6 +406,13 @@
       "title": "KVĖPAVIMAS (N-16)",
       "date": "2026-04-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-2026-04-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Studio101 Live",
+      "date": "2026-04-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/studio101-live-2026-04-18",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -724,6 +508,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Justas Tertelis „PRAeis“",
+      "date": "2026-04-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/justas-tertelis-praeis-2026-04-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Algio Bitauto knygos „Atminties karai“ pristatymas",
       "date": "2026-04-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/algio-bitauto-knygos-atminties-karai-pristatymas-2026-04-22",
@@ -750,6 +541,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/projektas-kinas-bibliotekoje-jaunoji-karta-dokumentikoje-filmas-dear-future-children-2026-04-22",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "Paskaita apie neformalųjį švietimą su Kayako Takagi",
+      "date": "2026-04-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-apie-neformaluji-svietima-su-kayako-takagi-2026-04-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Solo fortepijono programa CINEMA PARADISO",
@@ -794,11 +592,25 @@
       "category": "Literatūra"
     },
     {
+      "title": "23-ojo „Kauno istorijos metraščio“ pristatymas",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/23-ojo-kauno-istorijos-metrascio-pristatymas-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Vaikų ir moksleivių – lietuvių liaudies kūrybos atlikėjų – konkurso TRAMTATULIS 2026 Kauno ratas",
       "date": "2026-04-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vaiku-ir-moksleiviu-lietuviu-liaudies-kurybos-atlikeju-konkurso-tramtatulis-2026-kauno-ratas-2026-04-24",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "101-asis bibliotekos gimtadienis | Ekskursija „Bibliotekos lobynai“",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/101-asis-bibliotekos-gimtadienis-ekskursija-bibliotekos-lobynai-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Parodos „Prikelti iš pelenų. Kaunas“ atidarymas",
@@ -892,6 +704,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Japoniškų arbatų degustacija ir edukacija su Asta Kavaliauskaite",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/japonisku-arbatu-degustacija-ir-edukacija-su-asta-kavaliauskaite-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Motinos dienai skirtas koncertas \"Motinėlė Obelėlė\"",
       "date": "2026-04-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/motinos-dienai-skirtas-koncertas-motinele-obelele-2026-04-25",
@@ -904,45 +723,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/akmenys-jo-kisenese-2026-04-25",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Koncertas „Pavasario garsai“",
-      "date": "2026-04-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-pavasario-garsai-2026-04-25",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "LIETUVOS POETŲ DAINOS",
-      "date": "2026-04-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvos-poetu-dainos-2026-04-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "A.Lipsko kūrybos vakaras",
-      "date": "2026-04-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/a-lipsko-kurybos-vakaras-2026-04-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis „Galaktikos“ (N-10)",
-      "date": "2026-04-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-galaktikos-n-10-2026-04-26",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Tamsusis Kauno tarpukaris",
-      "date": "2026-04-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-04-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 13,
+    "index": 16,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
