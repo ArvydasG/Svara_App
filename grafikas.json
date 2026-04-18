@@ -73,7 +73,8 @@
         "2027-05-17",
         "2027-05-31",
         "2027-06-14",
-        "2027-06-28"
+        "2027-06-28",
+        "2027-07-12"
       ],
       "hasRealDates": true
     },
@@ -150,7 +151,8 @@
         "2027-05-17",
         "2027-05-31",
         "2027-06-14",
-        "2027-06-28"
+        "2027-06-28",
+        "2027-07-12"
       ],
       "hasRealDates": true
     },
@@ -173,7 +175,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-17",
+  "updated_at": "2026-04-18",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -196,6 +198,12 @@
     }
   ],
   "events": [
+    {
+      "title": "Augalų žavadienis 2026",
+      "url": "https://botanika.vdu.lt/ivykiai/augalu-zavadienis-2026",
+      "date": "2026-05-18",
+      "source": "Botanikos sodas"
+    },
     {
       "title": "MUGĖ",
       "url": "https://botanika.vdu.lt/ivykiai/muge-augalu-kaune",
@@ -229,62 +237,6 @@
   ],
   "kaunas_events": [
     {
-      "title": "Tomas Kregždė personalinė paroda „CHAOSO ANATOMIJA“",
-      "date": "2026-04-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tomas-kregzde-personaline-paroda-chaoso-anatomija-2026-04-17",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "NIEKO RIBA I Architektūros ir interjero dizaino patyriminis renginys",
-      "date": "2026-04-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nieko-riba-i-architekturos-ir-interjero-dizaino-patyriminis-renginys-2026-04-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Fantastinis muzikinis spektaklis GIRIŲ KARALIUS",
-      "date": "2026-04-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fantastinis-muzikinis-spektaklis-giriu-karalius-2026-04-17",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Rašytoja ir jos paroda: LINA SIMUTYTĖ",
-      "date": "2026-04-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rasytoja-ir-jos-paroda-lina-simutyte-2026-04-17",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Susitikimas su Jaakovu Blumu parodoje „Multivisata“",
-      "date": "2026-04-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-jaakovu-blumu-parodoje-multivisata-2026-04-17",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "„CAMERATA SOLARIS“ IR SMUIKO VIRTUOZAS PH. QUINT",
-      "date": "2026-04-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/camerata-solaris-ir-smuiko-virtuozas-ph-quint-2026-04-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„MIGLA“ | Lietuvos teatrų pavasaris",
-      "date": "2026-04-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/migla-lietuvos-teatru-pavasaris-2026-04-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "PAVELDAS IR VIZIJOS // AUŠRA VAITKŪNIENĖ",
-      "date": "2026-04-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paveldas-ir-vizijos-ausra-vaitkuniene-2026-04-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
       "title": "ICOM Tarptautinė memorialinių muziejų diena J. Zikaro namuose-muziejuje",
       "date": "2026-04-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/icom-tarptautine-memorialiniu-muzieju-diena-j-zikaro-namuose-muziejuje-2026-04-18",
@@ -304,13 +256,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-buk-personazas-2026-04-18",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Pačios linksmiausios improvizacijos dirbtuvės",
-      "date": "2026-04-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pacios-linksmiausios-improvizacijos-dirbtuves-2026-04-18",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
     },
     {
       "title": "Labai Erzinančių Paauglių Teatras ,,LEPT!'' kviečia į antrojo sezono premjerą ,,LIKSIU''",
@@ -495,16 +440,16 @@
       "category": "Kiti"
     },
     {
-      "title": "Pavasariniai muzikos garsai Ąžuolyne",
-      "date": "2026-04-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pavasariniai-muzikos-garsai-azuolyne-2026-04-21",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
       "title": "Justas Tertelis „PRAeis“",
       "date": "2026-04-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/justas-tertelis-praeis-2026-04-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Improvizacijos klubas antradieniais",
+      "date": "2026-04-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-klubas-antradieniais-2026-04-21",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -649,6 +594,20 @@
       "category": "Parodos"
     },
     {
+      "title": "„Jaunųjų platforma“: H. Dolinkiewicz ir M. Piotrowicz paroda „Sonarium“",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunuju-platforma-h-dolinkiewicz-ir-m-piotrowicz-paroda-sonarium-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "IMPRO džemas Kauno meninkų namuose (komedijos vakaras)",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-kauno-meninku-namuose-komedijos-vakaras-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Vaikų ir moksleivių – lietuvių liaudies kūrybos atlikėjų – konkurso TRAMTATULIS 2026 Kauno ratas",
       "date": "2026-04-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vaiku-ir-moksleiviu-lietuviu-liaudies-kurybos-atlikeju-konkurso-tramtatulis-2026-kauno-ratas-2026-04-24",
@@ -719,6 +678,27 @@
       "category": "Kiti"
     },
     {
+      "title": "Broniaus Rudžio parodos „Branio ryzai“ atidarymas",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/broniaus-rudzio-parodos-branio-ryzai-atidarymas-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Martos Frėjutės parodos „Civilizacijų serijos“ atidarymas",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/martos-frejutes-parodos-civilizaciju-serijos-atidarymas-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ségolène Haehnsen Kan ir Mykolės Ganusauskaitės parodos „Žemės šnabždesiai“ atidarymas",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/segolene-haehnsen-kan-ir-mykoles-ganusauskaites-parodos-zemes-snabzdesiai-atidarymas-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "36-asis respublikinis šokių festivalis „ŠOKU TAU“",
       "date": "2026-04-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/36-asis-respublikinis-sokiu-festivalis-soku-tau-2026-04-24",
@@ -731,6 +711,27 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gl1tch-2026-04-24",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Martos Frėjutės paroda „Civilizacijų serijos“",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/martos-frejutes-paroda-civilizaciju-serijos-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Ségolène Haehnsen Kan ir Mykolės Ganusauskaitės paroda „Žemės šnabždesiai“",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/segolene-haehnsen-kan-ir-mykoles-ganusauskaites-paroda-zemes-snabzdesiai-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Broniaus Rudžio personalinė paroda „Branio ryzai“",
+      "date": "2026-04-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/broniaus-rudzio-personaline-paroda-branio-ryzai-2026-04-25",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Labai Erzinančių Paauglių Teatras ,,LEPT!'' kviečia į antrojo sezono premjerą ,,LIKSIU''",
@@ -927,12 +928,19 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/amziu-dialogai-2026-04-30",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Tomi Paldanius - Akustinės gitaros virtuozas",
+      "date": "2026-04-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tomi-paldanius-akustines-gitaros-virtuozas-2026-04-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 21,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 18,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
