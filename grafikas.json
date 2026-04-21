@@ -42,7 +42,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501 0,14",
       "dates": [
-        "2026-04-20",
         "2026-05-04",
         "2026-05-18",
         "2026-06-01",
@@ -120,7 +119,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627 0,14",
       "dates": [
-        "2026-04-20",
         "2026-05-04",
         "2026-05-18",
         "2026-06-01",
@@ -175,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-20",
+  "updated_at": "2026-04-21",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -236,20 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Projekto „Kalbà kal̃ba laisvai“ konferencija",
-      "date": "2026-04-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/projekto-kalba-kalba-laisvai-konferencija-2026-04-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Faustos Dambrauskaitės paskaita-mokymai apie emocijų neurologiją",
-      "date": "2026-04-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/faustos-dambrauskaites-paskaita-mokymai-apie-emociju-neurologija-2026-04-20",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
     {
       "title": "„Kalbų pasaulis iš arti“ – renginys gimnazistams",
       "date": "2026-04-21",
@@ -531,6 +515,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Armėnų kompozitorių muzikos koncertas",
+      "date": "2026-04-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/armenu-kompozitoriu-muzikos-koncertas-2026-04-24",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "36-asis respublikinis šokių festivalis „ŠOKU TAU“",
       "date": "2026-04-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/36-asis-respublikinis-sokiu-festivalis-soku-tau-2026-04-24",
@@ -727,6 +718,13 @@
       "category": "Literatūra"
     },
     {
+      "title": "Filmų „Lietuvos Respublikos prezidentas Antanas Smetona“ ir „Istorinė Lietuvos Respublikos prezidentūra“ peržiūra",
+      "date": "2026-04-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmu-lietuvos-respublikos-prezidentas-antanas-smetona-ir-istorine-lietuvos-respublikos-prezidentura-perziura-2026-04-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Parodos „Arbatos puodelio istorijos“ atidarymas",
       "date": "2026-04-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-arbatos-puodelio-istorijos-atidarymas-2026-04-29",
@@ -755,6 +753,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Tarptautinė šokio diena su Kauno kultūros centro kolektyvais",
+      "date": "2026-04-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautine-sokio-diena-su-kauno-kulturos-centro-kolektyvais-2026-04-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "AI & Content Summit",
       "date": "2026-04-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ai-content-summit-2026-04-30",
@@ -767,6 +772,20 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-04-30",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Atviros knygų pakavimo dirbtuvės. „Aklas pasimatymas su knyga“",
+      "date": "2026-04-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atviros-knygu-pakavimo-dirbtuves-aklas-pasimatymas-su-knyga-2026-04-30",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Antrosios Ramūno Čičelio poezijos knygos „Rečitatyvai“ pristatymas",
+      "date": "2026-04-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/antrosios-ramuno-cicelio-poezijos-knygos-recitatyvai-pristatymas-2026-04-30",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "AMŽIŲ DIALOGAI",
@@ -853,6 +872,13 @@
       "category": "Muzika"
     },
     {
+      "title": "„Sengirės kinas“ ir „Ornitostogos“ kviečia švęsti 100-ąjį Davido Attenborough gimtadienį",
+      "date": "2026-05-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-ir-ornitostogos-kviecia-svesti-100-aji-davido-attenborough-gimtadieni-2026-05-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Improvizacijos pamokos Ąžuolyno bibliotekoje (nemokamai)",
       "date": "2026-05-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-pamokos-azuolyno-bibliotekoje-nemokamai-2026-05-05",
@@ -907,38 +933,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasimatymai-kriausiu-laukas-nanos-ekvtimisvili-sakartvelas-skaitymai-pokalbis-kauno-literaturos-savaite-26-2026-05-07",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
-    },
-    {
-      "title": "Pasimatymai. Neverendas. Alešo ŠTEGERIO (Slovėnija) skaitymai + pokalbis | Kauno literatūros savaitė'26",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasimatymai-neverendas-aleso-stegerio-slovenija-skaitymai-pokalbis-kauno-literaturos-savaite-26-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "KMSO SEZONO PABAIGOS KONCERTAS: NUO VIENOS IKI PARYŽIAUS",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kmso-sezono-pabaigos-koncertas-nuo-vienos-iki-paryziaus-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Pasimatymai. Didis stebuklas. Violos ARDONE (Italija) skaitymai + pokalbis | Kauno literatūros savaitė'26",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasimatymai-didis-stebuklas-violos-ardone-italija-skaitymai-pokalbis-kauno-literaturos-savaite-26-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Dainuojamosios poezijos vakaras",
-      "date": "2026-05-09",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dainuojamosios-poezijos-vakaras-2026-05-09",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
     }
   ],
   "air_quality": {
-    "index": 25,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
