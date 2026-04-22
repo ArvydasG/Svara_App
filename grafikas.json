@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-21",
+  "updated_at": "2026-04-22",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,80 +195,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Augalų žavadienis 2026",
-      "url": "https://botanika.vdu.lt/ivykiai/augalu-zavadienis-2026",
-      "date": "2026-05-18",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "MUGĖ",
-      "url": "https://botanika.vdu.lt/ivykiai/muge-augalu-kaune",
-      "date": "2026-04-25",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Povilo Ventos Kuprio knygų „Potyriai trys“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/povilo-ventos-kuprio-knygu-potyriai-trys-pristatymas-3",
-      "date": "2026-04-29",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Romarikos Pikelienės stiklo paroda „Tirpstantys ledynai“",
-      "url": "https://kaunobiblioteka.lt/romarikos-pikelienes-stiklo-paroda-tirpstantys-ledynai",
-      "date": "2026-04-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Viktorijos Brundzaitės fotografijų paroda „Pirmą kartą Vietname“",
-      "url": "https://kaunobiblioteka.lt/viktorijos-brundzaites-fotografiju-paroda-pirma-karta-vietname-2",
-      "date": "2026-04-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "„Kalbų pasaulis iš arti“ – renginys gimnazistams",
-      "date": "2026-04-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kalbu-pasaulis-is-arti-renginys-gimnazistams-2026-04-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Žaidinimų rytmetis šeimoms \"Krepštu, krepštu katinėlį\"",
-      "date": "2026-04-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zaidinimu-rytmetis-seimoms-krepstu-krepstu-katineli-2026-04-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Paskaita „Kauniečių rūpesčiai tarpukariu: nuo sanitarijos būklės iki butų trūkumų“",
-      "date": "2026-04-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kaunieciu-rupesciai-tarpukariu-nuo-sanitarijos-bukles-iki-butu-trukumu-2026-04-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Justas Tertelis „PRAeis“",
-      "date": "2026-04-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/justas-tertelis-praeis-2026-04-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Improvizacijos klubas antradieniais",
-      "date": "2026-04-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-klubas-antradieniais-2026-04-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "NERAMUMAI. Tapybos darbų paroda",
       "date": "2026-04-22",
@@ -347,6 +275,13 @@
       "category": "Scena"
     },
     {
+      "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Fotografijos dirbtuvės „Eilutė ir kadras“",
       "date": "2026-04-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fotografijos-dirbtuves-eilute-ir-kadras-2026-04-23",
@@ -366,6 +301,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/poezijos-kavine-garazas-miesto-poetai-2026-04-23",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "„Kaunas fotografijose 3“",
+      "date": "2026-04-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaunas-fotografijose-3-2026-04-23",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "LISZT MEETS THE QUEEN",
@@ -760,6 +702,20 @@
       "category": "Kiti"
     },
     {
+      "title": "Austės Skardžiukaitės-Kabašinskienės  parodos „Ex ovo omnia“ atidarymas",
+      "date": "2026-04-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/austes-skardziukaites-kabasinskienes-parodos-ex-ovo-omnia-atidarymas-2026-04-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ex ovo omnia | Austė Skardžiukaitė-Kabašinskienė",
+      "date": "2026-04-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ex-ovo-omnia-auste-skardziukaite-kabasinskiene-2026-04-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "AI & Content Summit",
       "date": "2026-04-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ai-content-summit-2026-04-30",
@@ -786,6 +742,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/antrosios-ramuno-cicelio-poezijos-knygos-recitatyvai-pristatymas-2026-04-30",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Kai angelai ateina žmonių pavidalu.",
+      "date": "2026-04-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kai-angelai-ateina-zmoniu-pavidalu-2026-04-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "AMŽIŲ DIALOGAI",
@@ -828,6 +791,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-05-02-11-15-2026-05-02",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Šeimų šeštadienis muziejuje: japoniškų koinobori dirbtuvės",
+      "date": "2026-05-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seimu-sestadienis-muziejuje-japonisku-koinobori-dirbtuves-2026-05-02",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "Imanuelis Kantas // Kauno menininkų namai [05.02]",
@@ -926,19 +896,12 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasimatymai-ziema-sokce-elisos-shua-dusapin-sveicarija-ir-pietu-koreja-skaitymai-pokalbis-kauno-literaturos-savaite-26-2026-05-07",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
-    },
-    {
-      "title": "Pasimatymai. Kriaušių laukas. Nanos EKVTIMIŠVILI (Sakartvelas) skaitymai + pokalbis | Kauno literatūros savaitė'26",
-      "date": "2026-05-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasimatymai-kriausiu-laukas-nanos-ekvtimisvili-sakartvelas-skaitymai-pokalbis-kauno-literaturos-savaite-26-2026-05-07",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
     }
   ],
   "air_quality": {
-    "index": 22,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 16,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
