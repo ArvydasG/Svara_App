@@ -168,12 +168,13 @@
         "2026-11-11",
         "2027-04-28",
         "2027-05-26",
-        "2027-06-23"
+        "2027-06-23",
+        "2027-07-21"
       ],
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-04-26",
+  "updated_at": "2026-04-27",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -234,41 +235,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Spektaklis „Galaktikos“ (N-10)",
-      "date": "2026-04-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-galaktikos-n-10-2026-04-26",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Nerk į alaus istoriją | Ekskursija-degustacija | 04.26",
-      "date": "2026-04-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nerk-i-alaus-istorija-ekskursija-degustacija-04-26-2026-04-26",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Tamsusis Kauno tarpukaris",
-      "date": "2026-04-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-04-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "GRAŽIAUSIOS TĖVYNĖS DAINOS",
-      "date": "2026-04-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/graziausios-tevynes-dainos-2026-04-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Koncertas „Gyvenimas kaip filmas“",
-      "date": "2026-04-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-gyvenimas-kaip-filmas-2026-04-26",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "TAU paskaita „Mįslingas D. Dolskio gyvenimas: vaikystė Šiaurės Jeruzalėje – mirtis Šiaurės Kasablankoje“",
       "date": "2026-04-28",
@@ -760,6 +726,13 @@
       "category": "Scena"
     },
     {
+      "title": "Videokaukas Romuvoje: „Betmenas“ (1989)",
+      "date": "2026-05-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/videokaukas-romuvoje-betmenas-1989-2026-05-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "EKSKURSIJA, SKIRTA ARCHITEKTO E. A. FRYKO 150-AJAM GIMTADIENIUI",
       "date": "2026-05-11",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-skirta-architekto-e-a-fryko-150-ajam-gimtadieniui-2026-05-11",
@@ -933,10 +906,38 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/2026-m-shotokan-karate-turnyras-meistriskumo-kelias-2026-05-23",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Švęskime upę! 2026",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sveskime-upe-2026-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Interaktyvus spektaklis „Akys“",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Pažintinis orientavimosi žaidimas „Kaip Lietuva į pasaulį ėjo“",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pazintinis-orientavimosi-zaidimas-kaip-lietuva-i-pasauli-ejo-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 32,
+    "index": 28,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
