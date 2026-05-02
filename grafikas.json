@@ -1,6 +1,6 @@
 {
   "contracts": [],
-  "updated_at": "2026-05-01",
+  "updated_at": "2026-05-02",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -76,57 +76,9 @@
       "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
       "date": "Aktualu",
       "source": "Biblioteka"
-    },
-    {
-      "title": "Romarikos Pikelienės stiklo paroda „Tirpstantys ledynai“",
-      "url": "https://kaunobiblioteka.lt/romarikos-pikelienes-stiklo-paroda-tirpstantys-ledynai",
-      "date": "2026-04-30",
-      "source": "Biblioteka"
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Kauno mugė Pavasaris 2026",
-      "date": "2026-05-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-muge-pavasaris-2026-2026-05-01",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Kauno tvirtovės parko sezono atidarymas 2026",
-      "date": "2026-05-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-tvirtoves-parko-sezono-atidarymas-2026-2026-05-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„Rožinio triukšmo“ marškinėlių kūrimo dirbtuvės Kauno mugėje „Pavasaris 2026“",
-      "date": "2026-05-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rozinio-triuksmo-marskineliu-kurimo-dirbtuves-kauno-mugeje-pavasaris-2026-2026-05-01",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Dirbk mažiau, gyvenk daugiau! Gegužės 1-osios eitynės ir kiti renginiai",
-      "date": "2026-05-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dirbk-maziau-gyvenk-daugiau-geguzes-1-osios-eitynes-ir-kiti-renginiai-2026-05-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Posh juokauja Kauno miesto šventėje",
-      "date": "2026-05-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/posh-juokauja-kauno-miesto-sventeje-2026-05-01",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Major Hazard // Armatūra // Na, ša // DIRBK MAŽIAU, GYVENK DAUGIAU!",
-      "date": "2026-05-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/major-hazard-armatura-na-sa-dirbk-maziau-gyvenk-daugiau-2026-05-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "60-osios Tarptautinės sportinių šokių varžybos „Gintarinė pora“",
       "date": "2026-05-02",
@@ -784,12 +736,54 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fukuyama-miesto-hitotsubashi-vidurines-mokyklos-bugnininku-koncertas-dirbtuveslietuvos-svietimo-muziejuje-2026-05-16",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "ANKSTUKŲ ŽYGIS 2026: ŽENKIME DRAUGE UŽ GYVENIMĄ",
+      "date": "2026-05-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ankstuku-zygis-2026-zenkime-drauge-uz-gyvenima-2026-05-17",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Spektaklis APIE DRAUGYSTĘ (N-4)",
+      "date": "2026-05-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-apie-draugyste-n-4-2026-05-17",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "RIBOŽENKLIAI. KAUNAS | šokio spektaklis-ekskursija",
+      "date": "2026-05-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ribozenkliai-kaunas-sokio-spektaklis-ekskursija-2026-05-17",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Paroda „Pasauliui apie Lietuvą“",
+      "date": "2026-05-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-pasauliui-apie-lietuva-2026-05-18",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Mitai ir faktai apie „Mėsavalgius“. Knygos pristatymas ir susitikimas su Liutauru Čepracku ir Laura Čepukaite",
+      "date": "2026-05-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mitai-ir-faktai-apie-mesavalgius-knygos-pristatymas-ir-susitikimas-su-liutauru-cepracku-ir-laura-cepukaite-2026-05-18",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "TRENKSMAS 2026: Tavo ėjimas! | Kūrybinio rašymo dirbtuvės „Tekstas ir kūnas“",
+      "date": "2026-05-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-kurybinio-rasymo-dirbtuves-tekstas-ir-kunas-2026-05-18",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 16,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 23,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
