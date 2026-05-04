@@ -1,6 +1,6 @@
 {
   "contracts": [],
-  "updated_at": "2026-05-03",
+  "updated_at": "2026-05-04",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -79,41 +79,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Improšou mieste su Ta, šita ir ana, bei A Komanda",
-      "date": "2026-05-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improsou-mieste-su-ta-sita-ir-ana-bei-a-komanda-2026-05-03",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "JOGAILAIČIŲ DVARO IR KOPLYČIOS MUZIKA",
-      "date": "2026-05-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jogailaiciu-dvaro-ir-koplycios-muzika-2026-05-03",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "NAKTIS NIUJORKE. Koncertas, skirtas Motinos dienai",
-      "date": "2026-05-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktis-niujorke-koncertas-skirtas-motinos-dienai-2026-05-03",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Mamos diena kine: „Muzikos garsai“",
-      "date": "2026-05-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mamos-diena-kine-muzikos-garsai-2026-05-03",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Kauno literatūros savaitės pratarmė | Filmai pagal festivalio svečių knygas",
-      "date": "2026-05-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-literaturos-savaites-pratarme-filmai-pagal-festivalio-sveciu-knygas-2026-05-04",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "Lietuviškų šokių vakaras",
       "date": "2026-05-04",
@@ -778,10 +743,45 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/la-vie-en-rose-2-0-raudondvario-dvaras-2026-05-21",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės I forte",
+      "date": "2026-05-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-05-21",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-05-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-05-22",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Spektaklis AKMENYS JO KIŠENĖSE",
+      "date": "2026-05-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-akmenys-jo-kisenese-2026-05-22",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Kaimynų ir šeimų piknikas „Kaip kine“",
+      "date": "2026-05-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaimynu-ir-seimu-piknikas-kaip-kine-2026-05-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "2026 m. Shotokan karatė turnyras „Meistriškumo kelias“",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/2026-m-shotokan-karate-turnyras-meistriskumo-kelias-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 22,
+    "index": 24,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
