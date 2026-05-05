@@ -1,6 +1,6 @@
 {
   "contracts": [],
-  "updated_at": "2026-05-04",
+  "updated_at": "2026-05-05",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -24,6 +24,12 @@
   ],
   "events": [
     {
+      "title": "Monografijos apie prof. Ž. E. Žiliberą pristatymas Botanikos sode",
+      "url": "https://botanika.vdu.lt/ivykiai/monografijos-apie-prof-z-e-zilibera-pristatymas-botanikos-sode",
+      "date": "2026-05-21",
+      "source": "Botanikos sodas"
+    },
+    {
       "title": "Augalų žavadienis 2026",
       "url": "https://botanika.vdu.lt/ivykiai/augalu-zavadienis-2026",
       "date": "2026-05-18",
@@ -39,12 +45,6 @@
       "title": "In memoriam Birutė Galdikas",
       "url": "https://botanika.vdu.lt/ivykiai/in-memoriam-birute-galdikas",
       "date": "2026-05-10",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Konferencija ŽMOGAUS IR GAMTOS SAUGA",
-      "url": "https://botanika.vdu.lt/ivykiai/konferencija-zmogaus-ir-gamtos-sauga-2026",
-      "date": "2026-05-06",
       "source": "Botanikos sodas"
     },
     {
@@ -80,25 +80,11 @@
   ],
   "kaunas_events": [
     {
-      "title": "Lietuviškų šokių vakaras",
-      "date": "2026-05-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisku-sokiu-vakaras-2026-05-04",
+      "title": "Antanui Žmuidzinavičiui 150. Paroda „Tylūs horizontai“",
+      "date": "2026-05-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/antanui-zmuidzinaviciui-150-paroda-tylus-horizontai-2026-05-05",
       "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "SENGIRĖS KINAS Kauno Vinco Kudirkos viešojoje bibliotekoje: „Attenborough rojuje“",
-      "date": "2026-05-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-kauno-vinco-kudirkos-viesojoje-bibliotekoje-attenborough-rojuje-2026-05-04",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Koncertas „Tu nežiūrėk, mama, pro langą\"",
-      "date": "2026-05-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-tu-neziurek-mama-pro-langa-2026-05-04",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
+      "category": "Parodos"
     },
     {
       "title": "Paskaita „Kauno plėtra XX a. antrojoje pusėje: Dainava, Kalniečiai, Eiguliai, Šilainiai“",
@@ -122,6 +108,13 @@
       "category": "Kinas"
     },
     {
+      "title": "Nemokamas filmo „Kruzas“ seansas „Romuvoje“ | Kauno literatūros savaitė'26",
+      "date": "2026-05-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokamas-filmo-kruzas-seansas-romuvoje-kauno-literaturos-savaite-26-2026-05-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Improvizacijos pamokos Ąžuolyno bibliotekoje (nemokamai)",
       "date": "2026-05-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-pamokos-azuolyno-bibliotekoje-nemokamai-2026-05-05",
@@ -141,6 +134,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-05",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Nemokamas filmo „Žiema Sokče“ seansas „Romuvoje“ | Kauno literatūros savaitė'26",
+      "date": "2026-05-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokamas-filmo-ziema-sokce-seansas-romuvoje-kauno-literaturos-savaite-26-2026-05-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "Kauno literatūros savaitė 2026",
@@ -185,9 +185,9 @@
       "category": "Kiti"
     },
     {
-      "title": "Festivalio atidarymas. Valdo PAPIEVIO skaitymai iš naujausios knygos + pokalbis",
+      "title": "Festivalio atidarymas. Valdo PAPIEVIO skaitymai iš naujausios knygos + pokalbis | Kauno literatūros savaitė'26",
       "date": "2026-05-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/festivalio-atidarymas-valdo-papievio-skaitymai-is-naujausios-knygos-pokalbis-2026-05-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/festivalio-atidarymas-valdo-papievio-skaitymai-is-naujausios-knygos-pokalbis-kauno-literaturos-savaite-26-2026-05-06",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
     },
@@ -202,6 +202,13 @@
       "title": "Justino Žilinsko knygos „Tylenė“ pristatymas",
       "date": "2026-05-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/justino-zilinsko-knygos-tylene-pristatymas-2026-05-07",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Kūrybinės dirbtuvės „Kaligrafijos menas“ | Kauno literatūros savaitė'26",
+      "date": "2026-05-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybines-dirbtuves-kaligrafijos-menas-kauno-literaturos-savaite-26-2026-05-07",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
     },
@@ -269,6 +276,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Archeologijos paroda „Puošnūs ir praktiški Masteikių senkapio radiniai“",
+      "date": "2026-05-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/archeologijos-paroda-puosnus-ir-praktiski-masteikiu-senkapio-radiniai-2026-05-07",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Pasimatymai. Kriaušių laukas. Nanos EKVTIMIŠVILI (Sakartvelas) skaitymai + pokalbis | Kauno literatūros savaitė'26",
       "date": "2026-05-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasimatymai-kriausiu-laukas-nanos-ekvtimisvili-sakartvelas-skaitymai-pokalbis-kauno-literaturos-savaite-26-2026-05-07",
@@ -288,6 +302,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seminaras-seimos-bendruomenes-gimines-bei-tautos-rysys-ir-paprociai-gimines-medis-2026-2026-05-08",
       "source": "Kaunas Pilnas",
       "category": "Bendruomenės"
+    },
+    {
+      "title": "Lietuvos intelektualų dirbtuvėse: humanitarinės literatūros temos ir dilemos | Kauno literatūros savaitė'26",
+      "date": "2026-05-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvos-intelektualu-dirbtuvese-humanitarines-literaturos-temos-ir-dilemos-kauno-literaturos-savaite-26-2026-05-08",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "Pasimatymai. Neverendas. Alešo ŠTEGERIO (Slovėnija) skaitymai + pokalbis | Kauno literatūros savaitė'26",
@@ -339,6 +360,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Knygų laisvė. Bukinistų, antikvarinių knygynų ir nepriklausomų leidyklų mugė | Kauno literatūros savaitė'26",
+      "date": "2026-05-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygu-laisve-bukinistu-antikvariniu-knygynu-ir-nepriklausomu-leidyklu-muge-kauno-literaturos-savaite-26-2026-05-09",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Kauno „Nykštuko“ lėlių teatro spektaklis „Du meškiukai“",
       "date": "2026-05-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-nykstuko-leliu-teatro-spektaklis-du-meskiukai-2026-05-09",
@@ -365,6 +393,27 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-05-09",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija GYVI NAMAI | Gegužė",
+      "date": "2026-05-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-gyvi-namai-geguze-2026-05-09",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "„Putvinskio vizijos: nuo gatvės istorijos iki utopijos“ | Linoraižinio dirbtuvės 🟡 PGD'26",
+      "date": "2026-05-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/putvinskio-vizijos-nuo-gatves-istorijos-iki-utopijos-linoraizinio-dirbtuves-pgd-26-2026-05-09",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Diskusijų forumas. Literatūra ir kinas: sąsajos, įtakos, ribos | Kauno literatūros savaitė'26",
+      "date": "2026-05-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusiju-forumas-literatura-ir-kinas-sasajos-itakos-ribos-kauno-literaturos-savaite-26-2026-05-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "Ekskursija: IX fortas. TUNELIAIS. Kelionė laiku.",
@@ -444,6 +493,13 @@
       "category": "Kiti"
     },
     {
+      "title": "„Naktinėje kavinėje“ svečiuojasi „Café Europa“ | Kauno literatūros savaitė'26",
+      "date": "2026-05-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktineje-kavineje-sveciuojasi-cafe-europa-kauno-literaturos-savaite-26-2026-05-10",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "EKSKURSIJA, SKIRTA ARCHITEKTO E. A. FRYKO 150-AJAM GIMTADIENIUI",
       "date": "2026-05-11",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-skirta-architekto-e-a-fryko-150-ajam-gimtadieniui-2026-05-11",
@@ -477,6 +533,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-leidiniu-paroda-spausdinto-zodzio-reiksme-lietuviu-kalbos-sklaidai-ir-tautos-atgimimui-2026-05-13",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "NICHE 2026 ⑉⑇ SON OF CHI & ARTHUR FLINK, IXOJI",
+      "date": "2026-05-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/niche-2026-son-of-chi-arthur-flink-ixoji-2026-05-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Šokio spektaklis ,,Sodas 4.12°''",
@@ -521,6 +584,20 @@
       "category": "Kiti"
     },
     {
+      "title": "Knygos „Kauno pavieto pakamario teismo knyga (1619–1624)” pristatymas",
+      "date": "2026-05-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-kauno-pavieto-pakamario-teismo-knyga-16191624-pristatymas-2026-05-14",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Paskaita „Knygnešystė pakaunėje“",
+      "date": "2026-05-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-knygnesyste-pakauneje-2026-05-14",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės III forte",
       "date": "2026-05-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-05-14",
@@ -561,6 +638,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-05-16",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Paskaita „Kaip užauginti savo giminės medį“",
+      "date": "2026-05-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kaip-uzauginti-savo-gimines-medi-2026-05-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija su kuratoriais po parodą „Šešėly ir šviesoj. Kauno vaizdas“",
@@ -694,94 +778,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-kauno-jidis-literatura-dovydas-umru-2026-05-19",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
-    },
-    {
-      "title": "Poetiniai dialogai su Linu Tolvaiša, Ieva Cijūnėlyte ir Domantu Taukinaičiu",
-      "date": "2026-05-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/poetiniai-dialogai-su-linu-tolvaisa-ieva-cijunelyte-ir-domantu-taukinaiciu-2026-05-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-05-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-19",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Grožis senovės Egipte: natūralios kosmetikos dirbtuvės",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grozis-senoves-egipte-naturalios-kosmetikos-dirbtuves-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Atvira repeticija - pasidainavimai „Dainos mamai“",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atvira-repeticija-pasidainavimai-dainos-mamai-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Pasaka suaugusiems PITERIS PENAS",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaka-suaugusiems-piteris-penas-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Romuvos kinoteka: „Bulvarinis skaitalas“",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-bulvarinis-skaitalas-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "La Vie En Rose 2.0 | Raudondvario dvaras",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/la-vie-en-rose-2-0-raudondvario-dvaras-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės I forte",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija J. Zikaro namuose-muziejuje",
-      "date": "2026-05-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-05-22",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Spektaklis AKMENYS JO KIŠENĖSE",
-      "date": "2026-05-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-akmenys-jo-kisenese-2026-05-22",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Kaimynų ir šeimų piknikas „Kaip kine“",
-      "date": "2026-05-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaimynu-ir-seimu-piknikas-kaip-kine-2026-05-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "2026 m. Shotokan karatė turnyras „Meistriškumo kelias“",
-      "date": "2026-05-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/2026-m-shotokan-karate-turnyras-meistriskumo-kelias-2026-05-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 24,
+    "index": 28,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
