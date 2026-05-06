@@ -100,25 +100,33 @@ def scrape():
             page.wait_for_timeout(5000)
 
             # Forma
-            page.locator("input:visible").first.click()
+            page.locator("button[role='combobox']:has-text('Pasirinkite regioną')").click()
+            page.wait_for_timeout(1000)
             page.keyboard.type(ADDRESS['region'], delay=100)
-            page.wait_for_timeout(5000)
+            page.wait_for_timeout(1000)
             page.keyboard.press("Enter")
+            page.wait_for_timeout(3000)  # ILGAS LAUKIMAS GATVĖMS UŽKRAUTI
             
-            page.keyboard.press("Tab")
+            page.locator("button[role='combobox']:has-text('Pasirinkite gatvę')").click()
+            page.wait_for_timeout(1000)
             page.keyboard.type(ADDRESS['address'], delay=100)
-            page.wait_for_timeout(5000)
+            page.wait_for_timeout(2000)  # LAUKIAME KOL SUREAGUOS PAIEŠKA
             page.keyboard.press("Enter")
+            page.wait_for_timeout(2000)
             
-            page.keyboard.press("Tab")
+            page.locator("input[maxlength='5']").click()
             page.keyboard.type(ADDRESS['houseNumber'], delay=100)
-            page.keyboard.press("Enter")
+            page.wait_for_timeout(1000)
             
-            page.locator("button:has-text('Ieškoti')").first.click(force=True)
+            page.locator("button[type='submit']:has-text('Ieškoti')").click()
             page.wait_for_timeout(10000)
 
             # Renkame datas
+            # Pakeičiame selectorių, kad tikrai rastų "Išskleisti vežimo grafiką"
             rows = page.locator("tr:has(button:has-text('Išskleisti'))").all()
+            if not rows:
+                print("⚠️ Nerasta eilučių su 'Išskleisti'. Galbūt pasikeitė HTML struktūra?")
+
             for row in rows:
                 cols = row.locator("td").all()
                 if len(cols) >= 2:
@@ -131,18 +139,41 @@ def scrape():
                         'hasRealDates': False
                     })
 
+            def handle_response(response):
+                try:
+                    if response.status == 200 and "grafikai.svara.lt" in response.url:
+                        # Try to find dates in ANY json or text response that comes from the server
+                        if response.request.resource_type in ["fetch", "xhr"]:
+                            text = response.text()
+                            found = re.findall(r'\d{4}-\d{2}-\d{2}', text)
+                            if found:
+                                # Append to a global set or something
+                                if not hasattr(handle_response, "all_dates"):
+                                    handle_response.all_dates = set()
+                                handle_response.all_dates.update(found)
+                except:
+                    pass
+            page.on("response", handle_response)
+
             for item in final_results:
-                target_row = page.locator(f"tr:has-text('{item['containerType']}')").filter(has=page.locator("button:has-text('Išskleisti')"))
+                target_row = page.locator(f"tr:has-text('{item['containerType']}')")
                 if target_row.count() > 0:
                     try:
-                        with page.expect_response(lambda r: "api/" in r.url and r.status == 200, timeout=5000) as resp:
-                            target_row.locator("button:has-text('Išskleisti')").first.click()
-                            data = resp.value.json()
-                            items = data if isinstance(data, list) else data.get('data', [])
-                            dates = sorted(set(str(it['date'])[:10] for it in items if isinstance(it, dict) and it.get('date')))
-                            item['dates'] = [d for d in dates if d >= today_str]
-                            item['hasRealDates'] = len(item['dates']) > 0
-                    except: pass
+                        handle_response.all_dates = set() # Reset for this container
+                        
+                        # Click to expand
+                        target_row.locator("button:has-text('vežimo grafiką')").first.evaluate("el => el.click()")
+                        page.wait_for_timeout(3000)
+                        
+                        dates = sorted(list(handle_response.all_dates))
+                        item['dates'] = [d for d in dates if d >= today_str]
+                        item['hasRealDates'] = len(item['dates']) > 0
+                        
+                        # Close it back
+                        target_row.locator("button:has-text('vežimo grafiką')").first.evaluate("el => el.click()")
+                        page.wait_for_timeout(1000)
+                    except Exception as ex:
+                        print(f"Nepavyko išskleisti {item['containerType']}: {ex}")
         except Exception as e:
             print(f"⚠️ Klaida šiukšlių grafike: {e}")
 
