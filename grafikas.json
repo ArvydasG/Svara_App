@@ -1,6 +1,6 @@
 {
   "contracts": [],
-  "updated_at": "2026-05-05",
+  "updated_at": "2026-05-06",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -79,76 +79,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Antanui Žmuidzinavičiui 150. Paroda „Tylūs horizontai“",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/antanui-zmuidzinaviciui-150-paroda-tylus-horizontai-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Paskaita „Kauno plėtra XX a. antrojoje pusėje: Dainava, Kalniečiai, Eiguliai, Šilainiai“",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kauno-pletra-xx-a-antrojoje-puseje-dainava-kalnieciai-eiguliai-silainiai-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Grupės „Lazy Diamond“ albumo „Lingua“ pristatymo koncertas",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupes-lazy-diamond-albumo-lingua-pristatymo-koncertas-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "„Sengirės kinas“ ir „Ornitostogos“ kviečia švęsti 100-ąjį Davido Attenborough gimtadienį",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-ir-ornitostogos-kviecia-svesti-100-aji-davido-attenborough-gimtadieni-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Nemokamas filmo „Kruzas“ seansas „Romuvoje“ | Kauno literatūros savaitė'26",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokamas-filmo-kruzas-seansas-romuvoje-kauno-literaturos-savaite-26-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Improvizacijos pamokos Ąžuolyno bibliotekoje (nemokamai)",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-pamokos-azuolyno-bibliotekoje-nemokamai-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Improvizacijos klubas antradieniais",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizacijos-klubas-antradieniais-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Nemokamas filmo „Žiema Sokče“ seansas „Romuvoje“ | Kauno literatūros savaitė'26",
-      "date": "2026-05-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokamas-filmo-ziema-sokce-seansas-romuvoje-kauno-literaturos-savaite-26-2026-05-05",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Kauno literatūros savaitė 2026",
-      "date": "2026-05-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-literaturos-savaite-2026-2026-05-06",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
     {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-05-06",
@@ -239,6 +169,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/arvydo-juozaicio-knygos-tikra-sajudzio-istorija-1-knyga-pristatymas-2026-05-07",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Kristinos Mekienės akvarelių paroda \"Miestas, kurį mačiau\"",
+      "date": "2026-05-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kristinos-mekienes-akvareliu-paroda-miestas-kuri-maciau-2026-05-07",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "NE/PERFORMANSAS su Monika Dirsyte",
@@ -500,6 +437,13 @@
       "category": "Literatūra"
     },
     {
+      "title": "Justino Žilinsko knygos „Tylenė“ pristatymas",
+      "date": "2026-05-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/justino-zilinsko-knygos-tylene-pristatymas-2026-05-11",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "EKSKURSIJA, SKIRTA ARCHITEKTO E. A. FRYKO 150-AJAM GIMTADIENIUI",
       "date": "2026-05-11",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-skirta-architekto-e-a-fryko-150-ajam-gimtadieniui-2026-05-11",
@@ -512,6 +456,20 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/algirdo-kauspedo-knygos-koplycia-pristatymas-2026-05-11",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Aktoriaus Pijaus Narijausko skaitymai vaikams",
+      "date": "2026-05-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aktoriaus-pijaus-narijausko-skaitymai-vaikams-2026-05-12",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "„Kai daina tampa istorija“ | VDU Muzikos akademijos studentų koncertas",
+      "date": "2026-05-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kai-daina-tampa-istorija-vdu-muzikos-akademijos-studentu-koncertas-2026-05-12",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     },
     {
       "title": "Dokumentinis kinas kaip būdas suprasti jauną žmogų. Filmo „Spec. Žvėrynas“ peržiūra",
@@ -759,6 +717,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Jubiliejinės „VDU kultūros dienos“",
+      "date": "2026-05-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jubiliejines-vdu-kulturos-dienos-2026-05-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Komedija I Pažadink savo vidinę deivę",
       "date": "2026-05-19",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/komedija-i-pazadink-savo-vidine-deive-2026-05-19",
@@ -778,10 +743,45 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-kauno-jidis-literatura-dovydas-umru-2026-05-19",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Poetiniai dialogai su Linu Tolvaiša, Ieva Cijūnėlyte ir Domantu Taukinaičiu",
+      "date": "2026-05-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/poetiniai-dialogai-su-linu-tolvaisa-ieva-cijunelyte-ir-domantu-taukinaiciu-2026-05-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės IV forte",
+      "date": "2026-05-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-19",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Grožis senovės Egipte: natūralios kosmetikos dirbtuvės",
+      "date": "2026-05-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grozis-senoves-egipte-naturalios-kosmetikos-dirbtuves-2026-05-20",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Atvira repeticija - pasidainavimai „Dainos mamai“",
+      "date": "2026-05-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atvira-repeticija-pasidainavimai-dainos-mamai-2026-05-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Pasaka suaugusiems PITERIS PENAS",
+      "date": "2026-05-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaka-suaugusiems-piteris-penas-2026-05-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 28,
+    "index": 26,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
