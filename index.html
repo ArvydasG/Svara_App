@@ -1,943 +1,114 @@
 <!DOCTYPE html>
 <html lang="lt">
-
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seniavos kvartalas – Seniavos pl. 56F</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Pigiausias Kuras</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#007AFF">
+    <link rel="apple-touch-icon" href="icon-192.png">
+    <link rel="stylesheet" href="styles.css">
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
-        rel="stylesheet">
-
-    <!-- PWA integracija -->
-    <link rel="manifest" href="./manifest.json">
-    <meta name="theme-color" content="#111827">
-    <link rel="apple-touch-icon" href="./icon-192x192.png">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Švara">
-
-    <!-- OneSignal Push Notifications -->
-    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-    <script>
-        window.OneSignalDeferred = window.OneSignalDeferred || [];
-        OneSignalDeferred.push(async function (OneSignal) {
-            await OneSignal.init({
-                appId: "9f3d18fb-2825-4a44-b306-80e21a9df9d5",
-                promptOptions: {
-                    slidedown: {
-                        prompts: [{
-                            type: "push",
-                            autoPrompt: false,
-                            text: {
-                                actionMessage: "Norite gauti priminimus savo telefone išvakarėse prieš šiukšlių išvežimą?",
-                                acceptButton: "Sutinku",
-                                cancelButton: "Gal vėliau"
-                            }
-                        }]
-                    }
-                },
-                notifyButton: {
-                    enable: true,
-                    colors: {
-                        'circle.background': 'var(--accent)',
-                        'circle.foreground': 'white',
-                        'badge.background': 'red',
-                        'badge.foreground': 'white',
-                        'bullet.background': 'white',
-                        'pulse.color': 'var(--accent)'
-                    }
-                },
-                allowLocalhostAsSecureOrigin: true
-            });
-            OneSignal.Slidedown.promptPush();
-        });
-    </script>
-
-    <style>
-        :root {
-            --bg: #030712;
-            --surface: rgba(17, 24, 39, 0.7);
-            --surface-hover: rgba(31, 41, 55, 0.85);
-            --border: rgba(255, 255, 255, 0.08);
-            --border-hover: rgba(108, 99, 255, 0.3);
-            --accent: #f59e0b;
-            --accent-glow: rgba(245, 158, 11, 0.4);
-            --text: #f8fafc;
-            --text-dim: #94a3b8;
-            --radius-lg: 24px;
-            --radius-md: 16px;
-            --font: 'Inter', system-ui, -apple-system, sans-serif;
-
-            /* Waste type colors */
-            --color-mixed: #94a3b8;
-            --color-plastic: #3b82f6;
-            --color-glass: #10b981;
-            --color-bio: #84cc16;
-            --color-paper: #f97316;
-            --primary: var(--accent);
-        }
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: var(--font);
-            background: var(--bg);
-            background-image:
-                radial-gradient(circle at 0% 0%, rgba(99, 102, 241, 0.15) 0%, transparent 40%),
-                radial-gradient(circle at 100% 100%, rgba(168, 85, 247, 0.1) 0%, transparent 40%);
-            color: var(--text);
-            min-height: 100vh;
-            padding: clamp(1rem, 5vw, 3rem);
-            line-height: 1.5;
-            -webkit-font-smoothing: antialiased;
-        }
-
-        header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 3rem;
-            flex-wrap: wrap;
-            gap: 1.5rem;
-        }
-
-        .header-title h1 {
-            font-size: clamp(1.5rem, 4vw, 2.2rem);
-            font-weight: 800;
-            letter-spacing: -0.025em;
-            background: linear-gradient(to right, #fff, #94a3b8);
-            -webkit-background-clip: text;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-
-        .header-title p {
-            color: var(--text-dim);
-            font-size: 0.95rem;
-            margin-top: 0.25rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-
-        /* Hero Card */
-        #next-pickup-hero {
-            background: var(--surface);
-            backdrop-filter: blur(16px);
-            border: 1px solid var(--border);
-            border-radius: var(--radius-lg);
-            padding: 2.5rem;
-            margin-bottom: 3.5rem;
-            display: flex;
-            align-items: center;
-            gap: 3rem;
-            position: relative;
-            overflow: hidden;
-        }
-
-        #next-pickup-hero::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle, rgba(99, 102, 241, 0.05) 0%, transparent 50%);
-            pointer-events: none;
-        }
-
-        .days-counter {
-            width: 140px;
-            height: 140px;
-            background: var(--accent);
-            border-radius: 32px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 20px 40px -12px var(--accent-glow);
-            flex-shrink: 0;
-            line-height: 1.1;
-        }
-
-        .days-number {
-            font-size: 4rem;
-            font-weight: 900;
-            margin: -5px 0;
-        }
-
-        .days-label {
-            font-size: 0.85rem;
-            text-transform: uppercase;
-            font-weight: 700;
-            letter-spacing: 0.1em;
-            opacity: 0.9;
-        }
-
-        .days-label span {
-            display: block;
-        }
-
-        .next-info h2 {
-            font-size: 1.8rem;
-            font-weight: 800;
-            margin-bottom: 0.5rem;
-        }
-
-        .next-date {
-            color: var(--accent);
-            font-size: 1.15rem;
-            font-weight: 600;
-            margin-bottom: 1.5rem;
-        }
-
-        .next-type-badges {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.75rem;
-        }
-
-        .type-badge {
-            background: rgba(255, 255, 255, 0.04);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            padding: 0.5rem 1rem;
-            border-radius: 100px;
-            font-size: 0.85rem;
-            font-weight: 600;
-        }
-
-        /* Grid */
-        .section-title {
-            font-size: 1.1rem;
-            font-weight: 700;
-            margin-bottom: 1.5rem;
-            color: var(--text-dim);
-            padding-left: 0.5rem;
-        }
-
-        #schedule-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-            gap: 1.5rem;
-        }
-
-        .pickup-card {
-            background: var(--surface);
-            backdrop-filter: blur(12px);
-            border: 1px solid var(--border);
-            border-radius: var(--radius-md);
-            padding: 1.5rem;
-            display: flex;
-            align-items: center;
-            gap: 1.5rem;
-            transition: all 0.3s ease;
-        }
-
-        .pickup-card:hover {
-            background: var(--surface-hover);
-            border-color: var(--border-hover);
-            transform: translateY(-4px) scale(1.02);
-            box-shadow: 0 20px 30px -15px rgba(0, 0, 0, 0.5);
-        }
-
-        .card-days {
-            width: 70px;
-            height: 90px;
-            border-radius: 18px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            font-weight: 800;
-            background: rgba(255, 255, 255, 0.05);
-            line-height: 1.1;
-            padding: 5px 0;
-        }
-
-        .card-days.today-bg {
-            background: rgba(16, 185, 129, 0.15);
-            color: #10b981;
-            border: 1px solid rgba(16, 185, 129, 0.2);
-        }
-
-        .card-days.soon-bg {
-            background: rgba(245, 158, 11, 0.15);
-            color: #f59e0b;
-            border: 1px solid rgba(245, 158, 11, 0.2);
-        }
-
-        .d-num {
-            font-size: 1.6rem;
-            font-weight: 900;
-        }
-
-        .d-lab {
-            font-size: 0.6rem;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            opacity: 0.8;
-        }
-
-        .d-lab.top-lab {
-            margin-bottom: -2px;
-        }
-
-        .card-info h3 {
-            font-size: 1rem;
-            font-weight: 700;
-            color: var(--text);
-        }
-
-        .card-date {
-            font-size: 0.85rem;
-            color: var(--text-dim);
-            margin: 4px 0 10px 0;
-        }
-
-        .card-meta {
-            display: flex;
-            gap: 0.5rem;
-            flex-wrap: wrap;
-        }
-
-        .meta-chip {
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(255, 255, 255, 0.08);
-            font-size: 0.7rem;
-            font-weight: 600;
-            padding: 3px 8px;
-            border-radius: 6px;
-            color: var(--text-dim);
-        }
-
-        .waste-indicator {
-            width: 12px;
-            height: 12px;
-            border-radius: 4px;
-            margin-left: auto;
-            box-shadow: 0 0 12px currentColor;
-        }
-
-        /* States */
-        .state-box {
-            text-align: center;
-            padding: 4rem;
-            opacity: 0.6;
-        }
-
-        .spinner {
-            width: 48px;
-            height: 48px;
-            border: 4px solid rgba(255, 255, 255, 0.1);
-            border-top-color: var(--accent);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 2rem;
-        }
-
-        @keyframes spin {
-            to {
-                transform: rotate(360deg);
-            }
-        }
-
-        /* Holiday Styles */
-
-        #holidays-container {
-            display: flex;
-            flex-direction: column;
-            gap: 0.75rem;
-        }
-
-        .holiday-chip {
-            background: rgba(245, 158, 11, 0.1);
-            border: 1px solid rgba(245, 158, 11, 0.2);
-            padding: 0.85rem 1.25rem;
-            border-radius: 16px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            transition: all 0.2s ease;
-        }
-
-        .holiday-chip:hover {
-            background: rgba(245, 158, 11, 0.15);
-            transform: translateX(4px);
-        }
-
-        .holiday-name {
-            font-size: 0.85rem;
-            font-weight: 700;
-            color: #f59e0b;
-        }
-
-        .holiday-date {
-            font-size: 0.75rem;
-            color: var(--text-dim);
-        }
-
-        .holiday-warning {
-            background: rgba(239, 68, 68, 0.1);
-            color: #ef4444;
-            border: 1px solid rgba(239, 68, 68, 0.2);
-            padding: 4px 10px;
-            border-radius: 8px;
-            font-size: 0.75rem;
-            font-weight: 700;
-            margin: 8px 0;
-            margin: 8px 0;
-            display: inline-block;
-        }
-
-        /* Works Styles */
-        .works-section, .events-section, .news-section, .holiday-section {
-            margin-bottom: 1.25rem;
-        }
-
-        #works-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1rem;
-        }
-
-        .work-card {
-            background: rgba(245, 158, 11, 0.1);
-            border: 1px solid rgba(245, 158, 11, 0.2);
-            padding: 1rem 1.25rem;
-            border-radius: 16px;
-            display: flex;
-            gap: 1.25rem;
-            transition: all 0.2s ease;
-            margin-bottom: 0.75rem;
-            align-items: center;
-        }
-
-        .work-card:hover {
-            background: rgba(245, 158, 11, 0.15);
-            border-color: rgba(245, 158, 11, 0.3);
-            transform: translateX(4px);
-        }
-
-        .work-icon {
-            font-size: 1.5rem;
-            background: rgba(245, 158, 11, 0.1);
-            width: 44px;
-            height: 44px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 12px;
-            flex-shrink: 0;
-        }
-
-        .work-content {
-            flex-grow: 1;
-        }
-
-        .work-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 6px;
-            gap: 10px;
-        }
-
-        .work-header h4 {
-            font-size: 0.95rem;
-            font-weight: 700;
-            color: var(--text);
-        }
-
-        .work-status-badge {
-            font-size: 0.65rem;
-            font-weight: 800;
-            padding: 2px 8px;
-            border-radius: 6px;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-
-        .status-active {
-            background: rgba(245, 158, 11, 0.1);
-            color: #f59e0b;
-        }
-
-        .status-planned {
-            background: rgba(245, 158, 11, 0.05);
-            color: var(--text-dim);
-        }
-
-        .work-desc {
-            font-size: 0.85rem;
-            color: var(--text-dim);
-            line-height: 1.4;
-            margin-bottom: 12px;
-        }
-
-        .work-footer {
-            display: flex;
-            align-items: center;
-        }
-
-        .work-date {
-            font-size: 0.75rem;
-            color: var(--text-dim);
-            font-weight: 500;
-        }
-
-
-        .news-card {
-            display: block;
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(255, 255, 255, 0.05);
-            padding: 1rem;
-            border-radius: 12px;
-            margin-bottom: 0.75rem;
-            text-decoration: none;
-            transition: all 0.2s ease;
-        }
-
-        .news-card:hover {
-            background: rgba(255, 255, 255, 0.06);
-            transform: scale(1.01);
-        }
-
-        .news-card h4 {
-            font-size: 0.9rem;
-            color: var(--text);
-            margin-bottom: 8px;
-            line-height: 1.3;
-        }
-
-        .news-meta {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 0.75rem;
-        }
-
-        .news-date {
-            color: var(--text-dim);
-        }
-
-        .news-more {
-            color: var(--text);
-            font-weight: 700;
-            opacity: 0.8;
-        }
-
-        .event-card {
-            display: flex;
-            background: rgba(245, 158, 11, 0.1);
-            border: 1px solid rgba(245, 158, 11, 0.2);
-            border-radius: 16px;
-            margin-bottom: 0.75rem;
-            overflow: hidden;
-            transition: all 0.2s ease;
-            align-items: stretch;
-        }
-
-        .event-card:hover {
-            background: rgba(245, 158, 11, 0.15);
-            border-color: rgba(245, 158, 11, 0.3);
-            transform: translateX(4px);
-        }
-
-        .event-date-badge {
-            background: rgba(255, 255, 255, 0.05);
-            padding: 1rem;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-width: 80px;
-            border-right: 1px solid rgba(255, 255, 255, 0.05);
-        }
-
-        .event-icon {
-            font-size: 1.2rem;
-            margin-bottom: 4px;
-        }
-
-        .event-date-text {
-            font-size: 0.7rem;
-            font-weight: 600;
-            text-align: center;
-            color: #f59e0b;
-        }
-
-        .event-info {
-            padding: 1rem;
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-
-        .event-info h4 {
-            font-size: 0.9rem;
-            margin-bottom: 8px;
-            line-height: 1.3;
-        }
-
-        .event-footer {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 0.75rem;
-        }
-
-        .event-source {
-            color: var(--text-dim);
-        }
-
-        .event-link {
-            color: var(--text);
-            text-decoration: none;
-            font-weight: 700;
-            opacity: 0.8;
-        }
-
-        .event-link:hover,
-        .news-more:hover {
-            opacity: 1;
-            text-decoration: underline;
-        }
-
-        /* Category filter tabs */
-        .category-filters {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 0.5rem;
-            padding: 0.75rem 0 1rem 0;
-            width: 100%;
-        }
-
-        .cat-btn {
-            width: 100%;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            text-align: center;
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            color: var(--text-dim);
-            padding: 0.35rem 0.5rem;
-            border-radius: 100px;
-            font-size: 0.78rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            font-family: var(--font);
-        }
-
-        .cat-btn:hover {
-            background: rgba(245, 158, 11, 0.15);
-            border-color: rgba(245, 158, 11, 0.3);
-            color: var(--text);
-        }
-
-        .cat-btn.active {
-            background: var(--accent);
-            border-color: var(--accent);
-            color: #000;
-            font-weight: 800;
-            box-shadow: 0 4px 12px -4px var(--accent-glow);
-        }
-
-        /* Collapsible Section */
-        .collapsible-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            cursor: pointer;
-            padding: 0.5rem;
-            margin-bottom: 0.5rem;
-            border-radius: 8px;
-            transition: background 0.2s ease;
-        }
-
-        .collapsible-header:hover {
-            background: rgba(255, 255, 255, 0.05);
-        }
-
-        .collapsible-header .section-title {
-            margin-bottom: 0;
-            padding-left: 0;
-        }
-
-        .toggle-icon {
-            font-size: 1.2rem;
-            color: var(--text-dim);
-            transition: transform 0.3s ease;
-        }
-
-        .collapsible-content {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.4s ease-out, opacity 0.3s ease;
-            opacity: 0;
-        }
-
-        .collapsible-content.expanded {
-            max-height: 2000px; /* pakankamai didelis aukštis, kad tilptų renginiai */
-            opacity: 1;
-        }
-
-        .expanded .toggle-icon {
-            transform: rotate(180deg);
-        }
-
-        /* AQI Styles */
-        #aqi-widget {
-            margin-bottom: 1.5rem;
-        }
-
-        .aqi-card {
-            padding: 1rem 1.25rem;
-            border-radius: 16px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: all 0.2s ease;
-            cursor: default;
-        }
-
-        .aqi-card:hover {
-            transform: translateX(4px);
-        }
-
-        .aqi-excellent {
-            background: rgba(245, 158, 11, 0.1);
-            border-color: rgba(245, 158, 11, 0.2);
-        }
-
-        .aqi-excellent:hover {
-            background: rgba(245, 158, 11, 0.15);
-        }
-
-        .aqi-excellent .aqi-status {
-            color: #f59e0b;
-        }
-
-        .aqi-good {
-            background: rgba(245, 158, 11, 0.1);
-            border-color: rgba(245, 158, 11, 0.2);
-        }
-
-        .aqi-good:hover {
-            background: rgba(245, 158, 11, 0.15);
-        }
-
-        .aqi-good .aqi-status {
-            color: #f59e0b;
-        }
-
-        .aqi-moderate {
-            background: rgba(245, 158, 11, 0.1);
-            border-color: rgba(245, 158, 11, 0.2);
-        }
-
-        .aqi-moderate:hover {
-            background: rgba(245, 158, 11, 0.15);
-        }
-
-        .aqi-moderate .aqi-status {
-            color: #f59e0b;
-        }
-
-        .aqi-header {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 8px;
-        }
-
-        .aqi-label {
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            color: var(--text-dim);
-        }
-
-        .aqi-value {
-            font-weight: 800;
-            font-size: 1rem;
-            color: var(--text);
-        }
-
-        .aqi-status {
-            font-size: 1.2rem;
-            font-weight: 800;
-            display: block;
-            margin-bottom: 4px;
-        }
-
-        .aqi-desc {
-            font-size: 0.85rem;
-            color: var(--text-dim);
-        }
-
-        .hidden {
-            display: none !important;
-        }
-
-        @media (max-width: 640px) {
-            #next-pickup-hero {
-                flex-direction: column;
-                text-align: center;
-                gap: 1.5rem;
-                padding: 2rem;
-            }
-
-            .days-counter {
-                width: 100px;
-                height: 100px;
-            }
-
-            .days-number {
-                font-size: 2.5rem;
-            }
-
-            .next-type-badges {
-                justify-content: center;
-            }
-
-            header {
-                justify-content: center;
-                text-align: center;
-            }
-        }
-    </style>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS and JS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 </head>
-
 <body>
-    <header>
-        <div class="header-title">
-            <h1>🏘️ Seniavos kvartalas</h1>
-            <p>📍 Seniavos pl. 56F, Kauno m. sav.</p>
-        </div>
-        <div class="header-actions">
-            <span id="last-updated"></span>
-        </div>
-    </header>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>⛽ Pigiausias Kuras</h1>
+            <p>Raskite geriausią kainą savo mieste</p>
+        </header>
 
-    <main>
-        <!-- Loading -->
-        <div id="loading" class="state-box">
-            <div class="spinner"></div>
-            <p>Kraunamas grafikas…</p>
-        </div>
-
-        <!-- Error -->
-        <div id="error-state" class="state-box hidden">
-            <p style="font-size:2.5rem; margin-bottom: 1rem;">⚠️</p>
-            <p id="error-message">Nepavyko gauti duomenų</p>
-            <button id="retry-btn" onclick="fetchData()"
-                style="margin-top:20px; padding:12px 28px; background:var(--accent); border:none; color:white; border-radius:12px; cursor:pointer; font-weight:700;">Bandyti
-                vėl</button>
-        </div>
-
-        <!-- Empty -->
-        <div id="empty-state" class="state-box hidden">
-            <p style="font-size:2.5rem; margin-bottom: 1rem;">🔍</p>
-            <p>Nėra artimų šiukšlių išvežimų</p>
-        </div>
-
-        <!-- Content -->
-        <div id="content" class="hidden">
-            <div id="next-pickup-hero">
-                <div class="days-counter" id="hero-counter">
-                    <div class="days-label" id="hero-days-prefix"></div>
-                    <div class="days-number" id="hero-days">–</div>
-                    <div class="days-label" id="hero-days-label">...</div>
+        <main class="app-content">
+            <section class="controls">
+                <div class="input-group">
+                    <label for="city-select">Pasirinkite miestą arba nustatykite pagal internetą</label>
+                    <div style="display: flex; gap: 10px;">
+                        <select id="city-select" style="flex: 1;">
+                            <option value="Vilnius">Vilnius</option>
+                            <option value="Kaunas">Kaunas</option>
+                            <option value="Klaipėda">Klaipėda</option>
+                        </select>
+                        <button id="use-gps-btn" class="fuel-btn" style="flex: 0 0 auto; padding: 0 16px; background: #E5E5EA; border: none; border-radius: 12px; font-size: 20px;" title="Rasti pagal IP adresą">📍</button>
+                    </div>
                 </div>
-                <div class="next-info">
-                    <h2 id="hero-title">Kitas išvežimas</h2>
-                    <div class="next-date" id="hero-date"></div>
-                    <div class="next-type-badges" id="hero-badges"></div>
+                
+                <div id="gps-status" class="gps-status hidden">
+                    <span class="pulse-dot"></span>
+                    <span id="location-text">Ieškoma jūsų vietovės...</span>
                 </div>
-            </div>
 
-            <div id="aqi-widget" class="hidden"></div>
+                <div class="input-group">
+                    <label for="radius-select">Paieškos spindulys</label>
+                    <select id="radius-select">
+                        <option value="5">5 km spinduliu</option>
+                        <option value="10">10 km spinduliu</option>
+                        <option value="all" selected>Rodyti viską (visas miestas)</option>
+                    </select>
+                </div>
 
-            <div class="holiday-section hidden">
-                <div class="section-title">Artėjančios šventės</div>
-                <div id="holidays-container"></div>
-            </div>
+                <div class="input-group">
+                    <label for="network-select">Degalinių tinklas</label>
+                    <select id="network-select">
+                        <option value="all" selected>Visi tinklai</option>
+                        <option value="Circle K">Circle K</option>
+                        <option value="Neste">Neste</option>
+                        <option value="Viada">Viada</option>
+                        <option value="Baltic Petroleum">Baltic Petroleum</option>
+                        <option value="Emsi">Emsi</option>
+                        <option value="Jozita">Jozita</option>
+                        <option value="Saurida">Saurida</option>
+                        <option value="Orlen">Orlen</option>
+                    </select>
+                </div>
 
-            <div class="works-section hidden" id="works-wrapper">
-                <div class="collapsible-header" onclick="toggleWorks()">
-                    <div class="section-title">Vykdomi darbai (2 Km atstumu)</div>
-                    <span class="toggle-icon">▼</span>
+                <div class="input-group">
+                    <label>Kuro tipas</label>
+                    <div class="fuel-buttons" id="fuel-type-container">
+                        <button class="fuel-btn active" data-type="A95">A95</button>
+                        <button class="fuel-btn" data-type="Diesel">Dyzelinas</button>
+                        <button class="fuel-btn" data-type="LPG">Dujos (LPG)</button>
+                    </div>
                 </div>
-                <div id="works-content" class="collapsible-content">
-                    <div id="works-container"></div>
-                </div>
-            </div>
 
-            <div class="events-section hidden" id="events-wrapper">
-                <div class="collapsible-header" onclick="toggleEvents()">
-                    <div class="section-title">Artimiausi Aleksoto renginiai</div>
-                    <span class="toggle-icon">▼</span>
-                </div>
-                <div class="collapsible-content" id="events-content">
-                    <div id="events-container"></div>
-                </div>
-            </div>
+                <button id="find-cheapest-btn" class="primary-btn hidden">Rasti arčiausią ir pigiausią</button>
+            </section>
 
-            <div class="events-section hidden" id="kaunas-events-wrapper">
-                <div class="collapsible-header" onclick="toggleKaunasEvents()">
-                    <div class="section-title">Artimiausi Kauno renginiai</div>
-                    <span class="toggle-icon">▼</span>
+            <section id="results-container" class="results-section hidden">
+                <h2>Pigiausia degalinė:</h2>
+                <div id="cheapest-card" class="result-card highlight">
+                    <!-- Javascript will populate this -->
                 </div>
-                <div id="kaunas-events-content" class="collapsible-content">
-                    <div class="category-filters" id="kaunas-cat-filters"></div>
-                    <div id="kaunas-events-container"></div>
-                </div>
-            </div>
 
-            <div class="news-section hidden" id="news-wrapper">
-                <div class="collapsible-header" onclick="toggleNews()">
-                    <div class="section-title">Aleksoto seniūnijos naujienos</div>
-                    <span class="toggle-icon">▼</span>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+                    <h3 class="other-options-title" style="margin: 0;">Degalinės:</h3>
+                    <button id="toggle-view-btn" class="fuel-btn" style="padding: 6px 12px; font-size: 12px; flex: none; width: auto; background: #E5E5EA;">Rodyti sąrašą</button>
                 </div>
-                <div id="news-content" class="collapsible-content">
-                    <div id="news-container"></div>
+                <div id="map" style="height: 400px; width: 100%; border-radius: 12px; margin-top: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); z-index: 1;">
+                    <!-- Leaflet map will render here -->
                 </div>
-            </div>
+                <div id="other-stations-list" class="stations-list hidden" style="margin-top: 10px;">
+                    <!-- Javascript will populate this -->
+                </div>
+            </section>
+        </main>
+    </div>
 
-
-            <div class="schedule-section" id="schedule-wrapper">
-                <div class="collapsible-header" onclick="toggleSchedule()">
-                    <div class="section-title">Artimiausi šiukšlių išvežimai</div>
-                    <span class="toggle-icon">▼</span>
-                </div>
-                <div id="schedule-content" class="collapsible-content">
-                    <div id="schedule-container"></div>
-                </div>
-            </div>
-        </div>
-    </main>
-
+    <script src="data.js"></script>
     <script src="app.js"></script>
     <script>
-        // PWA Service Worker registracija
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('./sw.js')
-                    .then(registration => {
-                        console.log('SW registered:', registration.scope);
-                    })
-                    .catch(error => {
-                        console.log('SW registration failed:', error);
-                    });
+                navigator.serviceWorker.register('sw.js')
+                    .then(registration => console.log('ServiceWorker registered'))
+                    .catch(error => console.log('ServiceWorker registration failed: ', error));
             });
         }
     </script>
 </body>
-
 </html>
