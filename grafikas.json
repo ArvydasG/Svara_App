@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-08",
+  "updated_at": "2026-05-09",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -233,12 +233,6 @@
       "source": "Biblioteka"
     },
     {
-      "title": "Sauliaus Baltrūno knygos „Bimbalmūšys“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/sauliaus-baltruno-knygos-bimbalmusys-pristatymas-2",
-      "date": "2026-05-07",
-      "source": "Biblioteka"
-    },
-    {
       "title": "Tomo Kregždės darbų paroda „(De)konstruota tapatybė“",
       "url": "https://kaunobiblioteka.lt/tomo-kregzdes-darbu-paroda-dekonstruota-tapatybe-2",
       "date": "2026-05-30",
@@ -252,55 +246,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Seminaras „Šeimos, bendruomenės, giminės bei tautos ryšys ir papročiai“ | GIMINĖS MEDIS 2026",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seminaras-seimos-bendruomenes-gimines-bei-tautos-rysys-ir-paprociai-gimines-medis-2026-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Lietuvos intelektualų dirbtuvėse: humanitarinės literatūros temos ir dilemos | Kauno literatūros savaitė'26",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvos-intelektualu-dirbtuvese-humanitarines-literaturos-temos-ir-dilemos-kauno-literaturos-savaite-26-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Pasimatymai. Neverendas. Alešo ŠTEGERIO (Slovėnija) skaitymai + pokalbis | Kauno literatūros savaitė'26",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasimatymai-neverendas-aleso-stegerio-slovenija-skaitymai-pokalbis-kauno-literaturos-savaite-26-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "KMSO SEZONO PABAIGOS KONCERTAS: NUO VIENOS IKI PARYŽIAUS",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kmso-sezono-pabaigos-koncertas-nuo-vienos-iki-paryziaus-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "KKC choro „Gintaras” 90-mečio koncertas",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kkc-choro-gintaras-90-mecio-koncertas-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Muzikinis festivalis „Muzikoje - mes šeima“",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikinis-festivalis-muzikoje-mes-seima-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Pasimatymai. Didis stebuklas. Violos ARDONE (Italija) skaitymai + pokalbis | Kauno literatūros savaitė'26",
-      "date": "2026-05-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasimatymai-didis-stebuklas-violos-ardone-italija-skaitymai-pokalbis-kauno-literaturos-savaite-26-2026-05-08",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
     {
       "title": "EKSKURSIJA: Valančius „tremties“ mieste",
       "date": "2026-05-09",
@@ -328,6 +273,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-nykstuko-leliu-teatro-spektaklis-du-meskiukai-2026-05-09",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Ekskursijos KMM",
+      "date": "2026-05-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-05-09",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Kauno Tado Ivanausko zoologijos muziejuje savaitgalio ekskursijos",
@@ -377,6 +329,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/putvinskio-vizijos-nuo-gatves-istorijos-iki-utopijos-linoraizinio-dirbtuves-pgd-26-2026-05-09",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Ekskursijos po parodą „Arbatos puodelio istorijos“",
+      "date": "2026-05-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-po-paroda-arbatos-puodelio-istorijos-2026-05-09",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Diskusijų forumas. Literatūra ir kinas: sąsajos, įtakos, ribos | Kauno literatūros savaitė'26",
@@ -631,6 +590,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Muzikinė poezijos arbatėlė parodoje „Arbatos puodelio istorijos“",
+      "date": "2026-05-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikine-poezijos-arbatele-parodoje-arbatos-puodelio-istorijos-2026-05-15",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "PROTMŪŠIS „Smalsumo ir atradimų vakaras\"",
       "date": "2026-05-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/protmusis-smalsumo-ir-atradimu-vakaras-2026-05-15",
@@ -664,6 +630,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meno-nemuge-su-olesia-les-ir-daugiau-nei-20-kureju-lietuvos-svietimo-muziejuje-2026-05-16",
       "source": "Kaunas Pilnas",
       "category": "Šventės"
+    },
+    {
+      "title": "Ekskursijos KMM",
+      "date": "2026-05-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-05-16",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
@@ -939,6 +912,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Ekskursijos KMM",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
       "date": "2026-05-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-05-23",
@@ -951,10 +931,24 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-05-23",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Interaktyvus spektaklis „Akys“",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Pažintinis orientavimosi žaidimas „Kaip Lietuva į pasaulį ėjo“",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pazintinis-orientavimosi-zaidimas-kaip-lietuva-i-pasauli-ejo-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 24,
+    "index": 31,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
