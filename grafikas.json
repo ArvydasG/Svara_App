@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-12",
+  "updated_at": "2026-05-13",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -197,6 +197,12 @@
   ],
   "events": [
     {
+      "title": "Bijūnų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis",
+      "date": "2026-06-12",
+      "source": "Botanikos sodas"
+    },
+    {
       "title": "Monografijos apie prof. Ž. E. Žiliberą pristatymas Botanikos sode",
       "url": "https://botanika.vdu.lt/ivykiai/monografijos-apie-prof-z-e-zilibera-pristatymas-botanikos-sode",
       "date": "2026-05-21",
@@ -205,6 +211,12 @@
     {
       "title": "Augalų žavadienis 2026",
       "url": "https://botanika.vdu.lt/ivykiai/augalu-zavadienis-2026",
+      "date": "2026-05-18",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Fotoparodos atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/fotoparodos-atidarymas",
       "date": "2026-05-18",
       "source": "Botanikos sodas"
     },
@@ -240,41 +252,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Aktoriaus Pijaus Narijausko skaitymai vaikams",
-      "date": "2026-05-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aktoriaus-pijaus-narijausko-skaitymai-vaikams-2026-05-12",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "„Kai daina tampa istorija“ | VDU Muzikos akademijos studentų koncertas",
-      "date": "2026-05-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kai-daina-tampa-istorija-vdu-muzikos-akademijos-studentu-koncertas-2026-05-12",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Koncertas „Nutildytos dainos“",
-      "date": "2026-05-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-nutildytos-dainos-2026-05-12",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Dokumentinis kinas kaip būdas suprasti jauną žmogų. Filmo „Spec. Žvėrynas“ peržiūra",
-      "date": "2026-05-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dokumentinis-kinas-kaip-budas-suprasti-jauna-zmogu-filmo-spec-zverynas-perziura-2026-05-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Giedriaus Petkevičiaus knygos „Aitvarai. Lietuvos specialiųjų operacijų pajėgų istorija“ pristatymas",
-      "date": "2026-05-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/giedriaus-petkeviciaus-knygos-aitvarai-lietuvos-specialiuju-operaciju-pajegu-istorija-pristatymas-2026-05-12",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
     {
       "title": "Paskaitos pagerbti orangutanų tyrinėtoją Birutę Mariją Galdikas",
       "date": "2026-05-13",
@@ -323,6 +300,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-svietimas-laikinojoje-sostineje-atidarymas-2026-05-14",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "Romualdo Požerskio fotografijų parodos „Paslaptingas Bangladešas“ atidarymas",
+      "date": "2026-05-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romualdo-pozerskio-fotografiju-parodos-paslaptingas-bangladesas-atidarymas-2026-05-14",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Susitikimas KAIMYNŲ SALONAS, Galaunių namuose-muziejuje",
@@ -442,6 +426,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meno-nemuge-su-olesia-les-ir-daugiau-nei-20-kureju-lietuvos-svietimo-muziejuje-2026-05-16",
       "source": "Kaunas Pilnas",
       "category": "Šventės"
+    },
+    {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-05-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-05-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "Ekskursijos KMM",
@@ -710,6 +701,13 @@
       "category": "Kiti"
     },
     {
+      "title": "VDU KULTŪROS DIENOS: „NAUJŲJŲ MEDIJŲ MENO“ STUDENTŲ FOTOGRAFIJŲ PARODA",
+      "date": "2026-05-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kulturos-dienos-naujuju-mediju-meno-studentu-fotografiju-paroda-2026-05-21",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Pasaka suaugusiems PITERIS PENAS",
       "date": "2026-05-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaka-suaugusiems-piteris-penas-2026-05-21",
@@ -731,6 +729,20 @@
       "category": "Kiti"
     },
     {
+      "title": "Simono Jazavitos knygos „Didieji Lietuvos istorijos mitai“ pristatymas",
+      "date": "2026-05-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simono-jazavitos-knygos-didieji-lietuvos-istorijos-mitai-pristatymas-2026-05-21",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "„VDU KULTŪROS DIENOS“: medijų menininko ir teoretiko Zach Blas paskaita",
+      "date": "2026-05-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kulturos-dienos-mediju-menininko-ir-teoretiko-zach-blas-paskaita-2026-05-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "La Vie En Rose 2.0 | Raudondvario dvaras",
       "date": "2026-05-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/la-vie-en-rose-2-0-raudondvario-dvaras-2026-05-21",
@@ -743,6 +755,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-05-21",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "VDU KULTŪROS DIENOS: „NAUJŲJŲ MEDIJŲ MENO“ STUDENTŲ FOTOGRAFIJŲ PARODA",
+      "date": "2026-05-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kulturos-dienos-naujuju-mediju-meno-studentu-fotografiju-paroda-2026-05-22",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
@@ -864,6 +883,13 @@
       "category": "Naktinė kultūra"
     },
     {
+      "title": "Premjera. Šokio-teatro spektaklis | Kartais gyvenimas būna tamsus",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-sokio-teatro-spektaklis-kartais-gyvenimas-buna-tamsus-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "Ką tau sako kortos?",
       "date": "2026-05-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-tau-sako-kortos-2026-05-23",
@@ -920,29 +946,15 @@
       "category": "Kiti"
     },
     {
-      "title": "Klubo „Pasibalbatuokim“ susitikimas",
-      "date": "2026-05-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klubo-pasibalbatuokim-susitikimas-2026-05-27",
+      "title": "Artūro Morozovo knygos „Sutikau žmogų“ pristatymas",
+      "date": "2026-05-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/arturo-morozovo-knygos-sutikau-zmogu-pristatymas-2026-05-26",
       "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-05-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-27",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "XIX a. KULTŪROS PASAKOJIMAI | paskaitų ciklas Kauno rotušėje",
-      "date": "2026-05-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/xix-a-kulturos-pasakojimai-paskaitu-ciklas-kauno-rotuseje-2026-05-28",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
+      "category": "Literatūra"
     }
   ],
   "air_quality": {
-    "index": 25,
+    "index": 26,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
