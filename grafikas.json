@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-13",
+  "updated_at": "2026-05-14",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -198,8 +198,8 @@
   "events": [
     {
       "title": "Bijūnų festivalis",
-      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis",
-      "date": "2026-06-12",
+      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis-2",
+      "date": "2026-06-13",
       "source": "Botanikos sodas"
     },
     {
@@ -252,41 +252,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Paskaitos pagerbti orangutanų tyrinėtoją Birutę Mariją Galdikas",
-      "date": "2026-05-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaitos-pagerbti-orangutanu-tyrinetoja-birute-marija-galdikas-2026-05-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija po leidinių parodą „Spausdinto žodžio reikšmė lietuvių kalbos sklaidai ir tautos atgimimui“",
-      "date": "2026-05-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-leidiniu-paroda-spausdinto-zodzio-reiksme-lietuviu-kalbos-sklaidai-ir-tautos-atgimimui-2026-05-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "NICHE 2026 ⑉⑇ SON OF CHI & ARTHUR FLINK, IXOJI",
-      "date": "2026-05-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/niche-2026-son-of-chi-arthur-flink-ixoji-2026-05-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Tomo \"Tuomsono\" Šaltmerio knygos \"A noji?\" pristatymas Kaune",
-      "date": "2026-05-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tomo-tuomsono-saltmerio-knygos-a-noji-pristatymas-kaune-2026-05-13",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Šokio spektaklis ,,Sodas 4.12°''",
-      "date": "2026-05-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokio-spektaklis-sodas-4-12-2026-05-13",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
     {
       "title": "Paroda „Be ribų“",
       "date": "2026-05-14",
@@ -652,6 +617,13 @@
       "category": "Literatūra"
     },
     {
+      "title": "Teatro dirbtuvės  ,,Kalbėk, drąsėk“",
+      "date": "2026-05-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatro-dirbtuves-kalbek-drasek-2026-05-19",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės IV forte",
       "date": "2026-05-19",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-19",
@@ -932,6 +904,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Tarptautinei šeimos dienai skirtas renginys GRAŽI MŪSŲ ŠEIMYNĖLĖ",
+      "date": "2026-05-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinei-seimos-dienai-skirtas-renginys-grazi-musu-seimynele-2026-05-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "NACIONALINĖS DARŽOVĖS (N-16)",
       "date": "2026-05-26",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nacionalines-darzoves-n-16-2026-05-26",
@@ -951,10 +930,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/arturo-morozovo-knygos-sutikau-zmogu-pristatymas-2026-05-26",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "TRENKSMAS 2026: Tavo ėjimas! | Slemas #94",
+      "date": "2026-05-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-slemas-94-2026-05-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Klubo „Pasibalbatuokim“ susitikimas",
+      "date": "2026-05-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klubo-pasibalbatuokim-susitikimas-2026-05-27",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės IV forte",
+      "date": "2026-05-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-27",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 26,
+    "index": 27,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
