@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-14",
+  "updated_at": "2026-05-15",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,147 +195,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Bijūnų festivalis",
-      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis-2",
-      "date": "2026-06-13",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Monografijos apie prof. Ž. E. Žiliberą pristatymas Botanikos sode",
-      "url": "https://botanika.vdu.lt/ivykiai/monografijos-apie-prof-z-e-zilibera-pristatymas-botanikos-sode",
-      "date": "2026-05-21",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Augalų žavadienis 2026",
-      "url": "https://botanika.vdu.lt/ivykiai/augalu-zavadienis-2026",
-      "date": "2026-05-18",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Fotoparodos atidarymas",
-      "url": "https://botanika.vdu.lt/ivykiai/fotoparodos-atidarymas",
-      "date": "2026-05-18",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Japonija ir gamta",
-      "url": "https://botanika.vdu.lt/ivykiai/japonija-ir-gamta",
-      "date": "2026-05-15",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
-      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
-      "date": "2026-05-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Kūrybinės dirbtuvės vaikams: tapyba ant puodelių",
-      "url": "https://kaunobiblioteka.lt/kurybines-dirbtuves-vaikams-tapyba-ant-puodeliu",
-      "date": "2026-05-13",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Tomo Kregždės darbų paroda „(De)konstruota tapatybė“",
-      "url": "https://kaunobiblioteka.lt/tomo-kregzdes-darbu-paroda-dekonstruota-tapatybe-2",
-      "date": "2026-05-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Paroda „Be ribų“",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-be-ribu-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Parodos „Švietimas laikinojoje sostinėje“ atidarymas",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-svietimas-laikinojoje-sostineje-atidarymas-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Romualdo Požerskio fotografijų parodos „Paslaptingas Bangladešas“ atidarymas",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romualdo-pozerskio-fotografiju-parodos-paslaptingas-bangladesas-atidarymas-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Susitikimas KAIMYNŲ SALONAS, Galaunių namuose-muziejuje",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-kaimynu-salonas-galauniu-namuose-muziejuje-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "LAISVĖS VĖJAS POETŲ SODE / KALANTINĖS /",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/laisves-vejas-poetu-sode-kalantines-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Edukacinis užsiėmimas suaugusiesiems „Juozo Grušo meilės laiškai“v",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-suaugusiesiems-juozo-gruso-meiles-laiskai-v-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "VIDINIAI PASAULIAI",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vidiniai-pasauliai-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Vytauto Matulevičiaus paskaita „Kaip Rusija kovoja informacinį karą ir kaip ją įveikti?“",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytauto-matuleviciaus-paskaita-kaip-rusija-kovoja-informacini-kara-ir-kaip-ja-iveikti-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Knygos „Kauno pavieto pakamario teismo knyga (1619–1624)” pristatymas",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-kauno-pavieto-pakamario-teismo-knyga-16191624-pristatymas-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Paskaita „Knygnešystė pakaunėje“",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-knygnesyste-pakauneje-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "18-oji Baltijos šalių šiuolaikinės keramikos paroda „Pavasaris 2026”",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/18-oji-baltijos-saliu-siuolaikines-keramikos-paroda-pavasaris-2026-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės III forte",
-      "date": "2026-05-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-05-14",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-05-15",
@@ -410,6 +271,13 @@
       "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
       "date": "2026-05-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-05-16",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Kauno Tado Ivanausko zoologijos muziejuje savaitgalio ekskursijos",
+      "date": "2026-05-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-tado-ivanausko-zoologijos-muziejuje-savaitgalio-ekskursijos-2026-05-16",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
     },
@@ -568,6 +436,13 @@
       "category": "Bendruomenės"
     },
     {
+      "title": "„Aš žiūriu į tą, kuris žiūri į mane“ – patyriminiai pasivaikščiojimai su dailės terapeute",
+      "date": "2026-05-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/as-ziuriu-i-ta-kuris-ziuri-i-mane-patyriminiai-pasivaiksciojimai-su-dailes-terapeute-2026-05-19",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Eglės Elenos Murauskaitės paskaita „(Ne)saugumo atspindžiai mene“",
       "date": "2026-05-19",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/egles-elenos-murauskaites-paskaita-ne-saugumo-atspindziai-mene-2026-05-19",
@@ -636,6 +511,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-sodiname-kasame-ir-atrandame-2026-05-20",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Antrosios Ramūno Čičelio poezijos knygos „Rečitatyvai“ pristatymas",
+      "date": "2026-05-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/antrosios-ramuno-cicelio-poezijos-knygos-recitatyvai-pristatymas-2026-05-20",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "Grožis senovės Egipte: natūralios kosmetikos dirbtuvės",
@@ -741,6 +623,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-05-22",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "„VDU KULTŪROS DIENŲ“ UŽDARYMUI – „MUSIC LAB“",
+      "date": "2026-05-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kulturos-dienu-uzdarymui-music-lab-2026-05-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Spektaklis AKMENYS JO KIŠENĖSE",
@@ -862,6 +751,13 @@
       "category": "Scena"
     },
     {
+      "title": "Muziejų naktis Kauno Tado Ivanausko zoologijos muziejuje",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzieju-naktis-kauno-tado-ivanausko-zoologijos-muziejuje-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Naktinė kultūra"
+    },
+    {
       "title": "Ką tau sako kortos?",
       "date": "2026-05-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-tau-sako-kortos-2026-05-23",
@@ -874,6 +770,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gyvenimo-groteskas-koncertas-skirtas-jurgio-karnaviciaus-85-osioms-mirties-metinems-mineti-2026-05-23",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "NAKTINĖ sutemų ekskursija I FORTE. Kauno tvirtovė.",
+      "date": "2026-05-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktine-sutemu-ekskursija-i-forte-kauno-tvirtove-2026-05-23",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "ATIDUOTUVĖS–MAINYTUVĖS (pikniko forma)",
@@ -951,10 +854,52 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-27",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "XIX a. KULTŪROS PASAKOJIMAI | paskaitų ciklas Kauno rotušėje",
+      "date": "2026-05-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/xix-a-kulturos-pasakojimai-paskaitu-ciklas-kauno-rotuseje-2026-05-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "PREMJERA I Karštos naujienos – paskutinis šokis laisvei?",
+      "date": "2026-05-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-i-karstos-naujienos-paskutinis-sokis-laisvei-2026-05-28",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Kalniečių parko skaityklos atidarymas | Kazimiero Likšos koncertas",
+      "date": "2026-05-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kalnieciu-parko-skaityklos-atidarymas-kazimiero-liksos-koncertas-2026-05-28",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Tarptautinis mados šou „Apkalbos“",
+      "date": "2026-05-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-mados-sou-apkalbos-2026-05-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "EMMA MINIFEST",
+      "date": "2026-05-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/emma-minifest-2026-05-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "KAUTRA PRISTATO: GALERIJA ANT RATŲ. ATIDARYMO RENGINYS",
+      "date": "2026-05-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kautra-pristato-galerija-ant-ratu-atidarymo-renginys-2026-05-28",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     }
   ],
   "air_quality": {
-    "index": 27,
+    "index": 23,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
