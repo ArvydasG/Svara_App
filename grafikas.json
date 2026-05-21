@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-20",
+  "updated_at": "2026-05-21",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,101 +195,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Bijūnų festivalis",
-      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis-2",
-      "date": "2026-06-13",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Monografijos apie prof. Ž. E. Žiliberą pristatymas Botanikos sode",
-      "url": "https://botanika.vdu.lt/ivykiai/monografijos-apie-prof-z-e-zilibera-pristatymas-botanikos-sode",
-      "date": "2026-05-21",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Ingridos Jakubavičienės knygos „Namai“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/ingridos-jakubavicienes-knygos-namai-pristatymas",
-      "date": "2026-05-28",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
-      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
-      "date": "2026-05-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Tomo Kregždės darbų paroda „(De)konstruota tapatybė“",
-      "url": "https://kaunobiblioteka.lt/tomo-kregzdes-darbu-paroda-dekonstruota-tapatybe-2",
-      "date": "2026-05-30",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Mažylių trečiadienis | „Sodiname, kasame ir atrandame!“",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-sodiname-kasame-ir-atrandame-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Antrosios Ramūno Čičelio poezijos knygos „Rečitatyvai“ pristatymas",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/antrosios-ramuno-cicelio-poezijos-knygos-recitatyvai-pristatymas-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "DISKUSIJA | Kintantis miestas: architektūros transformacijos ir jų reprezentacija fotografijoje",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusija-kintantis-miestas-architekturos-transformacijos-ir-ju-reprezentacija-fotografijoje-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Grožis senovės Egipte: natūralios kosmetikos dirbtuvės",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grozis-senoves-egipte-naturalios-kosmetikos-dirbtuves-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Ąžuolyno bibliotekos pavasario protmūšis",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/azuolyno-bibliotekos-pavasario-protmusis-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„VDU KULTŪROS DIENOS“: Diskusija „Kaip mes prisimename save ir kaip mus prisimins kiti?“",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kulturos-dienos-diskusija-kaip-mes-prisimename-save-ir-kaip-mus-prisimins-kiti-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Žaliakalnio protmūšis",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zaliakalnio-protmusis-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Atvira repeticija - pasidainavimai „Dainos mamai“",
-      "date": "2026-05-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atvira-repeticija-pasidainavimai-dainos-mamai-2026-05-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "VDU KULTŪROS DIENOS: „NAUJŲJŲ MEDIJŲ MENO“ STUDENTŲ FOTOGRAFIJŲ PARODA",
       "date": "2026-05-21",
@@ -331,6 +238,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kulturos-dienos-mediju-menininko-ir-teoretiko-zach-blas-paskaita-2026-05-21",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Paroda „dnecsnART“ - Vyturys Berezinas ir Pijus Mašutko",
+      "date": "2026-05-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-dnecsnart-vyturys-berezinas-ir-pijus-masutko-2026-05-21",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "La Vie En Rose 2.0 | Raudondvario dvaras",
@@ -634,6 +548,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Filmų „Vyskupas Motiejus Valančius“ ir „Lietuvių kultūros centras Varniuose“ peržiūra",
+      "date": "2026-05-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmu-vyskupas-motiejus-valancius-ir-lietuviu-kulturos-centras-varniuose-perziura-2026-05-27",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Klubo „Pasibalbatuokim“ susitikimas",
       "date": "2026-05-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klubo-pasibalbatuokim-susitikimas-2026-05-27",
@@ -688,6 +609,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dainavos-parko-skaityklos-atidarymas-nedos-malunaviciutes-ir-richardo-banio-koncertas-2026-05-28",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "GAMKA | Mūzos vasaroja! atidarymas",
+      "date": "2026-05-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gamka-muzos-vasaroja-atidarymas-2026-05-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Tarptautinis mados šou „Apkalbos“",
@@ -795,6 +723,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Kauno dainų ir šokių šventė 2026 „ČIA SUTEKA UPĖS“",
+      "date": "2026-05-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-dainu-ir-sokiu-svente-2026-cia-suteka-upes-2026-05-30",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "Romuvos lauko kino atidarymas: „Didysis šou meistras“ ir šokio teatras „Aura“",
       "date": "2026-05-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-lauko-kino-atidarymas-didysis-sou-meistras-ir-sokio-teatras-aura-2026-05-30",
@@ -854,6 +789,13 @@
       "title": "Vytinės juostos ir jų apdaila",
       "date": "2026-06-04",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytines-juostos-ir-ju-apdaila-2026-06-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Press The Button | Mūzos vasaroja!",
+      "date": "2026-06-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/press-the-button-muzos-vasaroja-2026-06-04",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -933,10 +875,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lauko-biuro-savaite-26-2026-06-08",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Būti pirmuoju, kilti aukščiau. Jurgio Dobkevičiaus 100-osios žūties metinės",
+      "date": "2026-06-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/buti-pirmuoju-kilti-auksciau-jurgio-dobkeviciaus-100-osios-zuties-metines-2026-06-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Sodų rišimas",
+      "date": "2026-06-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sodu-risimas-2026-06-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Adelė Kulakauskaitė ir Mantville | Mūzos vasaroja!",
+      "date": "2026-06-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/adele-kulakauskaite-ir-mantville-muzos-vasaroja-2026-06-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 30,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
