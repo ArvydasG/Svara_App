@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-21",
+  "updated_at": "2026-05-22",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,71 +195,39 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Bijūnų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis-2",
+      "date": "2026-06-13",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Ingridos Jakubavičienės knygos „Namai“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/ingridos-jakubavicienes-knygos-namai-pristatymas",
+      "date": "2026-05-28",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
+      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
+      "date": "2026-05-30",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Tomo Kregždės darbų paroda „(De)konstruota tapatybė“",
+      "url": "https://kaunobiblioteka.lt/tomo-kregzdes-darbu-paroda-dekonstruota-tapatybe-2",
+      "date": "2026-05-30",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-8",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "VDU KULTŪROS DIENOS: „NAUJŲJŲ MEDIJŲ MENO“ STUDENTŲ FOTOGRAFIJŲ PARODA",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kulturos-dienos-naujuju-mediju-meno-studentu-fotografiju-paroda-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Pasaka suaugusiems PITERIS PENAS",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaka-suaugusiems-piteris-penas-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Romuvos kinoteka: „Bulvarinis skaitalas“",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-bulvarinis-skaitalas-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "„kartu skirtingais keliais“. Grupė „Keturios“",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-skirtingais-keliais-grupe-keturios-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Simono Jazavitos knygos „Didieji Lietuvos istorijos mitai“ pristatymas",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simono-jazavitos-knygos-didieji-lietuvos-istorijos-mitai-pristatymas-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "„VDU KULTŪROS DIENOS“: medijų menininko ir teoretiko Zach Blas paskaita",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kulturos-dienos-mediju-menininko-ir-teoretiko-zach-blas-paskaita-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Paroda „dnecsnART“ - Vyturys Berezinas ir Pijus Mašutko",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-dnecsnart-vyturys-berezinas-ir-pijus-masutko-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "La Vie En Rose 2.0 | Raudondvario dvaras",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/la-vie-en-rose-2-0-raudondvario-dvaras-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės I forte",
-      "date": "2026-05-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-05-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "VDU KULTŪROS DIENOS: „NAUJŲJŲ MEDIJŲ MENO“ STUDENTŲ FOTOGRAFIJŲ PARODA",
       "date": "2026-05-22",
@@ -646,6 +614,13 @@
       "category": "Parodos"
     },
     {
+      "title": "Indrės Liškauskaitės paroda „Playing“",
+      "date": "2026-05-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/indres-liskauskaites-paroda-playing-2026-05-29",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Tarptautinis tautosakos ekranizacijos konkursas ANIMUOJU LIETUVIŠKĄ PASAKĄ 2026",
       "date": "2026-05-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-tautosakos-ekranizacijos-konkursas-animuoju-lietuviska-pasaka-2026-2026-05-29",
@@ -663,6 +638,13 @@
       "title": "Šeimų ir KAIMYNŲ piknikas „Pamaitink uodus“",
       "date": "2026-05-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seimu-ir-kaimynu-piknikas-pamaitink-uodus-2026-05-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Riedučių renginys visiems, ketvirtadienį",
+      "date": "2026-05-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rieduciu-renginys-visiems-ketvirtadieni-2026-05-29",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -800,6 +782,13 @@
       "category": "Kiti"
     },
     {
+      "title": "VASARĄ GAL KĄ LENGVESNIO. „Literatūros savaitės“ klubo 4 sezono 6 susitikimas",
+      "date": "2026-06-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasara-gal-ka-lengvesnio-literaturos-savaites-klubo-4-sezono-6-susitikimas-2026-06-04",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "„Polyphonic Architecture“ ■ Suzuko Yamada ■ Paskaita",
       "date": "2026-06-04",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/polyphonic-architecture-suzuko-yamada-paskaita-2026-06-04",
@@ -810,6 +799,13 @@
       "title": "Unbounded Geometries: inter-disciplinary performance",
       "date": "2026-06-04",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/unbounded-geometries-inter-disciplinary-performance-2026-06-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Tapybos parodos „Kryžkelės“ atidarymas",
+      "date": "2026-06-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tapybos-parodos-kryzkeles-atidarymas-2026-06-05",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -896,10 +892,45 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/adele-kulakauskaite-ir-mantville-muzos-vasaroja-2026-06-11",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Poetinis stand-up APIE VAMZDĮ IR MUS | rež. B. Ivanauskas ir A. Dubaka | Taško teatras",
+      "date": "2026-06-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/poetinis-stand-up-apie-vamzdi-ir-mus-rez-b-ivanauskas-ir-a-dubaka-tasko-teatras-2026-06-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "NUO RAPSODIJOS IKI TANGO",
+      "date": "2026-06-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-rapsodijos-iki-tango-2026-06-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Francesco Toninelli (IT) + Tulgirdas (LT)",
+      "date": "2026-06-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/francesco-toninelli-it-tulgirdas-lt-2026-06-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Romuvos kinoteka lauko kine: „Pagauk, jei gali“",
+      "date": "2026-06-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-lauko-kine-pagauk-jei-gali-2026-06-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "Edukacija „Botaninis mėlynumas: cianotipijos dirbtuvės birželio žiedais“",
+      "date": "2026-06-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-botaninis-melynumas-cianotipijos-dirbtuves-birzelio-ziedais-2026-06-13",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 22,
+    "index": 26,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
