@@ -168,12 +168,13 @@
         "2027-04-28",
         "2027-05-26",
         "2027-06-23",
-        "2027-07-21"
+        "2027-07-21",
+        "2027-08-18"
       ],
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-24",
+  "updated_at": "2026-05-25",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -234,34 +235,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "ATIDUOTUVĖS–MAINYTUVĖS (pikniko forma)",
-      "date": "2026-05-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atiduotuvesmainytuves-pikniko-forma-2026-05-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "PAKOPA PO PAKOPOS | šokio spektaklis–ekskursija",
-      "date": "2026-05-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pakopa-po-pakopos-sokio-spektaklisekskursija-2026-05-24",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "LDK virtuvė | Ekskursija-degustacija",
-      "date": "2026-05-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ldk-virtuve-ekskursija-degustacija-2026-05-24",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Intensyvūs dailės dalykų kursai „Piešimas + tapyba + kompozicija“",
-      "date": "2026-05-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/intensyvus-dailes-dalyku-kursai-piesimas-tapyba-kompozicija-2026-05-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "„Plainscapes“",
       "date": "2026-05-25",
@@ -380,13 +353,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ingridos-jakubavicienes-knygos-namai-pristatymas-2026-05-28",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
-    },
-    {
-      "title": "Dainavos parko skaityklos atidarymas | Nedos Malūnavičiūtės ir Richardo Banio koncertas",
-      "date": "2026-05-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dainavos-parko-skaityklos-atidarymas-nedos-malunaviciutes-ir-richardo-banio-koncertas-2026-05-28",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
     },
     {
       "title": "GAMKA | Mūzos vasaroja! atidarymas",
@@ -529,6 +495,13 @@
       "category": "Bendruomenės"
     },
     {
+      "title": "Ekskursijos po parodą „Arbatos puodelio istorijos“",
+      "date": "2026-05-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-po-paroda-arbatos-puodelio-istorijos-2026-05-30",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Kaip miksuoti vinilais?",
       "date": "2026-05-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaip-miksuoti-vinilais-2026-05-30",
@@ -583,6 +556,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dr-julijos-tuleikytes-interaktyvi-paskaita-kova-del-socialines-tikroves-2026-06-02",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Dainavos parko skaityklos atidarymas | Nedos Malūnavičiūtės ir Richardo Banio koncertas",
+      "date": "2026-06-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dainavos-parko-skaityklos-atidarymas-nedos-malunaviciutes-ir-richardo-banio-koncertas-2026-06-02",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     },
     {
       "title": "Naiviosios tapybos darbų paroda (2026-06-03 - 2026-06-30)",
@@ -933,10 +913,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-botaninis-melynumas-cianotipijos-dirbtuves-birzelio-ziedais-2026-06-20",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Naktinis Krepšinis'26",
+      "date": "2026-06-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktinis-krepsinis-26-2026-06-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-06-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-06-20",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE  06.20 14:00",
+      "date": "2026-06-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-06-20-14-00-2026-06-20",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 27,
+    "index": 23,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
