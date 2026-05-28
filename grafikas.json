@@ -158,7 +158,6 @@
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384",
       "dates": [
-        "2026-05-27",
         "2026-06-24",
         "2026-07-22",
         "2026-08-19",
@@ -174,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-27",
+  "updated_at": "2026-05-28",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -235,41 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 05.27 15:15",
-      "date": "2026-05-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-05-27-15-15-2026-05-27",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Filmų „Vyskupas Motiejus Valančius“ ir „Lietuvių kultūros centras Varniuose“ peržiūra",
-      "date": "2026-05-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmu-vyskupas-motiejus-valancius-ir-lietuviu-kulturos-centras-varniuose-perziura-2026-05-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Klubo „Pasibalbatuokim“ susitikimas",
-      "date": "2026-05-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klubo-pasibalbatuokim-susitikimas-2026-05-27",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Kino vakaras „Mėnuo Juodaragis: festivalis kaip ritualas“",
-      "date": "2026-05-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kino-vakaras-menuo-juodaragis-festivalis-kaip-ritualas-2026-05-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-05-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-05-27",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "XIX a. KULTŪROS PASAKOJIMAI | paskaitų ciklas Kauno rotušėje",
       "date": "2026-05-28",
@@ -537,6 +501,13 @@
       "category": "Parodos"
     },
     {
+      "title": "Joga vaikams Kalniečių parko skaitykloje",
+      "date": "2026-06-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/joga-vaikams-kalnieciu-parko-skaitykloje-2026-06-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės II forte",
       "date": "2026-06-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-06-03",
@@ -649,13 +620,6 @@
       "category": "Ekskursijos"
     },
     {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-06-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-06-06",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
       "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 06.06 13:15",
       "date": "2026-06-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-06-06-13-15-2026-06-06",
@@ -675,6 +639,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-suaugusiesiems-kitokia-pazintis-su-muziejumi-2026-06-06",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
+      "date": "2026-06-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-06-06",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Gatvės teatrų festivalis",
@@ -705,6 +676,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "DOMINO teatras | URVINIS ŽMOGUS",
+      "date": "2026-06-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatras-urvinis-zmogus-2026-06-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Lauko biuro savaitė'26",
       "date": "2026-06-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lauko-biuro-savaite-26-2026-06-08",
@@ -717,6 +695,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/buti-pirmuoju-kilti-auksciau-jurgio-dobkeviciaus-100-osios-zuties-metines-2026-06-08",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Susitikimas su Vaiva Rykštaite Santarvės parko skaitykloje",
+      "date": "2026-06-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-vaiva-rykstaite-santarves-parko-skaitykloje-2026-06-08",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
     },
     {
       "title": "Marynos Pugachovos tapybos darbų parodos „Lietuvos dvasia“ atidarymas",
@@ -831,6 +816,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Knygos „Radvilos Našlaitėlio kelias, arba Apie piligrimus, banditus ir mumijas“ sutiktuvės ir kūrybinės dirbtuvės",
+      "date": "2026-06-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-radvilos-naslaitelio-kelias-arba-apie-piligrimus-banditus-ir-mumijas-sutiktuves-ir-kurybines-dirbtuves-2026-06-13",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Kūrybinio rašymo dirbtuvės",
       "date": "2026-06-13",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybinio-rasymo-dirbtuves-2026-06-13",
@@ -915,6 +907,13 @@
       "category": "Kiti"
     },
     {
+      "title": "ROKAS ir EIVILĖ | Mūzos vasaroja!",
+      "date": "2026-06-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rokas-ir-eivile-muzos-vasaroja-2026-06-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Baltijos gitarų festivalis 2026. Thanapot Lerttham (Tailandas)",
       "date": "2026-06-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltijos-gitaru-festivalis-2026-thanapot-lerttham-tailandas-2026-06-18",
@@ -937,7 +936,7 @@
     }
   ],
   "air_quality": {
-    "index": 25,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
