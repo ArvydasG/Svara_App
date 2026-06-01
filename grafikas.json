@@ -177,7 +177,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-05-31",
+  "updated_at": "2026-06-01",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -223,43 +223,9 @@
       "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
       "date": "2026-06-30",
       "source": "Biblioteka"
-    },
-    {
-      "title": "Tomo Kregždės darbų paroda „(De)konstruota tapatybė“",
-      "url": "https://kaunobiblioteka.lt/tomo-kregzdes-darbu-paroda-dekonstruota-tapatybe-2",
-      "date": "2026-05-30",
-      "source": "Biblioteka"
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-05-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-05-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "RIBOŽENKLIAI. KAUNAS | šokio spektaklis-ekskursija",
-      "date": "2026-05-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ribozenkliai-kaunas-sokio-spektaklis-ekskursija-2026-05-31",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Koncertas \"Artojų mišios\" iš ciklo \"Sakralinės muzikos valanda\"",
-      "date": "2026-05-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-artoju-misios-is-ciklo-sakralines-muzikos-valanda-2026-05-31",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Rom Karson Quartet pristato programą: She’s Never Left My Mind",
-      "date": "2026-05-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rom-karson-quartet-pristato-programa-shes-never-left-my-mind-2026-05-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Lietuviškų šokių vakaras",
       "date": "2026-06-01",
@@ -541,6 +507,13 @@
       "category": "Bendruomenės"
     },
     {
+      "title": "„Gyvo archyvo dienos“",
+      "date": "2026-06-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gyvo-archyvo-dienos-2026-06-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Koncertas „Skambam! Pasitinkam vasarą“",
       "date": "2026-06-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-skambam-pasitinkam-vasara-2026-06-09",
@@ -779,6 +752,13 @@
       "category": "Scena"
     },
     {
+      "title": "Parodos „Kūrybos jungtys“ atidarymas",
+      "date": "2026-06-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-kurybos-jungtys-atidarymas-2026-06-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 06.17 16:15",
       "date": "2026-06-17",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-06-17-16-15-2026-06-17",
@@ -931,12 +911,26 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/marguciu-marginimas-vasku-2026-06-25",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės IV forte",
+      "date": "2026-06-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-06-25",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-06-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-06-26",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 19,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 26,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
