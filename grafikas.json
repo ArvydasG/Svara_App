@@ -4,7 +4,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461",
       "dates": [
-        "2026-06-01",
         "2026-06-29",
         "2026-07-27",
         "2026-08-24",
@@ -43,7 +42,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
-        "2026-06-01",
         "2026-06-15",
         "2026-06-29",
         "2026-07-13",
@@ -98,7 +96,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262",
       "dates": [
-        "2026-06-01",
         "2026-06-29",
         "2026-07-27",
         "2026-08-24",
@@ -122,7 +119,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627",
       "dates": [
-        "2026-06-01",
         "2026-06-15",
         "2026-06-29",
         "2026-07-13",
@@ -177,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-01",
+  "updated_at": "2026-06-02",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -226,20 +222,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Lietuviškų šokių vakaras",
-      "date": "2026-06-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisku-sokiu-vakaras-2026-06-01",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Vasarinis improvizacijos pirmadienis",
-      "date": "2026-06-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasarinis-improvizacijos-pirmadienis-2026-06-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Dainavos parko skaityklos atidarymas | Nedos Malūnavičiūtės ir Richardo Banio koncertas",
       "date": "2026-06-02",
@@ -309,6 +291,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasara-gal-ka-lengvesnio-literaturos-savaites-klubo-4-sezono-6-susitikimas-2026-06-04",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "DVIRATYNĖS Kaune – dviračių šventė visai šeimai",
+      "date": "2026-06-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dviratynes-kaune-dviraciu-svente-visai-seimai-2026-06-04",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     },
     {
       "title": "„Polyphonic Architecture“ ■ Suzuko Yamada ■ Paskaita",
@@ -451,6 +440,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "„Sengirės kinas“ vasarą pasitinka pasaulio džiunglėse",
+      "date": "2026-06-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-vasara-pasitinka-pasaulio-dziunglese-2026-06-06",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Gatvės teatrų festivalis",
       "date": "2026-06-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gatves-teatru-festivalis-2026-06-06",
@@ -470,6 +466,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/su-meile-romuva-princese-nuotaka-2026-06-06",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-06-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-06-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO 06.07 12:15",
@@ -547,6 +550,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijapazaislio-vienuolyne-06-10-16-15-2026-06-10",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Atsisveikinimo ekskursija su paroda „Prisiekęs: Vlado Daumanto re/kolekcijos“",
+      "date": "2026-06-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atsisveikinimo-ekskursija-su-paroda-prisiekes-vlado-daumanto-re-kolekcijos-2026-06-10",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "JUOZAS APUTIS. Rašytojai 90-mečiai",
@@ -708,6 +718,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atkastas-kaunas-europos-archeologijos-dienos-2026-06-13",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Filmo „Rokeris iš miškų. Mikas Suraučius“ peržiūra",
+      "date": "2026-06-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmo-rokeris-is-misku-mikas-suraucius-perziura-2026-06-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "FRAGMENTAI - atsitiktinių veiksmų spektaklis",
@@ -899,36 +916,15 @@
       "category": "Muzika"
     },
     {
-      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 06.24 d. 11:15",
-      "date": "2026-06-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-06-24-d-11-15-2026-06-24",
+      "title": "Joninės lauko kine: „Mano gyvenimo žuvis“ ir vainikėlių dirbtuvės",
+      "date": "2026-06-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jonines-lauko-kine-mano-gyvenimo-zuvis-ir-vainikeliu-dirbtuves-2026-06-23",
       "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Margučių marginimas vašku",
-      "date": "2026-06-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/marguciu-marginimas-vasku-2026-06-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-06-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-06-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-06-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-06-26",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
+      "category": "Šventės"
     }
   ],
   "air_quality": {
-    "index": 26,
+    "index": 21,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
