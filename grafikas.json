@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-03",
+  "updated_at": "2026-06-04",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,43 +195,39 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Bijūnų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis-2",
+      "date": "2026-06-13",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "KONCERTAS: Vakaro muzika tarp bijūnų",
+      "url": "https://botanika.vdu.lt/ivykiai/koncertas-vakaro-muzika-tarp-bijunu",
+      "date": "2026-06-12",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Gretos Stasytienės knygos „Kitokios paauglės užrašai“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/gretos-stasytienes-knygos-kitokios-paaugles-uzrasai-pristatymas",
+      "date": "2026-06-04",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
+      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
+      "date": "2026-06-30",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Naiviosios tapybos darbų paroda (2026-06-03 - 2026-06-30)",
-      "date": "2026-06-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naiviosios-tapybos-darbu-paroda-2026-06-03-2026-06-30-2026-06-03",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Joga vaikams Kalniečių parko skaitykloje",
-      "date": "2026-06-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/joga-vaikams-kalnieciu-parko-skaitykloje-2026-06-03",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės II forte",
-      "date": "2026-06-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-06-03",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "40-asis tarptautinis folkloro festivalis ATATARIA LAMZDŽIAI 2026",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/40-asis-tarptautinis-folkloro-festivalis-atataria-lamzdziai-2026-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "Elly Valk-Verheijen ir Ekkehard Neumann paroda „Bendras – Split and Shared“",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/elly-valk-verheijen-ir-ekkehard-neumann-paroda-bendras-split-and-shared-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
     {
       "title": "Vytinės juostos ir jų apdaila",
       "date": "2026-06-04",
@@ -541,6 +537,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "„CreArt 3.0“ vizualiųjų menų rezidencijos parodos atidarymas Kaune",
+      "date": "2026-06-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/creart-3-0-vizualiuju-menu-rezidencijos-parodos-atidarymas-kaune-2026-06-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-06-10",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-06-10",
@@ -602,6 +605,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/prisiminimu-zenklai-kurybine-edukacija-seimoms-2026-06-11",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Tito Krutulio knygos „Lietuvos radiofonai ir istorija“ pristatymas",
+      "date": "2026-06-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tito-krutulio-knygos-lietuvos-radiofonai-ir-istorija-pristatymas-2026-06-11",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "Dokumentinis kinas kaip būdas suprasti jauną žmogų: Ąžuolyno bibliotekoje – filmo „Pokalbiai rimtomis temomis“ peržiūra",
@@ -814,6 +824,20 @@
       "category": "Kinas"
     },
     {
+      "title": "PREMJERA I Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
+      "date": "2026-06-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-i-spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-06-14",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "PREMJERA I Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
+      "date": "2026-06-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-i-spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-06-15",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "Interaktyvus spektaklis „Akys“",
       "date": "2026-06-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-06-16",
@@ -856,6 +880,20 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Interaktyvus spektaklis „Akys“",
+      "date": "2026-06-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-06-17",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Gintaro Ignatavičiaus knygos „Istorijų pardavėjas žaliu kostiumu“ pristatymas",
+      "date": "2026-06-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gintaro-ignataviciaus-knygos-istoriju-pardavejas-zaliu-kostiumu-pristatymas-2026-06-17",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "man niekada nepriklausiusi kaltė | šokio performansas | PREMJERA",
       "date": "2026-06-17",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/man-niekada-nepriklausiusi-kalte-sokio-performansas-premjera-2026-06-17",
@@ -877,29 +915,22 @@
       "category": "Kiti"
     },
     {
+      "title": "Interaktyvus spektaklis „Akys“",
+      "date": "2026-06-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-06-18",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "Edukacinis užsiėmimas suaugusiesiems „Pokalbis su Vaižgantu“",
       "date": "2026-06-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-suaugusiesiems-pokalbis-su-vaizgantu-2026-06-18",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "ROKAS ir EIVILĖ | Mūzos vasaroja!",
-      "date": "2026-06-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rokas-ir-eivile-muzos-vasaroja-2026-06-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Baltijos gitarų festivalis 2026. Thanapot Lerttham (Tailandas)",
-      "date": "2026-06-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltijos-gitaru-festivalis-2026-thanapot-lerttham-tailandas-2026-06-18",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
     }
   ],
   "air_quality": {
-    "index": 28,
+    "index": 25,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
