@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-04",
+  "updated_at": "2026-06-05",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -228,62 +228,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Vytinės juostos ir jų apdaila",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytines-juostos-ir-ju-apdaila-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 06.04 16:15",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-06-04-16-15-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "OTHERWISE I Dizaino ateičių paroda ir diskusija",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/otherwise-i-dizaino-ateiciu-paroda-ir-diskusija-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Press The Button | Mūzos vasaroja!",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/press-the-button-muzos-vasaroja-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "VASARĄ GAL KĄ LENGVESNIO. „Literatūros savaitės“ klubo 4 sezono 6 susitikimas",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasara-gal-ka-lengvesnio-literaturos-savaites-klubo-4-sezono-6-susitikimas-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "DVIRATYNĖS Kaune – dviračių šventė visai šeimai",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dviratynes-kaune-dviraciu-svente-visai-seimai-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "„Polyphonic Architecture“ ■ Suzuko Yamada ■ Paskaita",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/polyphonic-architecture-suzuko-yamada-paskaita-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Unbounded Geometries: inter-disciplinary performance",
-      "date": "2026-06-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/unbounded-geometries-inter-disciplinary-performance-2026-06-04",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "TARP BŪSENŲ. 2026 VDU MF Naujųjų medijų meno baigiamųjų darbų paroda",
       "date": "2026-06-05",
@@ -509,6 +453,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Žaidžiame knygelę",
+      "date": "2026-06-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zaidziame-knygele-2026-06-09",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Koncertas „Skambam! Pasitinkam vasarą“",
       "date": "2026-06-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-skambam-pasitinkam-vasara-2026-06-09",
@@ -570,6 +521,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atsisveikinimo-ekskursija-su-paroda-prisiekes-vlado-daumanto-re-kolekcijos-2026-06-10",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Paskaita „Kaunas Lietuvos nepriklausomybės atkūrimo laikotarpiu“",
+      "date": "2026-06-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kaunas-lietuvos-nepriklausomybes-atkurimo-laikotarpiu-2026-06-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "JUOZAS APUTIS. Rašytojai 90-mečiai",
@@ -663,6 +621,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Rašytoja ir jos paroda: DOVILĖ ZELČIŪTĖ",
+      "date": "2026-06-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rasytoja-ir-jos-paroda-dovile-zelciute-2026-06-12",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Paskaita „Amono dainininkės mumija ir egiptomanijos atgarsiai tarpukario Lietuvoje“",
       "date": "2026-06-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-amono-dainininkes-mumija-ir-egiptomanijos-atgarsiai-tarpukario-lietuvoje-2026-06-12",
@@ -705,6 +670,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "SALOMĖJOS NĖRIES KŪRYBOS SKAITYMAI | 1 SUSITIKIMAS",
+      "date": "2026-06-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/salomejos-neries-kurybos-skaitymai-1-susitikimas-2026-06-13",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Knygos „Radvilos Našlaitėlio kelias, arba Apie piligrimus, banditus ir mumijas“ sutiktuvės ir kūrybinės dirbtuvės",
       "date": "2026-06-13",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-radvilos-naslaitelio-kelias-arba-apie-piligrimus-banditus-ir-mumijas-sutiktuves-ir-kurybines-dirbtuves-2026-06-13",
@@ -724,6 +696,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-06-13",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Kūrybinės dirbtuvės šeimoms „Lapės nuotykiai knygose“",
+      "date": "2026-06-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybines-dirbtuves-seimoms-lapes-nuotykiai-knygose-2026-06-13",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "Kūrybinio rašymo dirbtuvės",
@@ -927,10 +906,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-suaugusiesiems-pokalbis-su-vaizgantu-2026-06-18",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "ROKAS ir EIVILĖ | Mūzos vasaroja!",
+      "date": "2026-06-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rokas-ir-eivile-muzos-vasaroja-2026-06-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Baltijos gitarų festivalis 2026. Thanapot Lerttham (Tailandas)",
+      "date": "2026-06-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltijos-gitaru-festivalis-2026-thanapot-lerttham-tailandas-2026-06-18",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
+      "date": "2026-06-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-06-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 25,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
