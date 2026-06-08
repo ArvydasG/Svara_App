@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-07",
+  "updated_at": "2026-06-08",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,61 +195,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Bijūnų festivalis",
-      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis-2",
-      "date": "2026-06-13",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "KONCERTAS: Vakaro muzika tarp bijūnų",
-      "url": "https://botanika.vdu.lt/ivykiai/koncertas-vakaro-muzika-tarp-bijunu",
-      "date": "2026-06-12",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
-      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
-      "date": "2026-06-30",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO 06.07 12:15",
-      "date": "2026-06-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tarpukario-modernizmas-ir-art-deco-06-07-12-15-2026-06-07",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "DOMINO teatras | URVINIS ŽMOGUS",
-      "date": "2026-06-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatras-urvinis-zmogus-2026-06-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Lauko biuro savaitė'26",
-      "date": "2026-06-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lauko-biuro-savaite-26-2026-06-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Būti pirmuoju, kilti aukščiau. Jurgio Dobkevičiaus 100-osios žūties metinės",
-      "date": "2026-06-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/buti-pirmuoju-kilti-auksciau-jurgio-dobkeviciaus-100-osios-zuties-metines-2026-06-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Susitikimas su Vaiva Rykštaite Santarvės parko skaitykloje",
       "date": "2026-06-08",
@@ -580,6 +527,13 @@
       "category": "Scena"
     },
     {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-06-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-06-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "RIBOŽENKLIAI. KAUNAS | šokio spektaklis-ekskursija",
       "date": "2026-06-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ribozenkliai-kaunas-sokio-spektaklis-ekskursija-2026-06-14",
@@ -839,6 +793,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Tvarios mados kolekcijos \"AMOR VINCIT OMNIA\" pristatymas",
+      "date": "2026-06-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tvarios-mados-kolekcijos-amor-vincit-omnia-pristatymas-2026-06-20",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "VILNIAUS STYGINIŲ KVARTETAS IR MARTYNA JATKAUSKAITĖ",
       "date": "2026-06-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vilniaus-styginiu-kvartetas-ir-martyna-jatkauskaite-2026-06-20",
@@ -921,12 +882,26 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktine-ekskursija-iii-forte-kauno-tvirtove-2026-06-26",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Edukacija „Botaninis mėlynumas: cianotipijos dirbtuvės birželio žiedais“",
+      "date": "2026-06-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-botaninis-melynumas-cianotipijos-dirbtuves-birzelio-ziedais-2026-06-27",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Ekskursijos KMM",
+      "date": "2026-06-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-06-27",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 26,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 19,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
