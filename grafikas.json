@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-08",
+  "updated_at": "2026-06-09",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,22 +195,33 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Bijūnų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis-2",
+      "date": "2026-06-13",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "KONCERTAS: Vakaro muzika tarp bijūnų",
+      "url": "https://botanika.vdu.lt/ivykiai/koncertas-vakaro-muzika-tarp-bijunu",
+      "date": "2026-06-12",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
+      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
+      "date": "2026-06-30",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Susitikimas su Vaiva Rykštaite Santarvės parko skaitykloje",
-      "date": "2026-06-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-vaiva-rykstaite-santarves-parko-skaitykloje-2026-06-08",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Vasarinis improvizacijos pirmadienis",
-      "date": "2026-06-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasarinis-improvizacijos-pirmadienis-2026-06-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "„Gyvo archyvo dienos“",
       "date": "2026-06-09",
@@ -597,6 +608,13 @@
       "category": "Scena"
     },
     {
+      "title": "Solio Vasaros Muzikos ir Šokio pamokos Kaune 1-6m. vaikams",
+      "date": "2026-06-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/solio-vasaros-muzikos-ir-sokio-pamokos-kaune-1-6m-vaikams-2026-06-16",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Interaktyvus spektaklis „Akys“",
       "date": "2026-06-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-06-16",
@@ -896,12 +914,19 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-06-27",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
+      "date": "2026-06-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-06-27",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 19,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 24,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
