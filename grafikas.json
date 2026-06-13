@@ -73,7 +73,8 @@
         "2027-07-12",
         "2027-07-26",
         "2027-08-09",
-        "2027-08-23"
+        "2027-08-23",
+        "2027-09-06"
       ],
       "hasRealDates": true
     },
@@ -150,7 +151,8 @@
         "2027-07-12",
         "2027-07-26",
         "2027-08-09",
-        "2027-08-23"
+        "2027-08-23",
+        "2027-09-06"
       ],
       "hasRealDates": true
     },
@@ -173,7 +175,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-12",
+  "updated_at": "2026-06-13",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,75 +197,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Bijūnų festivalis",
-      "url": "https://botanika.vdu.lt/ivykiai/bijunu-festivalis-2",
-      "date": "2026-06-13",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "KONCERTAS: Vakaro muzika tarp bijūnų",
-      "url": "https://botanika.vdu.lt/ivykiai/koncertas-vakaro-muzika-tarp-bijunu",
-      "date": "2026-06-12",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
-      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
-      "date": "2026-06-30",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Edukacija „Kas slepiasi popieriuje ir kaip neleisti jam sunykti?“",
-      "date": "2026-06-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-kas-slepiasi-popieriuje-ir-kaip-neleisti-jam-sunykti-2026-06-12",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Rašytoja ir jos paroda: DOVILĖ ZELČIŪTĖ",
-      "date": "2026-06-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rasytoja-ir-jos-paroda-dovile-zelciute-2026-06-12",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Paskaita „Amono dainininkės mumija ir egiptomanijos atgarsiai tarpukario Lietuvoje“",
-      "date": "2026-06-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-amono-dainininkes-mumija-ir-egiptomanijos-atgarsiai-tarpukario-lietuvoje-2026-06-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "NUO RAPSODIJOS IKI TANGO",
-      "date": "2026-06-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-rapsodijos-iki-tango-2026-06-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Francesco Toninelli (IT) + Tulgirdas (LT)",
-      "date": "2026-06-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/francesco-toninelli-it-tulgirdas-lt-2026-06-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Romuvos kinoteka lauko kine: „Pagauk, jei gali“",
-      "date": "2026-06-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-lauko-kine-pagauk-jei-gali-2026-06-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 06.13 11:15",
       "date": "2026-06-13",
@@ -445,6 +380,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-i-spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-06-14",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Paroda „Po sparnų: kai dangus lieka praeityje“",
+      "date": "2026-06-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-po-sparnu-kai-dangus-lieka-praeityje-2026-06-15",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Filmai apie laisvus žmones: „Ožkabalių ąžuolynas“",
@@ -685,13 +627,6 @@
       "category": "Literatūra"
     },
     {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-06-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-06-20",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
       "title": "Edukacinis užsiėmimas šeimoms „Giesmė apie Gediminą“",
       "date": "2026-06-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-giesme-apie-gedimina-2026-06-20",
@@ -832,13 +767,6 @@
       "category": "Ekskursijos"
     },
     {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-06-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-06-26",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
       "title": "NAKTINĖ ekskursija III FORTE. Kauno tvirtovė.",
       "date": "2026-06-26",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktine-ekskursija-iii-forte-kauno-tvirtove-2026-06-26",
@@ -921,10 +849,59 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tradiciniai-popieriaus-karpiniai-2026-07-02",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-07-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-07-02",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Grete ir Justė Kraujelytė – Comète | Mūzos vasaroja!",
+      "date": "2026-07-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grete-ir-juste-kraujelyte-comete-muzos-vasaroja-2026-07-02",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Susitikimas su Tomu Dirgėla Santarvės parko skaitykloje",
+      "date": "2026-07-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-tomu-dirgela-santarves-parko-skaitykloje-2026-07-03",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Sauliaus Petreikio koncertas Kalniečių parko skaitykloje",
+      "date": "2026-07-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sauliaus-petreikio-koncertas-kalnieciu-parko-skaitykloje-2026-07-03",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 07.04 14:00",
+      "date": "2026-07-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-07-04-14-00-2026-07-04",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO liepos 06 11:15",
+      "date": "2026-07-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tarpukario-modernizmas-ir-art-deco-liepos-06-11-15-2026-07-06",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "NUOTYKIAI PRASIDEDA! |  MOKSLEIVIŲ VASAROS EDUKACIJA",
+      "date": "2026-07-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuotykiai-prasideda-moksleiviu-vasaros-edukacija-2026-07-07",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 31,
+    "index": 26,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
