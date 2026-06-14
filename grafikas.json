@@ -175,7 +175,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-13",
+  "updated_at": "2026-06-14",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -197,134 +197,21 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
+      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
+      "date": "2026-06-30",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 06.13 11:15",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-06-13-11-15-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Edukacija „Botaninis mėlynumas: cianotipijos dirbtuvės birželio žiedais“",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-botaninis-melynumas-cianotipijos-dirbtuves-birzelio-ziedais-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "SALOMĖJOS NĖRIES KŪRYBOS SKAITYMAI | 1 SUSITIKIMAS",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/salomejos-neries-kurybos-skaitymai-1-susitikimas-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Knygos „Radvilos Našlaitėlio kelias, arba Apie piligrimus, banditus ir mumijas“ sutiktuvės ir kūrybinės dirbtuvės",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-radvilos-naslaitelio-kelias-arba-apie-piligrimus-banditus-ir-mumijas-sutiktuves-ir-kurybines-dirbtuves-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kauno Tado Ivanausko zoologijos muziejuje savaitgalio ekskursijos",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-tado-ivanausko-zoologijos-muziejuje-savaitgalio-ekskursijos-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kūrybinės dirbtuvės šeimoms „Lapės nuotykiai knygose“",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybines-dirbtuves-seimoms-lapes-nuotykiai-knygose-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Kūrybinio rašymo dirbtuvės",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybinio-rasymo-dirbtuves-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija „Gyvi namai”",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-gyvi-namai-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursijos po parodą „Arbatos puodelio istorijos“",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-po-paroda-arbatos-puodelio-istorijos-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "„Atkastas Kaunas“ | Europos archeologijos dienos",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atkastas-kaunas-europos-archeologijos-dienos-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Filmo „Rokeris iš miškų. Mikas Suraučius“ peržiūra",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmo-rokeris-is-misku-mikas-suraucius-perziura-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "FRAGMENTAI - atsitiktinių veiksmų spektaklis",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fragmentai-atsitiktiniu-veiksmu-spektaklis-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Su meile Romuva: „Naujokė“",
-      "date": "2026-06-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/su-meile-romuva-naujoke-2026-06-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "RIBOŽENKLIAI. KAUNAS | šokio spektaklis-ekskursija",
       "date": "2026-06-14",
@@ -898,10 +785,66 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuotykiai-prasideda-moksleiviu-vasaros-edukacija-2026-07-07",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Keramika",
+      "date": "2026-07-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/keramika-2026-07-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Klajoklė | Mūzos vasaroja!",
+      "date": "2026-07-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klajokle-muzos-vasaroja-2026-07-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-07-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-07-10",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Džemas pas Maironį | Jam at Maironis‘",
+      "date": "2026-07-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dzemas-pas-maironi-jam-at-maironis-2026-07-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "NUO BAROKO IKI ROKO | De Ascaniis ir Fiorentin",
+      "date": "2026-07-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-baroko-iki-roko-de-ascaniis-ir-fiorentin-2026-07-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 07.11 11:15",
+      "date": "2026-07-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-07-11-11-15-2026-07-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-07-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-07-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Tamsusis Kauno tarpukaris",
+      "date": "2026-07-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-07-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 26,
+    "index": 23,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
