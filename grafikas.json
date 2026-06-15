@@ -175,7 +175,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-14",
+  "updated_at": "2026-06-15",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -197,84 +197,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
-      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
-      "date": "2026-06-30",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "RIBOŽENKLIAI. KAUNAS | šokio spektaklis-ekskursija",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ribozenkliai-kaunas-sokio-spektaklis-ekskursija-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Ekskursija „Vardan meilės Lietuvai”",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-vardan-meiles-lietuvai-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "LIETUVOS KANKINIŲ ATLAIDAI IR KAUNO ARKIVYSKUPIJOS 100-MEČIO MINĖJIMAS",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvos-kankiniu-atlaidai-ir-kauno-arkivyskupijos-100-mecio-minejimas-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "BIRŽELIO SODAS 2026",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/birzelio-sodas-2026-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "BandFest Kaunas 2026 koncertas „Svečiuose pas Kauką“",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/bandfest-kaunas-2026-koncertas-sveciuose-pas-kauka-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Kino vaidybos startas",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kino-vaidybos-startas-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Koncertas „Išgyventi ir atminti“",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-isgyventi-ir-atminti-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "PREMJERA I Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
-      "date": "2026-06-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-i-spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-06-14",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Paroda „Po sparnų: kai dangus lieka praeityje“",
-      "date": "2026-06-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-po-sparnu-kai-dangus-lieka-praeityje-2026-06-15",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
     {
       "title": "Filmai apie laisvus žmones: „Ožkabalių ąžuolynas“",
       "date": "2026-06-15",
@@ -407,6 +331,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-06-17",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Aria Shahrokhshahi paroda „Wet Ground“",
+      "date": "2026-06-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aria-shahrokhshahi-paroda-wet-ground-2026-06-18",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Vainikų pynimas",
@@ -841,10 +772,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-07-12",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "STEBUKLŲ DIENA |  MOKSLEIVIŲ VASAROS EDUKACIJA",
+      "date": "2026-07-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stebuklu-diena-moksleiviu-vasaros-edukacija-2026-07-15",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 23,
+    "index": 25,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
