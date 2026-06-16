@@ -42,7 +42,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
-        "2026-06-15",
         "2026-06-29",
         "2026-07-13",
         "2026-07-27",
@@ -120,7 +119,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627",
       "dates": [
-        "2026-06-15",
         "2026-06-29",
         "2026-07-13",
         "2026-07-27",
@@ -175,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-15",
+  "updated_at": "2026-06-16",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -197,43 +195,21 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
+      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
+      "date": "2026-06-30",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Filmai apie laisvus žmones: „Ožkabalių ąžuolynas“",
-      "date": "2026-06-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmai-apie-laisvus-zmones-ozkabaliu-azuolynas-2026-06-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "PREMJERA I Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
-      "date": "2026-06-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-i-spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-06-15",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Vasarinis improvizacijos pirmadienis",
-      "date": "2026-06-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasarinis-improvizacijos-pirmadienis-2026-06-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Solio Vasaros Muzikos ir Šokio pamokos Kaune 1-6m. vaikams",
-      "date": "2026-06-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/solio-vasaros-muzikos-ir-sokio-pamokos-kaune-1-6m-vaikams-2026-06-16",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "„Turnyras 4x4“ (12–16 m. vaikams) Lietuvos sporto muziejuje",
-      "date": "2026-06-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turnyras-4x4-1216-m-vaikams-lietuvos-sporto-muziejuje-2026-06-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "MOKSLEIVIŲ EDUKACIJA „VASAROKIME MUZIEJUJE“ | 2026",
       "date": "2026-06-16",
@@ -620,6 +596,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Koncertas „Garsų atmintis. Dainos tarp miškų ir jūrų“",
+      "date": "2026-06-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-garsu-atmintis-dainos-tarp-misku-ir-juru-2026-06-27",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-06-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-06-28",
@@ -779,10 +762,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stebuklu-diena-moksleiviu-vasaros-edukacija-2026-07-15",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Ekskursija Vyturiams II FORTE.",
+      "date": "2026-07-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-vyturiams-ii-forte-2026-07-16",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Lino raižiniai",
+      "date": "2026-07-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lino-raiziniai-2026-07-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "EDAS VIETA | Mūzos vasaroja!",
+      "date": "2026-07-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edas-vieta-muzos-vasaroja-2026-07-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 25,
+    "index": 27,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
