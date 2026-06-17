@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-16",
+  "updated_at": "2026-06-17",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,63 +195,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
-      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
-      "date": "2026-06-30",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "MOKSLEIVIŲ EDUKACIJA „VASAROKIME MUZIEJUJE“ | 2026",
-      "date": "2026-06-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/moksleiviu-edukacija-vasarokime-muziejuje-2026-2026-06-16",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Interaktyvus spektaklis „Akys“",
-      "date": "2026-06-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-06-16",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Ekskursija po leidinių parodą „Motiejaus Valančiaus paveldas: nuo Kražių bibliotekininko iki rašytojo“",
-      "date": "2026-06-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-leidiniu-paroda-motiejaus-valanciaus-paveldas-nuo-kraziu-bibliotekininko-iki-rasytojo-2026-06-16",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Parodos „Kūrybos jungtys“ atidarymas",
-      "date": "2026-06-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-kurybos-jungtys-atidarymas-2026-06-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Aet Ollisaar  paroda „Home sweet home” | Atidarymas",
-      "date": "2026-06-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aet-ollisaar-paroda-home-sweet-home-atidarymas-2026-06-16",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Mažylių trečiadienis | „Žaidžiame TI TA TO“",
-      "date": "2026-06-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-zaidziame-ti-ta-to-2026-06-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-06-17",
@@ -379,6 +324,13 @@
       "category": "Muzika"
     },
     {
+      "title": "VICTORIA HOTEL KAUNAS vasaros terasos atidarymas su SASHA SONG",
+      "date": "2026-06-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/victoria-hotel-kaunas-vasaros-terasos-atidarymas-su-sasha-song-2026-06-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Japoniškas lauko kinas: „Haulo burtai. Keliaujanti pilis“",
       "date": "2026-06-19",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/japoniskas-lauko-kinas-haulo-burtai-keliaujanti-pilis-2026-06-19",
@@ -398,6 +350,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-06-20",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Grafikos dirbtuvės.  Atverk savo kortą!",
+      "date": "2026-06-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grafikos-dirbtuves-atverk-savo-korta-2026-06-20",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "Naktinis Krepšinis'26",
@@ -578,6 +537,13 @@
       "title": "Ekskursijos KMM",
       "date": "2026-06-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-06-27",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Atvira ekskursija Galaunių namuose-muziejuje",
+      "date": "2026-06-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atvira-ekskursija-galauniu-namuose-muziejuje-2026-06-27",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
     },
@@ -786,7 +752,7 @@
     }
   ],
   "air_quality": {
-    "index": 27,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
