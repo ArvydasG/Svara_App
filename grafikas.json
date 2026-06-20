@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-19",
+  "updated_at": "2026-06-20",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -222,41 +222,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Interaktyvus spektaklis „Akys“",
-      "date": "2026-06-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-06-19",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Nemokama kalanetikos treniruotė po atviru dangumi su trenere Edita!",
-      "date": "2026-06-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokama-kalanetikos-treniruote-po-atviru-dangumi-su-trenere-edita-2026-06-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Baltijos gitarų festivalis 2026. Atidarymo koncertas. Dale Kavanagh (Kanada) / Amadeus Guitar Duo (Kanada/Vokietija)",
-      "date": "2026-06-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltijos-gitaru-festivalis-2026-atidarymo-koncertas-dale-kavanagh-kanada-amadeus-guitar-duo-kanada-vokietija-2026-06-19",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "VICTORIA HOTEL KAUNAS vasaros terasos atidarymas su SASHA SONG",
-      "date": "2026-06-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/victoria-hotel-kaunas-vasaros-terasos-atidarymas-su-sasha-song-2026-06-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Japoniškas lauko kinas: „Haulo burtai. Keliaujanti pilis“",
-      "date": "2026-06-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/japoniskas-lauko-kinas-haulo-burtai-keliaujanti-pilis-2026-06-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "KAUNO POŽEMIAI. EKSKURSIJA birželio 20 d. 11:00",
       "date": "2026-06-20",
@@ -363,13 +328,6 @@
       "category": "Festivaliai"
     },
     {
-      "title": "NO LIP BUSH koncertas",
-      "date": "2026-06-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/no-lip-bush-koncertas-2026-06-20",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
       "title": "Su meile Romuva: „Šilti kūnai“",
       "date": "2026-06-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/su-meile-romuva-silti-kunai-2026-06-20",
@@ -466,6 +424,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-06-25",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
+      "date": "2026-06-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-06-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "EKSKURSIJA NUOSTABIOS ŽALIAKALNIO MOTERYS birželio 26 d. 18:00",
@@ -734,6 +699,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Muzikos ir pažinčių vakaras",
+      "date": "2026-07-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikos-ir-pazinciu-vakaras-2026-07-11",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Tamsusis Kauno tarpukaris",
       "date": "2026-07-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-07-12",
@@ -791,9 +763,9 @@
     }
   ],
   "air_quality": {
-    "index": 25,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 20,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
