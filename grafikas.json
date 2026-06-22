@@ -92,7 +92,8 @@
         "2027-05-26",
         "2027-06-23",
         "2027-07-21",
-        "2027-08-18"
+        "2027-08-18",
+        "2027-09-15"
       ],
       "hasRealDates": true
     },
@@ -173,7 +174,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-21",
+  "updated_at": "2026-06-22",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,22 +196,33 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Koncertas",
+      "url": "https://botanika.vdu.lt/ivykiai/koncertas-21",
+      "date": "2026-07-18",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Kvapų naktis 2026",
+      "url": "https://botanika.vdu.lt/ivykiai/kvapu-naktis-kaune",
+      "date": "2026-07-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
+      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
+      "date": "2026-06-30",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "„Antrų šansų mugė“ – bendruomenės blusturgis",
-      "date": "2026-06-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/antru-sansu-muge-bendruomenes-blusturgis-2026-06-21",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Baltijos gitarų festivalis 2026. Uždarymo koncertas. BGF GITARŲ ORKESTRAS / HISTÉRICO DUO (Italija)",
-      "date": "2026-06-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltijos-gitaru-festivalis-2026-uzdarymo-koncertas-bgf-gitaru-orkestras-histrico-duo-italija-2026-06-21",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Trenksmas 2026: Tavo ėjimas! | Virginijos Kulvinskaitės praktinės dirbtuvės „Kūryba ir kritika“",
       "date": "2026-06-22",
@@ -334,6 +346,20 @@
       "title": "Karaliaus Augusto laiškai | ekskursija su grupe Kaune",
       "date": "2026-06-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-augusto-laiskai-ekskursija-su-grupe-kaune-2026-06-27",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursijos po parodą „Arbatos puodelio istorijos“",
+      "date": "2026-06-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-po-paroda-arbatos-puodelio-istorijos-2026-06-27",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
+      "date": "2026-06-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-06-27",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
     },
@@ -464,6 +490,20 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Ekskursijos po parodą „Arbatos puodelio istorijos“",
+      "date": "2026-07-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-po-paroda-arbatos-puodelio-istorijos-2026-07-04",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
+      "date": "2026-07-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-07-04",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO liepos 06 11:15",
       "date": "2026-07-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tarpukario-modernizmas-ir-art-deco-liepos-06-11-15-2026-07-06",
@@ -476,6 +516,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuva-raudondvario-dvare-liepos-6-2026-07-06",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Juvelyrikos paroda SIMBOLIŲ DIALOGAS | Raudondvario dvaras",
+      "date": "2026-07-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/juvelyrikos-paroda-simboliu-dialogas-raudondvario-dvaras-2026-07-06",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "KAUNO SENAMIESČIO PASLAPTYS liepos 6 d. 14:15",
@@ -555,6 +602,20 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
+      "date": "2026-07-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-07-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursijos po parodą „Arbatos puodelio istorijos“",
+      "date": "2026-07-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-po-paroda-arbatos-puodelio-istorijos-2026-07-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Muzikos ir pažinčių vakaras",
       "date": "2026-07-11",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikos-ir-pazinciu-vakaras-2026-07-11",
@@ -626,7 +687,7 @@
     }
   ],
   "air_quality": {
-    "index": 22,
+    "index": 27,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
