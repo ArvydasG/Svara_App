@@ -174,7 +174,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-23",
+  "updated_at": "2026-06-24",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -196,53 +196,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Koncertas",
-      "url": "https://botanika.vdu.lt/ivykiai/koncertas-21",
-      "date": "2026-07-18",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Kvapų naktis 2026",
-      "url": "https://botanika.vdu.lt/ivykiai/kvapu-naktis-kaune",
-      "date": "2026-07-17",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Informacija apie bibliotekos darbo laiką",
-      "url": "https://kaunobiblioteka.lt/informacija-apie-bibliotekos-darbo-laika-153",
-      "date": "2026-06-23",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
-      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
-      "date": "2026-06-30",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Pasišokimai",
-      "date": "2026-06-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasisokimai-2026-06-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Joninės lauko kine: „Mano gyvenimo žuvis“ ir vainikėlių dirbtuvės",
-      "date": "2026-06-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jonines-lauko-kine-mano-gyvenimo-zuvis-ir-vainikeliu-dirbtuves-2026-06-23",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
     {
       "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 06.24 d. 12:15",
       "date": "2026-06-24",
@@ -426,6 +381,13 @@
       "category": "Kiti"
     },
     {
+      "title": "TURAS SU PARODOS „kartu skirtingais keliais“. Grupė „Keturios“ KURATORE AGNE TALIŪTE",
+      "date": "2026-06-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turas-su-parodos-kartu-skirtingais-keliais-grupe-keturios-kuratore-agne-taliute-2026-06-30",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės I forte",
       "date": "2026-06-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-06-30",
@@ -564,6 +526,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-brastos-skvere-komedija-2026-07-07",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "J. Simanavičės tapybos darbų parodoje „Sutartinių atgarsiai“ – muzikos ir tapybos dermė",
+      "date": "2026-07-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/j-simanavices-tapybos-darbu-parodoje-sutartiniu-atgarsiai-muzikos-ir-tapybos-derme-2026-07-08",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     },
     {
       "title": "Keramika",
@@ -721,7 +690,7 @@
     }
   ],
   "air_quality": {
-    "index": 15,
+    "index": 17,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
