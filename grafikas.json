@@ -158,7 +158,6 @@
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384",
       "dates": [
-        "2026-06-24",
         "2026-07-22",
         "2026-08-19",
         "2026-09-16",
@@ -174,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-24",
+  "updated_at": "2026-06-25",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -196,22 +195,45 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Koncertas",
+      "url": "https://botanika.vdu.lt/ivykiai/koncertas-21",
+      "date": "2026-07-18",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Kvapų naktis 2026",
+      "url": "https://botanika.vdu.lt/ivykiai/kvapu-naktis-kaune",
+      "date": "2026-07-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Atvirų durų diena",
+      "url": "https://botanika.vdu.lt/ivykiai/atviru-duru-diena-aukstosios-fredos-dvare",
+      "date": "2026-07-04",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Informacija apie bibliotekos darbo laiką",
+      "url": "https://kaunobiblioteka.lt/informacija-apie-bibliotekos-darbo-laika-153",
+      "date": "2026-06-24",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
+      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
+      "date": "2026-06-30",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 06.24 d. 12:15",
-      "date": "2026-06-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-06-24-d-12-15-2026-06-24",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Vasaros improvizacijos treniruotės",
-      "date": "2026-06-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasaros-improvizacijos-treniruotes-2026-06-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Margučių marginimas vašku",
       "date": "2026-06-25",
@@ -687,12 +709,26 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/shwr-muzos-vasaroja-terasa-kaunas-2026-07-23",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-07-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-07-25",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "FORTVIO: 20 metų muzikos kartu",
+      "date": "2026-07-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fortvio-20-metu-muzikos-kartu-2026-07-25",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     }
   ],
   "air_quality": {
-    "index": 17,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 24,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
