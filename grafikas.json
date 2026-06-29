@@ -179,7 +179,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-28",
+  "updated_at": "2026-06-29",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -234,34 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Maironio lietuvių literatūros muziejui – 90",
-      "date": "2026-06-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/maironio-lietuviu-literaturos-muziejui-90-2026-06-28",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Ses. Editos Reginos Teresiutės autobiografinės knygos pristatymas",
-      "date": "2026-06-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ses-editos-reginos-teresiutes-autobiografines-knygos-pristatymas-2026-06-28",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Ekskursija su menininkais parodose „Paralaksas“ ir „kaip tapti erdve“",
-      "date": "2026-06-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-su-menininkais-parodose-paralaksas-ir-kaip-tapti-erdve-2026-06-28",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Dienos vasaros stovykla „Gamtos draugų vasara“",
-      "date": "2026-06-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dienos-vasaros-stovykla-gamtos-draugu-vasara-2026-06-29",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
     {
       "title": "Neužmiršti. \"Lietūkio\" garažo žudynių 85-osios metinės",
       "date": "2026-06-29",
@@ -401,6 +373,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-07-04",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-07-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-07-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO liepos 06 11:15",
@@ -564,6 +543,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-07-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-07-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Tamsusis Kauno tarpukaris",
       "date": "2026-07-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-07-12",
@@ -639,6 +625,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-07-18",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-07-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-07-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "NAKTIS, PAUKŠČIAI IR BAROKAS",
@@ -730,10 +723,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-07-28",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Ąžuolyno bibliotekoje – dokumentinio kino dirbtuvės su režisieriumi Maratu Sargsyanu",
+      "date": "2026-07-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/azuolyno-bibliotekoje-dokumentinio-kino-dirbtuves-su-rezisieriumi-maratu-sargsyanu-2026-07-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     }
   ],
   "air_quality": {
-    "index": 22,
+    "index": 33,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
