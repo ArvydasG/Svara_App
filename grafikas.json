@@ -4,7 +4,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
-        "2026-06-29",
         "2026-07-13",
         "2026-07-27",
         "2026-08-10",
@@ -44,7 +43,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627",
       "dates": [
-        "2026-06-29",
         "2026-07-13",
         "2026-07-27",
         "2026-08-10",
@@ -84,7 +82,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461",
       "dates": [
-        "2026-06-29",
         "2026-07-27",
         "2026-08-24",
         "2026-09-21",
@@ -108,7 +105,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262",
       "dates": [
-        "2026-06-29",
         "2026-07-27",
         "2026-08-24",
         "2026-09-21",
@@ -132,7 +128,6 @@
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-117894",
       "dates": [
-        "2026-06-29",
         "2026-08-24",
         "2026-10-19",
         "2026-12-14",
@@ -148,7 +143,6 @@
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-114598",
       "dates": [
-        "2026-06-29",
         "2026-08-24",
         "2026-10-19",
         "2026-12-14",
@@ -179,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-29",
+  "updated_at": "2026-06-30",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -234,13 +228,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Neužmiršti. \"Lietūkio\" garažo žudynių 85-osios metinės",
-      "date": "2026-06-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/neuzmirsti-lietukio-garazo-zudyniu-85-osios-metines-2026-06-29",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Literatūriniai priešpiečiai – tylieji skaitymai",
       "date": "2026-06-30",
@@ -382,6 +369,20 @@
       "category": "Kinas"
     },
     {
+      "title": "Kino filmas ,,Siena''",
+      "date": "2026-07-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kino-filmas-siena-2026-07-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "25 metai prie pilies: OPERŲ IR BALETŲ GALA KONCERTAS | Jubiliejinis festivalis „Operetė Kauno pilyje 2026“",
+      "date": "2026-07-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/25-metai-prie-pilies-operu-ir-baletu-gala-koncertas-jubiliejinis-festivalis-operete-kauno-pilyje-2026-2026-07-05",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO liepos 06 11:15",
       "date": "2026-07-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tarpukario-modernizmas-ir-art-deco-liepos-06-11-15-2026-07-06",
@@ -424,9 +425,30 @@
       "category": "Ekskursijos"
     },
     {
-      "title": "Vieningas „Tautiškos giesmės“ giedojimas Karmėlavoje",
+      "title": "25 metai prie pilies: OPEREČIŲ IR MIUZIKLŲ GALA KONCERTAS  | Jubiliejinis festivalis „Operetė Kauno pilyje 2026“",
+      "date": "2026-07-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/25-metai-prie-pilies-opereciu-ir-miuziklu-gala-koncertas-jubiliejinis-festivalis-operete-kauno-pilyje-2026-2026-07-06",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Liepos 6-oji: Tautiškos giesmės giedojimas ant Lentainių piliakalnio",
+      "date": "2026-07-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/liepos-6-oji-tautiskos-giesmes-giedojimas-ant-lentainiu-piliakalnio-2026-07-06",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Vieningas „Tautiškos giesmės“ giedojimas Karmėlavoje!",
       "date": "2026-07-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vieningas-tautiskos-giesmes-giedojimas-karmelavoje-2026-07-06",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Akcija „Tautiška giesmė aplink pasaulį”",
+      "date": "2026-07-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/akcija-tautiska-giesme-aplink-pasauli-2026-07-06",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -452,11 +474,25 @@
       "category": "Muzika"
     },
     {
+      "title": "Edukacija „Prikelkime taurę antram gyvenimui: stiklo tapyba“",
+      "date": "2026-07-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-prikelkime-taure-antram-gyvenimui-stiklo-tapyba-2026-07-08",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės I forte",
       "date": "2026-07-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-07-08",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Gintė Preisaitė ir Marija Kovačević | Koncertas",
+      "date": "2026-07-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ginte-preisaite-ir-marija-kovacevi-koncertas-2026-07-08",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     },
     {
       "title": "Keramika",
@@ -557,6 +593,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Dienos vasaros stovykla „Gamtos draugų vasara“",
+      "date": "2026-07-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dienos-vasaros-stovykla-gamtos-draugu-vasara-2026-07-13",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės II forte",
       "date": "2026-07-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-07-14",
@@ -564,9 +607,23 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Vilniaus kariljono festivalis 2026. Koncertas Kaune",
+      "date": "2026-07-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vilniaus-kariljono-festivalis-2026-koncertas-kaune-2026-07-14",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "STEBUKLŲ DIENA |  MOKSLEIVIŲ VASAROS EDUKACIJA",
       "date": "2026-07-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stebuklu-diena-moksleiviu-vasaros-edukacija-2026-07-15",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Edukacija „Tvarūs desertai – sunaudokime viską!“",
+      "date": "2026-07-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-tvarus-desertai-sunaudokime-viska-2026-07-15",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
     },
@@ -646,6 +703,20 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-07-21",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "„Trenksmas 2026: Tavo ėjimas!“ | Aleksandr Špilevoj dirbtuvės „Popkultūra, medijos ir tikrovė kūrybiniame rašyme“",
+      "date": "2026-07-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-aleksandr-spilevoj-dirbtuves-popkultura-medijos-ir-tikrove-kurybiniame-rasyme-2026-07-22",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Edukacija „Pagardų gamyba iš augalų ir daržovių likučių: nuo šaknelės iki viršūnėlės“",
+      "date": "2026-07-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-pagardu-gamyba-is-augalu-ir-darzoviu-likuciu-nuo-sakneles-iki-virsuneles-2026-07-22",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "Ekskursija Kauno tvirtovės IV forte",
@@ -730,10 +801,38 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/azuolyno-bibliotekoje-dokumentinio-kino-dirbtuves-su-rezisieriumi-maratu-sargsyanu-2026-07-29",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "Edukacija „Tvaraus verslo principai ir priežiūros priemonių gamyba iš kavos tirščių“",
+      "date": "2026-07-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-tvaraus-verslo-principai-ir-prieziuros-priemoniu-gamyba-is-kavos-tirsciu-2026-07-29",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "„Galèra“ koncertas Kauno menininkų namų amfiteatre",
+      "date": "2026-07-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/galera-koncertas-kauno-menininku-namu-amfiteatre-2026-07-29",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Simetriniai popieriaus pjaustiniai",
+      "date": "2026-07-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simetriniai-popieriaus-pjaustiniai-2026-07-30",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Gabi & Paulė | Mūzos vasaroja!",
+      "date": "2026-07-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabi-paule-muzos-vasaroja-2026-07-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 33,
+    "index": 24,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
