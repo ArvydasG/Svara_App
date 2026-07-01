@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-06-30",
+  "updated_at": "2026-07-01",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -215,6 +215,12 @@
       "source": "Botanikos sodas"
     },
     {
+      "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
+      "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
+      "date": "2026-07-31",
+      "source": "Biblioteka"
+    },
+    {
       "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
       "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
       "date": "Aktualu",
@@ -228,41 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Literatūriniai priešpiečiai – tylieji skaitymai",
-      "date": "2026-06-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/literaturiniai-priespieciai-tylieji-skaitymai-2026-06-30",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "KKC dailės studijos „Vaivorykštė“ simpoziumas „Kaunas tapyboje, tapyba Kaune“",
-      "date": "2026-06-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kkc-dailes-studijos-vaivorykste-simpoziumas-kaunas-tapyboje-tapyba-kaune-2026-06-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "TURAS SU PARODOS „kartu skirtingais keliais“. Grupė „Keturios“ KURATORE AGNE TALIŪTE",
-      "date": "2026-06-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turas-su-parodos-kartu-skirtingais-keliais-grupe-keturios-kuratore-agne-taliute-2026-06-30",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės I forte",
-      "date": "2026-06-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-06-30",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "TRENKSMAS 2026: Tavo ėjimas! | Slemas #95",
-      "date": "2026-06-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-slemas-95-2026-06-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Karpinių ir lino raižinių paroda (2026-07-01 - 2026-07-31)",
       "date": "2026-07-01",
@@ -621,6 +592,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Mažylių trečiadienis | Sveika mityba ir tyrinėjimas",
+      "date": "2026-07-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-sveika-mityba-ir-tyrinejimas-2026-07-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Edukacija „Tvarūs desertai – sunaudokime viską!“",
       "date": "2026-07-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-tvarus-desertai-sunaudokime-viska-2026-07-15",
@@ -689,6 +667,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-07-19",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "Žaidžiame knygelę",
+      "date": "2026-07-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zaidziame-knygele-2026-07-19",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "NAKTIS, PAUKŠČIAI IR BAROKAS",
@@ -829,10 +814,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabi-paule-muzos-vasaroja-2026-07-30",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės II forte",
+      "date": "2026-07-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-07-31",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 24,
+    "index": 26,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
