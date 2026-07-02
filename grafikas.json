@@ -80,29 +80,6 @@
     },
     {
       "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-118461",
-      "dates": [
-        "2026-07-27",
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262",
       "dates": [
         "2026-07-27",
@@ -125,8 +102,31 @@
       "hasRealDates": true
     },
     {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-118461",
+      "dates": [
+        "2026-07-27",
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
       "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-117894",
+      "containerType": "MS-114598",
       "dates": [
         "2026-08-24",
         "2026-10-19",
@@ -141,7 +141,7 @@
     },
     {
       "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598",
+      "containerType": "MS-117894",
       "dates": [
         "2026-08-24",
         "2026-10-19",
@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-01",
+  "updated_at": "2026-07-02",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -209,6 +209,12 @@
       "source": "Botanikos sodas"
     },
     {
+      "title": "VDU Kamerinis orkestras ir BALSAI",
+      "url": "https://botanika.vdu.lt/ivykiai/vdu-kamerinis-orkestras-ir-solistai",
+      "date": "2026-07-17",
+      "source": "Botanikos sodas"
+    },
+    {
       "title": "Atvirų durų diena",
       "url": "https://botanika.vdu.lt/ivykiai/atviru-duru-diena-aukstosios-fredos-dvare",
       "date": "2026-07-04",
@@ -225,22 +231,9 @@
       "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
       "date": "Aktualu",
       "source": "Biblioteka"
-    },
-    {
-      "title": "Miniatiūrų tapybos paroda „Miniatiūrų akimirkos“",
-      "url": "https://kaunobiblioteka.lt/miniatiuru-tapybos-paroda-miniatiuru-akimirkos",
-      "date": "2026-06-30",
-      "source": "Biblioteka"
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Karpinių ir lino raižinių paroda (2026-07-01 - 2026-07-31)",
-      "date": "2026-07-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karpiniu-ir-lino-raiziniu-paroda-2026-07-01-2026-07-31-2026-07-01",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
     {
       "title": "Tradiciniai popieriaus karpiniai",
       "date": "2026-07-02",
@@ -480,6 +473,27 @@
       "category": "Kiti"
     },
     {
+      "title": "„Jaunųjų platforma“: Ievos Butkutės paroda „Keružis sąvartoje“",
+      "date": "2026-07-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunuju-platforma-ievos-butkutes-paroda-keruzis-savartoje-2026-07-09",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "„Jaunųjų platforma“: Laimos Kulbytės paroda „Kur kalno šaknys, ten ir šerdis“",
+      "date": "2026-07-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunuju-platforma-laimos-kulbytes-paroda-kur-kalno-saknys-ten-ir-serdis-2026-07-09",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "„Jaunųjų platforma“: Godos Lukaitės paroda „Amžinesnis miškas“",
+      "date": "2026-07-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunuju-platforma-godos-lukaites-paroda-amzinesnis-miskas-2026-07-09",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-07-10",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-07-10",
@@ -641,6 +655,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Romuvos kinoteka lauko kine: „Pusryčių klubas“",
+      "date": "2026-07-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-lauko-kine-pusryciu-klubas-2026-07-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Ekskursijos KMM",
       "date": "2026-07-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-07-18",
@@ -774,6 +795,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Paroda „Objektas. Tyrimai. Restauravimas.“",
+      "date": "2026-07-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-objektas-tyrimai-restauravimas-2026-07-28",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės IV forte",
       "date": "2026-07-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-07-28",
@@ -821,12 +849,47 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-07-31",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-08-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-01",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "ConTempo 2026 ◯ Tarptautinis scenos menų festivalis",
+      "date": "2026-08-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-2026-tarptautinis-scenos-menu-festivalis-2026-08-01",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „RoZéO” ◯ Gratte Ciel (Prancūzija)",
+      "date": "2026-08-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-rozeo-gratte-ciel-prancuzija-2026-08-01",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "VYTAUTO KLOVOS MUZIKA – ATRANDANT IŠ NAUJO",
+      "date": "2026-08-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytauto-klovos-muzika-atrandant-is-naujo-2026-08-01",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Nulis” ◯ NULIS Company (Lietuva)",
+      "date": "2026-08-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nulis-nulis-company-lietuva-2026-08-01",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     }
   ],
   "air_quality": {
-    "index": 26,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 18,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
