@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-03",
+  "updated_at": "2026-07-04",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -196,6 +196,12 @@
     }
   ],
   "events": [
+    {
+      "title": "Botaninė vaikų stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/botanine-vaiku-stovykla",
+      "date": "2026-08-03",
+      "source": "Botanikos sodas"
+    },
     {
       "title": "Koncertas",
       "url": "https://botanika.vdu.lt/ivykiai/koncertas-21",
@@ -234,34 +240,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
-      "date": "2026-07-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-07-03",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Susitikimas su Tomu Dirgėla Santarvės parko skaitykloje",
-      "date": "2026-07-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-tomu-dirgela-santarves-parko-skaitykloje-2026-07-03",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Ekskursija „Tarp Kauno ir Niujorko: tarpukario laisvės tiltai“",
-      "date": "2026-07-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-tarp-kauno-ir-niujorko-tarpukario-laisves-tiltai-2026-07-03",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Sauliaus Petreikio koncertas Kalniečių parko skaitykloje",
-      "date": "2026-07-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sauliaus-petreikio-koncertas-kalnieciu-parko-skaitykloje-2026-07-03",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Ekskursijos KMM",
       "date": "2026-07-04",
@@ -359,6 +337,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-maironis-patriotas-2026-07-06",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "🇱🇹 Karaliaus Mindaugo karūnavimo diena – ant vandens",
+      "date": "2026-07-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-mindaugo-karunavimo-diena-ant-vandens-2026-07-06",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "25 metai prie pilies: OPEREČIŲ IR MIUZIKLŲ GALA KONCERTAS  | Jubiliejinis festivalis „Operetė Kauno pilyje 2026“",
@@ -492,6 +477,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-baroko-iki-roko-de-ascaniis-ir-fiorentin-2026-07-10",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Muzikos vakaras",
+      "date": "2026-07-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikos-vakaras-2026-07-10",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     },
     {
       "title": "Ekskursija Kauno tvirtovės IV forte",
@@ -672,6 +664,13 @@
       "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
       "date": "2026-07-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-07-18",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija  „Grafų Tiškevičių sodai ir parkai“",
+      "date": "2026-07-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-grafu-tiskeviciu-sodai-ir-parkai-2026-07-18",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
     },
@@ -933,10 +932,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-rozeo-gratte-ciel-prancuzija-2026-08-02",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Nulis” ◯ NULIS Company (Lietuva)",
+      "date": "2026-08-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nulis-nulis-company-lietuva-2026-08-02",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     }
   ],
   "air_quality": {
-    "index": 23,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
