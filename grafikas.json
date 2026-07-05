@@ -2,7 +2,7 @@
   "contracts": [
     {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-128501",
+      "containerType": "MK-140627",
       "dates": [
         "2026-07-13",
         "2026-07-27",
@@ -41,7 +41,7 @@
     },
     {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-140627",
+      "containerType": "MK-128501",
       "dates": [
         "2026-07-13",
         "2026-07-27",
@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-04",
+  "updated_at": "2026-07-05",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -221,12 +221,6 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Atvirų durų diena",
-      "url": "https://botanika.vdu.lt/ivykiai/atviru-duru-diena-aukstosios-fredos-dvare",
-      "date": "2026-07-04",
-      "source": "Botanikos sodas"
-    },
-    {
       "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
       "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
       "date": "2026-07-31",
@@ -240,34 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-07-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-07-04",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 07.04 14:00",
-      "date": "2026-07-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-07-04-14-00-2026-07-04",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-07-04",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-07-04",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-07-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-07-05",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "Kariljono muzikos koncertas „Vasaros sapnai“",
       "date": "2026-07-05",
@@ -759,6 +725,13 @@
       "category": "Kiti"
     },
     {
+      "title": "LUZ DO SOL – BRAZILIJOS DVASIA",
+      "date": "2026-07-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/luz-do-sol-brazilijos-dvasia-2026-07-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "SHWR | „Mūzos vasaroja!“ terasa Kaunas",
       "date": "2026-07-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/shwr-muzos-vasaroja-terasa-kaunas-2026-07-23",
@@ -937,6 +910,27 @@
       "title": "ConTempo Festival 2026 ◯ „Nulis” ◯ NULIS Company (Lietuva)",
       "date": "2026-08-02",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nulis-nulis-company-lietuva-2026-08-02",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Karaoke (ART)” ◯ Davis Freeman (JAV / Belgija)",
+      "date": "2026-08-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-karaoke-art-davis-freeman-jav-belgija-2026-08-02",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ ON SEEN ◯ Ugnė Irena Laurinavičiūtė (Lietuva)",
+      "date": "2026-08-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-on-seen-ugne-irena-laurinaviciute-lietuva-2026-08-03",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ ON SEEN ◯ Ugnė Irena Laurinavičiūtė (Lietuva)",
+      "date": "2026-08-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-on-seen-ugne-irena-laurinaviciute-lietuva-2026-08-04",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
     }
