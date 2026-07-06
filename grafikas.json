@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-05",
+  "updated_at": "2026-07-06",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -235,27 +235,6 @@
   ],
   "kaunas_events": [
     {
-      "title": "Kariljono muzikos koncertas „Vasaros sapnai“",
-      "date": "2026-07-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kariljono-muzikos-koncertas-vasaros-sapnai-2026-07-05",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Kino filmas ,,Siena''",
-      "date": "2026-07-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kino-filmas-siena-2026-07-05",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "25 metai prie pilies: OPERŲ IR BALETŲ GALA KONCERTAS | Jubiliejinis festivalis „Operetė Kauno pilyje 2026“",
-      "date": "2026-07-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/25-metai-prie-pilies-operu-ir-baletu-gala-koncertas-jubiliejinis-festivalis-operete-kauno-pilyje-2026-2026-07-05",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
       "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO liepos 06 11:15",
       "date": "2026-07-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tarpukario-modernizmas-ir-art-deco-liepos-06-11-15-2026-07-06",
@@ -312,6 +291,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Vasarinis improvizacijos pirmadienis",
+      "date": "2026-07-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasarinis-improvizacijos-pirmadienis-2026-07-06",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "25 metai prie pilies: OPEREČIŲ IR MIUZIKLŲ GALA KONCERTAS  | Jubiliejinis festivalis „Operetė Kauno pilyje 2026“",
       "date": "2026-07-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/25-metai-prie-pilies-opereciu-ir-miuziklu-gala-koncertas-jubiliejinis-festivalis-operete-kauno-pilyje-2026-2026-07-06",
@@ -347,18 +333,18 @@
       "category": "Edukaciniai"
     },
     {
-      "title": "IMPRO džemas Brastos skvere (komedija)",
-      "date": "2026-07-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-brastos-skvere-komedija-2026-07-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
       "title": "J. Simanavičės tapybos darbų parodoje „Sutartinių atgarsiai“ – muzikos ir tapybos dermė",
       "date": "2026-07-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/j-simanavices-tapybos-darbu-parodoje-sutartiniu-atgarsiai-muzikos-ir-tapybos-derme-2026-07-08",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Vasaros improvizacijos treniruotės",
+      "date": "2026-07-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasaros-improvizacijos-treniruotes-2026-07-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Edukacija „Prikelkime taurę antram gyvenimui: stiklo tapyba“",
@@ -690,6 +676,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "IMPRO džemas Brastos skvere (komedija)",
+      "date": "2026-07-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-brastos-skvere-komedija-2026-07-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "„Trenksmas 2026: Tavo ėjimas!“ | Aleksandr Špilevoj dirbtuvės „Popkultūra, medijos ir tikrovė kūrybiniame rašyme“",
       "date": "2026-07-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-aleksandr-spilevoj-dirbtuves-popkultura-medijos-ir-tikrove-kurybiniame-rasyme-2026-07-22",
@@ -933,10 +926,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-on-seen-ugne-irena-laurinaviciute-lietuva-2026-08-04",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Dainų šventė” ◯ rež. Karolis Kaupinis (Lietuva)",
+      "date": "2026-08-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-dainu-svente-rez-karolis-kaupinis-lietuva-2026-08-04",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     }
   ],
   "air_quality": {
-    "index": 22,
+    "index": 24,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
