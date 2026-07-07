@@ -2,7 +2,7 @@
   "contracts": [
     {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-140627",
+      "containerType": "MK-128501",
       "dates": [
         "2026-07-13",
         "2026-07-27",
@@ -41,7 +41,7 @@
     },
     {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-128501",
+      "containerType": "MK-140627",
       "dates": [
         "2026-07-13",
         "2026-07-27",
@@ -98,29 +98,6 @@
     },
     {
       "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-122262",
-      "dates": [
-        "2026-07-27",
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461",
       "dates": [
         "2026-07-27",
@@ -158,6 +135,29 @@
       "hasRealDates": true
     },
     {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-122262",
+      "dates": [
+        "2026-07-27",
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-117894",
       "dates": [
@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-06",
+  "updated_at": "2026-07-07",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -234,104 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija KAUNO TARPUKARIO MODERNIZMAS IR ART DECO liepos 06 11:15",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tarpukario-modernizmas-ir-art-deco-liepos-06-11-15-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kariljono muzikos koncertas „Žeme, didingoji mūsų!“",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kariljono-muzikos-koncertas-zeme-didingoji-musu-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Lietuva Raudondvario dvare | Liepos 6",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuva-raudondvario-dvare-liepos-6-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Juvelyrikos paroda SIMBOLIŲ DIALOGAS | Raudondvario dvaras",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/juvelyrikos-paroda-simboliu-dialogas-raudondvario-dvaras-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Brangusis, Benediktai... | Raudondvario dvaras",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/brangusis-benediktai-raudondvario-dvaras-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KAUNO SENAMIESČIO PASLAPTYS liepos 6 d. 14:15",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-senamiescio-paslaptys-liepos-6-d-14-15-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija „Maironis – patriotas“",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-maironis-patriotas-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "🇱🇹 Karaliaus Mindaugo karūnavimo diena – ant vandens",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karaliaus-mindaugo-karunavimo-diena-ant-vandens-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Vasarinis improvizacijos pirmadienis",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasarinis-improvizacijos-pirmadienis-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "25 metai prie pilies: OPEREČIŲ IR MIUZIKLŲ GALA KONCERTAS  | Jubiliejinis festivalis „Operetė Kauno pilyje 2026“",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/25-metai-prie-pilies-opereciu-ir-miuziklu-gala-koncertas-jubiliejinis-festivalis-operete-kauno-pilyje-2026-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Liepos 6-oji: Tautiškos giesmės giedojimas ant Lentainių piliakalnio",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/liepos-6-oji-tautiskos-giesmes-giedojimas-ant-lentainiu-piliakalnio-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Vieningas „Tautiškos giesmės“ giedojimas Karmėlavoje!",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vieningas-tautiskos-giesmes-giedojimas-karmelavoje-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Akcija „Tautiška giesmė aplink pasaulį”",
-      "date": "2026-07-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/akcija-tautiska-giesme-aplink-pasauli-2026-07-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "NUOTYKIAI PRASIDEDA! |  MOKSLEIVIŲ VASAROS EDUKACIJA",
-      "date": "2026-07-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuotykiai-prasideda-moksleiviu-vasaros-edukacija-2026-07-07",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
     {
       "title": "J. Simanavičės tapybos darbų parodoje „Sutartinių atgarsiai“ – muzikos ir tapybos dermė",
       "date": "2026-07-08",
@@ -933,12 +835,61 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-dainu-svente-rez-karolis-kaupinis-lietuva-2026-08-04",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "Tautodailės darbų paroda skirta LTS 60-mečiui (2026-08-05 - 2026-08-31)",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tautodailes-darbu-paroda-skirta-lts-60-meciui-2026-08-05-2026-08-31-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „The Fulfilment” ◯ Darragh McLoughlin (Airija)",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-the-fulfilment-darragh-mcloughlin-airija-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Nothing Happens Without You” ◯ Davis Freeman (JAV / Belgija)",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nothing-happens-without-you-davis-freeman-jav-belgija-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "Juostų dirbtuvės",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/juostu-dirbtuves-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "INGAJA | Mūzos vasaroja!",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ingaja-muzos-vasaroja-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Vandens simfonija",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vandens-simfonija-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Stickman” ◯ Darragh McLoughlin (Airija)",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-stickman-darragh-mcloughlin-airija-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     }
   ],
   "air_quality": {
-    "index": 24,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 17,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
