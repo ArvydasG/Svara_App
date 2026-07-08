@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-07",
+  "updated_at": "2026-07-08",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -305,6 +305,13 @@
       "category": "Parodos"
     },
     {
+      "title": "Sans Frayeur l Jausmo architektūra l KAUNAS",
+      "date": "2026-07-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sans-frayeur-l-jausmo-architektura-l-kaunas-2026-07-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-07-10",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-07-10",
@@ -410,6 +417,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Patyriminiai pasivaikščiojimai su dailės terapeute",
+      "date": "2026-07-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/patyriminiai-pasivaiksciojimai-su-dailes-terapeute-2026-07-14",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės II forte",
       "date": "2026-07-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-07-14",
@@ -436,6 +450,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-sveika-mityba-ir-tyrinejimas-2026-07-15",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "„Aš žiūriu į tą, kuris žiūri į mane“ – patyriminiai pasivaikščiojimai su dailės terapeute",
+      "date": "2026-07-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/as-ziuriu-i-ta-kuris-ziuri-i-mane-patyriminiai-pasivaiksciojimai-su-dailes-terapeute-2026-07-15",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Filmai apie laisvus žmones: „Reisas“",
@@ -492,6 +513,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-lauko-kine-pusryciu-klubas-2026-07-16",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "TURAS SU GIDU PARODOJE „kartu skirtingais keliais“. Grupė „Keturios“",
+      "date": "2026-07-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turas-su-gidu-parodoje-kartu-skirtingais-keliais-grupe-keturios-2026-07-17",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "VINYL ONLY | Vinilų perklausos",
@@ -884,10 +912,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-stickman-darragh-mcloughlin-airija-2026-08-06",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Mūsų Marik” ◯ Teatras TARP (Lietuva)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-musu-marik-teatras-tarp-lietuva-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „The Fulfilment” ◯ Darragh McLoughlin (Airija)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-the-fulfilment-darragh-mcloughlin-airija-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Nothing Happens Without You” ◯ Davis Freeman (JAV / Belgija)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nothing-happens-without-you-davis-freeman-jav-belgija-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     }
   ],
   "air_quality": {
-    "index": 17,
+    "index": 20,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
