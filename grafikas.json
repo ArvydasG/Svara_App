@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-08",
+  "updated_at": "2026-07-09",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -234,41 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "J. Simanavičės tapybos darbų parodoje „Sutartinių atgarsiai“ – muzikos ir tapybos dermė",
-      "date": "2026-07-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/j-simanavices-tapybos-darbu-parodoje-sutartiniu-atgarsiai-muzikos-ir-tapybos-derme-2026-07-08",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Vasaros improvizacijos treniruotės",
-      "date": "2026-07-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasaros-improvizacijos-treniruotes-2026-07-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Edukacija „Prikelkime taurę antram gyvenimui: stiklo tapyba“",
-      "date": "2026-07-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-prikelkime-taure-antram-gyvenimui-stiklo-tapyba-2026-07-08",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės I forte",
-      "date": "2026-07-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-07-08",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Gintė Preisaitė ir Marija Kovačević | Koncertas",
-      "date": "2026-07-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ginte-preisaite-ir-marija-kovacevi-koncertas-2026-07-08",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Keramika",
       "date": "2026-07-09",
@@ -413,6 +378,13 @@
       "title": "Dienos vasaros stovykla „Gamtos draugų vasara“",
       "date": "2026-07-13",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dienos-vasaros-stovykla-gamtos-draugu-vasara-2026-07-13",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Molio lipdymo edukacijos - Tarptautinio skulptūros simpoziumo lydintieji renginiai",
+      "date": "2026-07-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/molio-lipdymo-edukacijos-tarptautinio-skulpturos-simpoziumo-lydintieji-renginiai-2026-07-14",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
     },
@@ -618,6 +590,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-aleksandr-spilevoj-dirbtuves-popkultura-medijos-ir-tikrove-kurybiniame-rasyme-2026-07-22",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "LAND ART KODAS - Kai žemė klauso",
+      "date": "2026-07-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/land-art-kodas-kai-zeme-klauso-2026-07-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Edukacija „Pagardų gamyba iš augalų ir daržovių likučių: nuo šaknelės iki viršūnėlės“",
@@ -865,6 +844,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Tautodailės darbų paroda skirta LTS 60-mečiui (2026-08-05 - 2026-08-31)",
       "date": "2026-08-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tautodailes-darbu-paroda-skirta-lts-60-meciui-2026-08-05-2026-08-31-2026-08-05",
@@ -933,12 +919,26 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nothing-happens-without-you-davis-freeman-jav-belgija-2026-08-07",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Karaoke (ART)” ◯ Davis Freeman (JAV / Belgija)",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-karaoke-art-davis-freeman-jav-belgija-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     }
   ],
   "air_quality": {
-    "index": 20,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 21,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
