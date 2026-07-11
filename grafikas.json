@@ -35,7 +35,8 @@
         "2027-08-09",
         "2027-08-23",
         "2027-09-06",
-        "2027-09-20"
+        "2027-09-20",
+        "2027-10-04"
       ],
       "hasRealDates": true
     },
@@ -74,7 +75,26 @@
         "2027-08-09",
         "2027-08-23",
         "2027-09-06",
-        "2027-09-20"
+        "2027-09-20",
+        "2027-10-04"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Žaliųjų atliekų",
+      "containerType": "BZ-113384",
+      "dates": [
+        "2026-07-22",
+        "2026-08-19",
+        "2026-09-16",
+        "2026-10-14",
+        "2026-11-11",
+        "2027-04-28",
+        "2027-05-26",
+        "2027-06-23",
+        "2027-07-21",
+        "2027-08-18",
+        "2027-09-15"
       ],
       "hasRealDates": true
     },
@@ -97,6 +117,21 @@
         "2027-06-28",
         "2027-07-26",
         "2027-08-23",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-114598",
+      "dates": [
+        "2026-08-24",
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
         "2027-09-20"
       ],
       "hasRealDates": true
@@ -138,42 +173,9 @@
         "2027-09-20"
       ],
       "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598",
-      "dates": [
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Žaliųjų atliekų",
-      "containerType": "BZ-113384",
-      "dates": [
-        "2026-07-22",
-        "2026-08-19",
-        "2026-09-16",
-        "2026-10-14",
-        "2026-11-11",
-        "2027-04-28",
-        "2027-05-26",
-        "2027-06-23",
-        "2027-07-21",
-        "2027-08-18",
-        "2027-09-15"
-      ],
-      "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-10",
+  "updated_at": "2026-07-11",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,43 +197,45 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Botaninė vaikų stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/botanine-vaiku-stovykla-2",
+      "date": "2026-08-10",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Koncertas",
+      "url": "https://botanika.vdu.lt/ivykiai/koncertas-21",
+      "date": "2026-07-18",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Kvapų naktis 2026",
+      "url": "https://botanika.vdu.lt/ivykiai/kvapu-naktis-kaune",
+      "date": "2026-07-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "VDU Kamerinis orkestras ir BALSAI",
+      "url": "https://botanika.vdu.lt/ivykiai/vdu-kamerinis-orkestras-ir-solistai",
+      "date": "2026-07-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
+      "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
+      "date": "2026-07-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija J. Zikaro namuose-muziejuje",
-      "date": "2026-07-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-07-10",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Susitikimas su Aušrine Tilinde Kalniečių parko skaitykloje",
-      "date": "2026-07-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-ausrine-tilinde-kalnieciu-parko-skaitykloje-2026-07-10",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Džemas pas Maironį | Jam at Maironis‘",
-      "date": "2026-07-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dzemas-pas-maironi-jam-at-maironis-2026-07-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "NUO BAROKO IKI ROKO | De Ascaniis ir Fiorentin",
-      "date": "2026-07-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-baroko-iki-roko-de-ascaniis-ir-fiorentin-2026-07-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Muzikos vakaras",
-      "date": "2026-07-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikos-vakaras-2026-07-10",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Ekskursija Kauno tvirtovės IV forte",
       "date": "2026-07-11",
@@ -387,6 +391,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Šv. Elmo liepsnos beieškant. In memoriam Kęstučiui Lupeikiui",
+      "date": "2026-07-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sv-elmo-liepsnos-beieskant-in-memoriam-kestuciui-lupeikiui-2026-07-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Filmai apie laisvus žmones: „Reisas“",
       "date": "2026-07-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmai-apie-laisvus-zmones-reisas-2026-07-15",
@@ -406,6 +417,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-tvarus-desertai-sunaudokime-viska-2026-07-15",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Šv. Elmo liepsnos beieškant. In memoriam Kęstučiui Lupeikiui",
+      "date": "2026-07-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sv-elmo-liepsnos-beieskant-in-memoriam-kestuciui-lupeikiui-2026-07-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija Vyturiams II FORTE.",
@@ -688,6 +706,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "KAUNO AVIACIJOS ŠVENTĖ 2026",
+      "date": "2026-07-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-aviacijos-svente-2026-2026-07-25",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
       "title": "FORTVIO: 20 metų muzikos kartu",
       "date": "2026-07-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fortvio-20-metu-muzikos-kartu-2026-07-25",
@@ -896,10 +921,24 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vandens-simfonija-2026-08-06",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Stickman” ◯ Darragh McLoughlin (Airija)",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-stickman-darragh-mcloughlin-airija-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Mūsų Marik” ◯ Teatras TARP (Lietuva)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-musu-marik-teatras-tarp-lietuva-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     }
   ],
   "air_quality": {
-    "index": 12,
+    "index": 14,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
