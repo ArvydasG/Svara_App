@@ -1,6 +1,44 @@
 {
   "contracts": [
     {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-118461",
+      "dates": [
+        "2026-07-27",
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-114598",
+      "dates": [
+        "2026-08-24",
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
@@ -37,6 +75,44 @@
         "2027-09-06",
         "2027-09-20",
         "2027-10-04"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-117894",
+      "dates": [
+        "2026-08-24",
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-122262",
+      "dates": [
+        "2026-07-27",
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20"
       ],
       "hasRealDates": true
     },
@@ -97,85 +173,9 @@
         "2027-09-15"
       ],
       "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-118461",
-      "dates": [
-        "2026-07-27",
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598",
-      "dates": [
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-122262",
-      "dates": [
-        "2026-07-27",
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-117894",
-      "dates": [
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-11",
+  "updated_at": "2026-07-12",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -236,55 +236,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-07-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-07-11",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE 07.11 11:15",
-      "date": "2026-07-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-vienuolyne-07-11-11-15-2026-07-11",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Edukacija „Vasaros aromatai: natūralaus muilo dirbtuvės visai šeimai“",
-      "date": "2026-07-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-vasaros-aromatai-naturalaus-muilo-dirbtuves-visai-seimai-2026-07-11",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-07-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-07-11",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Teatralizuota ekskursija „Pasaka pasaką veja“",
-      "date": "2026-07-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatralizuota-ekskursija-pasaka-pasaka-veja-2026-07-11",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Liepsnojanti Violončelė",
-      "date": "2026-07-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/liepsnojanti-violoncele-2026-07-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Muzikos ir pažinčių vakaras",
-      "date": "2026-07-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikos-ir-pazinciu-vakaras-2026-07-11",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-07-12",
@@ -935,10 +886,52 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-musu-marik-teatras-tarp-lietuva-2026-08-07",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „The Fulfilment” ◯ Darragh McLoughlin (Airija)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-the-fulfilment-darragh-mcloughlin-airija-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Nothing Happens Without You” ◯ Davis Freeman (JAV / Belgija)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nothing-happens-without-you-davis-freeman-jav-belgija-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Karaoke (ART)” ◯ Davis Freeman (JAV / Belgija)",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-karaoke-art-davis-freeman-jav-belgija-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "NAKTINĖ ekskursija IV FORTE. Kauno tvirtovė.",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktine-ekskursija-iv-forte-kauno-tvirtove-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "KYPHI: faraoniškųjų smilkalų dirbtuvės-ritualas",
+      "date": "2026-08-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kyphi-faraoniskuju-smilkalu-dirbtuves-ritualas-2026-08-09",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 14,
+    "index": 18,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
