@@ -175,7 +175,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-12",
+  "updated_at": "2026-07-13",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -236,41 +236,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-07-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-07-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Tamsusis Kauno tarpukaris",
-      "date": "2026-07-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-07-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Kariljono muzikos koncertas „Senųjų bokštų muzika“",
-      "date": "2026-07-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kariljono-muzikos-koncertas-senuju-bokstu-muzika-2026-07-12",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Liepsnojanti Violončelė",
-      "date": "2026-07-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/liepsnojanti-violoncele-2026-07-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Dienos vasaros stovykla „Gamtos draugų vasara“",
-      "date": "2026-07-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dienos-vasaros-stovykla-gamtos-draugu-vasara-2026-07-13",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
     {
       "title": "Literatūriniai piknikai „Meilės istorijos parke“ Kalniečių parko skaitykloje",
       "date": "2026-07-13",
@@ -928,10 +893,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kyphi-faraoniskuju-smilkalu-dirbtuves-ritualas-2026-08-09",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "TEATRO DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
+      "date": "2026-08-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatro-diena-moksleiviu-vasaros-edukacija-2026-08-12",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 18,
+    "index": 20,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
