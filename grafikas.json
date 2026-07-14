@@ -42,7 +42,7 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
-        "2026-07-13",
+        "2026-07-14",
         "2026-07-27",
         "2026-08-10",
         "2026-08-24",
@@ -120,7 +120,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627",
       "dates": [
-        "2026-07-13",
         "2026-07-27",
         "2026-08-10",
         "2026-08-24",
@@ -175,7 +174,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-13",
+  "updated_at": "2026-07-14",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -237,13 +236,6 @@
   ],
   "kaunas_events": [
     {
-      "title": "Literatūriniai piknikai „Meilės istorijos parke“ Kalniečių parko skaitykloje",
-      "date": "2026-07-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/literaturiniai-piknikai-meiles-istorijos-parke-kalnieciu-parko-skaitykloje-2026-07-13",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
       "title": "Molio lipdymo edukacijos - Tarptautinio skulptūros simpoziumo lydintieji renginiai",
       "date": "2026-07-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/molio-lipdymo-edukacijos-tarptautinio-skulpturos-simpoziumo-lydintieji-renginiai-2026-07-14",
@@ -272,9 +264,9 @@
       "category": "Ekskursijos"
     },
     {
-      "title": "Vilniaus kariljono festivalis 2026. Koncertas Kaune",
+      "title": "„Opera virš Lietuvos“. Vilniaus kariljono festivalis 2026. Koncertas Kaune",
       "date": "2026-07-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vilniaus-kariljono-festivalis-2026-koncertas-kaune-2026-07-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/opera-virs-lietuvos-vilniaus-kariljono-festivalis-2026-koncertas-kaune-2026-07-14",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
     },
@@ -363,6 +355,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Ekskursija „Čia gyveno dramaturgas Juozas Grušas“",
+      "date": "2026-07-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-cia-gyveno-dramaturgas-juozas-grusas-2026-07-16",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "EDAS VIETA | Mūzos vasaroja!",
       "date": "2026-07-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edas-vieta-muzos-vasaroja-2026-07-16",
@@ -384,6 +383,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Vėtrų kalno diena | Kaunas 2026",
+      "date": "2026-07-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vetru-kalno-diena-kaunas-2026-2026-07-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės III forte",
       "date": "2026-07-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-07-16",
@@ -396,6 +402,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-lauko-kine-pusryciu-klubas-2026-07-16",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "Per pietų pertrauką – turas po parodas",
+      "date": "2026-07-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/per-pietu-pertrauka-turas-po-parodas-2026-07-17",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Kvepiančios istorijos kvapų naktyje",
@@ -412,11 +425,18 @@
       "category": "Ekskursijos"
     },
     {
-      "title": "VINYL ONLY | Vinilų perklausos",
+      "title": "Needle & Sound | Vinilų perklausos",
       "date": "2026-07-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vinyl-only-vinilu-perklausos-2026-07-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/needle-sound-vinilu-perklausos-2026-07-17",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "SALOMĖJOS NĖRIES KŪRYBOS SKAITYMAI | 2 SUSITIKIMAS",
+      "date": "2026-07-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/salomejos-neries-kurybos-skaitymai-2-susitikimas-2026-07-18",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "Ekskursijos KMM",
@@ -573,6 +593,13 @@
       "category": "Kiti"
     },
     {
+      "title": "JURGIO JANAVIČIAUS ATMINIMO VAKARAS",
+      "date": "2026-07-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgio-janaviciaus-atminimo-vakaras-2026-07-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Prancūziškas lauko kinas: „Naujoji banga“",
       "date": "2026-07-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/prancuziskas-lauko-kinas-naujoji-banga-2026-07-24",
@@ -590,6 +617,13 @@
       "title": "Edukacija „Vasaros aromatai: natūralaus muilo dirbtuvės visai šeimai“",
       "date": "2026-07-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-vasaros-aromatai-naturalaus-muilo-dirbtuves-visai-seimai-2026-07-25",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Keramikos dirbtuvės „Iš margo gėlių sutvėrimo“",
+      "date": "2026-07-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/keramikos-dirbtuves-is-margo-geliu-sutverimo-2026-07-25",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
     },
@@ -699,6 +733,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Protų mūšis „Motiejus Valančius: rašytojas, švietėjas, vyskupas“ | LIETUVOS MUZIEJŲ KELIAS",
+      "date": "2026-07-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/protu-musis-motiejus-valancius-rasytojas-svietejas-vyskupas-lietuvos-muzieju-kelias-2026-07-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Gabi & Paulė | Mūzos vasaroja!",
       "date": "2026-07-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabi-paule-muzos-vasaroja-2026-07-30",
@@ -711,6 +752,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-07-31",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Nauja pramogų vieta - DAUŽYKLA",
+      "date": "2026-08-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nauja-pramogu-vieta-dauzykla-2026-08-01",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
@@ -886,24 +934,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktine-ekskursija-iv-forte-kauno-tvirtove-2026-08-08",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
-    },
-    {
-      "title": "KYPHI: faraoniškųjų smilkalų dirbtuvės-ritualas",
-      "date": "2026-08-09",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kyphi-faraoniskuju-smilkalu-dirbtuves-ritualas-2026-08-09",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "TEATRO DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
-      "date": "2026-08-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatro-diena-moksleiviu-vasaros-edukacija-2026-08-12",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 20,
+    "index": 16,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
