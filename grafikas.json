@@ -42,7 +42,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
-        "2026-07-14",
         "2026-07-27",
         "2026-08-10",
         "2026-08-24",
@@ -174,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-14",
+  "updated_at": "2026-07-15",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -235,41 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Molio lipdymo edukacijos - Tarptautinio skulptūros simpoziumo lydintieji renginiai",
-      "date": "2026-07-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/molio-lipdymo-edukacijos-tarptautinio-skulpturos-simpoziumo-lydintieji-renginiai-2026-07-14",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Patyriminiai pasivaikščiojimai su dailės terapeute",
-      "date": "2026-07-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/patyriminiai-pasivaiksciojimai-su-dailes-terapeute-2026-07-14",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Joga vaikams Dainavos parko skaitykloje",
-      "date": "2026-07-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/joga-vaikams-dainavos-parko-skaitykloje-2026-07-14",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės II forte",
-      "date": "2026-07-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-07-14",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "„Opera virš Lietuvos“. Vilniaus kariljono festivalis 2026. Koncertas Kaune",
-      "date": "2026-07-14",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/opera-virs-lietuvos-vilniaus-kariljono-festivalis-2026-koncertas-kaune-2026-07-14",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "STEBUKLŲ DIENA |  MOKSLEIVIŲ VASAROS EDUKACIJA",
       "date": "2026-07-15",
@@ -521,6 +485,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-07-21",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Susitikimas su fotografijų parodos autoriumi Karoliu Sankausku",
+      "date": "2026-07-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-fotografiju-parodos-autoriumi-karoliu-sankausku-2026-07-21",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "IMPRO džemas Brastos skvere (komedija)",
@@ -934,10 +905,38 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktine-ekskursija-iv-forte-kauno-tvirtove-2026-08-08",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "KYPHI: faraoniškųjų smilkalų dirbtuvės-ritualas",
+      "date": "2026-08-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kyphi-faraoniskuju-smilkalu-dirbtuves-ritualas-2026-08-09",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Tamsusis Kauno tarpukaris",
+      "date": "2026-08-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-08-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "TEATRO DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
+      "date": "2026-08-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatro-diena-moksleiviu-vasaros-edukacija-2026-08-12",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Švilpynių lipdymas",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/svilpyniu-lipdymas-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 16,
+    "index": 15,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
