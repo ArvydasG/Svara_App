@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-15",
+  "updated_at": "2026-07-16",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -234,76 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "STEBUKLŲ DIENA |  MOKSLEIVIŲ VASAROS EDUKACIJA",
-      "date": "2026-07-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stebuklu-diena-moksleiviu-vasaros-edukacija-2026-07-15",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Kauno Tado Ivanausko zoologijos muziejui – 107!",
-      "date": "2026-07-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-tado-ivanausko-zoologijos-muziejui-107-2026-07-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Mažylių trečiadienis | Sveika mityba ir tyrinėjimas",
-      "date": "2026-07-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-sveika-mityba-ir-tyrinejimas-2026-07-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„Aš žiūriu į tą, kuris žiūri į mane“ – patyriminiai pasivaikščiojimai su dailės terapeute",
-      "date": "2026-07-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/as-ziuriu-i-ta-kuris-ziuri-i-mane-patyriminiai-pasivaiksciojimai-su-dailes-terapeute-2026-07-15",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Šv. Elmo liepsnos beieškant. In memoriam Kęstučiui Lupeikiui",
-      "date": "2026-07-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sv-elmo-liepsnos-beieskant-in-memoriam-kestuciui-lupeikiui-2026-07-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Filmai apie laisvus žmones: „Reisas“",
-      "date": "2026-07-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmai-apie-laisvus-zmones-reisas-2026-07-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Simono Jazavitos knygos „Didieji Lietuvos istorijos mitai“ pristatymas Dainavos parko skaitykloje",
-      "date": "2026-07-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simono-jazavitos-knygos-didieji-lietuvos-istorijos-mitai-pristatymas-dainavos-parko-skaitykloje-2026-07-15",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Edukacija „Tvarūs desertai – sunaudokime viską!“",
-      "date": "2026-07-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-tvarus-desertai-sunaudokime-viska-2026-07-15",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Šv. Elmo liepsnos beieškant. In memoriam Kęstučiui Lupeikiui",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sv-elmo-liepsnos-beieskant-in-memoriam-kestuciui-lupeikiui-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Vyturiams II FORTE.",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-vyturiams-ii-forte-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "Lino raižiniai",
       "date": "2026-07-16",
@@ -550,6 +480,13 @@
       "category": "Kiti"
     },
     {
+      "title": "„VILKASׅ“ – TAI MES!“: PASAKOJA FABRIKO ŽMONĖS",
+      "date": "2026-07-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vilkas-tai-mes-pasakoja-fabriko-zmones-2026-07-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "SHWR | „Mūzos vasaroja!“ terasa Kaunas",
       "date": "2026-07-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/shwr-muzos-vasaroja-terasa-kaunas-2026-07-23",
@@ -683,6 +620,13 @@
       "category": "Kinas"
     },
     {
+      "title": "Filmų „Architektas Edmundas Alfonsas Frykas“ ir „Kauno laiptai ir keltuvai“ seansai archyve",
+      "date": "2026-07-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmu-architektas-edmundas-alfonsas-frykas-ir-kauno-laiptai-ir-keltuvai-seansai-archyve-2026-07-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Edukacija „Tvaraus verslo principai ir priežiūros priemonių gamyba iš kavos tirščių“",
       "date": "2026-07-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-tvaraus-verslo-principai-ir-prieziuros-priemoniu-gamyba-is-kavos-tirsciu-2026-07-29",
@@ -716,6 +660,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabi-paule-muzos-vasaroja-2026-07-30",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Knygos „PIRMASIS. Karo lakūnas ir aviakonstruktorius Jurgis Dobkevičius“ pristatymas",
+      "date": "2026-07-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-pirmasis-karo-lakunas-ir-aviakonstruktorius-jurgis-dobkevicius-pristatymas-2026-07-30",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "Ekskursija Kauno tvirtovės II forte",
@@ -933,10 +884,45 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/svilpyniu-lipdymas-2026-08-13",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Miesto gamtos ir bendruomenės festivalis „Drevės“",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/miesto-gamtos-ir-bendruomenes-festivalis-dreves-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "Teatralizuota misterija „KOTRYNA“",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatralizuota-misterija-kotryna-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Respublikinis folkloro festivalis „Obelynės Žolinė 2026“",
+      "date": "2026-08-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/respublikinis-folkloro-festivalis-obelynes-zoline-2026-2026-08-14",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "Warm Up Beatbox Battle 2026",
+      "date": "2026-08-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/warm-up-beatbox-battle-2026-2026-08-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 15,
+    "index": 16,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
