@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-16",
+  "updated_at": "2026-07-17",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -234,69 +234,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Lino raižiniai",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lino-raiziniai-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija „Čia gyveno dramaturgas Juozas Grušas“",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-cia-gyveno-dramaturgas-juozas-grusas-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "EDAS VIETA | Mūzos vasaroja!",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edas-vieta-muzos-vasaroja-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Paroda „REDITUS“ | Tarptautinė tipografikos bienalė „Keliaujančios raidės“",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-reditus-tarptautine-tipografikos-bienale-keliaujancios-raides-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Haroldo ir grupės koncertas Kalniečių parko skaitykloje",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/haroldo-ir-grupes-koncertas-kalnieciu-parko-skaitykloje-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Vėtrų kalno diena | Kaunas 2026",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vetru-kalno-diena-kaunas-2026-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės III forte",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Romuvos kinoteka lauko kine: „Pusryčių klubas“",
-      "date": "2026-07-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-lauko-kine-pusryciu-klubas-2026-07-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "Per pietų pertrauką – turas po parodas",
       "date": "2026-07-17",
@@ -401,6 +338,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktis-pauksciai-ir-barokas-2026-07-19",
       "source": "Kaunas Pilnas",
       "category": "Naktinė kultūra"
+    },
+    {
+      "title": "XIV-asis tarptautinis tapybos pleneras „Pelėdų kalno paslaptys“, skirtas Justino Vienožinskio 140-osioms gimimo metinėms",
+      "date": "2026-07-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/xiv-asis-tarptautinis-tapybos-pleneras-peledu-kalno-paslaptys-skirtas-justino-vienozinskio-140-osioms-gimimo-metinems-2026-07-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Literatūriniai piknikai „Meilės istorijos parke“ Kalniečių parko skaitykloje",
@@ -590,13 +534,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/literaturiniai-piknikai-meiles-istorijos-parke-kalnieciu-parko-skaitykloje-2026-07-27",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
-    },
-    {
-      "title": "Paroda „Objektas. Tyrimai. Restauravimas.“",
-      "date": "2026-07-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-objektas-tyrimai-restauravimas-2026-07-28",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
     },
     {
       "title": "Ekskursija Kauno tvirtovės IV forte",
@@ -919,10 +856,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/warm-up-beatbox-battle-2026-2026-08-15",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "STYGOS IR KLARNETAS: NUO MOZARTO IKI BRAHMSO",
+      "date": "2026-08-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stygos-ir-klarnetas-nuo-mozarto-iki-brahmso-2026-08-16",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 16,
+    "index": 15,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
