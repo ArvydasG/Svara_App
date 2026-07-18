@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-17",
+  "updated_at": "2026-07-18",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -198,26 +198,14 @@
   "events": [
     {
       "title": "Botaninė vaikų stovykla",
-      "url": "https://botanika.vdu.lt/ivykiai/botanine-vaiku-stovykla-2",
-      "date": "2026-08-10",
+      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
+      "date": "2026-08-17",
       "source": "Botanikos sodas"
     },
     {
       "title": "Koncertas",
       "url": "https://botanika.vdu.lt/ivykiai/koncertas-21",
       "date": "2026-07-18",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Kvapų naktis 2026",
-      "url": "https://botanika.vdu.lt/ivykiai/kvapu-naktis-kaune",
-      "date": "2026-07-17",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "VDU Kamerinis orkestras ir BALSAI",
-      "url": "https://botanika.vdu.lt/ivykiai/vdu-kamerinis-orkestras-ir-solistai",
-      "date": "2026-07-17",
       "source": "Botanikos sodas"
     },
     {
@@ -234,34 +222,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Per pietų pertrauką – turas po parodas",
-      "date": "2026-07-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/per-pietu-pertrauka-turas-po-parodas-2026-07-17",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Kvepiančios istorijos kvapų naktyje",
-      "date": "2026-07-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepiancios-istorijos-kvapu-naktyje-2026-07-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "TURAS SU GIDU PARODOJE „kartu skirtingais keliais“. Grupė „Keturios“",
-      "date": "2026-07-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turas-su-gidu-parodoje-kartu-skirtingais-keliais-grupe-keturios-2026-07-17",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Needle & Sound | Vinilų perklausos",
-      "date": "2026-07-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/needle-sound-vinilu-perklausos-2026-07-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "SALOMĖJOS NĖRIES KŪRYBOS SKAITYMAI | 2 SUSITIKIMAS",
       "date": "2026-07-18",
@@ -382,6 +342,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Virgilijus Šonta. Atsakymas, mano drauge, plaikstosi vėjyje",
+      "date": "2026-07-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/virgilijus-sonta-atsakymas-mano-drauge-plaikstosi-vejyje-2026-07-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "LAND ART KODAS - Kai žemė klauso",
       "date": "2026-07-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/land-art-kodas-kai-zeme-klauso-2026-07-22",
@@ -494,6 +461,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Šviesos gaudyklės: spalvų, šešėlių ir formų nuotykis",
+      "date": "2026-07-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sviesos-gaudykles-spalvu-seseliu-ir-formu-nuotykis-2026-07-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
       "date": "2026-07-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-07-25",
@@ -520,6 +494,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fortvio-20-metu-muzikos-kartu-2026-07-25",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Vėtrų kalno diena | Kaunas 2026",
+      "date": "2026-07-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vetru-kalno-diena-kaunas-2026-2026-07-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Kariljono muzikos koncertas „Kai filmai nutyla“",
@@ -863,12 +844,19 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stygos-ir-klarnetas-nuo-mozarto-iki-brahmso-2026-08-16",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "KULTŪRA Į KIEMUS 2026 | Renginių ciklas",
+      "date": "2026-08-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-renginiu-ciklas-2026-08-17",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 15,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 22,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
