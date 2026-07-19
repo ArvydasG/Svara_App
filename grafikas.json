@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-19",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,82 +195,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Botaninė vaikų stovykla",
-      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
-      "date": "2026-08-17",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Koncertas",
-      "url": "https://botanika.vdu.lt/ivykiai/koncertas-21",
-      "date": "2026-07-18",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
-      "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
-      "date": "2026-07-31",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "SALOMĖJOS NĖRIES KŪRYBOS SKAITYMAI | 2 SUSITIKIMAS",
-      "date": "2026-07-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/salomejos-neries-kurybos-skaitymai-2-susitikimas-2026-07-18",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-07-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-07-18",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-07-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-07-18",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-07-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-07-18",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija  „Grafų Tiškevičių sodai ir parkai“",
-      "date": "2026-07-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-grafu-tiskeviciu-sodai-ir-parkai-2026-07-18",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Alternatyvios muzikos grupių „tadelis“ ir „tyliai teka“ koncertas",
-      "date": "2026-07-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/alternatyvios-muzikos-grupiu-tadelis-ir-tyliai-teka-koncertas-2026-07-18",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Grupės „Garbanotas“ koncertas",
-      "date": "2026-07-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupes-garbanotas-koncertas-2026-07-18",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-07-19",
@@ -412,6 +338,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
+      "date": "2026-07-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-07-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "JURGIO JANAVIČIAUS ATMINIMO VAKARAS",
       "date": "2026-07-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgio-janaviciaus-atminimo-vakaras-2026-07-24",
@@ -466,13 +399,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sviesos-gaudykles-spalvu-seseliu-ir-formu-nuotykis-2026-07-25",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
     },
     {
       "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
@@ -851,10 +777,24 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-renginiu-ciklas-2026-08-17",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Medžio drožėjų paroda (2026-08-18 - 2026-09-15)",
+      "date": "2026-08-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/medzio-drozeju-paroda-2026-08-18-2026-09-15-2026-08-18",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Edukacija (mokymai) Medžio drožėjų parodos atidarymo renginio metu",
+      "date": "2026-08-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-mokymai-medzio-drozeju-parodos-atidarymo-renginio-metu-2026-08-18",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 22,
+    "index": 25,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
