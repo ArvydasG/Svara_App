@@ -168,12 +168,13 @@
         "2027-06-23",
         "2027-07-21",
         "2027-08-18",
-        "2027-09-15"
+        "2027-09-15",
+        "2027-10-13"
       ],
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-19",
+  "updated_at": "2026-07-20",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,36 +196,27 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Botaninė vaikų stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
+      "date": "2026-08-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
+      "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
+      "date": "2026-07-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-07-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-07-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Žaidžiame knygelę",
-      "date": "2026-07-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zaidziame-knygele-2026-07-19",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Kariljono muzikos koncertas „Vasariškoji fantazija“",
-      "date": "2026-07-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kariljono-muzikos-koncertas-vasariskoji-fantazija-2026-07-19",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "NAKTIS, PAUKŠČIAI IR BAROKAS",
-      "date": "2026-07-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktis-pauksciai-ir-barokas-2026-07-19",
-      "source": "Kaunas Pilnas",
-      "category": "Naktinė kultūra"
-    },
     {
       "title": "XIV-asis tarptautinis tapybos pleneras „Pelėdų kalno paslaptys“, skirtas Justino Vienožinskio 140-osioms gimimo metinėms",
       "date": "2026-07-20",
@@ -794,7 +786,7 @@
     }
   ],
   "air_quality": {
-    "index": 25,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
