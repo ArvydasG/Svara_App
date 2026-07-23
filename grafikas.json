@@ -158,7 +158,6 @@
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384",
       "dates": [
-        "2026-07-22",
         "2026-08-19",
         "2026-09-16",
         "2026-10-14",
@@ -174,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-22",
+  "updated_at": "2026-07-23",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -217,41 +216,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "„Trenksmas 2026: Tavo ėjimas!“ | Aleksandr Špilevoj dirbtuvės „Popkultūra, medijos ir tikrovė kūrybiniame rašyme“",
-      "date": "2026-07-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-aleksandr-spilevoj-dirbtuves-popkultura-medijos-ir-tikrove-kurybiniame-rasyme-2026-07-22",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Virgilijus Šonta. Atsakymas, mano drauge, plaikstosi vėjyje",
-      "date": "2026-07-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/virgilijus-sonta-atsakymas-mano-drauge-plaikstosi-vejyje-2026-07-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "LAND ART KODAS - Kai žemė klauso",
-      "date": "2026-07-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/land-art-kodas-kai-zeme-klauso-2026-07-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Edukacija „Pagardų gamyba iš augalų ir daržovių likučių: nuo šaknelės iki viršūnėlės“",
-      "date": "2026-07-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-pagardu-gamyba-is-augalu-ir-darzoviu-likuciu-nuo-sakneles-iki-virsuneles-2026-07-22",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-07-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-07-22",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "VIRSMŲ DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
       "date": "2026-07-23",
@@ -314,6 +278,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgio-janaviciaus-atminimo-vakaras-2026-07-24",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Vyganto Vėjo tapybos paroda „Plevenimai“",
+      "date": "2026-07-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vyganto-vejo-tapybos-paroda-plevenimai-2026-07-24",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Prancūziškas lauko kinas: „Naujoji banga“",
@@ -743,6 +714,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "KARTU | Mūzos vasaroja!",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-muzos-vasaroja-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Teatralizuota misterija „KOTRYNA“",
       "date": "2026-08-13",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatralizuota-misterija-kotryna-2026-08-13",
@@ -818,12 +796,33 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-08-21",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Kultūrinis istorinis ralis Ryterna modul Mototourism rally 2026",
+      "date": "2026-08-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturinis-istorinis-ralis-ryterna-modul-mototourism-rally-2026-2026-08-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-08-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-22",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija–ekspedicija „Karaliaus Augusto laiškai”",
+      "date": "2026-08-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijaekspedicija-karaliaus-augusto-laiskai-2026-08-22",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 22,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 14,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
