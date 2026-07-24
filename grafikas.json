@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-23",
+  "updated_at": "2026-07-24",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -203,6 +203,12 @@
       "source": "Botanikos sodas"
     },
     {
+      "title": "UOGŲ  IR ŽINIŲ DIENA SODE",
+      "url": "https://botanika.vdu.lt/ivykiai/uogu-ir-ziniu-diena-sode",
+      "date": "2026-08-07",
+      "source": "Botanikos sodas"
+    },
+    {
       "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
       "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
       "date": "2026-07-31",
@@ -216,55 +222,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "VIRSMŲ DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
-      "date": "2026-07-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/virsmu-diena-moksleiviu-vasaros-edukacija-2026-07-23",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Karpiniai",
-      "date": "2026-07-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karpiniai-2026-07-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "ORANG UTAN – MIŠKO ŽMOGUS",
-      "date": "2026-07-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orang-utan-misko-zmogus-2026-07-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "LUZ DO SOL – BRAZILIJOS DVASIA",
-      "date": "2026-07-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/luz-do-sol-brazilijos-dvasia-2026-07-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„VILKASׅ“ – TAI MES!“: PASAKOJA FABRIKO ŽMONĖS",
-      "date": "2026-07-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vilkas-tai-mes-pasakoja-fabriko-zmones-2026-07-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "SHWR | „Mūzos vasaroja!“ terasa Kaunas",
-      "date": "2026-07-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/shwr-muzos-vasaroja-terasa-kaunas-2026-07-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Pasišokimai Kalniečių parko skaitykloje",
-      "date": "2026-07-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasisokimai-kalnieciu-parko-skaitykloje-2026-07-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
       "date": "2026-07-24",
@@ -283,6 +240,13 @@
       "title": "Vyganto Vėjo tapybos paroda „Plevenimai“",
       "date": "2026-07-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vyganto-vejo-tapybos-paroda-plevenimai-2026-07-24",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Kęstučio Lanausko mažosios skulptūros paroda „Haiku Obelynei“",
+      "date": "2026-07-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kestucio-lanausko-mazosios-skulpturos-paroda-haiku-obelynei-2026-07-24",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
     },
@@ -392,6 +356,13 @@
       "category": "Literatūra"
     },
     {
+      "title": "DOVANA ROTUŠEI | Kęstučio Ignatavičiaus kolekcijos perdavimas",
+      "date": "2026-07-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dovana-rotusei-kestucio-ignataviciaus-kolekcijos-perdavimas-2026-07-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės IV forte",
       "date": "2026-07-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-07-28",
@@ -460,6 +431,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-pirmasis-karo-lakunas-ir-aviakonstruktorius-jurgis-dobkevicius-pristatymas-2026-07-30",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Pasišokimai Kalniečių parko skaitykloje",
+      "date": "2026-07-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasisokimai-kalnieciu-parko-skaitykloje-2026-07-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija Kauno tvirtovės II forte",
@@ -644,6 +622,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "Edukacija „Žolinių magija: vasaros atvirukai gratažo technika“",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zoliniu-magija-vasaros-atvirukai-gratazo-technika-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
       "date": "2026-08-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-08",
@@ -803,6 +788,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturinis-istorinis-ralis-ryterna-modul-mototourism-rally-2026-2026-08-22",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Edukacija „Žolinių magija: vasaros atvirukai gratažo technika“",
+      "date": "2026-08-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zoliniu-magija-vasaros-atvirukai-gratazo-technika-2026-08-22",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
