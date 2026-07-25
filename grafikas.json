@@ -19,7 +19,8 @@
         "2027-06-28",
         "2027-07-26",
         "2027-08-23",
-        "2027-09-20"
+        "2027-09-20",
+        "2027-10-18"
       ],
       "hasRealDates": true
     },
@@ -73,7 +74,8 @@
         "2027-08-23",
         "2027-09-06",
         "2027-09-20",
-        "2027-10-04"
+        "2027-10-04",
+        "2027-10-18"
       ],
       "hasRealDates": true
     },
@@ -111,7 +113,8 @@
         "2027-06-28",
         "2027-07-26",
         "2027-08-23",
-        "2027-09-20"
+        "2027-09-20",
+        "2027-10-18"
       ],
       "hasRealDates": true
     },
@@ -150,7 +153,8 @@
         "2027-08-23",
         "2027-09-06",
         "2027-09-20",
-        "2027-10-04"
+        "2027-10-04",
+        "2027-10-18"
       ],
       "hasRealDates": true
     },
@@ -173,7 +177,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-24",
+  "updated_at": "2026-07-25",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -222,41 +226,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
-      "date": "2026-07-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-07-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "JURGIO JANAVIČIAUS ATMINIMO VAKARAS",
-      "date": "2026-07-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgio-janaviciaus-atminimo-vakaras-2026-07-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Vyganto Vėjo tapybos paroda „Plevenimai“",
-      "date": "2026-07-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vyganto-vejo-tapybos-paroda-plevenimai-2026-07-24",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Kęstučio Lanausko mažosios skulptūros paroda „Haiku Obelynei“",
-      "date": "2026-07-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kestucio-lanausko-mazosios-skulpturos-paroda-haiku-obelynei-2026-07-24",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Prancūziškas lauko kinas: „Naujoji banga“",
-      "date": "2026-07-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/prancuziskas-lauko-kinas-naujoji-banga-2026-07-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "Ekskursija Kauno tvirtovės III forte",
       "date": "2026-07-25",
@@ -438,6 +407,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasisokimai-kalnieciu-parko-skaitykloje-2026-07-30",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Maketo dimensija 2.6. // Grupinė skulptūrų maketų paroda",
+      "date": "2026-07-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/maketo-dimensija-2-6-grupine-skulpturu-maketu-paroda-2026-07-31",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Ekskursija Kauno tvirtovės II forte",
@@ -622,9 +598,9 @@
       "category": "Festivaliai"
     },
     {
-      "title": "Edukacija „Žolinių magija: vasaros atvirukai gratažo technika“",
+      "title": "Edukacija „Žolynų magija: vasaros atvirukai gratažo technika“",
       "date": "2026-08-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zoliniu-magija-vasaros-atvirukai-gratazo-technika-2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zolynu-magija-vasaros-atvirukai-gratazo-technika-2026-08-08",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
     },
@@ -667,6 +643,13 @@
       "title": "Tamsusis Kauno tarpukaris",
       "date": "2026-08-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-08-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Miško maudynės Kalniečių parke",
+      "date": "2026-08-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/misko-maudynes-kalnieciu-parke-2026-08-11",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -790,9 +773,9 @@
       "category": "Kiti"
     },
     {
-      "title": "Edukacija „Žolinių magija: vasaros atvirukai gratažo technika“",
+      "title": "Edukacija „Žolynų magija: vasaros atvirukai gratažo technika“",
       "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zoliniu-magija-vasaros-atvirukai-gratazo-technika-2026-08-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zolynu-magija-vasaros-atvirukai-gratazo-technika-2026-08-22",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
     },
@@ -812,7 +795,7 @@
     }
   ],
   "air_quality": {
-    "index": 14,
+    "index": 18,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
