@@ -1,45 +1,6 @@
 {
   "contracts": [
     {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-118461",
-      "dates": [
-        "2026-07-27",
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20",
-        "2027-10-18"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598",
-      "dates": [
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
@@ -75,45 +36,6 @@
         "2027-09-06",
         "2027-09-20",
         "2027-10-04",
-        "2027-10-18"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-117894",
-      "dates": [
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-122262",
-      "dates": [
-        "2026-07-27",
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20",
         "2027-10-18"
       ],
       "hasRealDates": true
@@ -159,6 +81,84 @@
       "hasRealDates": true
     },
     {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-118461",
+      "dates": [
+        "2026-07-27",
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20",
+        "2027-10-18"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-122262",
+      "dates": [
+        "2026-07-27",
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20",
+        "2027-10-18"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-117894",
+      "dates": [
+        "2026-08-24",
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-114598",
+      "dates": [
+        "2026-08-24",
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384",
       "dates": [
@@ -177,7 +177,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-25",
+  "updated_at": "2026-07-26",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -226,76 +226,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija Kauno tvirtovės III forte",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Edukacija „Vasaros aromatai: natūralaus muilo dirbtuvės visai šeimai“",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-vasaros-aromatai-naturalaus-muilo-dirbtuves-visai-seimai-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Keramikos dirbtuvės „Iš margo gėlių sutvėrimo“",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/keramikos-dirbtuves-is-margo-geliu-sutverimo-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Atvira ekskursija Galaunių namuose-muziejuje",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atvira-ekskursija-galauniu-namuose-muziejuje-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Šviesos gaudyklės: spalvų, šešėlių ir formų nuotykis",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sviesos-gaudykles-spalvu-seseliu-ir-formu-nuotykis-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija–ekspedicija „Karaliaus Augusto laiškai”",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijaekspedicija-karaliaus-augusto-laiskai-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "KAUNO AVIACIJOS ŠVENTĖ 2026",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-aviacijos-svente-2026-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "FORTVIO: 20 metų muzikos kartu",
-      "date": "2026-07-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fortvio-20-metu-muzikos-kartu-2026-07-25",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-07-26",
@@ -451,6 +381,13 @@
       "category": "Scena"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ U.F.A. ◯ Cris Clown (Katalonija)",
+      "date": "2026-08-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-u-f-a-cris-clown-katalonija-2026-08-01",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ „RoZéO” ◯ Gratte Ciel (Prancūzija)",
       "date": "2026-08-01",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-rozeo-gratte-ciel-prancuzija-2026-08-01",
@@ -479,6 +416,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ U.F.A. ◯ Cris Clown (Katalonija)",
+      "date": "2026-08-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-u-f-a-cris-clown-katalonija-2026-08-02",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ „Nulis” ◯ NULIS Company (Lietuva)",
       "date": "2026-08-02",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nulis-nulis-company-lietuva-2026-08-02",
@@ -493,9 +437,30 @@
       "category": "Festivaliai"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ Where Do I Connect? ◯ A. C. Bibiano ir D. Kunsmanas (Meksika/Kanada/Lietuva)",
+      "date": "2026-08-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-where-do-i-connect-a-c-bibiano-ir-d-kunsmanas-meksika-kanada-lietuva-2026-08-03",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ ON SEEN ◯ Ugnė Irena Laurinavičiūtė (Lietuva)",
       "date": "2026-08-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-on-seen-ugne-irena-laurinaviciute-lietuva-2026-08-03",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ ONE SHOT # ◯ Collectif Protocole (Prancūzija)",
+      "date": "2026-08-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-one-shot-collectif-protocole-prancuzija-2026-08-03",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ PLAY(ces) ◯ Markas Liberman (Lietuva)",
+      "date": "2026-08-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-play-ces-markas-liberman-lietuva-2026-08-04",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
     },
@@ -521,11 +486,25 @@
       "category": "Festivaliai"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ ONE SHOT # ◯ Collectif Protocole (Prancūzija)",
+      "date": "2026-08-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-one-shot-collectif-protocole-prancuzija-2026-08-04",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-08-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-08-05",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ Tarp ◯ Robert Aleksander Vinik / Be kompanijos (Lietuva)",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-tarp-robert-aleksander-vinik-be-kompanijos-lietuva-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     },
     {
       "title": "Tautodailės darbų paroda skirta LTS 60-mečiui (2026-08-05 - 2026-08-31)",
@@ -535,11 +514,25 @@
       "category": "Parodos"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ Undinė (darbinis pavadinimas) ◯ Urtė Siniauskaitė / Be kompanijos (Lietuva)",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-undine-darbinis-pavadinimas-urte-siniauskaite-be-kompanijos-lietuva-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ „The Fulfilment” ◯ Darragh McLoughlin (Airija)",
       "date": "2026-08-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-the-fulfilment-darragh-mcloughlin-airija-2026-08-05",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ ONE SHOT # ◯ Collectif Protocole (Prancūzija)",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-one-shot-collectif-protocole-prancuzija-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     },
     {
       "title": "ConTempo Festival 2026 ◯ „Nothing Happens Without You” ◯ Davis Freeman (JAV / Belgija)",
@@ -556,11 +549,39 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ Tarp ◯ Robert Aleksander Vinik / Be kompanijos (Lietuva)",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-tarp-robert-aleksander-vinik-be-kompanijos-lietuva-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "INGAJA | Mūzos vasaroja!",
       "date": "2026-08-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ingaja-muzos-vasaroja-2026-08-06",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ Undinė (darbinis pavadinimas) ◯ Urtė Siniauskaitė / Be kompanijos (Lietuva)",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-undine-darbinis-pavadinimas-urte-siniauskaite-be-kompanijos-lietuva-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ ConTempo AFTER ◯ Audra x Upė Teka",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-contempo-after-audra-x-upe-teka-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ who cares ◯ brzezińska&leszek (Lenkija)",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-who-cares-brzeziska-leszek-lenkija-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     },
     {
       "title": "Vandens simfonija",
@@ -584,11 +605,32 @@
       "category": "Festivaliai"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ PLAY(ces) ◯ Markas Liberman (Lietuva)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-play-ces-markas-liberman-lietuva-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ who cares ◯ brzezińska&leszek (Lenkija)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-who-cares-brzeziska-leszek-lenkija-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ „The Fulfilment” ◯ Darragh McLoughlin (Airija)",
       "date": "2026-08-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-the-fulfilment-darragh-mcloughlin-airija-2026-08-07",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ ONE SHOT # ◯ Collectif Protocole (Prancūzija)",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-one-shot-collectif-protocole-prancuzija-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     },
     {
       "title": "ConTempo Festival 2026 ◯ „Nothing Happens Without You” ◯ Davis Freeman (JAV / Belgija)",
@@ -619,6 +661,20 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ Untitled World ◯ Ugnė Lučauskaitė / Be kompanijos (Lietuva)",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-untitled-world-ugne-lucauskaite-be-kompanijos-lietuva-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Epiphytes“ ◯ Cie des Chaussons Rouges (Belgija)",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-epiphytes-cie-des-chaussons-rouges-belgija-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ „Karaoke (ART)” ◯ Davis Freeman (JAV / Belgija)",
       "date": "2026-08-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-karaoke-art-davis-freeman-jav-belgija-2026-08-08",
@@ -633,6 +689,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "ConTempo Festival 2026 ◯ Where Do I Connect? ◯ A. C. Bibiano ir D. Kunsmanas (Meksika/Kanada/Lietuva)",
+      "date": "2026-08-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-where-do-i-connect-a-c-bibiano-ir-d-kunsmanas-meksika-kanada-lietuva-2026-08-09",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "KYPHI: faraoniškųjų smilkalų dirbtuvės-ritualas",
       "date": "2026-08-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kyphi-faraoniskuju-smilkalu-dirbtuves-ritualas-2026-08-09",
@@ -645,6 +708,20 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-08-09",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ ConTempo uždarymo piknikas",
+      "date": "2026-08-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-contempo-uzdarymo-piknikas-2026-08-09",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
+      "title": "ConTempo Festival 2026 ◯ „Epiphytes“ ◯ Cie des Chaussons Rouges (Belgija)",
+      "date": "2026-08-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-epiphytes-cie-des-chaussons-rouges-belgija-2026-08-09",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
     },
     {
       "title": "Miško maudynės Kalniečių parke",
@@ -795,9 +872,9 @@
     }
   ],
   "air_quality": {
-    "index": 18,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 22,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
