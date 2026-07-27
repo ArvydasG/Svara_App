@@ -177,7 +177,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-26",
+  "updated_at": "2026-07-27",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -199,54 +199,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Botaninė vaikų stovykla",
-      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
-      "date": "2026-08-17",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "UOGŲ  IR ŽINIŲ DIENA SODE",
-      "url": "https://botanika.vdu.lt/ivykiai/uogu-ir-ziniu-diena-sode",
-      "date": "2026-08-07",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
-      "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
-      "date": "2026-07-31",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-07-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-07-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Vėtrų kalno diena | Kaunas 2026",
-      "date": "2026-07-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vetru-kalno-diena-kaunas-2026-2026-07-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Kariljono muzikos koncertas „Kai filmai nutyla“",
-      "date": "2026-07-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kariljono-muzikos-koncertas-kai-filmai-nutyla-2026-07-26",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Literatūriniai piknikai „Meilės istorijos parke“ Kalniečių parko skaitykloje",
       "date": "2026-07-27",
@@ -869,6 +823,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijaekspedicija-karaliaus-augusto-laiskai-2026-08-22",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Vasaros sodo pasakojimai „Kaip Lietuva į pasaulį ėjo“",
+      "date": "2026-08-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasaros-sodo-pasakojimai-kaip-lietuva-i-pasauli-ejo-2026-08-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
