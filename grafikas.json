@@ -4,7 +4,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
-        "2026-07-27",
         "2026-08-10",
         "2026-08-24",
         "2026-09-07",
@@ -44,7 +43,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627",
       "dates": [
-        "2026-07-27",
         "2026-08-10",
         "2026-08-24",
         "2026-09-07",
@@ -84,7 +82,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461",
       "dates": [
-        "2026-07-27",
         "2026-08-24",
         "2026-09-21",
         "2026-10-19",
@@ -108,7 +105,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262",
       "dates": [
-        "2026-07-27",
         "2026-08-24",
         "2026-09-21",
         "2026-10-19",
@@ -177,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-27",
+  "updated_at": "2026-07-28",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -199,15 +195,33 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
-  "kaunas_events": [
+  "events": [
     {
-      "title": "Literatūriniai piknikai „Meilės istorijos parke“ Kalniečių parko skaitykloje",
-      "date": "2026-07-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/literaturiniai-piknikai-meiles-istorijos-parke-kalnieciu-parko-skaitykloje-2026-07-27",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
+      "title": "Botaninė vaikų stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
+      "date": "2026-08-17",
+      "source": "Botanikos sodas"
     },
+    {
+      "title": "UOGŲ  IR ŽINIŲ DIENA SODE",
+      "url": "https://botanika.vdu.lt/ivykiai/uogu-ir-ziniu-diena-sode",
+      "date": "2026-08-07",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
+      "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
+      "date": "2026-07-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
+  "kaunas_events": [
     {
       "title": "DOVANA ROTUŠEI | Kęstučio Ignatavičiaus kolekcijos perdavimas",
       "date": "2026-07-28",
@@ -440,6 +454,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "Ekskursija Kauno tvirtovės V forte",
+      "date": "2026-08-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-v-forte-2026-08-04",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ ONE SHOT # ◯ Collectif Protocole (Prancūzija)",
       "date": "2026-08-04",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-one-shot-collectif-protocole-prancuzija-2026-08-04",
@@ -503,6 +524,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ Tarp ◯ Robert Aleksander Vinik / Be kompanijos (Lietuva)",
       "date": "2026-08-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-tarp-robert-aleksander-vinik-be-kompanijos-lietuva-2026-08-06",
@@ -536,6 +564,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-who-cares-brzeziska-leszek-lenkija-2026-08-06",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės I forte",
+      "date": "2026-08-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-08-06",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Vandens simfonija",
@@ -692,6 +727,20 @@
       "category": "Scena"
     },
     {
+      "title": "Joga vaikams Santarvės parko skaitykloje",
+      "date": "2026-08-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/joga-vaikams-santarves-parko-skaitykloje-2026-08-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Paskaita „Mažiau streso ir nerimo“ Kalniečių parko skaitykloje",
+      "date": "2026-08-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-maziau-streso-ir-nerimo-kalnieciu-parko-skaitykloje-2026-08-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Švilpynių lipdymas",
       "date": "2026-08-13",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/svilpyniu-lipdymas-2026-08-13",
@@ -711,6 +760,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/miesto-gamtos-ir-bendruomenes-festivalis-dreves-2026-08-13",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "Mariaus Lasinsko paskaita „Vasaros vaistažolių nauda sveikatai“ Dainavos parko skaitykloje",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mariaus-lasinsko-paskaita-vasaros-vaistazoliu-nauda-sveikatai-dainavos-parko-skaitykloje-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "KARTU | Mūzos vasaroja!",
@@ -830,10 +886,24 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasaros-sodo-pasakojimai-kaip-lietuva-i-pasauli-ejo-2026-08-26",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Šiaudiniai žaisliukai",
+      "date": "2026-08-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siaudiniai-zaisliukai-2026-08-27",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Skambantis rugpjūtis",
+      "date": "2026-08-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skambantis-rugpjutis-2026-08-27",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 22,
+    "index": 21,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
