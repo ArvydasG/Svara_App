@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-28",
+  "updated_at": "2026-07-29",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -222,27 +222,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "DOVANA ROTUŠEI | Kęstučio Ignatavičiaus kolekcijos perdavimas",
-      "date": "2026-07-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dovana-rotusei-kestucio-ignataviciaus-kolekcijos-perdavimas-2026-07-28",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-07-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-07-28",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "TRENKSMAS 2026: Tavo ėjimas! | Slemas #96",
-      "date": "2026-07-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-slemas-96-2026-07-28",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Ąžuolyno bibliotekoje – dokumentinio kino dirbtuvės su režisieriumi Maratu Sargsyanu",
       "date": "2026-07-29",
@@ -370,6 +349,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Vytauto Klovos muzika – atrandant iš naujo",
+      "date": "2026-08-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytauto-klovos-muzika-atrandant-is-naujo-2026-08-01",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "ConTempo Festival 2026 ◯ „Nulis” ◯ NULIS Company (Lietuva)",
       "date": "2026-08-01",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-nulis-nulis-company-lietuva-2026-08-01",
@@ -403,6 +389,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-karaoke-art-davis-freeman-jav-belgija-2026-08-02",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "Linkėjimai iš Italijos: BELLA CIAO",
+      "date": "2026-08-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/linkejimai-is-italijos-bella-ciao-2026-08-02",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "ConTempo Festival 2026 ◯ Where Do I Connect? ◯ A. C. Bibiano ir D. Kunsmanas (Meksika/Kanada/Lietuva)",
@@ -494,6 +487,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-undine-darbinis-pavadinimas-urte-siniauskaite-be-kompanijos-lietuva-2026-08-05",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "Parodos „INVICTUS“ atidarymas LIETUVOS ŠVIETIMO MUZIEJUJE",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-invictus-atidarymas-lietuvos-svietimo-muziejuje-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "ConTempo Festival 2026 ◯ „The Fulfilment” ◯ Darragh McLoughlin (Airija)",
@@ -634,6 +634,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zolynu-magija-vasaros-atvirukai-gratazo-technika-2026-08-08",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Misija-mokykla│Mugė – mainytuvės Lietuvos švietimo muziejuje",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/misija-mokyklamuge-mainytuves-lietuvos-svietimo-muziejuje-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     },
     {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
@@ -825,6 +832,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Knygos „Rafinuočiai: pirmi trys gyvenimai“ pristatymas Dainavos parko skaitykloje",
+      "date": "2026-08-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-rafinuociai-pirmi-trys-gyvenimai-pristatymas-dainavos-parko-skaitykloje-2026-08-19",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "POEZIJOS DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
       "date": "2026-08-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/poezijos-diena-moksleiviu-vasaros-edukacija-2026-08-20",
@@ -837,6 +851,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tradiciniai-vijimai-pynimai-2026-08-20",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Susitikimas KAIMYNŲ SALONAS, Galaunių namuose-muziejuje",
+      "date": "2026-08-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-kaimynu-salonas-galauniu-namuose-muziejuje-2026-08-20",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
     },
     {
       "title": "Neapleisti Garsai '26",
@@ -867,6 +888,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
+      "date": "2026-08-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-08-22",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
       "date": "2026-08-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-22",
@@ -893,17 +921,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siaudiniai-zaisliukai-2026-08-27",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Skambantis rugpjūtis",
-      "date": "2026-08-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skambantis-rugpjutis-2026-08-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 21,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
