@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-30",
+  "updated_at": "2026-07-31",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,68 +195,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Botaninė vaikų stovykla",
-      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
-      "date": "2026-08-17",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "UOGŲ  IR ŽINIŲ DIENA SODE",
-      "url": "https://botanika.vdu.lt/ivykiai/uogu-ir-ziniu-diena-sode",
-      "date": "2026-08-07",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
-      "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
-      "date": "2026-07-31",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Simetriniai popieriaus pjaustiniai",
-      "date": "2026-07-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simetriniai-popieriaus-pjaustiniai-2026-07-30",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Protų mūšis „Motiejus Valančius: rašytojas, švietėjas, vyskupas“ | LIETUVOS MUZIEJŲ KELIAS",
-      "date": "2026-07-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/protu-musis-motiejus-valancius-rasytojas-svietejas-vyskupas-lietuvos-muzieju-kelias-2026-07-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Gabi & Paulė | Mūzos vasaroja!",
-      "date": "2026-07-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabi-paule-muzos-vasaroja-2026-07-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Knygos „PIRMASIS. Karo lakūnas ir aviakonstruktorius Jurgis Dobkevičius“ pristatymas",
-      "date": "2026-07-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-pirmasis-karo-lakunas-ir-aviakonstruktorius-jurgis-dobkevicius-pristatymas-2026-07-30",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Pasišokimai Kalniečių parko skaitykloje",
-      "date": "2026-07-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasisokimai-kalnieciu-parko-skaitykloje-2026-07-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Maketo dimensija 2.6. // Grupinė skulptūrų maketų paroda",
       "date": "2026-07-31",
@@ -797,6 +737,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Onutė Narbutaitė TRYS DIEVO MOTINOS SIMFONIJOS",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/onute-narbutaite-trys-dievo-motinos-simfonijos-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Teatralizuota misterija „KOTRYNA“",
       "date": "2026-08-13",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatralizuota-misterija-kotryna-2026-08-13",
@@ -821,6 +768,13 @@
       "title": "Warm Up Beatbox Battle 2026",
       "date": "2026-08-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/warm-up-beatbox-battle-2026-2026-08-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Žolinės atlaidai Pažaislyje",
+      "date": "2026-08-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zolines-atlaidai-pazaislyje-2026-08-15",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -853,6 +807,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Dianos Monkevičiūtės paroda „KodasOPdiva“",
+      "date": "2026-08-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dianos-monkeviciutes-paroda-kodasopdiva-2026-08-18",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Medžio drožėjų paroda (2026-08-18 - 2026-09-15)",
       "date": "2026-08-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/medzio-drozeju-paroda-2026-08-18-2026-09-15-2026-08-18",
@@ -865,6 +826,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-mokymai-medzio-drozeju-parodos-atidarymo-renginio-metu-2026-08-18",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Medžio drožėjų paroda „Parymojimai prie medžio“",
+      "date": "2026-08-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/medzio-drozeju-paroda-parymojimai-prie-medzio-2026-08-18",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Knygos „Rafinuočiai: pirmi trys gyvenimai“ pristatymas Dainavos parko skaitykloje",
@@ -921,10 +889,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturinis-istorinis-ralis-ryterna-modul-mototourism-rally-2026-2026-08-22",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Edukacija „Žolynų magija: vasaros atvirukai gratažo technika“",
+      "date": "2026-08-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zolynu-magija-vasaros-atvirukai-gratazo-technika-2026-08-22",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 15,
+    "index": 16,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
