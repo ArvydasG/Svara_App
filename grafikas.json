@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-07-31",
+  "updated_at": "2026-08-01",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,22 +195,45 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Parodos „Vaistininko, prof. dr. Kazimiero Grybausko (1886–1953) veiklos apžvalga“ atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/parodos-vaistininko-prof-dr-kazimiero-grybausko-1886-1953-veiklos-apzvalga-atidarymas",
+      "date": "2026-08-31",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Botaninė vaikų stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
+      "date": "2026-08-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "UOGŲ  IR ŽINIŲ DIENA SODE",
+      "url": "https://botanika.vdu.lt/ivykiai/uogu-ir-ziniu-diena-sode",
+      "date": "2026-08-07",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Paroda „Architektūros motyvai batikoje“",
+      "url": "https://kaunobiblioteka.lt/paroda-architekturos-motyvai-batikoje",
+      "date": "2026-08-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Birutės Tamošiūnienės tapybos paroda „Esu tokia, kaip tu…",
+      "url": "https://kaunobiblioteka.lt/birutes-tamosiunienes-tapybos-paroda-esu-tokia-kaip-tu-mane-matai",
+      "date": "2026-07-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Maketo dimensija 2.6. // Grupinė skulptūrų maketų paroda",
-      "date": "2026-07-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/maketo-dimensija-2-6-grupine-skulpturu-maketu-paroda-2026-07-31",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės II forte",
-      "date": "2026-07-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-07-31",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "Nauja pramogų vieta - DAUŽYKLA",
       "date": "2026-08-01",
@@ -317,9 +340,9 @@
       "category": "Kiti"
     },
     {
-      "title": "ConTempo Festival 2026 ◯ Where Do I Connect? ◯ A. C. Bibiano ir D. Kunsmanas (Meksika/Kanada/Lietuva)",
+      "title": "ConTempo Festival 2026 ◯ PLAY(ces) ◯ Markas Liberman (Lietuva)",
       "date": "2026-08-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-where-do-i-connect-a-c-bibiano-ir-d-kunsmanas-meksika-kanada-lietuva-2026-08-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-play-ces-markas-liberman-lietuva-2026-08-03",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
     },
@@ -420,6 +443,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-the-fulfilment-darragh-mcloughlin-airija-2026-08-05",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "Edukacija „Dialogas su kūnu: asmeninis tekstilės aksesuaras“",
+      "date": "2026-08-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-dialogas-su-kunu-asmeninis-tekstiles-aksesuaras-2026-08-05",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "ConTempo Festival 2026 ◯ ONE SHOT # ◯ Collectif Protocole (Prancūzija)",
@@ -548,6 +578,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "Ekskursija Kauno tvirtovės III forte",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Edukacija „Žolynų magija: vasaros atvirukai gratažo technika“",
       "date": "2026-08-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zolynu-magija-vasaros-atvirukai-gratazo-technika-2026-08-08",
@@ -581,6 +618,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-untitled-world-ugne-lucauskaite-be-kompanijos-lietuva-2026-08-08",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "Tamsusis Kauno tarpukaris",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "ConTempo Festival 2026 ◯ „Epiphytes“ ◯ Cie des Chaussons Rouges (Belgija)",
@@ -632,13 +676,6 @@
       "category": "Edukaciniai"
     },
     {
-      "title": "Tamsusis Kauno tarpukaris",
-      "date": "2026-08-09",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-08-09",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
       "title": "ConTempo Festival 2026 ◯ ConTempo uždarymo piknikas",
       "date": "2026-08-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-contempo-uzdarymo-piknikas-2026-08-09",
@@ -667,6 +704,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Ekskursija Kauno tvirtovės IV forte",
+      "date": "2026-08-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-08-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "TEATRO DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
       "date": "2026-08-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatro-diena-moksleiviu-vasaros-edukacija-2026-08-12",
@@ -693,6 +737,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-maziau-streso-ir-nerimo-kalnieciu-parko-skaitykloje-2026-08-12",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Edukacija „Namų ženklai: asmeninis tekstilės kūrinys aplinka”",
+      "date": "2026-08-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-namu-zenklai-asmeninis-tekstiles-kurinys-aplinka-2026-08-12",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "Švilpynių lipdymas",
@@ -742,6 +793,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/onute-narbutaite-trys-dievo-motinos-simfonijos-2026-08-13",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės II forte",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-ii-forte-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Teatralizuota misterija „KOTRYNA“",
@@ -807,6 +865,13 @@
       "category": "Kiti"
     },
     {
+      "title": "TEKSTŪROS: rankraščių skaitymai Dainavos parko skaitykloje",
+      "date": "2026-08-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teksturos-rankrasciu-skaitymai-dainavos-parko-skaitykloje-2026-08-17",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Dianos Monkevičiūtės paroda „KodasOPdiva“",
       "date": "2026-08-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dianos-monkeviciutes-paroda-kodasopdiva-2026-08-18",
@@ -842,6 +907,13 @@
       "category": "Literatūra"
     },
     {
+      "title": "Edukacija „Pražydęs maišelis: gėlių atspaudai ant audinio“",
+      "date": "2026-08-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-prazydes-maiselis-geliu-atspaudai-ant-audinio-2026-08-19",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "POEZIJOS DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
       "date": "2026-08-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/poezijos-diena-moksleiviu-vasaros-edukacija-2026-08-20",
@@ -861,47 +933,12 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-kaimynu-salonas-galauniu-namuose-muziejuje-2026-08-20",
       "source": "Kaunas Pilnas",
       "category": "Bendruomenės"
-    },
-    {
-      "title": "VERDIKTAS | Mūzos vasaroja!",
-      "date": "2026-08-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/verdiktas-muzos-vasaroja-2026-08-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Neapleisti Garsai '26",
-      "date": "2026-08-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/neapleisti-garsai-26-2026-08-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija J. Zikaro namuose-muziejuje",
-      "date": "2026-08-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-08-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kultūrinis istorinis ralis Ryterna modul Mototourism rally 2026",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturinis-istorinis-ralis-ryterna-modul-mototourism-rally-2026-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Edukacija „Žolynų magija: vasaros atvirukai gratažo technika“",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zolynu-magija-vasaros-atvirukai-gratazo-technika-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 16,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 25,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
