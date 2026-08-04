@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-03",
+  "updated_at": "2026-08-04",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,29 +195,57 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "BOTANINĖS NAKTYS | GusGus",
+      "url": "https://botanika.vdu.lt/ivykiai/36456",
+      "date": "2026-09-03",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Tarptautinis jurginų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/tarptautinis-jurginu-festivalis",
+      "date": "2026-09-03",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Parodos „Vaistininko, prof. dr. Kazimiero Grybausko (1886–1953) veiklos apžvalga“ atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/parodos-vaistininko-prof-dr-kazimiero-grybausko-1886-1953-veiklos-apzvalga-atidarymas",
+      "date": "2026-08-31",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Botaninė vaikų stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
+      "date": "2026-08-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Traškiausias vasaros piknikas VDU Botanikos sode | Muzikinis spektaklis „Morkadienis“ | GyviTeatre",
+      "url": "https://botanika.vdu.lt/ivykiai/traskiausias-vasaros-piknikas-vdu-botanikos-sode-muzikinis-spektaklis-morkadienis-gyviteatre",
+      "date": "2026-08-15",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "UOGŲ  IR ŽINIŲ DIENA SODE",
+      "url": "https://botanika.vdu.lt/ivykiai/uogu-ir-ziniu-diena-sode",
+      "date": "2026-08-07",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Paroda „Architektūros motyvai batikoje“",
+      "url": "https://kaunobiblioteka.lt/paroda-architekturos-motyvai-batikoje",
+      "date": "2026-08-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "ConTempo Festival 2026 ◯ PLAY(ces) ◯ Markas Liberman (Lietuva)",
-      "date": "2026-08-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-play-ces-markas-liberman-lietuva-2026-08-03",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "ConTempo Festival 2026 ◯ ON SEEN ◯ Ugnė Irena Laurinavičiūtė (Lietuva)",
-      "date": "2026-08-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-on-seen-ugne-irena-laurinaviciute-lietuva-2026-08-03",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "ConTempo Festival 2026 ◯ ONE SHOT # ◯ Collectif Protocole (Prancūzija)",
-      "date": "2026-08-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-one-shot-collectif-protocole-prancuzija-2026-08-03",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
     {
       "title": "ConTempo Festival 2026 ◯ PLAY(ces) ◯ Markas Liberman (Lietuva)",
       "date": "2026-08-04",
@@ -436,6 +464,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "Alaus diena lauko kine: „Kieti bičai“",
+      "date": "2026-08-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/alaus-diena-lauko-kine-kieti-bicai-2026-08-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės III forte",
       "date": "2026-08-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-08-08",
@@ -457,6 +492,13 @@
       "category": "Šventės"
     },
     {
+      "title": "Ekskursijos KMM",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
       "date": "2026-08-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-08",
@@ -476,6 +518,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/contempo-festival-2026-untitled-world-ugne-lucauskaite-be-kompanijos-lietuva-2026-08-08",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Tamsusis Kauno tarpukaris",
@@ -511,6 +560,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/naktine-ekskursija-iv-forte-kauno-tvirtove-2026-08-08",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Su meile Romuva: „Medisono grafystės tiltai“",
+      "date": "2026-08-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/su-meile-romuva-medisono-grafystes-tiltai-2026-08-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
@@ -667,6 +723,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Romuvos kinoteka lauko kine: „Vagišiai“",
+      "date": "2026-08-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-lauko-kine-vagisiai-2026-08-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Respublikinis folkloro festivalis „Obelynės Žolinė 2026“",
       "date": "2026-08-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/respublikinis-folkloro-festivalis-obelynes-zoline-2026-2026-08-14",
@@ -681,6 +744,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Lauko kinas: filmas „Monstras“ + D. Fujiwara ir J. Murasawa koncertas",
+      "date": "2026-08-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lauko-kinas-filmas-monstras-d-fujiwara-ir-j-murasawa-koncertas-2026-08-14",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Warm Up Beatbox Battle 2026",
       "date": "2026-08-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/warm-up-beatbox-battle-2026-2026-08-15",
@@ -693,6 +763,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zolines-atlaidai-pazaislyje-2026-08-15",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Lietuviškas lauko kinas: „Velnio nuotaka“ + R. Kašėtos pasirodymas",
+      "date": "2026-08-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuviskas-lauko-kinas-velnio-nuotaka-r-kasetos-pasirodymas-2026-08-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
@@ -835,6 +912,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Ekskursijos KMM",
+      "date": "2026-08-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-08-22",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
       "date": "2026-08-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-08-22",
@@ -861,47 +945,12 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/brodvejaus-naktis-pazaislyje-2026-08-22",
       "source": "Kaunas Pilnas",
       "category": "Naktinė kultūra"
-    },
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-08-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-08-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Baltijos malda",
-      "date": "2026-08-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltijos-malda-2026-08-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ansamblis PALEASIS: kontrastai",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ansamblis-paleasis-kontrastai-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Vasaros sodo pasakojimai „Kaip Lietuva į pasaulį ėjo“",
-      "date": "2026-08-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasaros-sodo-pasakojimai-kaip-lietuva-i-pasauli-ejo-2026-08-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Interaktyvus spektaklis „Akys“",
-      "date": "2026-08-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-akys-2026-08-26",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 21,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 15,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
