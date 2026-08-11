@@ -42,7 +42,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
-        "2026-08-10",
         "2026-08-24",
         "2026-09-07",
         "2026-09-21",
@@ -120,7 +119,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627",
       "dates": [
-        "2026-08-10",
         "2026-08-24",
         "2026-09-07",
         "2026-09-21",
@@ -175,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-10",
+  "updated_at": "2026-08-11",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -197,7 +195,68 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "BOTANINĖS NAKTYS | LEMON JOY",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-lemon-joy",
+      "date": "2026-09-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Tarptautinis jurginų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/tarptautinis-jurginu-festivalis-3",
+      "date": "2026-09-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "BOTANINĖS NAKTYS | DADDY WAS A MILKMAN",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-daddy-was-a-milkman-2",
+      "date": "2026-09-04",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "BOTANINĖS NAKTYS | GusGus",
+      "url": "https://botanika.vdu.lt/ivykiai/36456",
+      "date": "2026-09-03",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Parodos „Vaistininko, prof. dr. Kazimiero Grybausko (1886–1953) veiklos apžvalga“ atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/parodos-vaistininko-prof-dr-kazimiero-grybausko-1886-1953-veiklos-apzvalga-atidarymas",
+      "date": "2026-08-31",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Botaninė vaikų stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
+      "date": "2026-08-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Traškiausias vasaros piknikas VDU Botanikos sode | Muzikinis spektaklis „Morkadienis“ | GyviTeatre",
+      "url": "https://botanika.vdu.lt/ivykiai/traskiausias-vasaros-piknikas-vdu-botanikos-sode-muzikinis-spektaklis-morkadienis-gyviteatre",
+      "date": "2026-08-15",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Jono Lukšės piešinių paroda „Kauno rajono seniūnijos“",
+      "url": "https://kaunobiblioteka.lt/jono-lukses-piesiniu-paroda-kauno-rajono-seniunijos",
+      "date": "2026-09-05",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Paroda „Architektūros motyvai batikoje“",
+      "url": "https://kaunobiblioteka.lt/paroda-architekturos-motyvai-batikoje",
+      "date": "2026-08-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
     {
       "title": "Miško maudynės Kalniečių parke",
@@ -438,6 +497,13 @@
       "category": "Parodos"
     },
     {
+      "title": "TRENKSMAS 2026: Tavo ėjimas! | Gretos Štiormer kūrybinio rašymo dirbtuvės „Įtrūkio metodas”",
+      "date": "2026-08-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-gretos-stiormer-kurybinio-rasymo-dirbtuves-itrukio-metodas-2026-08-18",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Parodos „Dingas, Dyzelis ir kitos natos“ atidarymas",
       "date": "2026-08-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-dingas-dyzelis-ir-kitos-natos-atidarymas-2026-08-18",
@@ -571,6 +637,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Kvietimas besidomintiems sportu dalyvauti protmūšyje Ąžuolyno bibliotekoje",
+      "date": "2026-08-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvietimas-besidomintiems-sportu-dalyvauti-protmusyje-azuolyno-bibliotekoje-2026-08-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "VERDIKTAS | Mūzos vasaroja!",
       "date": "2026-08-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/verdiktas-muzos-vasaroja-2026-08-20",
@@ -583,6 +656,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-kurybines-dirbtuves-kuriam-kiemui-menininkas-pijus-ceikauskas-pidzinas-2026-08-20",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Kova be ašarų: moterų ir merginų patirtys ginant savo tapatybę",
+      "date": "2026-08-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kova-be-asaru-moteru-ir-merginu-patirtys-ginant-savo-tapatybe-2026-08-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Pasišokimai Kalniečių parko skaitykloje",
@@ -753,6 +833,13 @@
       "category": "Kiti"
     },
     {
+      "title": "TRENKSMAS 2026 | Slemas #97",
+      "date": "2026-08-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-slemas-97-2026-08-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "KULTŪRA Į KIEMUS 2026: Judesio edukacija „Kūnas, erdvė, ryšys“ | Šokio teatras ULNA",
       "date": "2026-08-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-judesio-edukacija-kunas-erdve-rysys-sokio-teatras-ulna-2026-08-25",
@@ -870,40 +957,12 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-edukacine-veikla-atiduotuviu-kiemas-i-kauno-regiono-atlieku-tvarkymo-centras-2026-08-27",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Skambantis rugpjūtis",
-      "date": "2026-08-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skambantis-rugpjutis-2026-08-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KŪNAI DIALOGE Du spektakliai. Dvi scenos. Vienas pokalbis.",
-      "date": "2026-08-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kunai-dialoge-du-spektakliai-dvi-scenos-vienas-pokalbis-2026-08-27",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Grupės „Graži ir ta galinga“ koncertas",
-      "date": "2026-08-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-grupes-grazi-ir-ta-galinga-koncertas-2026-08-27",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "IKONA: RUG!LĖ x ŽEMAITĖ",
-      "date": "2026-08-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ikona-rug-le-x-zemaite-2026-08-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 17,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 29,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
