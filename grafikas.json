@@ -1,6 +1,44 @@
 {
   "contracts": [
     {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-118461",
+      "dates": [
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20",
+        "2027-10-18"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-114598",
+      "dates": [
+        "2026-08-24",
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
@@ -36,6 +74,44 @@
         "2027-10-04",
         "2027-10-18",
         "2027-11-01"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-117894",
+      "dates": [
+        "2026-08-24",
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-122262",
+      "dates": [
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20",
+        "2027-10-18"
       ],
       "hasRealDates": true
     },
@@ -79,82 +155,6 @@
       "hasRealDates": true
     },
     {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-122262",
-      "dates": [
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20",
-        "2027-10-18"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-118461",
-      "dates": [
-        "2026-08-24",
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20",
-        "2027-10-18"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598",
-      "dates": [
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-117894",
-      "dates": [
-        "2026-08-24",
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20"
-      ],
-      "hasRealDates": true
-    },
-    {
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384",
       "dates": [
@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-15",
+  "updated_at": "2026-08-16",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -197,27 +197,6 @@
   ],
   "events": [],
   "kaunas_events": [
-    {
-      "title": "Warm Up Beatbox Battle 2026",
-      "date": "2026-08-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/warm-up-beatbox-battle-2026-2026-08-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Žolinės atlaidai Pažaislyje",
-      "date": "2026-08-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zolines-atlaidai-pazaislyje-2026-08-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Lietuviškas lauko kinas: „Velnio nuotaka“ + R. Kašėtos pasirodymas",
-      "date": "2026-08-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuviskas-lauko-kinas-velnio-nuotaka-r-kasetos-pasirodymas-2026-08-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-08-16",
@@ -821,9 +800,9 @@
       "category": "Muzika"
     },
     {
-      "title": "Komedijos šou „Kaip keliauti nemokamai“ su Trim Protingais Vyrais ir R.Pogoreliu",
+      "title": "Komedijos šou „Tranzuok kaip profas ir keliauk linksmiau“ su Trim Protingais Vyrais ir R.Pogorėliu",
       "date": "2026-08-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/komedijos-sou-kaip-keliauti-nemokamai-su-trim-protingais-vyrais-ir-r-pogoreliu-2026-08-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/komedijos-sou-tranzuok-kaip-profas-ir-keliauk-linksmiau-su-trim-protingais-vyrais-ir-r-pogoreliu-2026-08-27",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -896,12 +875,33 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-29",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija „Raudondvario senųjų kapinių paslaptys“",
+      "date": "2026-08-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-raudondvario-senuju-kapiniu-paslaptys-2026-08-29",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Erikos Aleksaitės parodos „ORIGO“ atidarymas Lietuvos švietimo muziejuje",
+      "date": "2026-08-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/erikos-aleksaites-parodos-origo-atidarymas-lietuvos-svietimo-muziejuje-2026-08-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "PĖDOS MARIŲ DUGNE PRISTATO: Neatplėšti paukščių laiškai",
+      "date": "2026-08-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pedos-mariu-dugne-pristato-neatplesti-pauksciu-laiskai-2026-08-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 14,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 21,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
