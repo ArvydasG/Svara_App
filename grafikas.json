@@ -168,12 +168,13 @@
         "2027-07-21",
         "2027-08-18",
         "2027-09-15",
-        "2027-10-13"
+        "2027-10-13",
+        "2027-11-10"
       ],
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-16",
+  "updated_at": "2026-08-17",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,43 +196,63 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
-  "kaunas_events": [
+  "events": [
     {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-08-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-08-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
+      "title": "BOTANINĖS NAKTYS | LEMON JOY",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-lemon-joy",
+      "date": "2026-09-05",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Tarpukario virtuvė | Ekskursija-degustacija | 08.16",
-      "date": "2026-08-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-virtuve-ekskursija-degustacija-08-16-2026-08-16",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
+      "title": "Tarptautinis jurginų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/tarptautinis-jurginu-festivalis-3",
+      "date": "2026-09-05",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "STYGOS IR KLARNETAS: NUO MOZARTO IKI BRAHMSO",
-      "date": "2026-08-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stygos-ir-klarnetas-nuo-mozarto-iki-brahmso-2026-08-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
+      "title": "BOTANINĖS NAKTYS | DADDY WAS A MILKMAN",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-daddy-was-a-milkman-2",
+      "date": "2026-09-04",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Stygos ir klarnetas: nuo Mozarto iki Brahmso",
-      "date": "2026-08-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/stygos-ir-klarnetas-nuo-mozarto-iki-brahmso-2026-08-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
+      "title": "BOTANINĖS NAKTYS | GusGus",
+      "url": "https://botanika.vdu.lt/ivykiai/36456",
+      "date": "2026-09-03",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Kultūrų rytmečiai vaikams",
+      "title": "Parodos „Vaistininko, prof. dr. Kazimiero Grybausko (1886–1953) veiklos apžvalga“ atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/parodos-vaistininko-prof-dr-kazimiero-grybausko-1886-1953-veiklos-apzvalga-atidarymas",
+      "date": "2026-08-31",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Botaninė vaikų stovykla",
+      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
       "date": "2026-08-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-rytmeciai-vaikams-2026-08-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
+      "source": "Botanikos sodas"
     },
+    {
+      "title": "Jono Lukšės piešinių paroda „Kauno rajono seniūnijos“",
+      "url": "https://kaunobiblioteka.lt/jono-lukses-piesiniu-paroda-kauno-rajono-seniunijos",
+      "date": "2026-09-05",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Paroda „Architektūros motyvai batikoje“",
+      "url": "https://kaunobiblioteka.lt/paroda-architekturos-motyvai-batikoje",
+      "date": "2026-08-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
+  "kaunas_events": [
     {
       "title": "TEKSTŪROS: rankraščių skaitymai Dainavos parko skaitykloje",
       "date": "2026-08-17",
@@ -329,6 +350,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-kurybines-dirbtuveles-kauno-simboliai-2026-08-19",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Orientacinis žaidimas „Kauno burtininkas“",
+      "date": "2026-08-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-08-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija po Ąžuolyno bibliotekos Senosios knygos ekspoziciją",
@@ -896,12 +924,40 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pedos-mariu-dugne-pristato-neatplesti-pauksciu-laiskai-2026-08-29",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Jurgio Dobkevičiaus Kaunas: vietos ir istorijos",
+      "date": "2026-08-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgio-dobkeviciaus-kaunas-vietos-ir-istorijos-2026-08-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Tarpukario inteligentija. Svečiuose pas pulkininką D. Grabį | Ekskursija-viešnagė | 08.30",
+      "date": "2026-08-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-inteligentija-sveciuose-pas-pulkininka-d-grabi-ekskursija-viesnage-08-30-2026-08-30",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Baigiamasis koncertas: Manuel de Falla opera „Trumpas gyvenimas“",
+      "date": "2026-08-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baigiamasis-koncertas-manuel-de-falla-opera-trumpas-gyvenimas-2026-08-30",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Dovilės Zelčiūtės ir Juozo Budraičio bendros poezijos ir fotografijos knygos „Žengiu į rūką“ sutikimas",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/doviles-zelciutes-ir-juozo-budraicio-bendros-poezijos-ir-fotografijos-knygos-zengiu-i-ruka-sutikimas-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     }
   ],
   "air_quality": {
-    "index": 21,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 20,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
