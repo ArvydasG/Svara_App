@@ -174,7 +174,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-17",
+  "updated_at": "2026-08-18",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -228,12 +228,6 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Botaninė vaikų stovykla",
-      "url": "https://botanika.vdu.lt/ivykiai/vasaros-stovykla-vaikams-botanikos-sode-kaune-08-17-21",
-      "date": "2026-08-17",
-      "source": "Botanikos sodas"
-    },
-    {
       "title": "Jono Lukšės piešinių paroda „Kauno rajono seniūnijos“",
       "url": "https://kaunobiblioteka.lt/jono-lukses-piesiniu-paroda-kauno-rajono-seniunijos",
       "date": "2026-09-05",
@@ -253,41 +247,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "TEKSTŪROS: rankraščių skaitymai Dainavos parko skaitykloje",
-      "date": "2026-08-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teksturos-rankrasciu-skaitymai-dainavos-parko-skaitykloje-2026-08-17",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Edukacinė veikla „Atiduotuvių kiemas“ I Kauno regiono atliekų tvarkymo centras",
-      "date": "2026-08-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-edukacine-veikla-atiduotuviu-kiemas-i-kauno-regiono-atlieku-tvarkymo-centras-2026-08-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Šilkografijos dirbtuvės I Menininkė Rūta Cyrolytė",
-      "date": "2026-08-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-silkografijos-dirbtuves-i-menininke-ruta-cyrolyte-2026-08-17",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Vasarinis improvizacijos pirmadienis",
-      "date": "2026-08-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasarinis-improvizacijos-pirmadienis-2026-08-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Rūtos MUR muzikinis pasirodymas",
-      "date": "2026-08-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-rutos-mur-muzikinis-pasirodymas-2026-08-17",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Dianos Monkevičiūtės paroda „KodasOPdiva“",
       "date": "2026-08-18",
@@ -378,6 +337,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-zongliravimo-dirbtuves-siuolaikinio-cirko-trupe-buda-collective-2026-08-19",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Vasaros improvizacijos treniruotės",
+      "date": "2026-08-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasaros-improvizacijos-treniruotes-2026-08-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Edukacija „Pražydęs maišelis: gėlių atspaudai ant audinio“",
@@ -723,6 +689,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Pikantiškos tarpukario Kauno istorijos | Ekskursija | 08.26",
+      "date": "2026-08-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pikantiskos-tarpukario-kauno-istorijos-ekskursija-08-26-2026-08-26",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės I forte",
       "date": "2026-08-26",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-08-26",
@@ -884,6 +857,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Grupės „Nouvelle“ koncertas",
+      "date": "2026-08-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupes-nouvelle-koncertas-2026-08-28",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Ekskursijos KMM",
       "date": "2026-08-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-08-29",
@@ -947,15 +927,29 @@
       "category": "Muzika"
     },
     {
+      "title": "Improklubas pradedantiesiems",
+      "date": "2026-09-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improklubas-pradedantiesiems-2026-09-02",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Dovilės Zelčiūtės ir Juozo Budraičio bendros poezijos ir fotografijos knygos „Žengiu į rūką“ sutikimas",
       "date": "2026-09-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/doviles-zelciutes-ir-juozo-budraicio-bendros-poezijos-ir-fotografijos-knygos-zengiu-i-ruka-sutikimas-2026-09-03",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Fotografijų parodos „Kur gyvena istorijos“ atidarymas",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fotografiju-parodos-kur-gyvena-istorijos-atidarymas-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     }
   ],
   "air_quality": {
-    "index": 20,
+    "index": 12,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
