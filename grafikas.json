@@ -174,7 +174,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-18",
+  "updated_at": "2026-08-19",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -196,113 +196,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "BOTANINĖS NAKTYS | LEMON JOY",
-      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-lemon-joy",
-      "date": "2026-09-05",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Tarptautinis jurginų festivalis",
-      "url": "https://botanika.vdu.lt/ivykiai/tarptautinis-jurginu-festivalis-3",
-      "date": "2026-09-05",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "BOTANINĖS NAKTYS | DADDY WAS A MILKMAN",
-      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-daddy-was-a-milkman-2",
-      "date": "2026-09-04",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "BOTANINĖS NAKTYS | GusGus",
-      "url": "https://botanika.vdu.lt/ivykiai/36456",
-      "date": "2026-09-03",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Parodos „Vaistininko, prof. dr. Kazimiero Grybausko (1886–1953) veiklos apžvalga“ atidarymas",
-      "url": "https://botanika.vdu.lt/ivykiai/parodos-vaistininko-prof-dr-kazimiero-grybausko-1886-1953-veiklos-apzvalga-atidarymas",
-      "date": "2026-08-31",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Jono Lukšės piešinių paroda „Kauno rajono seniūnijos“",
-      "url": "https://kaunobiblioteka.lt/jono-lukses-piesiniu-paroda-kauno-rajono-seniunijos",
-      "date": "2026-09-05",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Paroda „Architektūros motyvai batikoje“",
-      "url": "https://kaunobiblioteka.lt/paroda-architekturos-motyvai-batikoje",
-      "date": "2026-08-31",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Dianos Monkevičiūtės paroda „KodasOPdiva“",
-      "date": "2026-08-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dianos-monkeviciutes-paroda-kodasopdiva-2026-08-18",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "TRENKSMAS 2026: Tavo ėjimas! | Gretos Štiormer kūrybinio rašymo dirbtuvės „Įtrūkio metodas”",
-      "date": "2026-08-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-tavo-ejimas-gretos-stiormer-kurybinio-rasymo-dirbtuves-itrukio-metodas-2026-08-18",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Parodos „Dingas, Dyzelis ir kitos natos“ atidarymas",
-      "date": "2026-08-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-dingas-dyzelis-ir-kitos-natos-atidarymas-2026-08-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Medžio drožėjų paroda (2026-08-18 - 2026-09-13)",
-      "date": "2026-08-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/medzio-drozeju-paroda-2026-08-18-2026-09-13-2026-08-18",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Edukacija (mokymai) Medžio drožėjų parodos \"Parymojimai prie medžio\" atidarymo renginio metu",
-      "date": "2026-08-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-mokymai-medzio-drozeju-parodos-parymojimai-prie-medzio-atidarymo-renginio-metu-2026-08-18",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Medžio drožėjų paroda „Parymojimai prie medžio“",
-      "date": "2026-08-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/medzio-drozeju-paroda-parymojimai-prie-medzio-2026-08-18",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: mozaikos dirbtuvės | Greta Mockevičiūtė",
-      "date": "2026-08-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-mozaikos-dirbtuves-greta-mockeviciute-2026-08-18",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Aurelijaus Užameckio ir Flavia Huarachi muzikinis duetas",
-      "date": "2026-08-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-aurelijaus-uzameckio-ir-flavia-huarachi-muzikinis-duetas-2026-08-18",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Mažylių trečiadienis | Kūrybinės dirbtuvėlės „Kauno simboliai“",
       "date": "2026-08-19",
@@ -885,6 +780,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Istorijos festivalis ,,FORT-UNIJA\" 2026",
+      "date": "2026-08-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/istorijos-festivalis-fort-unija-2026-2026-08-29",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "Ekskursija „Raudondvario senųjų kapinių paslaptys“",
       "date": "2026-08-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-raudondvario-senuju-kapiniu-paslaptys-2026-08-29",
@@ -920,11 +822,25 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Tamsusis Kauno tarpukaris",
+      "date": "2026-08-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-08-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Baigiamasis koncertas: Manuel de Falla opera „Trumpas gyvenimas“",
       "date": "2026-08-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baigiamasis-koncertas-manuel-de-falla-opera-trumpas-gyvenimas-2026-08-30",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Mokslo ir žinių dieną švęskite muziejuje!",
+      "date": "2026-09-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mokslo-ir-ziniu-diena-sveskite-muziejuje-2026-09-01",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Improklubas pradedantiesiems",
@@ -946,10 +862,45 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fotografiju-parodos-kur-gyvena-istorijos-atidarymas-2026-09-03",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Prisirišimas I Judesio spektaklis",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/prisirisimas-i-judesio-spektaklis-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Kazimieras Lygnugaris ir mergytemorta | Mūzos vasaroja!",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kazimieras-lygnugaris-ir-mergytemorta-muzos-vasaroja-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "ARIJOS, UŽKARIAVUSIOS PASAULĮ",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/arijos-uzkariavusios-pasauli-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės IV forte",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "KAUNO KULTŪROS MUGĖ 2026",
+      "date": "2026-09-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-kulturos-muge-2026-2026-09-04",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     }
   ],
   "air_quality": {
-    "index": 12,
+    "index": 16,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
