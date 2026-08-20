@@ -158,7 +158,6 @@
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384",
       "dates": [
-        "2026-08-19",
         "2026-09-16",
         "2026-10-14",
         "2026-11-11",
@@ -174,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-19",
+  "updated_at": "2026-08-20",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -196,85 +195,57 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "BOTANINĖS NAKTYS | LEMON JOY",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-lemon-joy",
+      "date": "2026-09-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Tarptautinis jurginų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/tarptautinis-jurginu-festivalis-3",
+      "date": "2026-09-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "BOTANINĖS NAKTYS | DADDY WAS A MILKMAN",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-daddy-was-a-milkman-2",
+      "date": "2026-09-04",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "BOTANINĖS NAKTYS | GusGus",
+      "url": "https://botanika.vdu.lt/ivykiai/36456",
+      "date": "2026-09-03",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Parodos „Vaistininko, prof. dr. Kazimiero Grybausko (1886–1953) veiklos apžvalga“ atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/parodos-vaistininko-prof-dr-kazimiero-grybausko-1886-1953-veiklos-apzvalga-atidarymas",
+      "date": "2026-08-31",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Jono Lukšės piešinių paroda „Kauno rajono seniūnijos“",
+      "url": "https://kaunobiblioteka.lt/jono-lukses-piesiniu-paroda-kauno-rajono-seniunijos",
+      "date": "2026-09-05",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Paroda „Architektūros motyvai batikoje“",
+      "url": "https://kaunobiblioteka.lt/paroda-architekturos-motyvai-batikoje",
+      "date": "2026-08-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Mažylių trečiadienis | Kūrybinės dirbtuvėlės „Kauno simboliai“",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-kurybines-dirbtuveles-kauno-simboliai-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Orientacinis žaidimas „Kauno burtininkas“",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija po Ąžuolyno bibliotekos Senosios knygos ekspoziciją",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-azuolyno-bibliotekos-senosios-knygos-ekspozicija-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Knygos „Rafinuočiai: pirmi trys gyvenimai“ pristatymas Dainavos parko skaitykloje",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-rafinuociai-pirmi-trys-gyvenimai-pristatymas-dainavos-parko-skaitykloje-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Žongliravimo dirbtuvės | Šiuolaikinio cirko trupė Būda Collective",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-zongliravimo-dirbtuves-siuolaikinio-cirko-trupe-buda-collective-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Vasaros improvizacijos treniruotės",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasaros-improvizacijos-treniruotes-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Edukacija „Pražydęs maišelis: gėlių atspaudai ant audinio“",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-prazydes-maiselis-geliu-atspaudai-ant-audinio-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės III forte",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Šiuolaikinio cirko spektaklis „Gandras“ | Trupė „Kanta Company Circus“",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-siuolaikinio-cirko-spektaklis-gandras-trupe-kanta-company-circus-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Kūrybinės dirbtuvės „Kas auga tarp mūsų“ | Menininkė Ilona Miknevičiūtė",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-kurybines-dirbtuves-kas-auga-tarp-musu-menininke-ilona-mikneviciute-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: „Trumpi, bet filmai: vieni kitų kaimynystėje“ | Vilniaus trumpųjų filmų festivalis",
-      "date": "2026-08-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-trumpi-bet-filmai-vieni-kitu-kaimynysteje-vilniaus-trumpuju-filmu-festivalis-2026-08-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "POEZIJOS DIENA  |  MOKSLEIVIŲ VASAROS EDUKACIJA",
       "date": "2026-08-20",
@@ -850,6 +821,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Dovilės Zelčiūtės ir Juozo Budraičio bendros poezijos ir fotografijos knygos „Žengiu į rūką“ sutikimas",
       "date": "2026-09-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/doviles-zelciutes-ir-juozo-budraicio-bendros-poezijos-ir-fotografijos-knygos-zengiu-i-ruka-sutikimas-2026-09-03",
@@ -897,12 +875,82 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-kulturos-muge-2026-2026-09-04",
       "source": "Kaunas Pilnas",
       "category": "Šventės"
+    },
+    {
+      "title": "Prisirišimas I Judesio spektaklis",
+      "date": "2026-09-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/prisirisimas-i-judesio-spektaklis-2026-09-04",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
+      "date": "2026-09-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-09-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Tarptautinis Kauno kariljono muzikos festivalis 2026",
+      "date": "2026-09-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-kauno-kariljono-muzikos-festivalis-2026-2026-09-05",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-09-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-09-05",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Lauko kino uždarymas: „Atskalūno laiškai“ ir A. Orlovos koncertas",
+      "date": "2026-09-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lauko-kino-uzdarymas-atskaluno-laiskai-ir-a-orlovos-koncertas-2026-09-05",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "BandFest Kaunas 2026: muzikinė laudacija Prezidentui Valdui Adamkui",
+      "date": "2026-09-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/bandfest-kaunas-2026-muzikine-laudacija-prezidentui-valdui-adamkui-2026-09-06",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Improklubas patyrusiems",
+      "date": "2026-09-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improklubas-patyrusiems-2026-09-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Lauros Steponavičiūtės tapybos darbų paroda „TYLOS KUŽDESIAI“",
+      "date": "2026-09-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lauros-steponaviciutes-tapybos-darbu-paroda-tylos-kuzdesiai-2026-09-08",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės III forte",
+      "date": "2026-09-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-09-08",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Babtų kraštotyros muziejuje – Menų ir dizaino mokymo centro mokinių juvelyrikos paroda",
+      "date": "2026-09-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/babtu-krastotyros-muziejuje-menu-ir-dizaino-mokymo-centro-mokiniu-juvelyrikos-paroda-2026-09-10",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     }
   ],
   "air_quality": {
-    "index": 16,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 22,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
