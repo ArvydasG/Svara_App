@@ -179,7 +179,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-22",
+  "updated_at": "2026-08-23",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -258,69 +258,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija Kauno tvirtovės IV forte",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Edukacija „Žolynų magija: vasaros atvirukai gratažo technika“",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacija-zolynu-magija-vasaros-atvirukai-gratazo-technika-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Misija-mokykla│Mugė – mainytuvės Lietuvos švietimo muziejuje",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/misija-mokyklamuge-mainytuves-lietuvos-svietimo-muziejuje-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija parodoje „Kolekcininkai: Atviros kortos\"",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija–ekspedicija „Karaliaus Augusto laiškai”",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijaekspedicija-karaliaus-augusto-laiskai-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Tarptautinis projektas „The Gelato Theory“: menas, kurį galima patirti ir paragauti",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-projektas-the-gelato-theory-menas-kuri-galima-patirti-ir-paragauti-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Brodvėjaus naktis Pažaislyje",
-      "date": "2026-08-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/brodvejaus-naktis-pazaislyje-2026-08-22",
-      "source": "Kaunas Pilnas",
-      "category": "Naktinė kultūra"
-    },
     {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-08-23",
@@ -439,6 +376,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-fotografiju-projekcijos-klasioku-kaunas-ir-groteskas-i-kauno-fotografijos-galerija-2026-08-25",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Orientacinis žaidimas „Kauno burtininkas“",
+      "date": "2026-08-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-08-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Vasaros sodo pasakojimai „Kaip Lietuva į pasaulį ėjo“",
@@ -721,6 +665,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-08-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-08-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "Tarpukario inteligentija. Svečiuose pas pulkininką D. Grabį | Ekskursija-viešnagė | 08.30",
       "date": "2026-08-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-inteligentija-sveciuose-pas-pulkininka-d-grabi-ekskursija-viesnage-08-30-2026-08-30",
@@ -752,6 +703,13 @@
       "title": "JAUNA KAUNO TAPYBA‘26 | atidarymas",
       "date": "2026-09-01",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jauna-kauno-tapyba26-atidarymas-2026-09-01",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Orientacinis žaidimas „Kauno burtininkas“",
+      "date": "2026-09-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-09-02",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -896,6 +854,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-09-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-09-06",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "BandFest Kaunas 2026: muzikinė laudacija Prezidentui Valdui Adamkui",
       "date": "2026-09-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/bandfest-kaunas-2026-muzikine-laudacija-prezidentui-valdui-adamkui-2026-09-06",
@@ -957,10 +922,45 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-09-08",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Orientacinis žaidimas „Kauno burtininkas“",
+      "date": "2026-09-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-09-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "🟣 Kultūrų sodas 2026: Kauno choralinė sinagoga",
+      "date": "2026-09-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-kauno-choraline-sinagoga-2026-09-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Babtų kraštotyros muziejuje – Menų ir dizaino mokymo centro mokinių juvelyrikos paroda",
+      "date": "2026-09-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/babtu-krastotyros-muziejuje-menu-ir-dizaino-mokymo-centro-mokiniu-juvelyrikos-paroda-2026-09-10",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-09-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-09-10",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "FREE TRIAL | Muzika Erdvėje x Edgy Palates",
+      "date": "2026-09-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/free-trial-muzika-erdveje-x-edgy-palates-2026-09-10",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     }
   ],
   "air_quality": {
-    "index": 23,
+    "index": 22,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
