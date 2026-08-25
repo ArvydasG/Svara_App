@@ -4,7 +4,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461",
       "dates": [
-        "2026-08-24",
         "2026-09-21",
         "2026-10-19",
         "2026-11-16",
@@ -28,7 +27,6 @@
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-114598",
       "dates": [
-        "2026-08-24",
         "2026-10-19",
         "2026-12-14",
         "2027-02-08",
@@ -44,7 +42,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-128501",
       "dates": [
-        "2026-08-24",
         "2026-09-07",
         "2026-09-21",
         "2026-10-05",
@@ -84,7 +81,6 @@
       "description": "Antrinės žaliavos (Stiklas)",
       "containerType": "MS-117894",
       "dates": [
-        "2026-08-24",
         "2026-10-19",
         "2026-12-14",
         "2027-02-08",
@@ -100,7 +96,6 @@
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262",
       "dates": [
-        "2026-08-24",
         "2026-09-21",
         "2026-10-19",
         "2026-11-16",
@@ -124,7 +119,6 @@
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627",
       "dates": [
-        "2026-08-24",
         "2026-09-07",
         "2026-09-21",
         "2026-10-05",
@@ -179,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-24",
+  "updated_at": "2026-08-25",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -203,27 +197,6 @@
   ],
   "events": [],
   "kaunas_events": [
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Kūrybinės dirbtuvės „Rašome savo kiemą“ | Menininkė ir literatūros edukatorė Asta Volungė",
-      "date": "2026-08-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-kurybines-dirbtuves-rasome-savo-kiema-menininke-ir-literaturos-edukatore-asta-volunge-2026-08-24",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Vasarinis improvizacijos pirmadienis",
-      "date": "2026-08-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasarinis-improvizacijos-pirmadienis-2026-08-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: muzikos grupė „Golden Parazyth“ I Akustinis trio",
-      "date": "2026-08-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-muzikos-grupe-golden-parazyth-i-akustinis-trio-2026-08-24",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Make a Thek autobusiukas Kaune: drabužių mainai ir kūrybinės dirbtuvės",
       "date": "2026-08-25",
@@ -617,6 +590,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Mārio Čačkos personalinė tapybos paroda „Metalaikis“",
+      "date": "2026-09-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mrio-cackos-personaline-tapybos-paroda-metalaikis-2026-09-01",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Orientacinis žaidimas „Kauno burtininkas“",
       "date": "2026-09-02",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-09-02",
@@ -678,6 +658,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-ekskursija-vokieciu-kulturos-ir-pramones-paveldas-kaune-2026-09-03",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "„KETURIOS“ APIE „KETURIAS“: POKALBIS SU PARODOS „kartu skirtingais keliais“ MENININKĖMIS",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/keturios-apie-keturias-pokalbis-su-parodos-kartu-skirtingais-keliais-menininkemis-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "ARIJOS, UŽKARIAVUSIOS PASAULĮ",
@@ -760,6 +747,13 @@
       "title": "🟣 Kultūrų sodas 2026: Pažinkime Lietuvos romus",
       "date": "2026-09-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-pazinkime-lietuvos-romus-2026-09-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "RADVILIADA 2026 | Raudondvaris",
+      "date": "2026-09-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/radviliada-2026-raudondvaris-2026-09-05",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -848,6 +842,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Koncertas fortepijonui ir sąvartynui LT-moll",
+      "date": "2026-09-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-fortepijonui-ir-savartynui-lt-moll-2026-09-09",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "🟣 Kultūrų sodas 2026: Kauno choralinė sinagoga",
       "date": "2026-09-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-kauno-choraline-sinagoga-2026-09-09",
@@ -895,17 +896,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mokslo-zurnalo-colloquiapristatymas-kaune-2026-09-11",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
-    },
-    {
-      "title": "🟣 Kultūrų sodas 2026: Kaunas ir senovės Egiptas",
-      "date": "2026-09-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-kaunas-ir-senoves-egiptas-2026-09-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 20,
+    "index": 16,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
