@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-25",
+  "updated_at": "2026-08-26",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -197,69 +197,6 @@
   ],
   "events": [],
   "kaunas_events": [
-    {
-      "title": "Make a Thek autobusiukas Kaune: drabužių mainai ir kūrybinės dirbtuvės",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/make-a-thek-autobusiukas-kaune-drabuziu-mainai-ir-kurybines-dirbtuves-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "KTU įvadinė savaitė 2026",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ktu-ivadine-savaite-2026-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ansamblis PALEASIS: kontrastai",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ansamblis-paleasis-kontrastai-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Šiuolaikinio ir gatvės šokio duetas \"Always there but elsewhere\" | Šokio teatras ULNA",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-siuolaikinio-ir-gatves-sokio-duetas-always-there-but-elsewhere-sokio-teatras-ulna-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Kadruškės | KTU tautinio meno ansamblis „Nemunas“",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-kadruskes-ktu-tautinio-meno-ansamblis-nemunas-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "TRENKSMAS 2026 | Slemas #97",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-2026-slemas-97-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Nemokama Lindy Hop pagrindų pamoka",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokama-lindy-hop-pagrindu-pamoka-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Judesio edukacija „Kūnas, erdvė, ryšys“ | Šokio teatras ULNA",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-judesio-edukacija-kunas-erdve-rysys-sokio-teatras-ulna-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "KULTŪRA Į KIEMUS 2026: Fotografijų projekcijos „Klasiokų Kaunas“ ir „Groteskas“ I Kauno fotografijos galerija",
-      "date": "2026-08-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kultura-i-kiemus-2026-fotografiju-projekcijos-klasioku-kaunas-ir-groteskas-i-kauno-fotografijos-galerija-2026-08-25",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
     {
       "title": "Orientacinis žaidimas „Kauno burtininkas“",
       "date": "2026-08-26",
@@ -576,6 +513,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Vasarinis improvizacijos pirmadienis",
+      "date": "2026-08-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vasarinis-improvizacijos-pirmadienis-2026-08-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Mokslo ir žinių dieną švęskite muziejuje!",
       "date": "2026-09-01",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mokslo-ir-ziniu-diena-sveskite-muziejuje-2026-09-01",
@@ -590,9 +534,9 @@
       "category": "Kiti"
     },
     {
-      "title": "Mārio Čačkos personalinė tapybos paroda „Metalaikis“",
+      "title": "Mārio Čačkos personalinė tapybos paroda „Metlaikis“",
       "date": "2026-09-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mrio-cackos-personaline-tapybos-paroda-metalaikis-2026-09-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mrio-cackos-personaline-tapybos-paroda-metlaikis-2026-09-01",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
     },
@@ -667,6 +611,20 @@
       "category": "Kiti"
     },
     {
+      "title": "Gabrielės Aleksės parodos „Dažnis 7“ atidarymas",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabrieles-alekses-parodos-daznis-7-atidarymas-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Marijos Čipkutės parodos „Tai yra mano kūnas“ atidarymas",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/marijos-cipkutes-parodos-tai-yra-mano-kunas-atidarymas-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "ARIJOS, UŽKARIAVUSIOS PASAULĮ",
       "date": "2026-09-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/arijos-uzkariavusios-pasauli-2026-09-03",
@@ -688,6 +646,20 @@
       "category": "Šventės"
     },
     {
+      "title": "Gabrielės Aleksės paroda „Dažnis 7“",
+      "date": "2026-09-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gabrieles-alekses-paroda-daznis-7-2026-09-04",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Marijos Čipkutės paroda „Tai yra mano kūnas“",
+      "date": "2026-09-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/marijos-cipkutes-paroda-tai-yra-mano-kunas-2026-09-04",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Prisirišimas I Judesio spektaklis",
       "date": "2026-09-04",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/prisirisimas-i-judesio-spektaklis-2026-09-04",
@@ -705,6 +677,13 @@
       "title": "Irenos Papečkytės kūrybos vakaras",
       "date": "2026-09-04",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/irenos-papeckytes-kurybos-vakaras-2026-09-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Nemokama Lindy Hop pagrindų pamoka",
+      "date": "2026-09-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokama-lindy-hop-pagrindu-pamoka-2026-09-04",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -730,11 +709,32 @@
       "category": "Kiti"
     },
     {
+      "title": "Šeštadienio edukacija šeimoms ,,Tadukas, Tadas ir svajonių paukštė\"  ✨",
+      "date": "2026-09-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sestadienio-edukacija-seimoms-tadukas-tadas-ir-svajoniu-paukste-2026-09-05",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Tarptautinis Kauno kariljono muzikos festivalis 2026",
       "date": "2026-09-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-kauno-kariljono-muzikos-festivalis-2026-2026-09-05",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Grafikos dirbtuvės.  Atverk savo kortą!",
+      "date": "2026-09-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grafikos-dirbtuves-atverk-savo-korta-2026-09-05",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Edukacinis užsiėmimas šeimoms „Sukurkim karaliui raidyną“",
+      "date": "2026-09-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-sukurkim-karaliui-raidyna-2026-09-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
@@ -899,7 +899,7 @@
     }
   ],
   "air_quality": {
-    "index": 16,
+    "index": 17,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
