@@ -79,42 +79,31 @@
       "hasRealDates": true
     },
     {
-      "description": "Žaliųjų atliekų",
-      "containerType": "BZ-113384",
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-117894",
       "dates": [
-        "2026-09-16",
-        "2026-10-14",
-        "2026-11-11",
-        "2027-04-28",
-        "2027-05-26",
-        "2027-06-23",
-        "2027-07-21",
-        "2027-08-18",
-        "2027-09-15",
-        "2027-10-13",
-        "2027-11-10"
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20",
+        "2027-11-15"
       ],
       "hasRealDates": true
     },
     {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-118461",
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-114598",
       "dates": [
-        "2026-09-21",
         "2026-10-19",
-        "2026-11-16",
         "2026-12-14",
-        "2027-01-11",
         "2027-02-08",
-        "2027-03-08",
         "2027-04-05",
-        "2027-05-03",
         "2027-05-31",
-        "2027-06-28",
         "2027-07-26",
-        "2027-08-23",
         "2027-09-20",
-        "2027-10-18",
         "2027-11-15"
       ],
       "hasRealDates": true
@@ -143,37 +132,48 @@
       "hasRealDates": true
     },
     {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598",
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-118461",
       "dates": [
+        "2026-09-21",
         "2026-10-19",
+        "2026-11-16",
         "2026-12-14",
+        "2027-01-11",
         "2027-02-08",
+        "2027-03-08",
         "2027-04-05",
+        "2027-05-03",
         "2027-05-31",
+        "2027-06-28",
         "2027-07-26",
+        "2027-08-23",
         "2027-09-20",
+        "2027-10-18",
         "2027-11-15"
       ],
       "hasRealDates": true
     },
     {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-117894",
+      "description": "Žaliųjų atliekų",
+      "containerType": "BZ-113384",
       "dates": [
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20",
-        "2027-11-15"
+        "2026-09-16",
+        "2026-10-14",
+        "2026-11-11",
+        "2027-04-28",
+        "2027-05-26",
+        "2027-06-23",
+        "2027-07-21",
+        "2027-08-18",
+        "2027-09-15",
+        "2027-10-13",
+        "2027-11-10"
       ],
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-28",
+  "updated_at": "2026-08-29",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -197,34 +197,6 @@
   ],
   "events": [],
   "kaunas_events": [
-    {
-      "title": "ANTIQ",
-      "date": "2026-08-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/antiq-2026-08-28",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Gyčio Ambrazevičiaus koncertas Kalniečių parko skaitykloje",
-      "date": "2026-08-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gycio-ambrazeviciaus-koncertas-kalnieciu-parko-skaitykloje-2026-08-28",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Grupės „Nouvelle“ koncertas",
-      "date": "2026-08-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupes-nouvelle-koncertas-2026-08-28",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-08-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-08-29",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
       "date": "2026-08-29",
@@ -737,6 +709,13 @@
       "category": "Parodos"
     },
     {
+      "title": "Mokslo festivalis \"Erdvėlaivis Žemė\" 2026",
+      "date": "2026-09-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mokslo-festivalis-erdvelaivis-zeme-2026-2026-09-10",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-09-10",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-09-10",
@@ -896,10 +875,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fluxus-festivalis-2026-2026-09-19",
       "source": "Kaunas Pilnas",
       "category": "Festivaliai"
+    },
+    {
+      "title": "PREMJERA! Muzikinis spektaklis OBUOLIŲ PASAKOS pagal Vytauto V. Landsbergio kūrybą",
+      "date": "2026-09-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-muzikinis-spektaklis-obuoliu-pasakos-pagal-vytauto-v-landsbergio-kuryba-2026-09-20",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "PAKOPA PO PAKOPOS | šokio spektaklis–ekskursija",
+      "date": "2026-09-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pakopa-po-pakopos-sokio-spektaklisekskursija-2026-09-20",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Viešnagė istoriniame XIX a. žydų Daukšiagirės dvare | 09.20",
+      "date": "2026-09-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/viesnage-istoriniame-xix-a-zydu-dauksiagires-dvare-09-20-2026-09-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 33,
+    "index": 31,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
