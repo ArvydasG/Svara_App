@@ -1,45 +1,6 @@
 {
   "contracts": [
     {
-      "description": "Mišrios komunalinės",
-      "containerType": "MK-128501",
-      "dates": [
-        "2026-09-07",
-        "2026-09-21",
-        "2026-10-05",
-        "2026-10-19",
-        "2026-11-02",
-        "2026-11-16",
-        "2026-11-30",
-        "2026-12-14",
-        "2026-12-28",
-        "2027-01-11",
-        "2027-01-25",
-        "2027-02-08",
-        "2027-02-22",
-        "2027-03-08",
-        "2027-03-22",
-        "2027-04-05",
-        "2027-04-19",
-        "2027-05-03",
-        "2027-05-17",
-        "2027-05-31",
-        "2027-06-14",
-        "2027-06-28",
-        "2027-07-12",
-        "2027-07-26",
-        "2027-08-09",
-        "2027-08-23",
-        "2027-09-06",
-        "2027-09-20",
-        "2027-10-04",
-        "2027-10-18",
-        "2027-11-01",
-        "2027-11-15"
-      ],
-      "hasRealDates": true
-    },
-    {
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-118461",
       "dates": [
@@ -94,7 +55,7 @@
     },
     {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-140627",
+      "containerType": "MK-128501",
       "dates": [
         "2026-09-07",
         "2026-09-21",
@@ -150,6 +111,45 @@
       "hasRealDates": true
     },
     {
+      "description": "Mišrios komunalinės",
+      "containerType": "MK-140627",
+      "dates": [
+        "2026-09-07",
+        "2026-09-21",
+        "2026-10-05",
+        "2026-10-19",
+        "2026-11-02",
+        "2026-11-16",
+        "2026-11-30",
+        "2026-12-14",
+        "2026-12-28",
+        "2027-01-11",
+        "2027-01-25",
+        "2027-02-08",
+        "2027-02-22",
+        "2027-03-08",
+        "2027-03-22",
+        "2027-04-05",
+        "2027-04-19",
+        "2027-05-03",
+        "2027-05-17",
+        "2027-05-31",
+        "2027-06-14",
+        "2027-06-28",
+        "2027-07-12",
+        "2027-07-26",
+        "2027-08-09",
+        "2027-08-23",
+        "2027-09-06",
+        "2027-09-20",
+        "2027-10-04",
+        "2027-10-18",
+        "2027-11-01",
+        "2027-11-15"
+      ],
+      "hasRealDates": true
+    },
+    {
       "description": "Antrinės žaliavos (Popierius/plastikas)",
       "containerType": "MP-122262",
       "dates": [
@@ -173,7 +173,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-08-30",
+  "updated_at": "2026-08-31",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,43 +195,69 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Istorijų festivalis „Be ryšio“ kviečia į VDU Botanikos sodą",
+      "url": "https://botanika.vdu.lt/ivykiai/istoriju-festivalis",
+      "date": "2026-09-27",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Aleksoto diena Botanikos sode | Europos paveldo dienos 2026",
+      "url": "https://botanika.vdu.lt/ivykiai/aleksoto-diena-2026",
+      "date": "2026-09-20",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "BOTANINĖS NAKTYS | LEMON JOY",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-lemon-joy",
+      "date": "2026-09-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Tarptautinis jurginų festivalis",
+      "url": "https://botanika.vdu.lt/ivykiai/tarptautinis-jurginu-festivalis-3",
+      "date": "2026-09-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "BOTANINĖS NAKTYS | DADDY WAS A MILKMAN",
+      "url": "https://botanika.vdu.lt/ivykiai/botanines-naktys-daddy-was-a-milkman-2",
+      "date": "2026-09-04",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "BOTANINĖS NAKTYS | GusGus",
+      "url": "https://botanika.vdu.lt/ivykiai/36456",
+      "date": "2026-09-03",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Parodos „Vaistininko, prof. dr. Kazimiero Grybausko (1886–1953) veiklos apžvalga“ atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/parodos-vaistininko-prof-dr-kazimiero-grybausko-1886-1953-veiklos-apzvalga-atidarymas",
+      "date": "2026-08-31",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Linos Navickaitės knygos „Ketvertas su paukščiu: naujoji ir…",
+      "url": "https://kaunobiblioteka.lt/linos-navickaites-knygos-ketvertas-su-pauksciu-naujoji-ir-senoji-salu-istorija-pristatymas-2",
+      "date": "2026-09-24",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Garsiniai skaitymai ir edukacija vaikams „Lipdome iš modelino“",
+      "url": "https://kaunobiblioteka.lt/garsiniai-skaitymai-ir-edukacija-vaikams-lipdome-is-modelino",
+      "date": "2026-09-24",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Jono Lukšės piešinių paroda „Kauno rajono seniūnijos“",
+      "url": "https://kaunobiblioteka.lt/jono-lukses-piesiniu-paroda-kauno-rajono-seniunijos",
+      "date": "2026-09-05",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Jurgio Dobkevičiaus Kaunas: vietos ir istorijos",
-      "date": "2026-08-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgio-dobkeviciaus-kaunas-vietos-ir-istorijos-2026-08-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-08-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-08-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Tarpukario inteligentija. Svečiuose pas pulkininką D. Grabį | Ekskursija-viešnagė | 08.30",
-      "date": "2026-08-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-inteligentija-sveciuose-pas-pulkininka-d-grabi-ekskursija-viesnage-08-30-2026-08-30",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Tamsusis Kauno tarpukaris",
-      "date": "2026-08-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tamsusis-kauno-tarpukaris-2026-08-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Baigiamasis koncertas: Manuel de Falla opera „Trumpas gyvenimas“",
-      "date": "2026-08-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baigiamasis-koncertas-manuel-de-falla-opera-trumpas-gyvenimas-2026-08-30",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Vasarinis improvizacijos pirmadienis",
       "date": "2026-08-31",
@@ -639,6 +665,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Šokdink mane atgal į ateitį: muzika, sklendžianti per laiką ir tradicijas",
+      "date": "2026-09-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sokdink-mane-atgal-i-ateiti-muzika-sklendzianti-per-laika-ir-tradicijas-2026-09-08",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Ekskursija Kauno tvirtovės III forte",
       "date": "2026-09-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iii-forte-2026-09-08",
@@ -896,10 +929,38 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-eskizu-konkursas-kodel-as-nebalsuoju-2026-09-23",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "IŠEITIES TAŠKAS '26: ESKIZŲ KONKURSAS | MISIJA",
+      "date": "2026-09-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-eskizu-konkursas-misija-2026-09-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "DŽIAUGSMO SIMFONIJA",
+      "date": "2026-09-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dziaugsmo-simfonija-2026-09-24",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "2026 m. RUDENS KONCERTŲ ABONEMENTAS",
+      "date": "2026-09-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/2026-m-rudens-koncertu-abonementas-2026-09-24",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "IŠEITIES TAŠKAS '26: ESKIZŲ KONKURSAS | HELVERIO NAKTIS",
+      "date": "2026-09-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-eskizu-konkursas-helverio-naktis-2026-09-24",
+      "source": "Kaunas Pilnas",
+      "category": "Naktinė kultūra"
     }
   ],
   "air_quality": {
-    "index": 28,
+    "index": 24,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
