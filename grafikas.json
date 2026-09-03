@@ -2,7 +2,7 @@
   "contracts": [
     {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-128501",
+      "containerType": "MK-140627",
       "dates": [
         "2026-09-07",
         "2026-09-21",
@@ -36,24 +36,6 @@
         "2027-10-18",
         "2027-11-01",
         "2027-11-15"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Žaliųjų atliekų",
-      "containerType": "BZ-113384",
-      "dates": [
-        "2026-09-16",
-        "2026-10-14",
-        "2026-11-11",
-        "2027-04-28",
-        "2027-05-26",
-        "2027-06-23",
-        "2027-07-21",
-        "2027-08-18",
-        "2027-09-15",
-        "2027-10-13",
-        "2027-11-10"
       ],
       "hasRealDates": true
     },
@@ -111,31 +93,8 @@
       "hasRealDates": true
     },
     {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-122262",
-      "dates": [
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20",
-        "2027-10-18",
-        "2027-11-15"
-      ],
-      "hasRealDates": true
-    },
-    {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-140627",
+      "containerType": "MK-128501",
       "dates": [
         "2026-09-07",
         "2026-09-21",
@@ -171,9 +130,50 @@
         "2027-11-15"
       ],
       "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-122262",
+      "dates": [
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20",
+        "2027-10-18",
+        "2027-11-15"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Žaliųjų atliekų",
+      "containerType": "BZ-113384",
+      "dates": [
+        "2026-09-16",
+        "2026-10-14",
+        "2026-11-11",
+        "2027-04-28",
+        "2027-05-26",
+        "2027-06-23",
+        "2027-07-21",
+        "2027-08-18",
+        "2027-09-15",
+        "2027-10-13",
+        "2027-11-10"
+      ],
+      "hasRealDates": true
     }
   ],
-  "updated_at": "2026-09-02",
+  "updated_at": "2026-09-03",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -259,34 +259,6 @@
   ],
   "kaunas_events": [
     {
-      "title": "Orientacinis žaidimas „Kauno burtininkas“",
-      "date": "2026-09-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-09-02",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KELYJE. Romualdo Požerskio retrospektyvinės fotografijų parodos atidarymas",
-      "date": "2026-09-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kelyje-romualdo-pozerskio-retrospektyvines-fotografiju-parodos-atidarymas-2026-09-02",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Improklubas pradedantiesiems",
-      "date": "2026-09-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improklubas-pradedantiesiems-2026-09-02",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "🟣 Kultūrų sodas 2026: Protmūšis “15.4 kultūros”",
-      "date": "2026-09-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-protmusis-15-4-kulturos-2026-09-02",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-09-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-09-03",
@@ -304,6 +276,13 @@
       "title": "Fotografijų parodos „Kur gyvena istorijos“ atidarymas",
       "date": "2026-09-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fotografiju-parodos-kur-gyvena-istorijos-atidarymas-2026-09-03",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Tarptautinė akvarelės plenerų, vykusių 2024-2026 m. Neringoje dalyvių darbų paroda „Spalvų simfonija“ │ATIDARYMAS",
+      "date": "2026-09-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautine-akvareles-pleneru-vykusiu-2024-2026-m-neringoje-dalyviu-darbu-paroda-spalvu-simfonija-atidarymas-2026-09-03",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
     },
@@ -651,6 +630,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Kariljono dueto koncertas",
+      "date": "2026-09-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kariljono-dueto-koncertas-2026-09-07",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "🟣 Kultūrų sodas 2026: Karaimų kultūros skambesys ir skonis",
       "date": "2026-09-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-karaimu-kulturos-skambesys-ir-skonis-2026-09-08",
@@ -707,6 +693,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Senjorų popietė muziejuje",
+      "date": "2026-09-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/senjoru-popiete-muziejuje-2026-09-09",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Koncertas fortepijonui ir sąvartynui LT-moll",
       "date": "2026-09-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-fortepijonui-ir-savartynui-lt-moll-2026-09-09",
@@ -719,6 +712,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-kauno-choraline-sinagoga-2026-09-09",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Kas gyvena „Lesbiariume“? Susitikimas su Dovile Bagdonaite ir poezijos skaitymai",
+      "date": "2026-09-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kas-gyvena-lesbiariume-susitikimas-su-dovile-bagdonaite-ir-poezijos-skaitymai-2026-09-09",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "Babtų kraštotyros muziejuje – Menų ir dizaino mokymo centro mokinių juvelyrikos paroda",
@@ -742,11 +742,25 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "FREE TRIAL | Muzika Erdvėje x Virtuali Diskusija „Dėmesio centre: tapatybė, saugumas, garsas“ su Kotryna Lingiene",
+      "date": "2026-09-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/free-trial-muzika-erdveje-x-virtuali-diskusija-demesio-centre-tapatybe-saugumas-garsas-su-kotryna-lingiene-2026-09-10",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "FREE TRIAL | Muzika Erdvėje x Edgy Palates",
       "date": "2026-09-10",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/free-trial-muzika-erdveje-x-edgy-palates-2026-09-10",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Turas su parodos „Kolekcininkai: Atviros kortos“ kuratore Beta Šneliūte",
+      "date": "2026-09-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turas-su-parodos-kolekcininkai-atviros-kortos-kuratore-beta-sneliute-2026-09-10",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Turas su gidu Barbaros Kasten parodoje „Postabstrakcija“",
@@ -798,6 +812,20 @@
       "category": "Kiti"
     },
     {
+      "title": "Romuvos kinoteka: „Taksistas“",
+      "date": "2026-09-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romuvos-kinoteka-taksistas-2026-09-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "Turas su „Jaunųjų platformos“ parodų menininkėmis",
+      "date": "2026-09-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turas-su-jaunuju-platformos-parodu-menininkemis-2026-09-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "PILIES DIENOS orientacinis žaidimas | (Ne?)tipiniai istorijos simboliai Kauno miesto muziejuje",
       "date": "2026-09-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pilies-dienos-orientacinis-zaidimas-ne-tipiniai-istorijos-simboliai-kauno-miesto-muziejuje-2026-09-12",
@@ -817,6 +845,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-09-12",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Svečiuose pas poetę Salomėją Nėrį. Poetinis atvirlaiškis iš sodo | 2 susitikimas",
+      "date": "2026-09-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sveciuose-pas-poete-salomeja-neri-poetinis-atvirlaiskis-is-sodo-2-susitikimas-2026-09-12",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
     },
     {
       "title": "🟣 Kultūrų sodas 2026 🟣",
@@ -843,6 +878,13 @@
       "title": "Skambantis Kadagių slėnis 2026",
       "date": "2026-09-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skambantis-kadagiu-slenis-2026-2026-09-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "10-ojo sezono atidarymas su Improdžemu ir viktorina",
+      "date": "2026-09-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/10-ojo-sezono-atidarymas-su-improdzemu-ir-viktorina-2026-09-12",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -882,6 +924,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Elvyros Markevičiūtės knygos „Jacques Toja – gražiosios iliuzijos ambasadorius“ pristatymas",
+      "date": "2026-09-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/elvyros-markeviciutes-knygos-jacques-toja-graziosios-iliuzijos-ambasadorius-pristatymas-2026-09-16",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Patyriminis spektaklis „DANSE MACABRE“ | KAUNAS",
       "date": "2026-09-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/patyriminis-spektaklis-danse-macabre-kaunas-2026-09-16",
@@ -908,59 +957,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aleksandras-stulginskis-ir-vasario-16-osios-kontekstai-prof-liudas-mazylis-pristato-savo-tyrinejimus-bei-radinius-2026-09-18",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija „Kauno skrydžių istorija: tarp senojo oro uosto ir aerodromo“",
-      "date": "2026-09-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-skrydziu-istorija-tarp-senojo-oro-uosto-ir-aerodromo-2026-09-18",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija Kauno tvirtovės I forte",
-      "date": "2026-09-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-i-forte-2026-09-19",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-09-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-09-19",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Turizmo mėnuo Kauno rajone: Istorinis pasivaikščiojimas grafų Tiškevičių pėdsakais",
-      "date": "2026-09-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turizmo-menuo-kauno-rajone-istorinis-pasivaiksciojimas-grafu-tiskeviciu-pedsakais-2026-09-19",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-09-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-09-19",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "FLUXUS FESTIVALIS 2026",
-      "date": "2026-09-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fluxus-festivalis-2026-2026-09-19",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "PREMJERA! Muzikinis spektaklis OBUOLIŲ PASAKOS pagal Vytauto V. Landsbergio kūrybą",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-muzikinis-spektaklis-obuoliu-pasakos-pagal-vytauto-v-landsbergio-kuryba-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
     }
   ],
   "air_quality": {
-    "index": 28,
+    "index": 24,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
