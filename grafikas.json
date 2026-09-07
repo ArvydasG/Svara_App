@@ -1,6 +1,82 @@
 {
   "contracts": [
     {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-118461",
+      "dates": [
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20",
+        "2027-10-18",
+        "2027-11-15"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Popierius/plastikas)",
+      "containerType": "MP-122262",
+      "dates": [
+        "2026-09-21",
+        "2026-10-19",
+        "2026-11-16",
+        "2026-12-14",
+        "2027-01-11",
+        "2027-02-08",
+        "2027-03-08",
+        "2027-04-05",
+        "2027-05-03",
+        "2027-05-31",
+        "2027-06-28",
+        "2027-07-26",
+        "2027-08-23",
+        "2027-09-20",
+        "2027-10-18",
+        "2027-11-15"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-114598",
+      "dates": [
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20",
+        "2027-11-15"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-117894",
+      "dates": [
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20",
+        "2027-11-15"
+      ],
+      "hasRealDates": true
+    },
+    {
       "description": "Mišrios komunalinės",
       "containerType": "MK-140627",
       "dates": [
@@ -81,52 +157,6 @@
       "hasRealDates": true
     },
     {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-122262",
-      "dates": [
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20",
-        "2027-10-18",
-        "2027-11-15"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Popierius/plastikas)",
-      "containerType": "MP-118461",
-      "dates": [
-        "2026-09-21",
-        "2026-10-19",
-        "2026-11-16",
-        "2026-12-14",
-        "2027-01-11",
-        "2027-02-08",
-        "2027-03-08",
-        "2027-04-05",
-        "2027-05-03",
-        "2027-05-31",
-        "2027-06-28",
-        "2027-07-26",
-        "2027-08-23",
-        "2027-09-20",
-        "2027-10-18",
-        "2027-11-15"
-      ],
-      "hasRealDates": true
-    },
-    {
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384",
       "dates": [
@@ -143,39 +173,9 @@
         "2027-11-10"
       ],
       "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-117894",
-      "dates": [
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20",
-        "2027-11-15"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598",
-      "dates": [
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20",
-        "2027-11-15"
-      ],
-      "hasRealDates": true
     }
   ],
-  "updated_at": "2026-09-06",
+  "updated_at": "2026-09-07",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -223,12 +223,6 @@
       "source": "Biblioteka"
     },
     {
-      "title": "Jono Lukšės piešinių paroda „Kauno rajono seniūnijos“",
-      "url": "https://kaunobiblioteka.lt/jono-lukses-piesiniu-paroda-kauno-rajono-seniunijos",
-      "date": "2026-09-05",
-      "source": "Biblioteka"
-    },
-    {
       "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
       "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
       "date": "Aktualu",
@@ -236,41 +230,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-09-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-09-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Lapių tvarumo festivalis 2026",
-      "date": "2026-09-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lapiu-tvarumo-festivalis-2026-2026-09-06",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "BandFest Kaunas 2026: muzikinė laudacija Prezidentui Valdui Adamkui",
-      "date": "2026-09-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/bandfest-kaunas-2026-muzikine-laudacija-prezidentui-valdui-adamkui-2026-09-06",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "🟣 Kultūrų sodas 2026: ekskursija „Kas buvo Kauno „magometonai“? Kur jie gyveno ir ką paliko mums?“",
-      "date": "2026-09-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kulturu-sodas-2026-ekskursija-kas-buvo-kauno-magometonai-kur-jie-gyveno-ir-ka-paliko-mums-2026-09-06",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Tarptautinis festivalis \"Musica sacra\"",
-      "date": "2026-09-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-festivalis-musica-sacra-2026-09-06",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
     {
       "title": "🟣 Kultūrų sodas 2026: ekskursija „Evangelikai liuteronai Kaune“",
       "date": "2026-09-07",
@@ -935,10 +894,45 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusija-rysys-tarp-zemes-ir-dangaus-2026-09-25",
       "source": "Kaunas Pilnas",
       "category": "Bendruomenės"
+    },
+    {
+      "title": "Tarpukario inteligentija. Svečiuose pas pulkininką D. Grabį | Ekskursija-viešnagė | 09.25",
+      "date": "2026-09-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-inteligentija-sveciuose-pas-pulkininka-d-grabi-ekskursija-viesnage-09-25-2026-09-25",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Filmo „Slaptasis agentas“ peržiūra + diskusija",
+      "date": "2026-09-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmo-slaptasis-agentas-perziura-diskusija-2026-09-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "IŠEITIES TAŠKAS '26: KARTAIS GYVENIMAS BŪNA TAMSUS",
+      "date": "2026-09-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-kartais-gyvenimas-buna-tamsus-2026-09-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "KAUNO MENO LEIDINIŲ MUGĖ 2026",
+      "date": "2026-09-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-meno-leidiniu-muge-2026-2026-09-26",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "Ekskursija Kauno tvirtovės IV forte",
+      "date": "2026-09-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kauno-tvirtoves-iv-forte-2026-09-26",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 18,
+    "index": 17,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
