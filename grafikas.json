@@ -1,8 +1,38 @@
 {
   "contracts": [
     {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-114598",
+      "dates": [
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20",
+        "2027-11-15"
+      ],
+      "hasRealDates": true
+    },
+    {
+      "description": "Antrinės žaliavos (Stiklas)",
+      "containerType": "MS-117894",
+      "dates": [
+        "2026-10-19",
+        "2026-12-14",
+        "2027-02-08",
+        "2027-04-05",
+        "2027-05-31",
+        "2027-07-26",
+        "2027-09-20",
+        "2027-11-15"
+      ],
+      "hasRealDates": true
+    },
+    {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-128501",
+      "containerType": "MK-140627",
       "dates": [
         "2026-09-21",
         "2026-10-05",
@@ -41,7 +71,7 @@
     },
     {
       "description": "Mišrios komunalinės",
-      "containerType": "MK-140627",
+      "containerType": "MK-128501",
       "dates": [
         "2026-09-21",
         "2026-10-05",
@@ -125,40 +155,9 @@
       "hasRealDates": true
     },
     {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-114598",
-      "dates": [
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20",
-        "2027-11-15"
-      ],
-      "hasRealDates": true
-    },
-    {
-      "description": "Antrinės žaliavos (Stiklas)",
-      "containerType": "MS-117894",
-      "dates": [
-        "2026-10-19",
-        "2026-12-14",
-        "2027-02-08",
-        "2027-04-05",
-        "2027-05-31",
-        "2027-07-26",
-        "2027-09-20",
-        "2027-11-15"
-      ],
-      "hasRealDates": true
-    },
-    {
       "description": "Žaliųjų atliekų",
       "containerType": "BZ-113384",
       "dates": [
-        "2026-09-16",
         "2026-10-14",
         "2026-11-11",
         "2027-04-28",
@@ -173,7 +172,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-09-16",
+  "updated_at": "2026-09-17",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -195,106 +194,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Seminaras: rudeninis genėjimas ir paruošimas žiemai",
-      "url": "https://botanika.vdu.lt/ivykiai/seminaras-rudeninis-genejimas-ir-paruosimas-ziemai",
-      "date": "2026-10-15",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Kviečia patyriminės lėtojo pasivaikščiojimo ekskursijos | Festivalis BE RYŠIO",
-      "url": "https://botanika.vdu.lt/ivykiai/istoriju-festivalis",
-      "date": "2026-09-27",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Europos tyrėjų naktis: „Augalų supergalių laboratorija“",
-      "url": "https://botanika.vdu.lt/ivykiai/europos-tyreju-naktis-augalu-supergaliu-laboratorija",
-      "date": "2026-09-24",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Aleksoto diena Botanikos sode | Europos paveldo dienos 2026",
-      "url": "https://botanika.vdu.lt/ivykiai/aleksoto-diena-2026",
-      "date": "2026-09-20",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Linos Navickaitės knygos „Ketvertas su paukščiu: naujoji ir…",
-      "url": "https://kaunobiblioteka.lt/linos-navickaites-knygos-ketvertas-su-pauksciu-naujoji-ir-senoji-salu-istorija-pristatymas-2",
-      "date": "2026-09-24",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Garsiniai skaitymai ir edukacija vaikams „Lipdome iš modelino“",
-      "url": "https://kaunobiblioteka.lt/garsiniai-skaitymai-ir-edukacija-vaikams-lipdome-is-modelino",
-      "date": "2026-09-24",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Kauno kultūros centro dailės studijos „Vaivorykštė“ tapybos darbų…",
-      "url": "https://kaunobiblioteka.lt/kauno-kulturos-centro-dailes-studijos-vaivorykste-tapybos-darbu-paroda",
-      "date": "2026-10-12",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-9",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Mažylių trečiadienis | Ūkio gyvūnai ir sensoriniai atradimai",
-      "date": "2026-09-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-ukio-gyvunai-ir-sensoriniai-atradimai-2026-09-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Orientacinis žaidimas „Kauno burtininkas“",
-      "date": "2026-09-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-09-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Keramikos pamokos Paaugliams/ceramics courses 2026-09-16",
-      "date": "2026-09-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/keramikos-pamokos-paaugliams-ceramics-courses-2026-09-16-2026-09-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Elvyros Markevičiūtės knygos „Jacques Toja – gražiosios iliuzijos ambasadorius“ pristatymas",
-      "date": "2026-09-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/elvyros-markeviciutes-knygos-jacques-toja-graziosios-iliuzijos-ambasadorius-pristatymas-2026-09-16",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "FLUXUS ✷ Filmo „Trys draugai. Sulaužytas pianinas ir kitos istorijos“ peržiūra",
-      "date": "2026-09-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/fluxus-filmo-trys-draugai-sulauzytas-pianinas-ir-kitos-istorijos-perziura-2026-09-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Patyriminis spektaklis „DANSE MACABRE“ | KAUNAS",
-      "date": "2026-09-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/patyriminis-spektaklis-danse-macabre-kaunas-2026-09-16",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Žaliakalnio protmūšis",
-      "date": "2026-09-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zaliakalnio-protmusis-2026-09-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "„Kartu esame stipresni“: ekskursija su žaliakalniečiu (lankomės Naujamiestyje)",
       "date": "2026-09-17",
@@ -334,6 +235,13 @@
       "title": "Dokumentinis kinas kaip būdas suprasti jauną žmogų. Filmo „Don‘t Give a Fox“ peržiūra Ąžuolyno bibliotekoje",
       "date": "2026-09-17",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dokumentinis-kinas-kaip-budas-suprasti-jauna-zmogu-filmo-dont-give-a-fox-perziura-azuolyno-bibliotekoje-2026-09-17",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "Lietuviškos kino klasikos dienos : filmas „Kažkas atsitiko“",
+      "date": "2026-09-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuviskos-kino-klasikos-dienos-filmas-kazkas-atsitiko-2026-09-17",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
     },
@@ -555,6 +463,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "Tarptautinis festivalis \"Musica sacra\"",
+      "date": "2026-09-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-festivalis-musica-sacra-2026-09-20",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "PREMJERA! Muzikinis spektaklis OBUOLIŲ PASAKOS pagal Vytauto V. Landsbergio kūrybą",
       "date": "2026-09-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-muzikinis-spektaklis-obuoliu-pasakos-pagal-vytauto-v-landsbergio-kuryba-2026-09-20",
@@ -721,6 +636,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-kauno-vinco-kudirkos-viesojoje-bibliotekoje-mes-esame-misko-vaisiai-2026-09-23",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "Judesio dirbtuvės-paskaita „Kontaktinė improvizacija“ su Aiste Jančiūte",
+      "date": "2026-09-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/judesio-dirbtuves-paskaita-kontaktine-improvizacija-su-aiste-janciute-2026-09-23",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "IŠEITIES TAŠKAS '26: ESKIZŲ KONKURSAS | KODĖL AŠ NEBALSUOJU?",
@@ -912,6 +834,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Šetenių simpoziumo dalyvių kūrybos skaitymai Kaune",
+      "date": "2026-09-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seteniu-simpoziumo-dalyviu-kurybos-skaitymai-kaune-2026-09-25",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Lukas Pilkauskas akustiškai",
       "date": "2026-09-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lukas-pilkauskas-akustiskai-2026-09-25",
@@ -945,12 +874,33 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/auginam-obelyne-2026-2026-09-26",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija Galaunių namuose-muziejuje",
+      "date": "2026-09-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-galauniu-namuose-muziejuje-2026-09-26",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-09-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-09-26",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Pauliaus Vaniuchino paskaita \"Žemaičių vyskupo Motiejaus Kazimiero Valančiaus giminės genealoginė rekonstrukcija: Salantų (su Kalnalio filija) ir Kartenos parapijų bažnytinių registrų duomenys\"",
+      "date": "2026-09-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pauliaus-vaniuchino-paskaita-zemaiciu-vyskupo-motiejaus-kazimiero-valanciaus-gimines-genealogine-rekonstrukcija-salantu-su-kalnalio-filija-ir-kartenos-parapiju-baznytiniu-registru-duomenys-2026-09-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 26,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 18,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
