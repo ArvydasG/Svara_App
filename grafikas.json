@@ -176,7 +176,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-09-20",
+  "updated_at": "2026-09-21",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -218,12 +218,6 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Aleksoto diena Botanikos sode | Europos paveldo dienos 2026",
-      "url": "https://botanika.vdu.lt/ivykiai/aleksoto-diena-2026",
-      "date": "2026-09-20",
-      "source": "Botanikos sodas"
-    },
-    {
       "title": "Linos Navickaitės knygos „Ketvertas su paukščiu: naujoji ir…",
       "url": "https://kaunobiblioteka.lt/linos-navickaites-knygos-ketvertas-su-pauksciu-naujoji-ir-senoji-salu-istorija-pristatymas-2",
       "date": "2026-09-24",
@@ -249,69 +243,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "PREMJERA! Muzikinis spektaklis OBUOLIŲ PASAKOS pagal Vytauto V. Landsbergio kūrybą",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-muzikinis-spektaklis-obuoliu-pasakos-pagal-vytauto-v-landsbergio-kuryba-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "PAKOPA PO PAKOPOS | šokio spektaklis–ekskursija",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pakopa-po-pakopos-sokio-spektaklisekskursija-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "ŠV. MATO RAGAUTUVĖS",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sv-mato-ragautuves-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Aleksoto diena Botanikos sode | Europos paveldo dienos 2026",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/aleksoto-diena-botanikos-sode-europos-paveldo-dienos-2026-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Viešnagė istoriniame XIX a. žydų Daukšiagirės dvare | 09.20",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/viesnage-istoriniame-xix-a-zydu-dauksiagires-dvare-09-20-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Baltiškos Šančinės 2026",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltiskos-sancines-2026-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "The Biggest Problem in the World • Stand-up komedija anglų kalba su Victoru Patrascanu",
-      "date": "2026-09-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/the-biggest-problem-in-the-world-stand-up-komedija-anglu-kalba-su-victoru-patrascanu-2026-09-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Keramikos pamokos Kaune",
-      "date": "2026-09-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/keramikos-pamokos-kaune-2026-09-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Ekskursija „Nuo Darbo rūmų iki Kultūros centro“ │ PAVELDO DIENOS",
       "date": "2026-09-22",
@@ -411,6 +342,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Romualdo Požerskio knygų pristatymas-pokalbis",
+      "date": "2026-09-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romualdo-pozerskio-knygu-pristatymas-pokalbis-2026-09-23",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Ekskursija „Kaip atgijo „Daina“? Žaliakalnio kino teatrų likimai“",
       "date": "2026-09-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-kaip-atgijo-daina-zaliakalnio-kino-teatru-likimai-2026-09-23",
@@ -439,9 +377,23 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Susitikimas su Hana Šumilaite.",
+      "date": "2026-09-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-hana-sumilaite-2026-09-23",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
       "title": "IŠEITIES TAŠKAS '26: ESKIZŲ KONKURSAS | KODĖL AŠ NEBALSUOJU?",
       "date": "2026-09-23",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-eskizu-konkursas-kodel-as-nebalsuoju-2026-09-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Improklubas pradedantiesiems",
+      "date": "2026-09-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improklubas-pradedantiesiems-2026-09-23",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -733,6 +685,13 @@
       "category": "Scena"
     },
     {
+      "title": "Impro džemas (komedijos vakaras)",
+      "date": "2026-09-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-komedijos-vakaras-2026-09-26",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-09-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-09-27",
@@ -757,6 +716,13 @@
       "title": "IŠEITIES TAŠKAS '26: VILTIS",
       "date": "2026-09-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-viltis-2026-09-27",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Improklubas patyrusiems",
+      "date": "2026-09-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improklubas-patyrusiems-2026-09-28",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -948,12 +914,40 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ldk-virtuve-ekskursija-degustacija-10-04-2026-10-04",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "IŠEITIES TAŠKAS '26: SARABANDA",
+      "date": "2026-10-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-sarabanda-2026-10-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Folkloro dirbtuvės šeimoms | Etnosodas",
+      "date": "2026-10-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-10-07",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Mokymai: „Sąmoningo ugdytojo strategijos ir įrankiai“",
+      "date": "2026-10-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mokymai-samoningo-ugdytojo-strategijos-ir-irankiai-2026-10-08",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Mikė Melagėlis ir gyvosios pasakos",
+      "date": "2026-10-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mike-melagelis-ir-gyvosios-pasakos-2026-10-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 24,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 18,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
