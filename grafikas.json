@@ -1,6 +1,6 @@
 {
   "contracts": [],
-  "updated_at": "2026-10-01",
+  "updated_at": "2026-10-02",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -24,48 +24,6 @@
   ],
   "events": [],
   "kaunas_events": [
-    {
-      "title": "Susitikimas su menininke Marija Čipkute parodoje „Tai yra mano kūnas“",
-      "date": "2026-10-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-menininke-marija-cipkute-parodoje-tai-yra-mano-kunas-2026-10-01",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "IŠEITIES TAŠKAS '26: KARŠTOS NAUJIENOS",
-      "date": "2026-10-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-karstos-naujienos-2026-10-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Festivalis AVANTI | Šv. Kristoforo kamerinis orkestras",
-      "date": "2026-10-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/festivalis-avanti-sv-kristoforo-kamerinis-orkestras-2026-10-01",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "MUZIKOS DIENOS SIMFONIJA",
-      "date": "2026-10-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikos-dienos-simfonija-2026-10-01",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Domino teatro Premjera „Urvinis žmogus“",
-      "date": "2026-10-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-premjera-urvinis-zmogus-2026-10-01",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Posthumanizmo amžius. Filosofų Daivos Tamošaitytės ir Gintauto Mažeikio pokalbis",
-      "date": "2026-10-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/posthumanizmo-amzius-filosofu-daivos-tamosaitytes-ir-gintauto-mazeikio-pokalbis-2026-10-02",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Romano Krasninkevičiaus paroda „(Ne)pažintas Romanas“",
       "date": "2026-10-02",
@@ -333,6 +291,13 @@
       "category": "Literatūra"
     },
     {
+      "title": "BETONAS. Evos Galiauskas tapybos darbų parodos atidarymas",
+      "date": "2026-10-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/betonas-evos-galiauskas-tapybos-darbu-parodos-atidarymas-2026-10-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Improklubas pradedantiesiems",
       "date": "2026-10-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improklubas-pradedantiesiems-2026-10-07",
@@ -438,6 +403,13 @@
       "category": "Kinas"
     },
     {
+      "title": "Nijolės Kudirkos fotografijų paroda",
+      "date": "2026-10-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nijoles-kudirkos-fotografiju-paroda-2026-10-08",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "SAULĖLYDŽIO IR VANDENS MISTERIJA",
       "date": "2026-10-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/saulelydzio-ir-vandens-misterija-2026-10-08",
@@ -450,6 +422,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-vyrai-pagal-skelbima-2026-10-08",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Nijolės Kudirkos fotografijų paroda",
+      "date": "2026-10-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nijoles-kudirkos-fotografiju-paroda-2026-10-09",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
@@ -634,6 +613,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "JURGIUI MAČIŪNUI – 95! PARODA „PATIRTI JURGĮ MAČIŪNĄ“",
+      "date": "2026-10-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgiui-maciunui-95-paroda-patirti-jurgi-maciuna-2026-10-16",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "RESURRECTIO",
       "date": "2026-10-16",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/resurrectio-2026-10-16",
@@ -723,10 +709,24 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklio-poeto-pokstas-premjera-2026-10-19",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "NUO PARYŽIAUS IKI BRODVĖJAUS | S. Lebrikaitė, E. Chrebtovas, R. Laureckis",
+      "date": "2026-10-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-paryziaus-iki-brodvejaus-s-lebrikaite-e-chrebtovas-r-laureckis-2026-10-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Spektaklis ''Haroldas ir Modė''",
+      "date": "2026-10-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-haroldas-ir-mode-2026-10-20",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 26,
+    "index": 29,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
