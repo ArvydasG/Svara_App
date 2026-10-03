@@ -1,6 +1,6 @@
 {
   "contracts": [],
-  "updated_at": "2026-10-02",
+  "updated_at": "2026-10-03",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -22,43 +22,69 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Botanic Five Kaunas 2026 | 5 km VDU Botanikos sode",
+      "url": "https://botanika.vdu.lt/ivykiai/botanic-five-kaunas-2026",
+      "date": "2026-10-18",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Seminaras: rudeninis genėjimas ir paruošimas žiemai",
+      "url": "https://botanika.vdu.lt/ivykiai/seminaras-rudeninis-genejimas-ir-paruosimas-ziemai",
+      "date": "2026-10-15",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Tarptautinė investuotojų savaitė bibliotekoje",
+      "url": "https://kaunobiblioteka.lt/tarptautine-investuotoju-savaite-bibliotekoje-2",
+      "date": "2026-10-11",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Romo Vainulevičiaus knygų „Vilkas vienišius“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/romo-vainuleviciaus-knygu-vilkas-vienisius-pristatymas",
+      "date": "2026-10-22",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Šeimų klubo „Skaitykime kartu“ susitikimas",
+      "url": "https://kaunobiblioteka.lt/seimu-klubo-skaitykime-kartu-susitikimas",
+      "date": "2026-10-21",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-10",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Varonio (Sigito Kadišos) knygos „Meilės mozaika“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/varonio-sigito-kadisos-knygos-meiles-mozaika-pristatymas",
+      "date": "2026-10-08",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Prof. Rimvydo Šlapiko paskaita „Širdies sveikata 2026: naujausios…",
+      "url": "https://kaunobiblioteka.lt/prof-rimvydo-slapiko-paskaita-sirdies-sveikata-2026-naujausios-gydymo-ir-profilaktikos-galimybes",
+      "date": "2026-10-06",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Violetos Gajauskaitės tapybos paroda „Kai šviesa paliečia tylą“",
+      "url": "https://kaunobiblioteka.lt/violetos-gajauskaites-tapybos-paroda-kai-sviesa-paliecia-tyla",
+      "date": "2026-10-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Kauno kultūros centro dailės studijos „Vaivorykštė“ tapybos darbų…",
+      "url": "https://kaunobiblioteka.lt/kauno-kulturos-centro-dailes-studijos-vaivorykste-tapybos-darbu-paroda",
+      "date": "2026-10-12",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Romano Krasninkevičiaus paroda „(Ne)pažintas Romanas“",
-      "date": "2026-10-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romano-krasninkeviciaus-paroda-ne-pazintas-romanas-2026-10-02",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "IŠEITIES TAŠKAS '26: KOMPOSTAS",
-      "date": "2026-10-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/iseities-taskas-26-kompostas-2026-10-02",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Festivalis AVANTI | CAMERATA SOLARIS Šiaulių miesto simfoninio orkestro styginių grupė",
-      "date": "2026-10-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/festivalis-avanti-camerata-solaris-siauliu-miesto-simfoninio-orkestro-styginiu-grupe-2026-10-02",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-10-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-10-03",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Gražių daiktų turgelis Lietuvos švietimo muziejuje",
-      "date": "2026-10-03",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/graziu-daiktu-turgelis-lietuvos-svietimo-muziejuje-2026-10-03",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Humoro ir magijos šou visai šeimai",
       "date": "2026-10-03",
@@ -191,6 +217,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisku-sokiu-vakaras-2026-10-05",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "ino klubas „5-tos dienos kino festivalis“ kviečia!",
+      "date": "2026-10-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ino-klubas-5-tos-dienos-kino-festivalis-kviecia-2026-10-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "Improklubas patyrusiems",
@@ -410,6 +443,13 @@
       "category": "Parodos"
     },
     {
+      "title": "Dainiaus Liškevičiaus paroda „PRAUŽ-keikimai“",
+      "date": "2026-10-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dainiaus-liskeviciaus-paroda-prauz-keikimai-2026-10-08",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "SAULĖLYDŽIO IR VANDENS MISTERIJA",
       "date": "2026-10-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/saulelydzio-ir-vandens-misterija-2026-10-08",
@@ -427,6 +467,13 @@
       "title": "Nijolės Kudirkos fotografijų paroda",
       "date": "2026-10-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nijoles-kudirkos-fotografiju-paroda-2026-10-09",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Dainiaus Liškevičiaus paroda „PRAUŽ-keikimai“",
+      "date": "2026-10-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dainiaus-liskeviciaus-paroda-prauz-keikimai-2026-10-09",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
     },
@@ -578,6 +625,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Knygos „Liudas Truikys. Menas yra auka Kosmoso lygsvarai\" sutiktuvės",
+      "date": "2026-10-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-liudas-truikys-menas-yra-auka-kosmoso-lygsvarai-sutiktuves-2026-10-15",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Dariaus Liutiko knygos „Lietuvos šventovės atvirukuose“ sutiktuvės",
       "date": "2026-10-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dariaus-liutiko-knygos-lietuvos-sventoves-atvirukuose-sutiktuves-2026-10-15",
@@ -618,6 +672,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgiui-maciunui-95-paroda-patirti-jurgi-maciuna-2026-10-16",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Folkloro grupė „Vilko pupos“ ir saksofonininkas Petras Vyšniauskas. CD pristatymo koncertas",
+      "date": "2026-10-16",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-grupe-vilko-pupos-ir-saksofonininkas-petras-vysniauskas-cd-pristatymo-koncertas-2026-10-16",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     },
     {
       "title": "RESURRECTIO",
@@ -726,7 +787,7 @@
     }
   ],
   "air_quality": {
-    "index": 29,
+    "index": 27,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
