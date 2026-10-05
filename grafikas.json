@@ -1,5 +1,46 @@
 {
-  "contracts": [],
+  "contracts": [
+    {
+      "description": "Mišrios atliekos",
+      "containerType": "MK-128501 0,14",
+      "dates": [
+        "2026-10-05",
+        "2026-10-19",
+        "2026-11-02",
+        "2026-11-16",
+        "2026-11-30",
+        "2026-12-14",
+        "2026-12-28",
+        "2027-01-11",
+        "2027-01-25",
+        "2027-02-08",
+        "2027-02-22",
+        "2027-03-08",
+        "2027-03-22",
+        "2027-04-05",
+        "2027-04-19",
+        "2027-05-03",
+        "2027-05-17",
+        "2027-05-31",
+        "2027-06-14",
+        "2027-06-28",
+        "2027-07-12",
+        "2027-07-26",
+        "2027-08-09",
+        "2027-08-23",
+        "2027-09-06",
+        "2027-09-20",
+        "2027-10-04",
+        "2027-10-18",
+        "2027-11-01",
+        "2027-11-15",
+        "2027-11-29",
+        "2027-12-13",
+        "2027-12-27"
+      ],
+      "hasRealDates": true
+    }
+  ],
   "updated_at": "2026-10-05",
   "neighborhood_works": [
     {
@@ -380,6 +421,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "Cesiulė kalbina DAINIŲ DIRGĖLĄ",
+      "date": "2026-10-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/cesiule-kalbina-dainiu-dirgela-2026-10-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "K. Bradūnui skirtas prisiminimų vakaras „Dygsta į žemę paberti grūdai“",
       "date": "2026-10-09",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/k-bradunui-skirtas-prisiminimu-vakaras-dygsta-i-zeme-paberti-grudai-2026-10-09",
@@ -399,6 +447,20 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-kolekcininkai-atviros-kortos-2026-10-10",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Teatralizuota ekskursija „Pasaka pasaką veja“",
+      "date": "2026-10-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/teatralizuota-ekskursija-pasaka-pasaka-veja-2026-10-10",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Juozas Tumas-Vaižgantas: „Aš esu pranciškonas“",
+      "date": "2026-10-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/juozas-tumas-vaizgantas-as-esu-pranciskonas-2026-10-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "MOKYK MANE, rež. Laura Kutkaitė (Lietuvos nacionalinio dramos teatro gastrolės)",
@@ -499,6 +561,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "VLADAS ŠIMKUS. Rašytojai 90-mečiai",
+      "date": "2026-10-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vladas-simkus-rasytojai-90-meciai-2026-10-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "\"Kartu esame stipresni\": Žaliakalnio protmūšis",
       "date": "2026-10-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-zaliakalnio-protmusis-2026-10-14",
@@ -525,6 +594,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dariaus-liutiko-knygos-lietuvos-sventoves-atvirukuose-sutiktuves-2026-10-15",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Ekskursija „Juozo Grušo namai – nuo tarpukario iki sovietmečio“",
+      "date": "2026-10-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-juozo-gruso-namai-nuo-tarpukario-iki-sovietmecio-2026-10-15",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Koncertas „Liudviko Rėzos pėdomis“",
@@ -702,6 +778,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Mokslinė tarpdalykinė konferencija „Motiejaus Valančiaus fenomenas“",
+      "date": "2026-10-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/moksline-tarpdalykine-konferencija-motiejaus-valanciaus-fenomenas-2026-10-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Susitikimas KAIMYNŲ SALONAS, Galaunių namuose-muziejuje",
       "date": "2026-10-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-kaimynu-salonas-galauniu-namuose-muziejuje-2026-10-22",
@@ -742,52 +825,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/w-a-mozartui-270-2026-10-23",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Regioninis našlaičių dainų koncertas „Toli mano giminėla už debesėlių“",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/regioninis-naslaiciu-dainu-koncertas-toli-mano-giminela-uz-debeseliu-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Improvizacijų šou PLOTAS",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizaciju-sou-plotas-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-10-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-10-24",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "MUZIKINIS SPEKTAKLIS „KAIP EŽIUKAS CHORĄ BŪRĖ“",
-      "date": "2026-10-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikinis-spektaklis-kaip-eziukas-chora-bure-2026-10-24",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Ekskursija Galaunių namuose-muziejuje",
-      "date": "2026-10-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-galauniu-namuose-muziejuje-2026-10-24",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Henrikas Raštikis – gyvenimas su kanklėmis. Tarpukario istorijos iš Utenos",
-      "date": "2026-10-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/henrikas-rastikis-gyvenimas-su-kanklemis-tarpukario-istorijos-is-utenos-2026-10-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 18,
+    "index": 19,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"

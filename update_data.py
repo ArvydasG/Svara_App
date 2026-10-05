@@ -93,89 +93,60 @@ def scrape():
         )
         page = context.new_page()
 
-        # 1. PUSH PRANEŠIMAI IR ŠIUKŠLIŲ GRAFIKAS
+        # 1. PUSH PRANEŠIMAI IR ŠIUKŠLIŲ GRAFIKAS (Iš .ics failų)
         try:
-            print("🔗 Jungiamasi prie https://grafikai.svara.lt/ ...")
-            page.goto("https://grafikai.svara.lt/", wait_until="domcontentloaded", timeout=60000)
-            page.wait_for_timeout(5000)
-
-            # Forma
-            page.locator("button[role='combobox']:has-text('Pasirinkite regioną')").click()
-            page.wait_for_timeout(1000)
-            page.keyboard.type(ADDRESS['region'], delay=100)
-            page.wait_for_timeout(1000)
-            page.keyboard.press("Enter")
-            page.wait_for_timeout(3000)  # ILGAS LAUKIMAS GATVĖMS UŽKRAUTI
+            import glob
+            ics_files = glob.glob('*.ics')
+            if not ics_files:
+                print("⚠️ Nerasta jokių .ics grafikų failų!")
             
-            page.locator("button[role='combobox']:has-text('Pasirinkite gatvę')").click()
-            page.wait_for_timeout(1000)
-            page.keyboard.type(ADDRESS['address'], delay=100)
-            page.wait_for_timeout(2000)  # LAUKIAME KOL SUREAGUOS PAIEŠKA
-            page.keyboard.press("Enter")
-            page.wait_for_timeout(2000)
-            
-            page.locator("input[maxlength='5']").click()
-            page.keyboard.type(ADDRESS['houseNumber'], delay=100)
-            page.wait_for_timeout(1000)
-            
-            page.locator("button[type='submit']:has-text('Ieškoti')").click()
-            page.wait_for_timeout(10000)
-
-            # Renkame datas
-            # Pakeičiame selectorių, kad tikrai rastų "Išskleisti vežimo grafiką"
-            rows = page.locator("tr:has(button:has-text('Išskleisti'))").all()
-            if not rows:
-                print("⚠️ Nerasta eilučių su 'Išskleisti'. Galbūt pasikeitė HTML struktūra?")
-
-            for row in rows:
-                cols = row.locator("td").all()
-                if len(cols) >= 2:
-                    type_txt = cols[0].inner_text().strip()
-                    cont_txt = cols[1].inner_text().strip()
-                    final_results.append({
-                        'description': type_txt,
-                        'containerType': cont_txt,
-                        'dates': [],
-                        'hasRealDates': False
-                    })
-
-            def handle_response(response):
-                try:
-                    if response.status == 200 and "grafikai.svara.lt" in response.url:
-                        # Try to find dates in ANY json or text response that comes from the server
-                        if response.request.resource_type in ["fetch", "xhr"]:
-                            text = response.text()
-                            found = re.findall(r'\d{4}-\d{2}-\d{2}', text)
-                            if found:
-                                # Append to a global set or something
-                                if not hasattr(handle_response, "all_dates"):
-                                    handle_response.all_dates = set()
-                                handle_response.all_dates.update(found)
-                except:
-                    pass
-            page.on("response", handle_response)
-
-            for item in final_results:
-                target_row = page.locator(f"tr:has-text('{item['containerType']}')")
-                if target_row.count() > 0:
-                    try:
-                        handle_response.all_dates = set() # Reset for this container
-                        
-                        # Click to expand
-                        target_row.locator("button:has-text('vežimo grafiką')").first.evaluate("el => el.click()")
-                        page.wait_for_timeout(3000)
-                        
-                        dates = sorted(list(handle_response.all_dates))
-                        item['dates'] = [d for d in dates if d >= today_str]
-                        item['hasRealDates'] = len(item['dates']) > 0
-                        
-                        # Close it back
-                        target_row.locator("button:has-text('vežimo grafiką')").first.evaluate("el => el.click()")
-                        page.wait_for_timeout(1000)
-                    except Exception as ex:
-                        print(f"Nepavyko išskleisti {item['containerType']}: {ex}")
+            for ics_file in ics_files:
+                with open(ics_file, 'r', encoding='utf-8', errors='ignore') as f:
+                    ics_content = f.read()
+                
+                desc_match = re.search(r'DESCRIPTION:Konteineris: (.*?)\\nAdresas', ics_content)
+                sum_match = re.search(r'SUMMARY:(.*)', ics_content)
+                
+                container_type = desc_match.group(1).replace('\\,', ',') if desc_match else "Nežinomas konteineris"
+                summary_txt = sum_match.group(1).strip() if sum_match else "Atliekos"
+                if "mi" in summary_txt and "ri" in summary_txt:
+                    desc = "Mišrios atliekos"
+                elif "plastik" in summary_txt.lower():
+                    desc = "Plastiko atliekos"
+                elif "popier" in summary_txt.lower():
+                    desc = "Popieriaus atliekos"
+                elif "stikl" in summary_txt.lower():
+                    desc = "Stiklo atliekos"
+                else:
+                    desc = summary_txt
+                    
+                dates = []
+                start_match = re.search(r'DTSTART;VALUE=DATE:(\d{8})', ics_content)
+                if start_match:
+                    start_str = start_match.group(1)
+                    start_date = date(int(start_str[:4]), int(start_str[4:6]), int(start_str[6:8]))
+                    rrule_match = re.search(r'RRULE:.*FREQ=WEEKLY;INTERVAL=(\d+).*COUNT=(\d+)', ics_content)
+                    if rrule_match:
+                        interval_weeks = int(rrule_match.group(1))
+                        count = int(rrule_match.group(2))
+                        for i in range(count):
+                            d = start_date + timedelta(weeks=interval_weeks * i)
+                            if d.isoformat() >= today_str:
+                                dates.append(d.isoformat())
+                    else:
+                        if start_date.isoformat() >= today_str:
+                            dates.append(start_date.isoformat())
+                
+                final_results.append({
+                    'description': desc,
+                    'containerType': container_type,
+                    'dates': sorted(list(set(dates))),
+                    'hasRealDates': len(dates) > 0
+                })
+                print(f"✅ Iš {ics_file} nuskaityta {len(dates)} būsimų vežimo datų.")
+                
         except Exception as e:
-            print(f"⚠️ Klaida šiukšlių grafike: {e}")
+            print(f"⚠️ Klaida apdorojant .ics failus: {e}")
 
         # 2. ALEKSOTO NAUJIENOS
         try:
