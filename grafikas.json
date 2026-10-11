@@ -40,7 +40,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-11",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -64,76 +64,6 @@
   ],
   "events": [],
   "kaunas_events": [
-    {
-      "title": "Interaktyvus spektaklis-kelionė „Jausta–įausta“",
-      "date": "2026-10-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-spektaklis-kelione-jaustaiausta-2026-10-10",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-10-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-10-10",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Juozas Tumas-Vaižgantas: „Aš esu pranciškonas“",
-      "date": "2026-10-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/juozas-tumas-vaizgantas-as-esu-pranciskonas-2026-10-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "MOKYK MANE, rež. Laura Kutkaitė (Lietuvos nacionalinio dramos teatro gastrolės)",
-      "date": "2026-10-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mokyk-mane-rez-laura-kutkaite-lietuvos-nacionalinio-dramos-teatro-gastroles-2026-10-10",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "ŽIOTYS // MARTYNA PLIOPLYTĖ-ZUJIENĖ IR LIUCIJA DERVINYTĖ",
-      "date": "2026-10-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ziotys-martyna-plioplyte-zujiene-ir-liucija-dervinyte-2026-10-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "SARBIEVIJAUS KELIONĖ Į ROMĄ",
-      "date": "2026-10-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sarbievijaus-kelione-i-roma-2026-10-10",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Festivalio AVANTI uždarymo koncertas | Lietuvos kamerinis orkestras",
-      "date": "2026-10-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/festivalio-avanti-uzdarymo-koncertas-lietuvos-kamerinis-orkestras-2026-10-10",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Domino teatro komedija „Mama mūsų lovoje\"",
-      "date": "2026-10-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-mama-musu-lovoje-2026-10-10",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-10-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-10-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "RIBOŽENKLIAI. KAUNAS | šokio spektaklis-ekskursija",
-      "date": "2026-10-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ribozenkliai-kaunas-sokio-spektaklis-ekskursija-2026-10-11",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
     {
       "title": "Spektaklis „Pamišėlio užrašai“",
       "date": "2026-10-11",
@@ -709,6 +639,13 @@
       "category": "Scena"
     },
     {
+      "title": "Pozityvumo treniruotė",
+      "date": "2026-10-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pozityvumo-treniruote-2026-10-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Videokaukas Romuvoje: „Kerė“ (1976)",
       "date": "2026-10-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/videokaukas-romuvoje-kere-1976-2026-10-25",
@@ -763,12 +700,75 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-10-28",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Klubo „Pasibalbatuokim“ susitikimas",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klubo-pasibalbatuokim-susitikimas-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "(NE)RIMTOSIOS MUZIKOS VAKARAS",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ne-rimtosios-muzikos-vakaras-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Vytenio Almonaičio ir Junonos Almonaitienės knygos „Kauno Senamiestis: keliautojo žinynas“ pristatymas",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytenio-almonaicio-ir-junonos-almonaitienes-knygos-kauno-senamiestis-keliautojo-zinynas-pristatymas-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Pokalbių ir diskusijų vakaras, skirtas Vėlinių laikotarpio apmąstymams",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pokalbiu-ir-diskusiju-vakaras-skirtas-veliniu-laikotarpio-apmastymams-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Diskusija „Aviatoriai, nukentėję nuo sovietų represijų“",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusija-aviatoriai-nukenteje-nuo-sovietu-represiju-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Pasaulinė italų kalbos savaitė: „Porkas Rosas“",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasauline-italu-kalbos-savaite-porkas-rosas-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "MIRKT ir aišku… „Dirbtinis intelektas – draugas ar manipuliatorius?“",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mirkt-ir-aisku-dirbtinis-intelektas-draugas-ar-manipuliatorius-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "AMERIKIETIS PARYŽIUJE",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/amerikietis-paryziuje-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 21,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 16,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
