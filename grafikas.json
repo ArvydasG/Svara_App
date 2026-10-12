@@ -40,7 +40,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-11",
+  "updated_at": "2026-10-12",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -62,43 +62,69 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
-  "kaunas_events": [
+  "events": [
     {
-      "title": "Spektaklis „Pamišėlio užrašai“",
-      "date": "2026-10-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-pamiselio-uzrasai-2026-10-11",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
+      "title": "Rudens stovykla vaikams VDU Botanikos sode Kaune",
+      "url": "https://botanika.vdu.lt/ivykiai/rudens-stovykla-vaikams-kaune",
+      "date": "2026-11-03",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Tarptautinis festivalis \"Musica sacra\"",
-      "date": "2026-10-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-festivalis-musica-sacra-2026-10-11",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
+      "title": "Seminaras: rudeninis genėjimas ir paruošimas žiemai",
+      "url": "https://botanika.vdu.lt/ivykiai/seminaras-rudeninis-genejimas-ir-paruosimas-ziemai-2",
+      "date": "2026-10-28",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "SIBIRO HAIKU, rež. Augustas Gornatkevičius (Lietuvos nacionalinio dramos teatro gastrolės)",
-      "date": "2026-10-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sibiro-haiku-rez-augustas-gornatkevicius-lietuvos-nacionalinio-dramos-teatro-gastroles-2026-10-11",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
+      "title": "Botanic Five Kaunas 2026 | 5 km VDU Botanikos sode",
+      "url": "https://botanika.vdu.lt/ivykiai/botanic-five-kaunas-2026",
+      "date": "2026-10-18",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "KALBANČIO FORTEPIJONO ISTORIJOS",
-      "date": "2026-10-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kalbancio-fortepijono-istorijos-2026-10-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
+      "title": "Tropinių drugių parodos atidarymas",
+      "url": "https://botanika.vdu.lt/ivykiai/tropiniu-drugiu-parodos-atidarymas",
+      "date": "2026-10-15",
+      "source": "Botanikos sodas"
     },
     {
-      "title": "Vokiečių kalbos savaitė „Ö kaip vokiškai?“",
+      "title": "Kviečiame įvertinti bibliotekos teikiamų paslaugų kokybę",
+      "url": "https://kaunobiblioteka.lt/kvieciame-ivertinti-bibliotekos-teikiamu-paslaugu-kokybe-10",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Romo Vainulevičiaus knygų „Vilkas vienišius“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/romo-vainuleviciaus-knygu-vilkas-vienisius-pristatymas",
+      "date": "2026-10-22",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Tarptautinė investuotojų savaitė bibliotekoje",
+      "url": "https://kaunobiblioteka.lt/tarptautine-investuotoju-savaite-bibliotekoje-2",
+      "date": "2026-10-11",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-10",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Violetos Gajauskaitės tapybos paroda „Kai šviesa paliečia tylą“",
+      "url": "https://kaunobiblioteka.lt/violetos-gajauskaites-tapybos-paroda-kai-sviesa-paliecia-tyla",
+      "date": "2026-10-31",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Kauno kultūros centro dailės studijos „Vaivorykštė“ tapybos darbų…",
+      "url": "https://kaunobiblioteka.lt/kauno-kulturos-centro-dailes-studijos-vaivorykste-tapybos-darbu-paroda",
       "date": "2026-10-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vokieciu-kalbos-savaite-kaip-vokiskai-2026-10-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
+      "source": "Biblioteka"
+    }
+  ],
+  "kaunas_events": [
     {
       "title": "Festivalis „Nepatogus kinas“. Filmo „Didžioji patriotų kelionė“ peržiūra",
       "date": "2026-10-12",
@@ -429,6 +455,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Susitikimas su aktore Doloresa Kazragytė.",
+      "date": "2026-10-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-aktore-doloresa-kazragyte-2026-10-20",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
       "title": "NUO PARYŽIAUS IKI BRODVĖJAUS | S. Lebrikaitė, E. Chrebtovas, R. Laureckis",
       "date": "2026-10-20",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-paryziaus-iki-brodvejaus-s-lebrikaite-e-chrebtovas-r-laureckis-2026-10-20",
@@ -716,6 +749,13 @@
       "category": "Muzika"
     },
     {
+      "title": "85 metai po Didžiosios akcijos – atmintis lieka",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/85-metai-po-didziosios-akcijos-atmintis-lieka-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Vytenio Almonaičio ir Junonos Almonaitienės knygos „Kauno Senamiestis: keliautojo žinynas“ pristatymas",
       "date": "2026-10-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytenio-almonaicio-ir-junonos-almonaitienes-knygos-kauno-senamiestis-keliautojo-zinynas-pristatymas-2026-10-29",
@@ -763,12 +803,33 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/amerikietis-paryziuje-2026-10-29",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Grupės DRAUGAI koncertas",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupes-draugai-koncertas-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 16,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 26,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
