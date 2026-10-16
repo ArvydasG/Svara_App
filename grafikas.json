@@ -40,7 +40,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-15",
+  "updated_at": "2026-10-16",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -82,12 +82,6 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Tropinių drugių parodos atidarymas",
-      "url": "https://botanika.vdu.lt/ivykiai/tropiniu-drugiu-parodos-atidarymas",
-      "date": "2026-10-15",
-      "source": "Botanikos sodas"
-    },
-    {
       "title": "Knygų klubas jaunimui",
       "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui",
       "date": "Aktualu",
@@ -119,104 +113,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "„Kartu esame stipresni“: Ekskursija su žaliakalniečiu ( Žaliakalnio šiaurės vakarų dalis)",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-ekskursija-su-zaliakalnieciu-zaliakalnio-siaures-vakaru-dalis-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "KKC Dailės studijai „Vaivorykštė“ – 80",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kkc-dailes-studijai-vaivorykste-80-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Knygos „Liudas Truikys. Menas yra auka Kosmoso lygsvarai\" sutiktuvės",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-liudas-truikys-menas-yra-auka-kosmoso-lygsvarai-sutiktuves-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Dariaus Liutiko knygos „Lietuvos šventovės atvirukuose“ sutiktuvės",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dariaus-liutiko-knygos-lietuvos-sventoves-atvirukuose-sutiktuves-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "D. Liutiko knygos „Lietuvos šventovės atvirukuose. Bažnyčios, cerkvės ir sinagogos miestų ir miestelių kraštovaizdyje“ pristatymas",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/d-liutiko-knygos-lietuvos-sventoves-atvirukuose-baznycios-cerkves-ir-sinagogos-miestu-ir-miesteliu-krastovaizdyje-pristatymas-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Ekskursija „Juozo Grušo namai – nuo tarpukario iki sovietmečio“",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-juozo-gruso-namai-nuo-tarpukario-iki-sovietmecio-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Švilpukų iš molio dirbtuvės | Etnosodas",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/svilpuku-is-molio-dirbtuves-etnosodas-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Koncertas „Liudviko Rėzos pėdomis“",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-liudviko-rezos-pedomis-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Kaunistikos klubo susitikimas su istoriku dr. Dariumi Juodžiu",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaunistikos-klubo-susitikimas-su-istoriku-dr-dariumi-juodziu-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Ekskursija GYVI NAMAI",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-gyvi-namai-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "NUO ERDVĖS IKI TRANSCENDENCIJOS: AMERIKIETIŠKOS SONATOS FORTEPIJONUI",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-erdves-iki-transcendencijos-amerikietiskos-sonatos-fortepijonui-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Deimantų edukacija",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/deimantu-edukacija-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Keista Bjauri Žuvis ir Tunnel koncertas | KMN laikinai kitur!",
-      "date": "2026-10-15",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/keista-bjauri-zuvis-ir-tunnel-koncertas-kmn-laikinai-kitur-2026-10-15",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Džiazo muzikos koncertas",
-      "date": "2026-10-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dziazo-muzikos-koncertas-2026-10-16",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-10-16",
@@ -512,6 +408,13 @@
       "category": "Kiti"
     },
     {
+      "title": "EXTRA MOUTH: workshop with Lizard Woman ⋅∵⋅⋰ LAIMA JAUNZEMA ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/extra-mouth-workshop-with-lizard-woman-laima-jaunzema-performanso-meno-savaitgalis-2026-2026-10-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Susitikimas KAIMYNŲ SALONAS, Galaunių namuose-muziejuje",
       "date": "2026-10-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-kaimynu-salonas-galauniu-namuose-muziejuje-2026-10-22",
@@ -566,6 +469,20 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-kai-dangus-tapo-scena-2026-10-23",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "REARRANGEMENT ⋅∵⋅⋰ SELIM CLERIN ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rearrangement-selim-clerin-performanso-meno-savaitgalis-2026-2026-10-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "RECOLLER LES SILENCES II / BRIDGING SILENCES II ⋅∵⋅⋰ GARANCE BUXTORF ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/recoller-les-silences-ii-bridging-silences-ii-garance-buxtorf-performanso-meno-savaitgalis-2026-2026-10-23",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "RENKAMA NAUJA GRUPĖ | Sreso valdymas | 8 savaičių  Minfulness programa",
@@ -624,13 +541,6 @@
       "category": "Kiti"
     },
     {
-      "title": "SHIELD IS A WEAPON ⋅∵⋅⋰ LIZA BALIASNAJA ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/shield-is-a-weapon-liza-baliasnaja-performanso-meno-savaitgalis-2026-2026-10-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
       "title": "Ekskursijos KMM",
       "date": "2026-10-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-10-24",
@@ -655,6 +565,20 @@
       "title": "LINIJOS ⋅∵⋅⋰ JURGA JUODYTĖ ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
       "date": "2026-10-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/linijos-jurga-juodyte-performanso-meno-savaitgalis-2026-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Filmo „Ocean with David Attenborough“ peržiūra ir kolektyvinė kūryba parodoje „Žiotys“",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmo-ocean-with-david-attenborough-perziura-ir-kolektyvine-kuryba-parodoje-ziotys-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "REARRANGEMENT ⋅∵⋅⋰ SELIM CLERIN ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rearrangement-selim-clerin-performanso-meno-savaitgalis-2026-2026-10-24",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -694,6 +618,13 @@
       "category": "Muzika"
     },
     {
+      "title": "DEAD END HOST ⋅∵⋅⋰ COURTNEY MACKEDANZ ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dead-end-host-courtney-mackedanz-performanso-meno-savaitgalis-2026-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "PARTIJA NR. 1 ⋅∵⋅⋰ JOELIS AŠKINIS ⋅∵⋅⋰PERFORMANSO MENO SAVAITGALIS 2026",
       "date": "2026-10-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/partija-nr-1-joelis-askinis-performanso-meno-savaitgalis-2026-2026-10-24",
@@ -722,6 +653,20 @@
       "category": "Kiti"
     },
     {
+      "title": "RECOLLER LES SILENCES II / BRIDGING SILENCES II ⋅∵⋅⋰ GARANCE BUXTORF ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/recoller-les-silences-ii-bridging-silences-ii-garance-buxtorf-performanso-meno-savaitgalis-2026-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "SHIELD IS A WEAPON ⋅∵⋅⋰ LIZA BALIASNAJA ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/shield-is-a-weapon-liza-baliasnaja-performanso-meno-savaitgalis-2026-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "ARDOR² : JESUS IS BISEXUAL ⋅∵⋅⋰ MAEL KEPPENNE ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
       "date": "2026-10-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ardor-jesus-is-bisexual-mael-keppenne-performanso-meno-savaitgalis-2026-2026-10-24",
@@ -739,6 +684,13 @@
       "title": "THE HOUSE ALWAYS RAKES ⋅∵⋅⋰ SANITA DUKA, ILZE MAZPANE ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
       "date": "2026-10-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/the-house-always-rakes-sanita-duka-ilze-mazpane-performanso-meno-savaitgalis-2026-2026-10-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "PERNAKT DŽIOVINTAS GOMURYS ⋅∵⋅⋰ JULIUS JANČAUSKAS ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pernakt-dziovintas-gomurys-julius-jancauskas-performanso-meno-savaitgalis-2026-2026-10-25",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -785,6 +737,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Linoraižinių dirbtuvės | Etnosodas",
+      "date": "2026-10-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/linoraiziniu-dirbtuves-etnosodas-2026-10-26",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "JAUNIEJI FORTEPIJONO LYDERIAI IR VDU KAMERINIS ORKESTRAS",
       "date": "2026-10-26",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jaunieji-fortepijono-lyderiai-ir-vdu-kamerinis-orkestras-2026-10-26",
@@ -818,6 +777,41 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/garbaus-amziaus-kauniecius-bei-miesto-svecius-kvieciame-i-ekskursijas-po-istorines-prezidenturos-parodas-ir-ekspozicijas-2026-10-28",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Filmų „Skulptorius Juozas Zikaras“ ir „Gydytojas Vladas Kuzma“ seansai archyve",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmu-skulptorius-juozas-zikaras-ir-gydytojas-vladas-kuzma-seansai-archyve-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "Folkloro dirbtuvės šeimoms | Etnosodas",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Klubo „Pasibalbatuokim“ susitikimas",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klubo-pasibalbatuokim-susitikimas-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Šiurpnakčio renginys „BAISIAI GYVI“",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siurpnakcio-renginys-baisiai-gyvi-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "(NE)RIMTOSIOS MUZIKOS VAKARAS",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ne-rimtosios-muzikos-vakaras-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     }
   ],
   "air_quality": {
