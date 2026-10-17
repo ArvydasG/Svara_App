@@ -40,7 +40,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-16",
+  "updated_at": "2026-10-17",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -113,62 +113,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija J. Zikaro namuose-muziejuje",
-      "date": "2026-10-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-10-16",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Knygos „Maestro Stasys Ušinskas“ sutiktuvės",
-      "date": "2026-10-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-maestro-stasys-usinskas-sutiktuves-2026-10-16",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "JURGIUI MAČIŪNUI – 95! PARODA „PATIRTI JURGĮ MAČIŪNĄ“",
-      "date": "2026-10-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgiui-maciunui-95-paroda-patirti-jurgi-maciuna-2026-10-16",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "RESURRECTIO",
-      "date": "2026-10-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/resurrectio-2026-10-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Vakaras kvepiantis mėtomis ir prisiminimais",
-      "date": "2026-10-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vakaras-kvepiantis-metomis-ir-prisiminimais-2026-10-16",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Folkloro grupė „Vilko pupos“ ir saksofonininkas Petras Vyšniauskas. CD pristatymo koncertas",
-      "date": "2026-10-16",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-grupe-vilko-pupos-ir-saksofonininkas-petras-vysniauskas-cd-pristatymo-koncertas-2026-10-16",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "„Kartu esame stipresni“: Žaliakalnis kartu: strateginė sesija",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-zaliakalnis-kartu-strategine-sesija-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Dailės dalykų kursai „Piešimas + tapyba + kompozicija“",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dailes-dalyku-kursai-piesimas-tapyba-kompozicija-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Ekskursijos KMM",
       "date": "2026-10-17",
@@ -812,10 +756,66 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ne-rimtosios-muzikos-vakaras-2026-10-28",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "85 metai po Didžiosios akcijos – atmintis lieka",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/85-metai-po-didziosios-akcijos-atmintis-lieka-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija su kolekcininku Giedriumi Steponavičiumi",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-su-kolekcininku-giedriumi-steponaviciumi-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Vytenio Almonaičio ir Junonos Almonaitienės knygos „Kauno Senamiestis: keliautojo žinynas“ pristatymas",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytenio-almonaicio-ir-junonos-almonaitienes-knygos-kauno-senamiestis-keliautojo-zinynas-pristatymas-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Pokalbių ir diskusijų vakaras, skirtas Vėlinių laikotarpio apmąstymams",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pokalbiu-ir-diskusiju-vakaras-skirtas-veliniu-laikotarpio-apmastymams-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Diskusija „Aviatoriai, nukentėję nuo sovietų represijų“",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusija-aviatoriai-nukenteje-nuo-sovietu-represiju-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "Pasaulinė italų kalbos savaitė: „Porkas Rosas“",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasauline-italu-kalbos-savaite-porkas-rosas-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "MIRKT ir aišku… „Dirbtinis intelektas – draugas ar manipuliatorius?“",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mirkt-ir-aisku-dirbtinis-intelektas-draugas-ar-manipuliatorius-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 21,
+    "index": 29,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
