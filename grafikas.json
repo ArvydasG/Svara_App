@@ -40,7 +40,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-17",
+  "updated_at": "2026-10-18",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -113,69 +113,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Grafikos dirbtuvės.  Atverk savo kortą!",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grafikos-dirbtuves-atverk-savo-korta-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "MUZIKONTAI, TRENKIT POLKĄ!",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikontai-trenkit-polka-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "FALLA Imaginado",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/falla-imaginado-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "BOHEMA su antpečiais",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/bohema-su-antpeciais-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "PREMJERA! Banginis ant kranto | rež. Aistė Rekašiūtė",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-banginis-ant-kranto-rez-aiste-rekasiute-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Impro džemas (komedijos vakaras)",
-      "date": "2026-10-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-komedijos-vakaras-2026-10-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Orientacinis žaidimas „Kauno burtininkas“",
-      "date": "2026-10-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-10-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Paroda",
       "date": "2026-10-18",
@@ -812,10 +749,73 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mirkt-ir-aisku-dirbtinis-intelektas-draugas-ar-manipuliatorius-2026-10-29",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "AMERIKIETIS PARYŽIUJE",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/amerikietis-paryziuje-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Komedija ''(Ne)ištikimybės spąstai'' | Kaunas",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/komedija-ne-istikimybes-spastai-kaunas-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Grupės DRAUGAI koncertas",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupes-draugai-koncertas-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "ŠIURPYNĖS – Ką mena kareivinių sienos?",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siurpynes-ka-mena-kareiviniu-sienos-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Alexanderio Paley studentų koncertas",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/alexanderio-paley-studentu-koncertas-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Garso terapija „Artimi garsai“ su garso menininkais Karolina Šimkiene ir Tadu Šimkumi",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/garso-terapija-artimi-garsai-su-garso-menininkais-karolina-simkiene-ir-tadu-simkumi-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 29,
+    "index": 35,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
