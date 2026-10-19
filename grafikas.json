@@ -40,7 +40,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-18",
+  "updated_at": "2026-10-19",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -62,99 +62,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Rudens stovykla vaikams VDU Botanikos sode Kaune",
-      "url": "https://botanika.vdu.lt/ivykiai/rudens-stovykla-vaikams-kaune",
-      "date": "2026-11-03",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Seminaras: rudeninis genėjimas ir paruošimas žiemai",
-      "url": "https://botanika.vdu.lt/ivykiai/seminaras-rudeninis-genejimas-ir-paruosimas-ziemai-2",
-      "date": "2026-10-28",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Botanic Five Kaunas 2026 | 5 km VDU Botanikos sode",
-      "url": "https://botanika.vdu.lt/ivykiai/botanic-five-kaunas-2026",
-      "date": "2026-10-18",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Knygų klubas jaunimui",
-      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Kviečiame įvertinti bibliotekos teikiamų paslaugų kokybę",
-      "url": "https://kaunobiblioteka.lt/kvieciame-ivertinti-bibliotekos-teikiamu-paslaugu-kokybe-10",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Romo Vainulevičiaus knygų „Vilkas vienišius“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/romo-vainuleviciaus-knygu-vilkas-vienisius-pristatymas",
-      "date": "2026-10-22",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-10",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Violetos Gajauskaitės tapybos paroda „Kai šviesa paliečia tylą“",
-      "url": "https://kaunobiblioteka.lt/violetos-gajauskaites-tapybos-paroda-kai-sviesa-paliecia-tyla",
-      "date": "2026-10-31",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Paroda",
-      "date": "2026-10-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-2026-10-18",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Domino teatro Premjera Vieno vakaro uošviai",
-      "date": "2026-10-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-premjera-vieno-vakaro-uosviai-2026-10-18",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Festivalis „Nepatogus kinas“. Filmo „Bialiackis“ premjera",
-      "date": "2026-10-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/festivalis-nepatogus-kinas-filmo-bialiackis-premjera-2026-10-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "BALSAI IR LIKIMAI",
-      "date": "2026-10-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/balsai-ir-likimai-2026-10-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Vakaras senjorams „Pabūkime drauge“",
-      "date": "2026-10-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vakaras-senjorams-pabukime-drauge-2026-10-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "PREMJERA! Banginis ant kranto | rež. Aistė Rekašiūtė",
-      "date": "2026-10-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-banginis-ant-kranto-rez-aiste-rekasiute-2026-10-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Spektaklio „Poeto pokštas“ premjera",
       "date": "2026-10-19",
@@ -632,6 +541,13 @@
       "category": "Muzika"
     },
     {
+      "title": "TRENKSMAS: Tavo ėjimas! | Slemas #99",
+      "date": "2026-10-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-tavo-ejimas-slemas-99-2026-10-27",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
       "date": "2026-10-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-10-27",
@@ -812,12 +728,47 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/garso-terapija-artimi-garsai-su-garso-menininkais-karolina-simkiene-ir-tadu-simkumi-2026-10-30",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "💀🌼 Día de los Muertos pas Fridą 🌼💀",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dia-de-los-muertos-pas-frida-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Pirmas jaunimo knygų klubo susitikimas",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pirmas-jaunimo-knygu-klubo-susitikimas-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "XXII tarptautinis Shotokan/WKF karatė turnyras „Tigro kelias 2026“",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/xxii-tarptautinis-shotokan-wkf-karate-turnyras-tigro-kelias-2026-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ką slepia Kauno požemiai?",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-slepia-kauno-pozemiai-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 35,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 15,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
