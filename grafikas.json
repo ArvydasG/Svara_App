@@ -4,7 +4,6 @@
       "description": "Mišrios atliekos",
       "containerType": "MK-128501 0,14",
       "dates": [
-        "2026-10-19",
         "2026-11-02",
         "2026-11-16",
         "2026-11-30",
@@ -40,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-19",
+  "updated_at": "2026-10-20",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -62,22 +61,51 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Rudens stovykla vaikams VDU Botanikos sode Kaune",
+      "url": "https://botanika.vdu.lt/ivykiai/rudens-stovykla-vaikams-kaune",
+      "date": "2026-11-03",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Seminaras: rudeninis genėjimas ir paruošimas žiemai",
+      "url": "https://botanika.vdu.lt/ivykiai/seminaras-rudeninis-genejimas-ir-paruosimas-ziemai-2",
+      "date": "2026-10-28",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Knygų klubas jaunimui",
+      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Kviečiame įvertinti bibliotekos teikiamų paslaugų kokybę",
+      "url": "https://kaunobiblioteka.lt/kvieciame-ivertinti-bibliotekos-teikiamu-paslaugu-kokybe-10",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Romo Vainulevičiaus knygų „Vilkas vienišius“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/romo-vainuleviciaus-knygu-vilkas-vienisius-pristatymas",
+      "date": "2026-10-22",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-10",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Violetos Gajauskaitės tapybos paroda „Kai šviesa paliečia tylą“",
+      "url": "https://kaunobiblioteka.lt/violetos-gajauskaites-tapybos-paroda-kai-sviesa-paliecia-tyla",
+      "date": "2026-10-31",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Spektaklio „Poeto pokštas“ premjera",
-      "date": "2026-10-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklio-poeto-pokstas-premjera-2026-10-19",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Martyno Beinario koncertas „Kai dainuoja širdis“",
-      "date": "2026-10-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/martyno-beinario-koncertas-kai-dainuoja-sirdis-2026-10-20",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
     {
       "title": "Menų akademijos kūrėjų leidinių pristatymo renginys ,,Kūryba tarp puslapių\"",
       "date": "2026-10-20",
@@ -359,6 +387,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Graviūros dirbtuvės | „Piešiniai, lydėję mūsų vaikystę. Albinai Makūnaitei – 100“",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/graviuros-dirbtuves-piesiniai-lydeje-musu-vaikyste-albinai-makunaitei-100-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Filmo „Ocean with David Attenborough“ peržiūra ir kolektyvinė kūryba parodoje „Žiotys“",
       "date": "2026-10-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmo-ocean-with-david-attenborough-perziura-ir-kolektyvine-kuryba-parodoje-ziotys-2026-10-24",
@@ -446,6 +481,13 @@
       "title": "RECOLLER LES SILENCES II / BRIDGING SILENCES II ⋅∵⋅⋰ GARANCE BUXTORF ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
       "date": "2026-10-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/recoller-les-silences-ii-bridging-silences-ii-garance-buxtorf-performanso-meno-savaitgalis-2026-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Impro džemas (komedijos vakaras)",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-komedijos-vakaras-2026-10-24",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -555,6 +597,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "TAU paskaita „LDK įvaizdis 1769 m. Šiaurės Italijos spaudoje“",
+      "date": "2026-10-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tau-paskaita-ldk-ivaizdis-1769-m-siaures-italijos-spaudoje-2026-10-27",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Vakarinis piešimas",
       "date": "2026-10-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vakarinis-piesimas-2026-10-27",
@@ -637,6 +686,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pokalbiu-ir-diskusiju-vakaras-skirtas-veliniu-laikotarpio-apmastymams-2026-10-29",
       "source": "Kaunas Pilnas",
       "category": "Bendruomenės"
+    },
+    {
+      "title": "Paskaita „Mirtis ir jos pranašai lietuvių pasaulėžiūroje“",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-mirtis-ir-jos-pranasai-lietuviu-pasauleziuroje-2026-10-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
@@ -723,9 +779,9 @@
       "category": "Kiti"
     },
     {
-      "title": "Garso terapija „Artimi garsai“ su garso menininkais Karolina Šimkiene ir Tadu Šimkumi",
+      "title": "Garso terapija „Artimi garsai“ su garso menininkais Karolina Šimkiene ir Tadu Šimkumi (registracija sustabdyta)",
       "date": "2026-10-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/garso-terapija-artimi-garsai-su-garso-menininkais-karolina-simkiene-ir-tadu-simkumi-2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/garso-terapija-artimi-garsai-su-garso-menininkais-karolina-simkiene-ir-tadu-simkumi-registracija-sustabdyta-2026-10-30",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -749,26 +805,12 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/xxii-tarptautinis-shotokan-wkf-karate-turnyras-tigro-kelias-2026-2026-10-31",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Tour of Pazaislis Camaldolese Monastery (Pazaislis in English)",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tour-of-pazaislis-camaldolese-monastery-pazaislis-in-english-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ką slepia Kauno požemiai?",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-slepia-kauno-pozemiai-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 15,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 29,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
