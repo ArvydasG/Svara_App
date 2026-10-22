@@ -39,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-21",
+  "updated_at": "2026-10-22",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -61,71 +61,57 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Rudens stovykla vaikams VDU Botanikos sode Kaune",
+      "url": "https://botanika.vdu.lt/ivykiai/rudens-stovykla-vaikams-kaune",
+      "date": "2026-11-03",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Seminaras: rudeninis genėjimas ir paruošimas žiemai",
+      "url": "https://botanika.vdu.lt/ivykiai/seminaras-rudeninis-genejimas-ir-paruosimas-ziemai-2",
+      "date": "2026-10-28",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Italija tarp kvapų ir augalų: Viduržemio jūros botaninė kelionė",
+      "url": "https://botanika.vdu.lt/ivykiai/italija-tarp-kvapu-ir-augalu",
+      "date": "2026-10-27",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Knygų klubas jaunimui",
+      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Kviečiame įvertinti bibliotekos teikiamų paslaugų kokybę",
+      "url": "https://kaunobiblioteka.lt/kvieciame-ivertinti-bibliotekos-teikiamu-paslaugu-kokybe-10",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Romo Vainulevičiaus knygų „Vilkas vienišius“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/romo-vainuleviciaus-knygu-vilkas-vienisius-pristatymas",
+      "date": "2026-10-22",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-10",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Violetos Gajauskaitės tapybos paroda „Kai šviesa paliečia tylą“",
+      "url": "https://kaunobiblioteka.lt/violetos-gajauskaites-tapybos-paroda-kai-sviesa-paliecia-tyla",
+      "date": "2026-10-31",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Senjorų popietė muziejuje",
-      "date": "2026-10-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/senjoru-popiete-muziejuje-2026-10-21",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Folkloro dirbtuvės šeimoms | Etnosodas",
-      "date": "2026-10-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-10-21",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Prisiminkime Violetą Palčinskaitę: „Aš gyvenau. Aš jau buvau…“",
-      "date": "2026-10-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/prisiminkime-violeta-palcinskaite-as-gyvenau-as-jau-buvau-2026-10-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„Augau kitaip“: susitikimas su Australijos lietuve, rašytoja, garbės konsule Egle Garrick",
-      "date": "2026-10-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/augau-kitaip-susitikimas-su-australijos-lietuve-rasytoja-garbes-konsule-egle-garrick-2026-10-21",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Paskaita „Kai garas tampa ritualu“ su Ignu Šalnaičiu ir Rugile Audeniene",
-      "date": "2026-10-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-kai-garas-tampa-ritualu-su-ignu-salnaiciu-ir-rugile-audeniene-2026-10-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Nuo rykštės iki kampo: pamoka, kurios nepamirši │Šiurpnakčio ekskursija tamsoje",
-      "date": "2026-10-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuo-rykstes-iki-kampo-pamoka-kurios-nepamirsi-siurpnakcio-ekskursija-tamsoje-2026-10-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Orientacinis žaidimas „Kauno burtininkas“",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Tarptautinis mokslinis simpoziumas ADLES: Menas, dizainas, kalbos, ugdymas ir socialinis darbas",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-mokslinis-simpoziumas-adles-menas-dizainas-kalbos-ugdymas-ir-socialinis-darbas-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Mokslinė tarpdalykinė konferencija „Motiejaus Valančiaus fenomenas“",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/moksline-tarpdalykine-konferencija-motiejaus-valanciaus-fenomenas-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Vytauto Bacevičiaus fortepijoninių kūrinių interpretacijos principai ir meninė raiška",
       "date": "2026-10-22",
@@ -449,6 +435,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Tarptautinis festivalis \"Musica sacra\"",
+      "date": "2026-10-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-festivalis-musica-sacra-2026-10-25",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "BACKGROUND FUCKER ⋅∵⋅⋰ BARBARA LEHTNA ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
       "date": "2026-10-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/background-fucker-barbara-lehtna-performanso-meno-savaitgalis-2026-2026-10-25",
@@ -762,10 +755,66 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-10-31",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Helovynas su šeima: „Monstriukė Mija“",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/helovynas-su-seima-monstriuke-mija-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Raganiškas Helovynas: „Suspirija“, „Fokus Pokus“, „Praktinė magija 2“",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/raganiskas-helovynas-suspirija-fokus-pokus-praktine-magija-2-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "KVĖPAVIMAS (N-16) | rež. A. Leonova",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-rez-a-leonova-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "BAISIAI JUOKINGAS HELOVYNAS (komedijos šou)",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baisiai-juokingas-helovynas-komedijos-sou-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-11-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-11-01",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-11-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-01",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 27,
+    "index": 32,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
