@@ -39,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-22",
+  "updated_at": "2026-10-23",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -112,69 +112,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Vytauto Bacevičiaus fortepijoninių kūrinių interpretacijos principai ir meninė raiška",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytauto-baceviciaus-fortepijoniniu-kuriniu-interpretacijos-principai-ir-menine-raiska-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "EXTRA MOUTH: workshop with Lizard Woman ⋅∵⋅⋰ LAIMA JAUNZEMA ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/extra-mouth-workshop-with-lizard-woman-laima-jaunzema-performanso-meno-savaitgalis-2026-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Susitikimas KAIMYNŲ SALONAS, Galaunių namuose-muziejuje",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-kaimynu-salonas-galauniu-namuose-muziejuje-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Japoniškas vakaras: „Ikiru“",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/japoniskas-vakaras-ikiru-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Parodos „Miesto atmintis: Jonas Jučas ir džiazuojantis Kaunas“ atidarymas",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-miesto-atmintis-jonas-jucas-ir-dziazuojantis-kaunas-atidarymas-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Kauno miesto muziejaus leidinio „Kaunas Stanislovo Lukošiaus žvilgsniu: Žmogus (ne) savo laike“ pristatymas",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-miesto-muziejaus-leidinio-kaunas-stanislovo-lukosiaus-zvilgsniu-zmogus-ne-savo-laike-pristatymas-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "MUZIKINIS SPEKTAKLIS „HOMO ASFALTUS“",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikinis-spektaklis-homo-asfaltus-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "FIGURATIVE FURNITURE ⋅∵⋅⋰ GARANCE DEBERT ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/figurative-furniture-garance-debert-performanso-meno-savaitgalis-2026-2026-10-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Paroda „Kai dangus tapo scena“",
       "date": "2026-10-23",
@@ -302,6 +239,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Ekskursija „Rašytojo Balio Sruogos namo istorija (1936–1966 m.)“",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-rasytojo-balio-sruogos-namo-istorija-19361966-m-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
       "date": "2026-10-24",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-10-24",
@@ -400,6 +344,13 @@
       "category": "Kiti"
     },
     {
+      "title": "DŪZGĖS ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
+      "date": "2026-10-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/duzges-performanso-meno-savaitgalis-2026-2026-10-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-10-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-10-25",
@@ -431,6 +382,13 @@
       "title": "DECADENCE ⋅∵⋅⋰ GERTRŪDA GILYTĖ ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
       "date": "2026-10-25",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/decadence-gertruda-gilyte-performanso-meno-savaitgalis-2026-2026-10-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "KĄ PASKAITYČIAU MAIRONIUI?",
+      "date": "2026-10-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-paskaityciau-maironiui-2026-10-25",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -526,6 +484,13 @@
       "category": "Kiti"
     },
     {
+      "title": "KARMĖLAVOJE - DAR VIENA GRAŽI NAUJIENA",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karmelavoje-dar-viena-grazi-naujiena-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Garbaus amžiaus kauniečius bei miesto svečius kviečiame į ekskursijas po Istorinės Prezidentūros parodas ir ekspozicijas",
       "date": "2026-10-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/garbaus-amziaus-kauniecius-bei-miesto-svecius-kvieciame-i-ekskursijas-po-istorines-prezidenturos-parodas-ir-ekspozicijas-2026-10-28",
@@ -561,6 +526,13 @@
       "category": "Kiti"
     },
     {
+      "title": "DISKUSIJA | Lietuvos teatras pasaulio scenoje: kas ir kaip mus reprezentuoja?",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusija-lietuvos-teatras-pasaulio-scenoje-kas-ir-kaip-mus-reprezentuoja-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "(NE)RIMTOSIOS MUZIKOS VAKARAS",
       "date": "2026-10-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ne-rimtosios-muzikos-vakaras-2026-10-28",
@@ -571,6 +543,13 @@
       "title": "85 metai po Didžiosios akcijos – atmintis lieka",
       "date": "2026-10-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/85-metai-po-didziosios-akcijos-atmintis-lieka-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Parodos „TYLA. BALSAS. PROVERŽIS“ atidarymas",
+      "date": "2026-10-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-tyla-balsas-proverzis-atidarymas-2026-10-29",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -680,6 +659,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Neveronių siaubo vakaras: Paslapčių namas ir šiurpi diskoteka",
+      "date": "2026-10-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/neveroniu-siaubo-vakaras-paslapciu-namas-ir-siurpi-diskoteka-2026-10-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
       "date": "2026-10-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-10-30",
@@ -736,6 +722,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Skaitymų ciklas „Knygų kalendorius“ | PELKIŲ ŠVIESA",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skaitymu-ciklas-knygu-kalendorius-pelkiu-sviesa-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Ekskursijos KMM",
       "date": "2026-10-31",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-10-31",
@@ -769,6 +762,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-10-31",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Edukacinis užsiėmimas šeimoms „Būtybių tyrinėtojos kambariai“",
+      "date": "2026-10-31",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-butybiu-tyrinetojos-kambariai-2026-10-31",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Raganiškas Helovynas: „Suspirija“, „Fokus Pokus“, „Praktinė magija 2“",
@@ -814,7 +814,7 @@
     }
   ],
   "air_quality": {
-    "index": 32,
+    "index": 21,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
