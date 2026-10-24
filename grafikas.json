@@ -39,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-23",
+  "updated_at": "2026-10-24",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -61,134 +61,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Rudens stovykla vaikams VDU Botanikos sode Kaune",
-      "url": "https://botanika.vdu.lt/ivykiai/rudens-stovykla-vaikams-kaune",
-      "date": "2026-11-03",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Seminaras: rudeninis genėjimas ir paruošimas žiemai",
-      "url": "https://botanika.vdu.lt/ivykiai/seminaras-rudeninis-genejimas-ir-paruosimas-ziemai-2",
-      "date": "2026-10-28",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Italija tarp kvapų ir augalų: Viduržemio jūros botaninė kelionė",
-      "url": "https://botanika.vdu.lt/ivykiai/italija-tarp-kvapu-ir-augalu",
-      "date": "2026-10-27",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Knygų klubas jaunimui",
-      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Kviečiame įvertinti bibliotekos teikiamų paslaugų kokybę",
-      "url": "https://kaunobiblioteka.lt/kvieciame-ivertinti-bibliotekos-teikiamu-paslaugu-kokybe-10",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Romo Vainulevičiaus knygų „Vilkas vienišius“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/romo-vainuleviciaus-knygu-vilkas-vienisius-pristatymas",
-      "date": "2026-10-22",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-10",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Violetos Gajauskaitės tapybos paroda „Kai šviesa paliečia tylą“",
-      "url": "https://kaunobiblioteka.lt/violetos-gajauskaites-tapybos-paroda-kai-sviesa-paliecia-tyla",
-      "date": "2026-10-31",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Paroda „Kai dangus tapo scena“",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-kai-dangus-tapo-scena-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "REARRANGEMENT ⋅∵⋅⋰ SELIM CLERIN ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rearrangement-selim-clerin-performanso-meno-savaitgalis-2026-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "RECOLLER LES SILENCES II / BRIDGING SILENCES II ⋅∵⋅⋰ GARANCE BUXTORF ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/recoller-les-silences-ii-bridging-silences-ii-garance-buxtorf-performanso-meno-savaitgalis-2026-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "RENKAMA NAUJA GRUPĖ | Sreso valdymas | 8 savaičių  Minfulness programa",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/renkama-nauja-grupe-sreso-valdymas-8-savaiciu-minfulness-programa-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Kauno kultūros centro 87-ojo sezono atidarymas",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kauno-kulturos-centro-87-ojo-sezono-atidarymas-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "W. A. MOZARTUI – 270",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/w-a-mozartui-270-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Regioninis našlaičių dainų koncertas „Toli mano giminėla už debesėlių“",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/regioninis-naslaiciu-dainu-koncertas-toli-mano-giminela-uz-debeseliu-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Improvizacijų šou PLOTAS",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizaciju-sou-plotas-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Nemokama Lindy Hop pagrindų pamoka",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokama-lindy-hop-pagrindu-pamoka-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "EXTRA MOUTH ⋅∵⋅⋰ LAIMA JAUNZEMA ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/extra-mouth-laima-jaunzema-performanso-meno-savaitgalis-2026-2026-10-23",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Ekskursijos KMM",
       "date": "2026-10-24",
@@ -811,10 +685,87 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-01",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Kur ilsisi Lietuvos istorija - Petrašiūnų kapinės",
+      "date": "2026-11-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kur-ilsisi-lietuvos-istorija-petrasiunu-kapines-2026-11-02",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "„Būtybės šalia mūsų“ | Moksleivių rudens atostogų edukacijos „Šiurpinėkime“",
+      "date": "2026-11-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/butybes-salia-musu-moksleiviu-rudens-atostogu-edukacijos-siurpinekime-2026-11-03",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Tekstilės paveldo paroda skirta LTS 60-mečiui",
+      "date": "2026-11-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tekstiles-paveldo-paroda-skirta-lts-60-meciui-2026-11-03",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "TARPTAUTINIO MUZIKOS FESTIVALIO „OLYMPUS MUSICUS“ KAUNE ATIDARYMO GALA KONCERTAS",
+      "date": "2026-11-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinio-muzikos-festivalio-olympus-musicus-kaune-atidarymo-gala-koncertas-2026-11-03",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Spektaklis „Šiurpūs įvykiai Pabališkių karčemoje“",
+      "date": "2026-11-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-siurpus-ivykiai-pabaliskiu-karcemoje-2026-11-03",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Paroda „Taida Balčiūnienė ir jaunasis pianistas”",
+      "date": "2026-11-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-taida-balciuniene-ir-jaunasis-pianistas-2026-11-04",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "„Nuotykiai vorynėje“ | Moksleivių rudens atostogų edukacijos „Šiurpinėkime“",
+      "date": "2026-11-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nuotykiai-voryneje-moksleiviu-rudens-atostogu-edukacijos-siurpinekime-2026-11-04",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Folkloro dirbtuvės šeimoms | Etnosodas",
+      "date": "2026-11-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-11-04",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Spektaklis PAGALVINIS N-16 | rež. Gintaras Varnas",
+      "date": "2026-11-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-pagalvinis-n-16-rez-gintaras-varnas-2026-11-04",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Parodos „Taida Balčiūnienė ir jaunasis pianistas” atidarymas",
+      "date": "2026-11-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-taida-balciuniene-ir-jaunasis-pianistas-atidarymas-2026-11-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Japoniškas vakaras: „Šeima nuomai“",
+      "date": "2026-11-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/japoniskas-vakaras-seima-nuomai-2026-11-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 21,
+    "index": 34,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
