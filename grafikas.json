@@ -39,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-25",
+  "updated_at": "2026-10-26",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -106,90 +106,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Pozityvumo treniruotė",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pozityvumo-treniruote-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "THE HOUSE ALWAYS RAKES ⋅∵⋅⋰ SANITA DUKA, ILZE MAZPANE ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/the-house-always-rakes-sanita-duka-ilze-mazpane-performanso-meno-savaitgalis-2026-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "PERNAKT DŽIOVINTAS GOMURYS ⋅∵⋅⋰ JULIUS JANČAUSKAS ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pernakt-dziovintas-gomurys-julius-jancauskas-performanso-meno-savaitgalis-2026-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "DECADENCE ⋅∵⋅⋰ GERTRŪDA GILYTĖ ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/decadence-gertruda-gilyte-performanso-meno-savaitgalis-2026-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KĄ PASKAITYČIAU MAIRONIUI?",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-paskaityciau-maironiui-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Tarptautinis festivalis \"Musica sacra\"",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautinis-festivalis-musica-sacra-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "BACKGROUND FUCKER ⋅∵⋅⋰ BARBARA LEHTNA ⋅∵⋅⋰ PERFORMANSO MENO SAVAITGALIS 2026",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/background-fucker-barbara-lehtna-performanso-meno-savaitgalis-2026-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Videokaukas Romuvoje: „Kerė“ (1976)",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/videokaukas-romuvoje-kere-1976-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Japoniškas vakaras: „Ryuichi Sakamoto | Opusas“ ir arbatų degustacija",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/japoniskas-vakaras-ryuichi-sakamoto-opusas-ir-arbatu-degustacija-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Akustinis vakaras su Rūta Statkevičiūte",
-      "date": "2026-10-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/akustinis-vakaras-su-ruta-statkeviciute-2026-10-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Atvira repeticija - pasidainavimus su folkloro ansambliu „Viešia” - „Našlaičiu dainos ir giesmes”",
-      "date": "2026-10-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/atvira-repeticija-pasidainavimus-su-folkloro-ansambliu-viesia-naslaiciu-dainos-ir-giesmes-2026-10-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Linoraižinių dirbtuvės | Etnosodas",
       "date": "2026-10-26",
@@ -299,6 +215,13 @@
       "title": "85 metai po Didžiosios akcijos – atmintis lieka",
       "date": "2026-10-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/85-metai-po-didziosios-akcijos-atmintis-lieka-2026-10-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "HOGAS OPEN JAM SESSION | S05E04",
+      "date": "2026-10-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/hogas-open-jam-session-s05e04-2026-10-28",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     },
@@ -805,10 +728,87 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-11-07",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Domino teatro komedija „KLINIKA\"",
+      "date": "2026-11-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-11-07",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "SIMFONININS BALETAS AŠTUONIOMS RANKOMS",
+      "date": "2026-11-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simfoninins-baletas-astuonioms-rankoms-2026-11-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "\"Reinkarnacijos\" Patyrimas",
+      "date": "2026-11-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/reinkarnacijos-patyrimas-2026-11-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "CIRKULIACIJA: Šedevrų Verpetas collective (Ukraina / Lietuva) | „Tracing the Bounded“ PREMJERA",
+      "date": "2026-11-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/cirkuliacija-sedevru-verpetas-collective-ukraina-lietuva-tracing-the-bounded-premjera-2026-11-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-11-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "OAZĖS ŠOKIAI su ARVYDU VILČINSKU | Kauno OAZĖ",
+      "date": "2026-11-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/oazes-sokiai-su-arvydu-vilcinsku-kauno-oaze-2026-11-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "CIRKULIACIJA: GRENSGEVAL (Belgija) | „MURMUR“",
+      "date": "2026-11-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/cirkuliacija-grensgeval-belgija-murmur-2026-11-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Viešnagė istoriniame XIX a. žydų Daukšiagirės dvare | 11.08",
+      "date": "2026-11-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/viesnage-istoriniame-xix-a-zydu-dauksiagires-dvare-11-08-2026-11-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "JURGIUI MAČIŪNUI – 95! DALIUS NAUJOKAITIS & NOJO AIRLINES ENSEMBLE",
+      "date": "2026-11-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgiui-maciunui-95-dalius-naujokaitis-nojo-airlines-ensemble-2026-11-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Spektaklis NOKTIURNAS | rež. G. Padegimas",
+      "date": "2026-11-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-noktiurnas-rez-g-padegimas-2026-11-08",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-11-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-08",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 33,
+    "index": 24,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
