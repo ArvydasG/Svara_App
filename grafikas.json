@@ -39,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-27",
+  "updated_at": "2026-10-28",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -63,6 +63,12 @@
   ],
   "events": [
     {
+      "title": "Macrame žibintų pynimo dirbtuvės",
+      "url": "https://botanika.vdu.lt/ivykiai/macrame-zibintu-pynimas-vdu-botanikos-sode",
+      "date": "2026-11-14",
+      "source": "Botanikos sodas"
+    },
+    {
       "title": "Rudens stovykla vaikams VDU Botanikos sode Kaune",
       "url": "https://botanika.vdu.lt/ivykiai/rudens-stovykla-vaikams-kaune",
       "date": "2026-11-03",
@@ -72,12 +78,6 @@
       "title": "Seminaras: rudeninis genėjimas ir paruošimas žiemai",
       "url": "https://botanika.vdu.lt/ivykiai/seminaras-rudeninis-genejimas-ir-paruosimas-ziemai-2",
       "date": "2026-10-28",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Italija tarp kvapų ir augalų: Viduržemio jūros botaninė kelionė",
-      "url": "https://botanika.vdu.lt/ivykiai/italija-tarp-kvapu-ir-augalu",
-      "date": "2026-10-27",
       "source": "Botanikos sodas"
     },
     {
@@ -106,41 +106,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija J. Zikaro namuose-muziejuje",
-      "date": "2026-10-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-10-27",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "TAU paskaita „LDK įvaizdis 1769 m. Šiaurės Italijos spaudoje“",
-      "date": "2026-10-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tau-paskaita-ldk-ivaizdis-1769-m-siaures-italijos-spaudoje-2026-10-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Vakarinis piešimas",
-      "date": "2026-10-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vakarinis-piesimas-2026-10-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "TRENKSMAS: Tavo ėjimas! | Slemas #99",
-      "date": "2026-10-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/trenksmas-tavo-ejimas-slemas-99-2026-10-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Skruzdėliuko nuotykiai | Kaunas",
-      "date": "2026-10-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skruzdeliuko-nuotykiai-kaunas-2026-10-28",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "KARMĖLAVOJE - DAR VIENA GRAŽI NAUJIENA",
       "date": "2026-10-28",
@@ -492,11 +457,25 @@
       "category": "Kiti"
     },
     {
+      "title": "A. ir J. Juškų muziejuje – skiautinių paroda „Šaltibarščiai“",
+      "date": "2026-11-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/a-ir-j-jusku-muziejuje-skiautiniu-paroda-saltibarsciai-2026-11-02",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Kur ilsisi Lietuvos istorija - Petrašiūnų kapinės",
       "date": "2026-11-02",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kur-ilsisi-lietuvos-istorija-petrasiunu-kapines-2026-11-02",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Babtų kraštotyros muziejuje – paroda „Obuolio legenda“",
+      "date": "2026-11-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/babtu-krastotyros-muziejuje-paroda-obuolio-legenda-2026-11-03",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "„Būtybės šalia mūsų“ | Moksleivių rudens atostogų edukacijos „Šiurpinėkime“",
@@ -602,6 +581,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ar-autoportretas-visada-kalba-tik-apie-save-violetos-bubelytes-fotografiju-paroda-isikunijimai-2026-11-05",
       "source": "Kaunas Pilnas",
       "category": "Parodos"
+    },
+    {
+      "title": "Ekskursija su autoriais parodoje „PO REGIMYBĖS PAVIRŠIUMI: ten, kur susitinka skirtingos tikrovės”",
+      "date": "2026-11-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-su-autoriais-parodoje-po-regimybes-pavirsiumi-ten-kur-susitinka-skirtingos-tikroves-2026-11-05",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "XIX a. KULTŪROS PASAKOJIMAI | paskaitų ciklas Kauno rotušėje",
@@ -723,6 +709,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Ką slepia Kauno požemiai?",
+      "date": "2026-11-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-slepia-kauno-pozemiai-2026-11-07",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "MUZIKINĖ POPIETĖ VISAI ŠEIMAI  „DAINUOJANTI REVOLIUCIJA“",
       "date": "2026-11-07",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikine-popiete-visai-seimai-dainuojanti-revoliucija-2026-11-07",
@@ -779,6 +772,13 @@
       "category": "Kiti"
     },
     {
+      "title": "IX fortas. TUNELIAIS. Kelionė laiku",
+      "date": "2026-11-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ix-fortas-tuneliais-kelione-laiku-2026-11-08",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "CIRKULIACIJA: GRENSGEVAL (Belgija) | „MURMUR“",
       "date": "2026-11-08",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/cirkuliacija-grensgeval-belgija-murmur-2026-11-08",
@@ -808,7 +808,7 @@
     }
   ],
   "air_quality": {
-    "index": 30,
+    "index": 35,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
