@@ -39,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-29",
+  "updated_at": "2026-10-30",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -61,143 +61,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Macrame žibintų pynimo dirbtuvės",
-      "url": "https://botanika.vdu.lt/ivykiai/macrame-zibintu-pynimas-vdu-botanikos-sode",
-      "date": "2026-11-14",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Rudens stovykla vaikams VDU Botanikos sode Kaune",
-      "url": "https://botanika.vdu.lt/ivykiai/rudens-stovykla-vaikams-kaune",
-      "date": "2026-11-03",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Drugelių šeštadienis oranžerijoje: pažintis su tropiniais drugiais visai šeimai",
-      "url": "https://botanika.vdu.lt/ivykiai/drugeliu-sestadienis-oranzerijoje-pazintis-su-tropiniais-drugiais-visai-seimai",
-      "date": "2026-10-31",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Knygų klubas jaunimui",
-      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Šarūnės Baltrušaitienės knygos „Slaptas Spirgutės noras“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/sarunes-baltrusaitienes-knygos-slaptas-spirgutes-noras-pristatymas-5",
-      "date": "2026-11-19",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-11",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Ekskursija su kolekcininku Giedriumi Steponavičiumi",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-su-kolekcininku-giedriumi-steponaviciumi-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Vytenio Almonaičio ir Junonos Almonaitienės knygos „Kauno Senamiestis: keliautojo žinynas“ pristatymas",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytenio-almonaicio-ir-junonos-almonaitienes-knygos-kauno-senamiestis-keliautojo-zinynas-pristatymas-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Pokalbių ir diskusijų vakaras, skirtas Vėlinių laikotarpio apmąstymams",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pokalbiu-ir-diskusiju-vakaras-skirtas-veliniu-laikotarpio-apmastymams-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Paskaita „Mirtis ir jos pranašai lietuvių pasaulėžiūroje“",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskaita-mirtis-ir-jos-pranasai-lietuviu-pasauleziuroje-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KAVOS MENAS. Kūrybinės dirbtuvės",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kavos-menas-kurybines-dirbtuves-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Spektaklis LĖLIŲ NAMAI II (rež. A. Jankevičius)",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-leliu-namai-ii-rez-a-jankevicius-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Diskusija „Aviatoriai, nukentėję nuo sovietų represijų“",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/diskusija-aviatoriai-nukenteje-nuo-sovietu-represiju-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Pasaulinė italų kalbos savaitė: „Porkas Rosas“",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasauline-italu-kalbos-savaite-porkas-rosas-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "MIRKT ir aišku… „Dirbtinis intelektas – draugas ar manipuliatorius?“",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mirkt-ir-aisku-dirbtinis-intelektas-draugas-ar-manipuliatorius-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "AMERIKIETIS PARYŽIUJE",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/amerikietis-paryziuje-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Komedija ''(Ne)ištikimybės spąstai'' | Kaunas",
-      "date": "2026-10-29",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/komedija-ne-istikimybes-spastai-kaunas-2026-10-29",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Grupės DRAUGAI koncertas",
-      "date": "2026-10-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grupes-draugai-koncertas-2026-10-30",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "ŠIURPYNĖS – Ką mena kareivinių sienos?",
-      "date": "2026-10-30",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siurpynes-ka-mena-kareiviniu-sienos-2026-10-30",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Alexanderio Paley studentų koncertas",
       "date": "2026-10-30",
@@ -794,17 +659,115 @@
       "category": "Kiti"
     },
     {
+      "title": "#MENOTYRIAUJAM: PASKAITA „KAUNO DIEVO KŪNO DOMINIKONŲ BAŽNYČIOS DAILĖ“",
+      "date": "2026-11-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/menotyriaujam-paskaita-kauno-dievo-kuno-dominikonu-baznycios-daile-2026-11-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Folkloro dirbtuvės šeimoms | Etnosodas",
       "date": "2026-11-11",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-11-11",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "\"Kartu esame stipresni\": „Žaliakalnio medinukai šiandien“",
+      "date": "2026-11-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-zaliakalnio-medinukai-siandien-2026-11-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Premjera! Rudnosiukas ir jo moterys",
+      "date": "2026-11-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-rudnosiukas-ir-jo-moterys-2026-11-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Karštos naujienos – paskutinis šokis laisvei? | aut. Kristina Kulinič",
+      "date": "2026-11-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karstos-naujienos-paskutinis-sokis-laisvei-aut-kristina-kulinic-2026-11-11",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Golden Parazyth RUDUO (Kaunas)",
+      "date": "2026-11-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/golden-parazyth-ruduo-kaunas-2026-11-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Seminaras „Mūsų emocijos: nuo pažinimo iki konstruktyvios raiškos“",
+      "date": "2026-11-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seminaras-musu-emocijos-nuo-pazinimo-iki-konstruktyvios-raiskos-2026-11-12",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-11-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Knygos „Miestas po vandeniu: 1946 metų didysis Kauno potvynis“ pristatymas",
+      "date": "2026-11-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-miestas-po-vandeniu-1946-metu-didysis-kauno-potvynis-pristatymas-2026-11-12",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Archeologijos paroda „Kulautuvos lobiai“",
+      "date": "2026-11-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/archeologijos-paroda-kulautuvos-lobiai-2026-11-12",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "LIETUVIŠKOJO MODERNIZMO ATŠVAITAI",
+      "date": "2026-11-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuviskojo-modernizmo-atsvaitai-2026-11-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Spektaklis „KARVĖ, VARDU POEZIJA“",
+      "date": "2026-11-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-karve-vardu-poezija-2026-11-12",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "NAMAS Nr. 6: Hipnozė. Dėžėse ir ant delno",
+      "date": "2026-11-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/namas-nr-6-hipnoze-dezese-ir-ant-delno-2026-11-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija su ŠIURPULIUKAIS",
+      "date": "2026-11-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-su-siurpuliukais-2026-11-13",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-11-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-11-13",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 42,
-    "status": "Vidutinė",
-    "description": "Oro kokybė vidutinė, jautriems asmenims rekomenduojama riboti buvimą lauke.",
+    "index": 29,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
