@@ -39,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-10-31",
+  "updated_at": "2026-11-01",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -75,12 +75,6 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Drugelių šeštadienis oranžerijoje: pažintis su tropiniais drugiais visai šeimai",
-      "url": "https://botanika.vdu.lt/ivykiai/drugeliu-sestadienis-oranzerijoje-pazintis-su-tropiniais-drugiais-visai-seimai",
-      "date": "2026-10-31",
-      "source": "Botanikos sodas"
-    },
-    {
       "title": "Knygų klubas jaunimui",
       "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
       "date": "Aktualu",
@@ -106,90 +100,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Grafikos dirbtuvės.  Atverk savo kortą!",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/grafikos-dirbtuves-atverk-savo-korta-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Helovynas su šeima: „Monstriukė Mija“",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/helovynas-su-seima-monstriuke-mija-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Edukacinis užsiėmimas šeimoms „Būtybių tyrinėtojos kambariai“",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/edukacinis-uzsiemimas-seimoms-butybiu-tyrinetojos-kambariai-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Raganiškas Helovynas: „Suspirija“, „Fokus Pokus“, „Praktinė magija 2“",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/raganiskas-helovynas-suspirija-fokus-pokus-praktine-magija-2-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KVĖPAVIMAS (N-16) | rež. A. Leonova",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-rez-a-leonova-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "BAISIAI JUOKINGAS HELOVYNAS (komedijos šou)",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baisiai-juokingas-helovynas-komedijos-sou-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Muzikinis renginys „Gyvenimo ir mirties misterijos“",
-      "date": "2026-10-31",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikinis-renginys-gyvenimo-ir-mirties-misterijos-2026-10-31",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
-      "date": "2026-11-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-11-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "Apleistas Helovynas...",
       "date": "2026-11-01",
@@ -805,12 +715,96 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/autorinis-knygos-skirtukas-lino-raizinio-technika-2026-11-14",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "„Nelikę abejingi“ – prof. Liudo Mažylio paskaita ir nemokama ekskursija muziejuje",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nelike-abejingi-prof-liudo-mazylio-paskaita-ir-nemokama-ekskursija-muziejuje-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Kur ilsisi Lietuvos istorija - Petrašiūnų kapinės",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kur-ilsisi-lietuvos-istorija-petrasiunu-kapines-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "ŠIMTMEČIO TRAJEKTORIJOS | Džiazo legendoms dedikuotas vakaras",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simtmecio-trajektorijos-dziazo-legendoms-dedikuotas-vakaras-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Kur prasideda stebuklas | Kaunas",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kur-prasideda-stebuklas-kaunas-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "MUZIKINĖ POPIETĖ VISAI ŠEIMAI „CHORAS LIG DANGAUS“",
+      "date": "2026-11-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikine-popiete-visai-seimai-choras-lig-dangaus-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Pilietinio pasipriešinimo mokymai",
+      "date": "2026-11-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pilietinio-pasipriesinimo-mokymai-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Tarpukario virtuvė | Ekskursija-degustacija | 11.15",
+      "date": "2026-11-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-virtuve-ekskursija-degustacija-11-15-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "VARGONŲ IR VIOLONČELĖS SINERGIJA",
+      "date": "2026-11-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vargonu-ir-violonceles-sinergija-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Klaipėdos jaunimo teatras | Spektaklis ''Miškelis'' | Rež. V. Masalskis | KAUNAS",
+      "date": "2026-11-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klaipedos-jaunimo-teatras-spektaklis-miskelis-rez-v-masalskis-kaunas-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Apleistas Helovynas...",
+      "date": "2026-11-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 19,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 21,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
