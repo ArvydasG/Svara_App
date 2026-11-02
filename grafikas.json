@@ -39,7 +39,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-01",
+  "updated_at": "2026-11-02",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -61,59 +61,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Macrame žibintų pynimo dirbtuvės",
-      "url": "https://botanika.vdu.lt/ivykiai/macrame-zibintu-pynimas-vdu-botanikos-sode",
-      "date": "2026-11-14",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Rudens stovykla vaikams VDU Botanikos sode Kaune",
-      "url": "https://botanika.vdu.lt/ivykiai/rudens-stovykla-vaikams-kaune",
-      "date": "2026-11-03",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Knygų klubas jaunimui",
-      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Šarūnės Baltrušaitienės knygos „Slaptas Spirgutės noras“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/sarunes-baltrusaitienes-knygos-slaptas-spirgutes-noras-pristatymas-5",
-      "date": "2026-11-19",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-11",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Aldonos Vaitkevičiūtės tapybos darbų paroda „Brandumą dovanojam patys…",
-      "url": "https://kaunobiblioteka.lt/aldonos-vaitkeviciutes-tapybos-darbu-paroda-branduma-dovanojam-patys-sau",
-      "date": "2026-11-29",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-11-01",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-01",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "A. ir J. Juškų muziejuje – skiautinių paroda „Šaltibarščiai“",
-      "date": "2026-11-02",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/a-ir-j-jusku-muziejuje-skiautiniu-paroda-saltibarsciai-2026-11-02",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
     {
       "title": "Kur ilsisi Lietuvos istorija - Petrašiūnų kapinės",
       "date": "2026-11-02",
@@ -797,6 +746,20 @@
       "title": "Apleistas Helovynas...",
       "date": "2026-11-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "DRAKULA",
+      "date": "2026-11-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/drakula-2026-11-17",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Premjera! Rudnosiukas ir jo moterys",
+      "date": "2026-11-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-rudnosiukas-ir-jo-moterys-2026-11-17",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     }
