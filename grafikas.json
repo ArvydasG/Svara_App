@@ -38,7 +38,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-06",
+  "updated_at": "2026-11-07",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -99,97 +99,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Kursai „Akvarelė: pagrindai“",
-      "date": "2026-11-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kursai-akvarele-pagrindai-2026-11-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Pėdsakai, transformacijos. „Literatūros savaitės“ klubo V sezono 2 susitikimas",
-      "date": "2026-11-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pedsakai-transformacijos-literaturos-savaites-klubo-v-sezono-2-susitikimas-2026-11-06",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Leidinio „Raudondvario dvaras. Laiko ženklai“ IV tomo sutiktuvės",
-      "date": "2026-11-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/leidinio-raudondvario-dvaras-laiko-zenklai-iv-tomo-sutiktuves-2026-11-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Iš renginių ciklo „Susitikimai su...\"",
-      "date": "2026-11-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/is-renginiu-ciklo-susitikimai-su-2026-11-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Balys Sruoga. Kas slypi už „Dievų miško“ autoriaus vardo?",
-      "date": "2026-11-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/balys-sruoga-kas-slypi-uz-dievu-misko-autoriaus-vardo-2026-11-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-11-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "KLARNETO KERAI. Koncertas dedikuotas Prezidento Valdo Adamkaus 100-mečiui",
-      "date": "2026-11-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/klarneto-kerai-koncertas-dedikuotas-prezidento-valdo-adamkaus-100-meciui-2026-11-06",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "CIRKULIACIJA: Kanta Company (Lietuva) ir Teatronas (Lietuva) | „Grimmasos“ PREMJERA",
-      "date": "2026-11-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/cirkuliacija-kanta-company-lietuva-ir-teatronas-lietuva-grimmasos-premjera-2026-11-06",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Jurgiui Mačiūnui – 95! Paroda „Audrius Naujokaitis: Niujorko atspindžiai“",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgiui-maciunui-95-paroda-audrius-naujokaitis-niujorko-atspindziai-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "JURGIUI MAČIŪNUI – 95! PATIRK FLUXUS",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgiui-maciunui-95-patirk-fluxus-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ką slepia Kauno požemiai?",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-slepia-kauno-pozemiai-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Dizaino Dienos__BAIMĖ modelių atranka",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dizaino-dienos-baime-modeliu-atranka-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Šventinės eitynės su augintiniais",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sventines-eitynes-su-augintiniais-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Ekskursijos KMM",
       "date": "2026-11-07",
@@ -385,6 +294,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgitos-navikienes-knygos-menas-gyventi-gerai-esamuoju-laiku-pristatymas-2026-11-10",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Orientacinis žaidimas „Kauno burtininkas“",
+      "date": "2026-11-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-11-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "#MENOTYRIAUJAM: PASKAITA „KAUNO DIEVO KŪNO DOMINIKONŲ BAŽNYČIOS DAILĖ“",
@@ -716,6 +632,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-11-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "MUZIKINĖ POPIETĖ VISAI ŠEIMAI „CHORAS LIG DANGAUS“",
       "date": "2026-11-15",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikine-popiete-visai-seimai-choras-lig-dangaus-2026-11-15",
@@ -798,12 +721,89 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/drakula-2026-11-17",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Premjera! Rudnosiukas ir jo moterys",
+      "date": "2026-11-17",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-rudnosiukas-ir-jo-moterys-2026-11-17",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Orientacinis žaidimas „Kauno burtininkas“",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Mažylių trečiadienis | Sveika mityba ir tyrinėjimas",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-sveika-mityba-ir-tyrinejimas-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Romano Krasninkevičiaus paroda ROMANAS",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romano-krasninkeviciaus-paroda-romanas-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Ekskursija po Ąžuolyno bibliotekos Senosios knygos ekspoziciją",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-azuolyno-bibliotekos-senosios-knygos-ekspozicija-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "TIKROS ISTORIJOS",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tikros-istorijos-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "„Nauja karta – tos pačios dainos“ | Justino Lapatinsko ir studentų koncertas",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nauja-karta-tos-pacios-dainos-justino-lapatinsko-ir-studentu-koncertas-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "\"Kartu esame stipresni\": Žaliakalnio protmūšis",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-zaliakalnio-protmusis-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Spektaklis VĖJO PRIGIMTIS | rež. Gildas Aleksa",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vejo-prigimtis-rez-gildas-aleksa-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Interaktyvus šokio spektaklis 4 VIKTORAI | Nuepiko 10",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-sokio-spektaklis-4-viktorai-nuepiko-10-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Leidinio „Lietuvos užsienio politikos dokumentai. II tomas: 1921–1923 metai“ pristatymas",
+      "date": "2026-11-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/leidinio-lietuvos-uzsienio-politikos-dokumentai-ii-tomas-19211923-metai-pristatymas-2026-11-19",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     }
   ],
   "air_quality": {
-    "index": 24,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 16,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
