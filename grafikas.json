@@ -38,7 +38,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-08",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -99,104 +99,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "MUZIKINĖ POPIETĖ VISAI ŠEIMAI  „DAINUOJANTI REVOLIUCIJA“",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/muzikine-popiete-visai-seimai-dainuojanti-revoliucija-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Domino teatro komedija „KLINIKA\"",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "SIMFONININS BALETAS AŠTUONIOMS RANKOMS",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simfoninins-baletas-astuonioms-rankoms-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "\"Reinkarnacijos\" Patyrimas",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/reinkarnacijos-patyrimas-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "CIRKULIACIJA: Šedevrų Verpetas collective (Ukraina / Lietuva) | „Tracing the Bounded“ PREMJERA",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/cirkuliacija-sedevru-verpetas-collective-ukraina-lietuva-tracing-the-bounded-premjera-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Impro džemas (komedijos vakaras)",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-komedijos-vakaras-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Igor Sokolov KINO Tribute LT",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/igor-sokolov-kino-tribute-lt-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "OAZĖS ŠOKIAI su ARVYDU VILČINSKU | Kauno OAZĖ",
-      "date": "2026-11-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/oazes-sokiai-su-arvydu-vilcinsku-kauno-oaze-2026-11-07",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "IX fortas. TUNELIAIS. Kelionė laiku",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ix-fortas-tuneliais-kelione-laiku-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kas buvo, kol nebuvo Kauno „Akropolio“? Sena ir nauja po vienu stogu",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kas-buvo-kol-nebuvo-kauno-akropolio-sena-ir-nauja-po-vienu-stogu-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Paskutinę parodos „PRAUŽ-keikimai“ dieną – ekskursija su menininku Dainiumi Liškevičiumi",
       "date": "2026-11-08",
@@ -604,6 +506,13 @@
       "category": "Bendruomenės"
     },
     {
+      "title": "Lietuviško šokio sambūris \"Kaunas šoka Suktinį\"",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisko-sokio-samburis-kaunas-soka-suktini-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "ŠIMTMEČIO TRAJEKTORIJOS | Džiazo legendoms dedikuotas vakaras",
       "date": "2026-11-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/simtmecio-trajektorijos-dziazo-legendoms-dedikuotas-vakaras-2026-11-14",
@@ -744,11 +653,11 @@
       "category": "Kiti"
     },
     {
-      "title": "Romano Krasninkevičiaus paroda ROMANAS",
+      "title": "Romano Krasninkevičiaus parodos ROMANAS / Atidarymas",
       "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romano-krasninkeviciaus-paroda-romanas-2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romano-krasninkeviciaus-parodos-romanas-atidarymas-2026-11-18",
       "source": "Kaunas Pilnas",
-      "category": "Parodos"
+      "category": "Kiti"
     },
     {
       "title": "Ekskursija po Ąžuolyno bibliotekos Senosios knygos ekspoziciją",
@@ -793,15 +702,106 @@
       "category": "Scena"
     },
     {
+      "title": "Romano Krasninkevičiaus paroda ROMANAS",
+      "date": "2026-11-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romano-krasninkeviciaus-paroda-romanas-2026-11-19",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Leidinio „Lietuvos užsienio politikos dokumentai. II tomas: 1921–1923 metai“ pristatymas",
       "date": "2026-11-19",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/leidinio-lietuvos-uzsienio-politikos-dokumentai-ii-tomas-19211923-metai-pristatymas-2026-11-19",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "PEIZAŽAI",
+      "date": "2026-11-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/peizazai-2026-11-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "\"Kartu esame stipresni\": „Medinės miesto architektūros audinys“",
+      "date": "2026-11-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-medines-miesto-architekturos-audinys-2026-11-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "PASAULINIO GARSO KONTRATENORAS MAAYAN LICHT KAUNE",
+      "date": "2026-11-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaulinio-garso-kontratenoras-maayan-licht-kaune-2026-11-19",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Koliažinė opera „Mažvydas“",
+      "date": "2026-11-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koliazine-opera-mazvydas-2026-11-19",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "NAMAS Nr. 6: ETERIS",
+      "date": "2026-11-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/namas-nr-6-eteris-2026-11-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "PIERRE BOULEZ – „PLAKTUKAS BE ŠEIMININKO“",
+      "date": "2026-11-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pierre-boulez-plaktukas-be-seimininko-2026-11-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "„Tunelinis mąstymas“. Jauniaus Petraičio knygos premjera",
+      "date": "2026-11-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tunelinis-mastymas-jauniaus-petraicio-knygos-premjera-2026-11-20",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "LAI SKAMBA LIETUVA",
+      "date": "2026-11-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lai-skamba-lietuva-2026-11-20",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursijos KMM",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Autorinis knygos skirtukas lino raižinio technika",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/autorinis-knygos-skirtukas-lino-raizinio-technika-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Ekskursija po ekspoziciją „Estrada. Svajonės kaina“",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     }
   ],
   "air_quality": {
-    "index": 16,
+    "index": 17,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
