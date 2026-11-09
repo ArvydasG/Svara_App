@@ -38,7 +38,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-09",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -99,62 +99,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Paskutinę parodos „PRAUŽ-keikimai“ dieną – ekskursija su menininku Dainiumi Liškevičiumi",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paskutine-parodos-prauz-keikimai-diena-ekskursija-su-menininku-dainiumi-liskeviciumi-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "CIRKULIACIJA: GRENSGEVAL (Belgija) | „MURMUR“",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/cirkuliacija-grensgeval-belgija-murmur-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Viešnagė istoriniame XIX a. žydų Daukšiagirės dvare | 11.08",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/viesnage-istoriniame-xix-a-zydu-dauksiagires-dvare-11-08-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "JURGIUI MAČIŪNUI – 95! DALIUS NAUJOKAITIS & NOJO AIRLINES ENSEMBLE",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgiui-maciunui-95-dalius-naujokaitis-nojo-airlines-ensemble-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis NOKTIURNAS | rež. G. Padegimas",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-noktiurnas-rez-g-padegimas-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis MOTERIS SU AKMENIU BURNOJE (N-16) | rež. G. Gudelytė, E. Kazickaitė",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-moteris-su-akmeniu-burnoje-n-16-rez-g-gudelyte-e-kazickaite-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Jurgiui MačiūnuiI – 95! Hepeningas „Brangus Jurgi“ tiesiogiai iš Niujorko",
-      "date": "2026-11-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgiui-maciunuii-95-hepeningas-brangus-jurgi-tiesiogiai-is-niujorko-2026-11-08",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Rudens protmūšis",
       "date": "2026-11-09",
@@ -331,6 +275,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Tarptautinė akvarelės bienalė „Baltijos tiltai. 2026. Begalybė“ | Jaunųjų kūryba | ATIDARYMAS",
+      "date": "2026-11-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautine-akvareles-bienale-baltijos-tiltai-2026-begalybe-jaunuju-kuryba-atidarymas-2026-11-13",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Knygos „90 metų Kaune: Editos Almonaitienės prisiminimai“ pristatymas",
       "date": "2026-11-13",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-90-metu-kaune-editos-almonaitienes-prisiminimai-pristatymas-2026-11-13",
@@ -415,6 +366,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Tarptautinė akvarelės bienalė „Baltijos tiltai. 2026. Begalybė“ | Jaunųjų kūryba",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarptautine-akvareles-bienale-baltijos-tiltai-2026-begalybe-jaunuju-kuryba-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Įtaigaus kalbėjimo ir melavimo dirbtuvės",
       "date": "2026-11-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/itaigaus-kalbejimo-ir-melavimo-dirbtuves-2026-11-14",
@@ -490,6 +448,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kur-ilsisi-lietuvos-istorija-petrasiunu-kapines-2026-11-14",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Dokumentinio filmo „(NE)MATYTI ŽMONĖS“ premjera ir kino terapija",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dokumentinio-filmo-ne-matyti-zmones-premjera-ir-kino-terapija-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "„GYVAI!“ - Kauno Juozo Gruodžio konservatorijos atlikėjų popmuzikos vakaras",
@@ -798,12 +763,47 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-ekspozicija-estrada-svajones-kaina-2026-11-21",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Advento vainiko kūrimo dirbtuvės | 2026",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/advento-vainiko-kurimo-dirbtuves-2026-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "„SUBATĖLĖ“ - TARPTAUTINIS liaudiškų šokių festivalis Ramučiuose",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/subatele-tarptautinis-liaudisku-sokiu-festivalis-ramuciuose-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "KVĖPAVIMAS (N-16) | rež. A. Leonova",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-rez-a-leonova-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "DOKUMENTINĖ FANTAZIJA: BALSO ŽINUTĖS SOFIJAI",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dokumentine-fantazija-balso-zinutes-sofijai-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "KTU akademinio choro „Jaunystė“ 100-mečio koncertas „Jaunystės dainos – skamba ir skambės“",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ktu-akademinio-choro-jaunyste-100-mecio-koncertas-jaunystes-dainos-skamba-ir-skambes-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     }
   ],
   "air_quality": {
-    "index": 17,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 28,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
