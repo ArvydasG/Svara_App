@@ -38,7 +38,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-10",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -61,6 +61,12 @@
     }
   ],
   "events": [
+    {
+      "title": "Kalėdinių makramė žaisliukų pynimo dirbtuvės",
+      "url": "https://botanika.vdu.lt/ivykiai/kaledines-makrame-dirbtuves-kaune",
+      "date": "2026-11-28",
+      "source": "Botanikos sodas"
+    },
     {
       "title": "Macrame žibintų pynimo dirbtuvės",
       "url": "https://botanika.vdu.lt/ivykiai/macrame-zibintu-pynimas-vdu-botanikos-sode",
@@ -99,20 +105,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Rudens protmūšis",
-      "date": "2026-11-09",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/rudens-protmusis-2026-11-09",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Lietuviškų šokių vakaras",
-      "date": "2026-11-09",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuvisku-sokiu-vakaras-2026-11-09",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
     {
       "title": "„Tūkstančio ir vienos nakties“ (iš)radimas | Ciklas „Knygų atsivertimai“",
       "date": "2026-11-10",
@@ -205,6 +197,13 @@
       "category": "Kiti"
     },
     {
+      "title": "„Scanorama“ bibliotekoje: filmo „Velnio sėkla“ peržiūra",
+      "date": "2026-11-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/scanorama-bibliotekoje-filmo-velnio-sekla-perziura-2026-11-12",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
       "title": "„Modernioji fotografija Ispanijoje 1950–1970“",
       "date": "2026-11-12",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/modernioji-fotografija-ispanijoje-19501970-2026-11-12",
@@ -259,6 +258,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/namas-nr-6-hipnoze-dezese-ir-ant-delno-2026-11-13",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Elvitos Šiberekovaitės keramikos paroda „Šešėlių globėjai“",
+      "date": "2026-11-13",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/elvitos-siberekovaites-keramikos-paroda-seseliu-globejai-2026-11-13",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "Ekskursija su ŠIURPULIUKAIS",
@@ -399,6 +405,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siaures-saliu-literaturos-savaites-skaitymai-vaiku-literaturos-muziejuje-2026-11-14",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "MENO neMUGĖ su Olesia Les ir daugiau nei 20 kūrėjų │Lietuvos švietimo muziejuje",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meno-nemuge-su-olesia-les-ir-daugiau-nei-20-kureju-lietuvos-svietimo-muziejuje-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     },
     {
       "title": "Ekskursijos KMM",
@@ -604,6 +617,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Dedikacija Onai Šimaitei: Lietuvos žydų gelbėtojams skirtas koncertas",
+      "date": "2026-11-18",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dedikacija-onai-simaitei-lietuvos-zydu-gelbetojams-skirtas-koncertas-2026-11-18",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Orientacinis žaidimas „Kauno burtininkas“",
       "date": "2026-11-18",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-11-18",
@@ -737,6 +757,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Deimantų edukacija",
+      "date": "2026-11-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/deimantu-edukacija-2026-11-20",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Ekskursijos KMM",
       "date": "2026-11-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-11-21",
@@ -777,31 +804,10 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/subatele-tarptautinis-liaudisku-sokiu-festivalis-ramuciuose-2026-11-21",
       "source": "Kaunas Pilnas",
       "category": "Scena"
-    },
-    {
-      "title": "KVĖPAVIMAS (N-16) | rež. A. Leonova",
-      "date": "2026-11-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-rez-a-leonova-2026-11-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "DOKUMENTINĖ FANTAZIJA: BALSO ŽINUTĖS SOFIJAI",
-      "date": "2026-11-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dokumentine-fantazija-balso-zinutes-sofijai-2026-11-21",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "KTU akademinio choro „Jaunystė“ 100-mečio koncertas „Jaunystės dainos – skamba ir skambės“",
-      "date": "2026-11-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ktu-akademinio-choro-jaunyste-100-mecio-koncertas-jaunystes-dainos-skamba-ir-skambes-2026-11-21",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
     }
   ],
   "air_quality": {
-    "index": 28,
+    "index": 29,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
