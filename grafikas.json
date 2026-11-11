@@ -38,7 +38,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-11",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -105,41 +105,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "„Tūkstančio ir vienos nakties“ (iš)radimas | Ciklas „Knygų atsivertimai“",
-      "date": "2026-11-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tukstancio-ir-vienos-nakties-is-radimas-ciklas-knygu-atsivertimai-2026-11-10",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "NEGIRDĖJAU SAKANT",
-      "date": "2026-11-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/negirdejau-sakant-2026-11-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Pianisto Kasparo Uinsko solinis rečitalis Kauno filharmonijoje",
-      "date": "2026-11-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pianisto-kasparo-uinsko-solinis-recitalis-kauno-filharmonijoje-2026-11-10",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Jurgitos Navikienės knygos „Menas gyventi gerai. Esamuoju laiku“ pristatymas",
-      "date": "2026-11-10",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgitos-navikienes-knygos-menas-gyventi-gerai-esamuoju-laiku-pristatymas-2026-11-10",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Orientacinis žaidimas „Kauno burtininkas“",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "#MENOTYRIAUJAM: PASKAITA „KAUNO DIEVO KŪNO DOMINIKONŲ BAŽNYČIOS DAILĖ“",
       "date": "2026-11-11",
@@ -470,6 +435,13 @@
       "category": "Kinas"
     },
     {
+      "title": "„Baltijos tiltai. 2026. Begalybė“ parodos atidarymas",
+      "date": "2026-11-14",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltijos-tiltai-2026-begalybe-parodos-atidarymas-2026-11-14",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "„GYVAI!“ - Kauno Juozo Gruodžio konservatorijos atlikėjų popmuzikos vakaras",
       "date": "2026-11-14",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gyvai-kauno-juozo-gruodzio-konservatorijos-atlikeju-popmuzikos-vakaras-2026-11-14",
@@ -552,6 +524,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-virtuve-ekskursija-degustacija-11-15-2026-11-15",
       "source": "Kaunas Pilnas",
       "category": "Ekskursijos"
+    },
+    {
+      "title": "Šilko kelias į Armėniją – kūrybinė edukacija vaikams ir jaunimui",
+      "date": "2026-11-15",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/silko-kelias-i-armenija-kurybine-edukacija-vaikams-ir-jaunimui-2026-11-15",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "Kompaktinės plokštelės pristatymas „Kauno miesto tradiciniai muzikantai“",
@@ -771,6 +750,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "Kūrybinės grafikos koliažo dirbtuvės",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybines-grafikos-koliazo-dirbtuves-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
       "date": "2026-11-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-11-21",
@@ -804,10 +790,24 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/subatele-tarptautinis-liaudisku-sokiu-festivalis-ramuciuose-2026-11-21",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Jurgos Ivanauskaitės atminimo vakaras",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/jurgos-ivanauskaites-atminimo-vakaras-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "KVĖPAVIMAS (N-16) | rež. A. Leonova",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-rez-a-leonova-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 29,
+    "index": 39,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
