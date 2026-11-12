@@ -38,7 +38,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-12",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -74,12 +74,6 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Šiaurės šalių literatūros savaitė bibliotekoje",
-      "url": "https://kaunobiblioteka.lt/siaures-saliu-literaturos-savaite-bibliotekoje-9",
-      "date": "2026-11-15",
-      "source": "Biblioteka"
-    },
-    {
       "title": "Knygų klubas jaunimui",
       "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
       "date": "Aktualu",
@@ -98,6 +92,12 @@
       "source": "Biblioteka"
     },
     {
+      "title": "Šiaurės šalių literatūros savaitė bibliotekoje",
+      "url": "https://kaunobiblioteka.lt/siaures-saliu-literaturos-savaite-bibliotekoje-9",
+      "date": "2026-11-15",
+      "source": "Biblioteka"
+    },
+    {
       "title": "Aldonos Vaitkevičiūtės tapybos darbų paroda „Brandumą dovanojam patys…",
       "url": "https://kaunobiblioteka.lt/aldonos-vaitkeviciutes-tapybos-darbu-paroda-branduma-dovanojam-patys-sau",
       "date": "2026-11-29",
@@ -105,69 +105,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "#MENOTYRIAUJAM: PASKAITA „KAUNO DIEVO KŪNO DOMINIKONŲ BAŽNYČIOS DAILĖ“",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/menotyriaujam-paskaita-kauno-dievo-kuno-dominikonu-baznycios-daile-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Turas parodoje „Patirti Jurgį Mačiūną“ su kuratore",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/turas-parodoje-patirti-jurgi-maciuna-su-kuratore-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Folkloro dirbtuvės šeimoms | Etnosodas",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "\"Kartu esame stipresni\": „Žaliakalnio medinukai šiandien“",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-zaliakalnio-medinukai-siandien-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Audros Radavičienės knygos „aš esu. moteris 45+“ pristatymas",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/audros-radavicienes-knygos-as-esu-moteris-45-pristatymas-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Premjera! Rudnosiukas ir jo moterys",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-rudnosiukas-ir-jo-moterys-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Karštos naujienos – paskutinis šokis laisvei? | aut. Kristina Kulinič",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karstos-naujienos-paskutinis-sokis-laisvei-aut-kristina-kulinic-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Golden Parazyth RUDUO (Kaunas)",
-      "date": "2026-11-11",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/golden-parazyth-ruduo-kaunas-2026-11-11",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„Scanorama“ bibliotekoje: filmo „Velnio sėkla“ peržiūra",
-      "date": "2026-11-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/scanorama-bibliotekoje-filmo-velnio-sekla-perziura-2026-11-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "„Modernioji fotografija Ispanijoje 1950–1970“",
       "date": "2026-11-12",
@@ -673,6 +610,13 @@
       "category": "Parodos"
     },
     {
+      "title": "Sigitos Orsos tekstų ir meno darbų knygos „Kasdienybės postai“ pristatymas",
+      "date": "2026-11-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sigitos-orsos-tekstu-ir-meno-darbu-knygos-kasdienybes-postai-pristatymas-2026-11-19",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Leidinio „Lietuvos užsienio politikos dokumentai. II tomas: 1921–1923 metai“ pristatymas",
       "date": "2026-11-19",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/leidinio-lietuvos-uzsienio-politikos-dokumentai-ii-tomas-19211923-metai-pristatymas-2026-11-19",
@@ -713,6 +657,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/namas-nr-6-eteris-2026-11-20",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Knygos „Pusė šimtmečio su orkestru“ pristatymas",
+      "date": "2026-11-20",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-puse-simtmecio-su-orkestru-pristatymas-2026-11-20",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "PIERRE BOULEZ – „PLAKTUKAS BE ŠEIMININKO“",
@@ -802,6 +753,55 @@
       "title": "KVĖPAVIMAS (N-16) | rež. A. Leonova",
       "date": "2026-11-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kvepavimas-n-16-rez-a-leonova-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "DOKUMENTINĖ FANTAZIJA: BALSO ŽINUTĖS SOFIJAI",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dokumentine-fantazija-balso-zinutes-sofijai-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "KTU akademinio choro „Jaunystė“ 100-mečio koncertas „Jaunystės dainos – skamba ir skambės“",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ktu-akademinio-choro-jaunyste-100-mecio-koncertas-jaunystes-dainos-skamba-ir-skambes-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "VDU Kamerinis orkestras | 15 metų kartu",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vdu-kamerinis-orkestras-15-metu-kartu-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
+      "date": "2026-11-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-11-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "Mikė Melagėlis ir gyvosios pasakos",
+      "date": "2026-11-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mike-melagelis-ir-gyvosios-pasakos-2026-11-22",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "GAJA MARA | spektaklis besilaukiančioms ir vaikams iki 3 m.",
+      "date": "2026-11-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gaja-mara-spektaklis-besilaukiancioms-ir-vaikams-iki-3-m-2026-11-22",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "DEDIKACIJA KOTRYNAI JOGAILAITEI",
+      "date": "2026-11-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dedikacija-kotrynai-jogailaitei-2026-11-22",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
     }
