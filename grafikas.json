@@ -38,7 +38,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-12",
+  "updated_at": "2026-11-13",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -62,15 +62,21 @@
   ],
   "events": [
     {
-      "title": "Kalėdinių makramė žaisliukų pynimo dirbtuvės",
-      "url": "https://botanika.vdu.lt/ivykiai/kaledines-makrame-dirbtuves-kaune",
-      "date": "2026-11-28",
+      "title": "Muzikos ir skonių vakaras oranžerijoje",
+      "url": "https://botanika.vdu.lt/ivykiai/muzikos-ir-skoniu-vakaras-oranzerijoje",
+      "date": "2026-12-12",
       "source": "Botanikos sodas"
     },
     {
-      "title": "Macrame žibintų pynimo dirbtuvės",
-      "url": "https://botanika.vdu.lt/ivykiai/macrame-zibintu-pynimas-vdu-botanikos-sode",
-      "date": "2026-11-14",
+      "title": "Muzikos ir skonių vakarai oranžerijoje",
+      "url": "https://botanika.vdu.lt/ivykiai/oranzerijos-skambesiai-koncertas-kaune",
+      "date": "2026-12-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Kalėdinių makramė žaisliukų pynimo dirbtuvės",
+      "url": "https://botanika.vdu.lt/ivykiai/kaledines-makrame-dirbtuves-kaune",
+      "date": "2026-11-28",
       "source": "Botanikos sodas"
     },
     {
@@ -105,83 +111,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "„Modernioji fotografija Ispanijoje 1950–1970“",
-      "date": "2026-11-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/modernioji-fotografija-ispanijoje-19501970-2026-11-12",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Apleistas Helovynas...",
-      "date": "2026-11-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/apleistas-helovynas-2026-11-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Seminaras „Mūsų emocijos: nuo pažinimo iki konstruktyvios raiškos“",
-      "date": "2026-11-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seminaras-musu-emocijos-nuo-pazinimo-iki-konstruktyvios-raiskos-2026-11-12",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Knygos „Miestas po vandeniu: 1946 metų didysis Kauno potvynis“ pristatymas",
-      "date": "2026-11-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-miestas-po-vandeniu-1946-metu-didysis-kauno-potvynis-pristatymas-2026-11-12",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Archeologijos paroda „Kulautuvos lobiai“",
-      "date": "2026-11-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/archeologijos-paroda-kulautuvos-lobiai-2026-11-12",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "LIETUVIŠKOJO MODERNIZMO ATŠVAITAI",
-      "date": "2026-11-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuviskojo-modernizmo-atsvaitai-2026-11-12",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis „KARVĖ, VARDU POEZIJA“",
-      "date": "2026-11-12",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-karve-vardu-poezija-2026-11-12",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "NAMAS Nr. 6: Hipnozė. Dėžėse ir ant delno",
-      "date": "2026-11-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/namas-nr-6-hipnoze-dezese-ir-ant-delno-2026-11-13",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Elvitos Šiberekovaitės keramikos paroda „Šešėlių globėjai“",
-      "date": "2026-11-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/elvitos-siberekovaites-keramikos-paroda-seseliu-globejai-2026-11-13",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Ekskursija su ŠIURPULIUKAIS",
-      "date": "2026-11-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-su-siurpuliukais-2026-11-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Ekskursija J. Zikaro namuose-muziejuje",
-      "date": "2026-11-13",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-11-13",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "Tarptautinė akvarelės bienalė „Baltijos tiltai. 2026. Begalybė“ | Jaunųjų kūryba | ATIDARYMAS",
       "date": "2026-11-13",
@@ -694,6 +623,13 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "\"Kas paliko pėdsakus?\" | Architektūros festivalis vaikams 2026",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kas-paliko-pedsakus-architekturos-festivalis-vaikams-2026-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Festivaliai"
+    },
+    {
       "title": "Ekskursijos KMM",
       "date": "2026-11-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-11-21",
@@ -778,6 +714,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Impro džemas (komedijos vakaras)",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/impro-dzemas-komedijos-vakaras-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Ekskursija-žaidimas „Laikinoji sostinė“",
       "date": "2026-11-22",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-zaidimas-laikinoji-sostine-2026-11-22",
@@ -804,10 +747,73 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dedikacija-kotrynai-jogailaitei-2026-11-22",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Netradicinio teatro festivalis NAMAS Nr. 6",
+      "date": "2026-11-22",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/netradicinio-teatro-festivalis-namas-nr-6-2026-11-22",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Lietuva ir lietuviai pasaulio operų siužetuose: susitikimas su knygos „Ugnis ir tikėjimas“ autoriais",
+      "date": "2026-11-23",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuva-ir-lietuviai-pasaulio-operu-siuzetuose-susitikimas-su-knygos-ugnis-ir-tikejimas-autoriais-2026-11-23",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Verpimo dirbtuvės | Etnosodas",
+      "date": "2026-11-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/verpimo-dirbtuves-etnosodas-2026-11-24",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Slemas #100",
+      "date": "2026-11-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/slemas-100-2026-11-24",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Karolio Račkausko-Vairo knygos „Iš atsiminimų, dienoraščių ir užrašų“ pristatymas",
+      "date": "2026-11-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karolio-rackausko-vairo-knygos-is-atsiminimu-dienorasciu-ir-uzrasu-pristatymas-2026-11-24",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Kalėdinės kūrybinės dirbtuvėlės Lapėse!",
+      "date": "2026-11-24",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledines-kurybines-dirbtuveles-lapese-2026-11-24",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-11-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-11-25",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Parodos „Miunchenas–Kaunas: gyvenimai besitęsiantys atminime“ atidarymas",
+      "date": "2026-11-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-miunchenaskaunas-gyvenimai-besitesiantys-atminime-atidarymas-2026-11-25",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Koncertas „Tarp žodžio ir muzikos“",
+      "date": "2026-11-25",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koncertas-tarp-zodzio-ir-muzikos-2026-11-25",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     }
   ],
   "air_quality": {
-    "index": 39,
+    "index": 28,
     "status": "Gera",
     "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
