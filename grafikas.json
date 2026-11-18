@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-17",
+  "updated_at": "2026-11-18",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -110,55 +110,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Vytautės Trijonytės paroda „Kotonas“",
-      "date": "2026-11-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vytautes-trijonytes-paroda-kotonas-2026-11-17",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Žalvario papuošalų dirbtuvės | Etnosodas",
-      "date": "2026-11-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zalvario-papuosalu-dirbtuves-etnosodas-2026-11-17",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "DRAKULA",
-      "date": "2026-11-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/drakula-2026-11-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Premjera! Rudnosiukas ir jo moterys",
-      "date": "2026-11-17",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-rudnosiukas-ir-jo-moterys-2026-11-17",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Dedikacija Onai Šimaitei: Lietuvos žydų gelbėtojams skirtas koncertas",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dedikacija-onai-simaitei-lietuvos-zydu-gelbetojams-skirtas-koncertas-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Orientacinis žaidimas „Kauno burtininkas“",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/orientacinis-zaidimas-kauno-burtininkas-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Mažylių trečiadienis | Sveika mityba ir tyrinėjimas",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mazyliu-treciadienis-sveika-mityba-ir-tyrinejimas-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Tekstilės paveldo paroda skirta LTS 60-mečiui",
       "date": "2026-11-18",
@@ -242,6 +193,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/peizazai-2026-11-19",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "kūrybinis vakaras su menininke Aurelija Ozolinia „Maži kūrybos atradimai\"",
+      "date": "2026-11-19",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybinis-vakaras-su-menininke-aurelija-ozolinia-mazi-kurybos-atradimai-2026-11-19",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "\"Kartu esame stipresni\": „Medinės miesto architektūros audinys“",
@@ -678,6 +636,20 @@
       "category": "Edukaciniai"
     },
     {
+      "title": "A. ir J. Juškų etninės kultūros muziejuje – komiksų knygos „Kastukas sugrįžo“ pristatymas",
+      "date": "2026-11-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/a-ir-j-jusku-etnines-kulturos-muziejuje-komiksu-knygos-kastukas-sugrizo-pristatymas-2026-11-27",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Išlydint parodą „(Ne)pažintas Romanas“ – albumo „Romanas Krasninkevičius“ pristatymas",
+      "date": "2026-11-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/islydint-paroda-ne-pazintas-romanas-albumo-romanas-krasninkevicius-pristatymas-2026-11-27",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Ąžuolyno skaitytojų klubas MOKOSI: susitikimas su vertėja Donata Rinkevičiene",
       "date": "2026-11-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/azuolyno-skaitytoju-klubas-mokosi-susitikimas-su-verteja-donata-rinkeviciene-2026-11-27",
@@ -704,6 +676,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lukas-geniusas-skambina-beethovena-2026-11-27",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "URBAN ornitostogos: paukščių stebėjimo turas Nemuno saloje",
+      "date": "2026-11-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/urban-ornitostogos-pauksciu-stebejimo-turas-nemuno-saloje-2026-11-28",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
     },
     {
       "title": "Ekskursijos KMM",
@@ -809,12 +788,33 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/vaiku-muzikos-diena-2026-2026-11-29",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "„Skambantys raštai“ | audiovizualinė instaliacija",
+      "date": "2026-11-30",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skambantys-rastai-audiovizualine-instaliacija-2026-11-30",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Skrydis į Kalėdas",
+      "date": "2026-12-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skrydis-i-kaledas-2026-12-01",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "„KOTONAS: moterų istorijų atspaudai“ | kūrybinis susitikimas su autore Vytaute Trijonyte",
+      "date": "2026-12-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kotonas-moteru-istoriju-atspaudai-kurybinis-susitikimas-su-autore-vytaute-trijonyte-2026-12-01",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
     }
   ],
   "air_quality": {
-    "index": 22,
-    "status": "Gera",
-    "description": "Oro kokybė gera, tinkama lauko veikloms.",
+    "index": 17,
+    "status": "Puiki",
+    "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
   }
 }
