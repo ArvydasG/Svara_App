@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-18",
+  "updated_at": "2026-11-19",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -59,120 +59,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Augalų biotechnologijos: nuo ląstelės iki žydinčio augalo",
-      "url": "https://botanika.vdu.lt/ivykiai/augalu-biotechnologijos-nuo-lasteles-iki-zydincio-augalo-2",
-      "date": "2026-12-17",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Muzikos ir skonių vakaras oranžerijoje",
-      "url": "https://botanika.vdu.lt/ivykiai/muzikos-ir-skoniu-vakaras-oranzerijoje",
-      "date": "2026-12-12",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Muzikos ir skonių vakarai oranžerijoje",
-      "url": "https://botanika.vdu.lt/ivykiai/oranzerijos-skambesiai-koncertas-kaune",
-      "date": "2026-12-05",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Kalėdinių makramė žaisliukų pynimo dirbtuvės",
-      "url": "https://botanika.vdu.lt/ivykiai/kaledines-makrame-dirbtuves-kaune",
-      "date": "2026-11-28",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Knygų klubas jaunimui",
-      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Šarūnės Baltrušaitienės knygos „Slaptas Spirgutės noras“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/sarunes-baltrusaitienes-knygos-slaptas-spirgutes-noras-pristatymas-5",
-      "date": "2026-11-19",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-11",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Aldonos Vaitkevičiūtės tapybos darbų paroda „Brandumą dovanojam patys…",
-      "url": "https://kaunobiblioteka.lt/aldonos-vaitkeviciutes-tapybos-darbu-paroda-branduma-dovanojam-patys-sau",
-      "date": "2026-11-29",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Tekstilės paveldo paroda skirta LTS 60-mečiui",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tekstiles-paveldo-paroda-skirta-lts-60-meciui-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
-    {
-      "title": "Romano Krasninkevičiaus parodos ROMANAS / Atidarymas",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romano-krasninkeviciaus-parodos-romanas-atidarymas-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Ekskursija po Ąžuolyno bibliotekos Senosios knygos ekspoziciją",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-azuolyno-bibliotekos-senosios-knygos-ekspozicija-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "TIKROS ISTORIJOS",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tikros-istorijos-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„Nauja karta – tos pačios dainos“ | Justino Lapatinsko ir studentų koncertas",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nauja-karta-tos-pacios-dainos-justino-lapatinsko-ir-studentu-koncertas-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "\"Kartu esame stipresni\": Žaliakalnio protmūšis",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-zaliakalnio-protmusis-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis VĖJO PRIGIMTIS | rež. Gildas Aleksa",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vejo-prigimtis-rez-gildas-aleksa-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Interaktyvus šokio spektaklis 4 VIKTORAI | Nuepiko 10",
-      "date": "2026-11-18",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/interaktyvus-sokio-spektaklis-4-viktorai-nuepiko-10-2026-11-18",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Romano Krasninkevičiaus paroda ROMANAS",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/romano-krasninkeviciaus-paroda-romanas-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Parodos"
-    },
     {
       "title": "Sigitos Orsos tekstų ir meno darbų knygos „Kasdienybės postai“ pristatymas",
       "date": "2026-11-19",
@@ -293,6 +181,13 @@
       "category": "Festivaliai"
     },
     {
+      "title": "Susitikimas su menininke Tamara Pathak",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-menininke-tamara-pathak-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
       "title": "Ekskursijos KMM",
       "date": "2026-11-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-11-21",
@@ -331,6 +226,13 @@
       "title": "Advento vainiko kūrimo dirbtuvės | 2026",
       "date": "2026-11-21",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/advento-vainiko-kurimo-dirbtuves-2026-2026-11-21",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Šeimų šeštadienis muziejuje: kūrybinės dirbtuvės!",
+      "date": "2026-11-21",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seimu-sestadienis-muziejuje-kurybines-dirbtuves-2026-11-21",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
     },
@@ -573,6 +475,13 @@
       "category": "Ekskursijos"
     },
     {
+      "title": "PERSIDENGIANTYS KŪNAI. Studentų edukacija",
+      "date": "2026-11-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/persidengiantys-kunai-studentu-edukacija-2026-11-26",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "Pasaka suaugusiems PITERIS PENAS | rež. Karolis Zajauskas",
       "date": "2026-11-26",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaka-suaugusiems-piteris-penas-rez-karolis-zajauskas-2026-11-26",
@@ -641,6 +550,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/a-ir-j-jusku-etnines-kulturos-muziejuje-komiksu-knygos-kastukas-sugrizo-pristatymas-2026-11-27",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Ekskursija „Laikinosios sostinės Kauno mokyklos ir gimnazijos“",
+      "date": "2026-11-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-laikinosios-sostines-kauno-mokyklos-ir-gimnazijos-2026-11-27",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
     },
     {
       "title": "Išlydint parodą „(Ne)pažintas Romanas“ – albumo „Romanas Krasninkevičius“ pristatymas",
@@ -755,6 +671,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Folkloro ansamblio „Gilė“ koncertas „Advento belaukiant“",
+      "date": "2026-11-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-ansamblio-gile-koncertas-advento-belaukiant-2026-11-28",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Tarpukario inteligentija. Svečiuose pas pulkininką D. Grabį | Ekskursija-viešnagė | 11.28",
       "date": "2026-11-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tarpukario-inteligentija-sveciuose-pas-pulkininka-d-grabi-ekskursija-viesnage-11-28-2026-11-28",
@@ -790,6 +713,13 @@
       "category": "Muzika"
     },
     {
+      "title": "Ekskursija su kuratore XIII Lietuvos medalių trienalės parodoje",
+      "date": "2026-11-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-su-kuratore-xiii-lietuvos-medaliu-trienales-parodoje-2026-11-29",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "„Skambantys raštai“ | audiovizualinė instaliacija",
       "date": "2026-11-30",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/skambantys-rastai-audiovizualine-instaliacija-2026-11-30",
@@ -809,10 +739,31 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kotonas-moteru-istoriju-atspaudai-kurybinis-susitikimas-su-autore-vytaute-trijonyte-2026-12-01",
       "source": "Kaunas Pilnas",
       "category": "Bendruomenės"
+    },
+    {
+      "title": "Spektaklis AKMENYS JO KIŠENĖSE | rež. G. Padegimas",
+      "date": "2026-12-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-akmenys-jo-kisenese-rez-g-padegimas-2026-12-01",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Spektaklis „Generalinė repeticija“",
+      "date": "2026-12-01",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-generaline-repeticija-2026-12-01",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Folkloro dirbtuvės šeimoms | Etnosodas",
+      "date": "2026-12-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-12-02",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     }
   ],
   "air_quality": {
-    "index": 17,
+    "index": 15,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
