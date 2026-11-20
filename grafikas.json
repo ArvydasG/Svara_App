@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-19",
+  "updated_at": "2026-11-20",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -59,71 +59,63 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Augalų biotechnologijos: nuo ląstelės iki žydinčio augalo",
+      "url": "https://botanika.vdu.lt/ivykiai/augalu-biotechnologijos-nuo-lasteles-iki-zydincio-augalo-2",
+      "date": "2026-12-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Muzikos ir skonių vakaras oranžerijoje",
+      "url": "https://botanika.vdu.lt/ivykiai/muzikos-ir-skoniu-vakaras-oranzerijoje",
+      "date": "2026-12-12",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Muzikos ir skonių vakarai oranžerijoje",
+      "url": "https://botanika.vdu.lt/ivykiai/oranzerijos-skambesiai-koncertas-kaune",
+      "date": "2026-12-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Kalėdinių makramė žaisliukų pynimo dirbtuvės",
+      "url": "https://botanika.vdu.lt/ivykiai/kaledines-makrame-dirbtuves-kaune",
+      "date": "2026-11-28",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Edukacija „Kalėdinių vainikų pynimas“",
+      "url": "https://kaunobiblioteka.lt/edukacija-kalediniu-vainiku-pynimas",
+      "date": "2026-12-10",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-12",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Knygų klubas jaunimui",
+      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Aldonos Vaitkevičiūtės tapybos darbų paroda „Brandumą dovanojam patys…",
+      "url": "https://kaunobiblioteka.lt/aldonos-vaitkeviciutes-tapybos-darbu-paroda-branduma-dovanojam-patys-sau",
+      "date": "2026-11-26",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Šarūnės Baltrušaitienės knygos „Slaptas Spirgutės noras“ pristatymas",
+      "url": "https://kaunobiblioteka.lt/sarunes-baltrusaitienes-knygos-slaptas-spirgutes-noras-pristatymas-5",
+      "date": "2026-11-19",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "Sigitos Orsos tekstų ir meno darbų knygos „Kasdienybės postai“ pristatymas",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sigitos-orsos-tekstu-ir-meno-darbu-knygos-kasdienybes-postai-pristatymas-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Leidinio „Lietuvos užsienio politikos dokumentai. II tomas: 1921–1923 metai“ pristatymas",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/leidinio-lietuvos-uzsienio-politikos-dokumentai-ii-tomas-19211923-metai-pristatymas-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "PEIZAŽAI",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/peizazai-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "kūrybinis vakaras su menininke Aurelija Ozolinia „Maži kūrybos atradimai\"",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybinis-vakaras-su-menininke-aurelija-ozolinia-mazi-kurybos-atradimai-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "\"Kartu esame stipresni\": „Medinės miesto architektūros audinys“",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-medines-miesto-architekturos-audinys-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "DOMINO teatro komedija „Striptizo ereliai“",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-striptizo-ereliai-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "PASAULINIO GARSO KONTRATENORAS MAAYAN LICHT KAUNE",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaulinio-garso-kontratenoras-maayan-licht-kaune-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Koliažinė opera „Mažvydas“",
-      "date": "2026-11-19",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/koliazine-opera-mazvydas-2026-11-19",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "NAMAS Nr. 6: ETERIS",
-      "date": "2026-11-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/namas-nr-6-eteris-2026-11-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Ekspozicijos „Žmogus ir žvėris: medžioklės istorija“ atidarymas",
       "date": "2026-11-20",
@@ -517,6 +509,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Spektaklis „Ragana M. ir varliukai“ Neveronyse",
+      "date": "2026-11-26",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-ragana-m-ir-varliukai-neveronyse-2026-11-26",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
       "title": "DOMANTAS RAZAUSKAS IR DAR VOS VOS",
       "date": "2026-11-26",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domantas-razauskas-ir-dar-vos-vos-2026-11-26",
@@ -760,10 +759,66 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/folkloro-dirbtuves-seimoms-etnosodas-2026-12-02",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Knygos „Raudondvario dvaras. Laiko ženklai“ IV tomo pristatymas",
+      "date": "2026-12-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-raudondvario-dvaras-laiko-zenklai-iv-tomo-pristatymas-2026-12-02",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "Seminaras „Tėvystė: tarp saviplakos ir pasitikėjimo savimi“",
+      "date": "2026-12-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seminaras-tevyste-tarp-saviplakos-ir-pasitikejimo-savimi-2026-12-02",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "„Sengirės kinas“ kviečia sulėtinti laiką, sustoti ir iš naujo atrasti ryšį su gamta",
+      "date": "2026-12-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-kviecia-suletinti-laika-sustoti-ir-is-naujo-atrasti-rysi-su-gamta-2026-12-02",
+      "source": "Kaunas Pilnas",
+      "category": "Kinas"
+    },
+    {
+      "title": "Ekskursija po leidinių parodą „Kazys Bradūnas – poetas, redaktorius, kultūros apžvalgininkas“",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-po-leidiniu-paroda-kazys-bradunas-poetas-redaktorius-kulturos-apzvalgininkas-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Komedija I Pažadink savo vidinę deivę",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/komedija-i-pazadink-savo-vidine-deive-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Misterija „Atalančių žygiai“",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/misterija-atalanciu-zygiai-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Parodos „Trapios tradicijos“ atidarymas",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-trapios-tradicijos-atidarymas-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Domino teatro komedija „Vyrai pagal skelbimą\"",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-vyrai-pagal-skelbima-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
     }
   ],
   "air_quality": {
-    "index": 15,
+    "index": 20,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
