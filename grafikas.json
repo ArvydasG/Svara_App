@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-20",
+  "updated_at": "2026-11-21",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -59,140 +59,8 @@
       "date": "Naujausia"
     }
   ],
-  "events": [
-    {
-      "title": "Augalų biotechnologijos: nuo ląstelės iki žydinčio augalo",
-      "url": "https://botanika.vdu.lt/ivykiai/augalu-biotechnologijos-nuo-lasteles-iki-zydincio-augalo-2",
-      "date": "2026-12-17",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Muzikos ir skonių vakaras oranžerijoje",
-      "url": "https://botanika.vdu.lt/ivykiai/muzikos-ir-skoniu-vakaras-oranzerijoje",
-      "date": "2026-12-12",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Muzikos ir skonių vakarai oranžerijoje",
-      "url": "https://botanika.vdu.lt/ivykiai/oranzerijos-skambesiai-koncertas-kaune",
-      "date": "2026-12-05",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Kalėdinių makramė žaisliukų pynimo dirbtuvės",
-      "url": "https://botanika.vdu.lt/ivykiai/kaledines-makrame-dirbtuves-kaune",
-      "date": "2026-11-28",
-      "source": "Botanikos sodas"
-    },
-    {
-      "title": "Edukacija „Kalėdinių vainikų pynimas“",
-      "url": "https://kaunobiblioteka.lt/edukacija-kalediniu-vainiku-pynimas",
-      "date": "2026-12-10",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
-      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-12",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Knygų klubas jaunimui",
-      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
-      "date": "Aktualu",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Aldonos Vaitkevičiūtės tapybos darbų paroda „Brandumą dovanojam patys…",
-      "url": "https://kaunobiblioteka.lt/aldonos-vaitkeviciutes-tapybos-darbu-paroda-branduma-dovanojam-patys-sau",
-      "date": "2026-11-26",
-      "source": "Biblioteka"
-    },
-    {
-      "title": "Šarūnės Baltrušaitienės knygos „Slaptas Spirgutės noras“ pristatymas",
-      "url": "https://kaunobiblioteka.lt/sarunes-baltrusaitienes-knygos-slaptas-spirgutes-noras-pristatymas-5",
-      "date": "2026-11-19",
-      "source": "Biblioteka"
-    }
-  ],
+  "events": [],
   "kaunas_events": [
-    {
-      "title": "Ekspozicijos „Žmogus ir žvėris: medžioklės istorija“ atidarymas",
-      "date": "2026-11-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekspozicijos-zmogus-ir-zveris-medziokles-istorija-atidarymas-2026-11-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Knygos „Pusė šimtmečio su orkestru“ pristatymas",
-      "date": "2026-11-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/knygos-puse-simtmecio-su-orkestru-pristatymas-2026-11-20",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "PIERRE BOULEZ – „PLAKTUKAS BE ŠEIMININKO“",
-      "date": "2026-11-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pierre-boulez-plaktukas-be-seimininko-2026-11-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "„Tunelinis mąstymas“. Jauniaus Petraičio knygos premjera",
-      "date": "2026-11-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tunelinis-mastymas-jauniaus-petraicio-knygos-premjera-2026-11-20",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "LAI SKAMBA LIETUVA",
-      "date": "2026-11-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lai-skamba-lietuva-2026-11-20",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Deimantų edukacija",
-      "date": "2026-11-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/deimantu-edukacija-2026-11-20",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Domino teatro komedija „Aukštakulniais per santuoką\"",
-      "date": "2026-11-20",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-aukstakulniais-per-santuoka-2026-11-20",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "\"Kas paliko pėdsakus?\" | Architektūros festivalis vaikams 2026",
-      "date": "2026-11-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kas-paliko-pedsakus-architekturos-festivalis-vaikams-2026-2026-11-21",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "Susitikimas su menininke Tamara Pathak",
-      "date": "2026-11-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/susitikimas-su-menininke-tamara-pathak-2026-11-21",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-11-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-11-21",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Kūrybinės grafikos koliažo dirbtuvės",
-      "date": "2026-11-21",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybines-grafikos-koliazo-dirbtuves-2026-11-21",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
     {
       "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
       "date": "2026-11-21",
@@ -815,10 +683,87 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-vyrai-pagal-skelbima-2026-12-03",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "KARMĖLAVOJE ĮSIŽIEBS KALĖDŲ STEBUKLAS!",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karmelavoje-isiziebs-kaledu-stebuklas-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "DOMEIKAVOS EGLUTĖS ĮŽIEBIMO ŠVENTĖ!",
+      "date": "2026-12-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domeikavos-eglutes-iziebimo-svente-2026-12-04",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "Sutemų ekskursija ŠEIMAI „Kauno (Žvėries) tvirtovės“ I forte",
+      "date": "2026-12-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sutemu-ekskursija-seimai-kauno-zveries-tvirtoves-i-forte-2026-12-04",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Moterų solidarumo vakaras pas Fridą",
+      "date": "2026-12-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/moteru-solidarumo-vakaras-pas-frida-2026-12-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Domino teatro komedija „KLINIKA\"",
+      "date": "2026-12-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-12-04",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "MEILĖ. HEROIZMAS. AMŽINYBĖ.",
+      "date": "2026-12-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meile-heroizmas-amzinybe-2026-12-04",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "KALĖDINĖ MENO MUGĖ 2026",
+      "date": "2026-12-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledine-meno-muge-2026-2026-12-05",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "URBAN ornitostogos: paukščių stebėjimo turas Nemuno saloje",
+      "date": "2026-12-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/urban-ornitostogos-pauksciu-stebejimo-turas-nemuno-saloje-2026-12-05",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Improv in English",
+      "date": "2026-12-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improv-in-english-2026-12-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ką slepia Kauno požemiai?",
+      "date": "2026-12-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ka-slepia-kauno-pozemiai-2026-12-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Praktinė savigynos pamoka STIPRI. SAUGI. PASITIKINTI SAVIMI.",
+      "date": "2026-12-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/praktine-savigynos-pamoka-stipri-saugi-pasitikinti-savimi-2026-12-05",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 20,
+    "index": 17,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
