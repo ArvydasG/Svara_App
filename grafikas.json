@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-22",
+  "updated_at": "2026-11-23",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -59,29 +59,57 @@
       "date": "Naujausia"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "title": "Augalų biotechnologijos: nuo ląstelės iki žydinčio augalo",
+      "url": "https://botanika.vdu.lt/ivykiai/augalu-biotechnologijos-nuo-lasteles-iki-zydincio-augalo-2",
+      "date": "2026-12-17",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Muzikos ir skonių vakaras oranžerijoje",
+      "url": "https://botanika.vdu.lt/ivykiai/muzikos-ir-skoniu-vakaras-oranzerijoje",
+      "date": "2026-12-12",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Muzikos ir skonių vakarai oranžerijoje",
+      "url": "https://botanika.vdu.lt/ivykiai/oranzerijos-skambesiai-koncertas-kaune",
+      "date": "2026-12-05",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Kalėdinių makramė žaisliukų pynimo dirbtuvės",
+      "url": "https://botanika.vdu.lt/ivykiai/kaledines-makrame-dirbtuves-kaune",
+      "date": "2026-11-28",
+      "source": "Botanikos sodas"
+    },
+    {
+      "title": "Edukacija „Kalėdinių vainikų pynimas“",
+      "url": "https://kaunobiblioteka.lt/edukacija-kalediniu-vainiku-pynimas",
+      "date": "2026-12-10",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Individualios ir grupinės skaitmeninio raštingumo konsultacijos",
+      "url": "https://kaunobiblioteka.lt/individualios-ir-grupines-skaitmeninio-rastingumo-konsultacijos-12",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Knygų klubas jaunimui",
+      "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
+      "date": "Aktualu",
+      "source": "Biblioteka"
+    },
+    {
+      "title": "Aldonos Vaitkevičiūtės tapybos darbų paroda „Brandumą dovanojam patys…",
+      "url": "https://kaunobiblioteka.lt/aldonos-vaitkeviciutes-tapybos-darbu-paroda-branduma-dovanojam-patys-sau",
+      "date": "2026-11-26",
+      "source": "Biblioteka"
+    }
+  ],
   "kaunas_events": [
-    {
-      "title": "GAJA MARA | spektaklis besilaukiančioms ir vaikams iki 3 m.",
-      "date": "2026-11-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gaja-mara-spektaklis-besilaukiancioms-ir-vaikams-iki-3-m-2026-11-22",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "DEDIKACIJA KOTRYNAI JOGAILAITEI",
-      "date": "2026-11-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dedikacija-kotrynai-jogailaitei-2026-11-22",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Netradicinio teatro festivalis NAMAS Nr. 6",
-      "date": "2026-11-22",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/netradicinio-teatro-festivalis-namas-nr-6-2026-11-22",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
     {
       "title": "Lietuva ir lietuviai pasaulio operų siužetuose: susitikimas su knygos „Ugnis ir tikėjimas“ autoriais",
       "date": "2026-11-23",
@@ -468,6 +496,13 @@
       "category": "Scena"
     },
     {
+      "title": "MOUNTAINSIDE 30-metis ir naujo singlo pristatymas + SHARMANS, ANDAJA",
+      "date": "2026-11-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mountainside-30-metis-ir-naujo-singlo-pristatymas-sharmans-andaja-2026-11-28",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
       "title": "Spektaklis vaikams DINGĘS KOMPASAS",
       "date": "2026-11-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-vaikams-dinges-kompasas-2026-11-29",
@@ -550,6 +585,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-kviecia-suletinti-laika-sustoti-ir-is-naujo-atrasti-rysi-su-gamta-2026-12-02",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "Kalėdos su KMM",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledos-su-kmm-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     },
     {
       "title": "Ekskursija po leidinių parodą „Kazys Bradūnas – poetas, redaktorius, kultūros apžvalgininkas“",
@@ -760,10 +802,17 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-12-08",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "„Amatauk su šeima“ drauge su etnografe Jūrate Bytaute. Šiaudinio žaisliuko edukacinės dirbtuvės „Kalėdų žvaigždė“",
+      "date": "2026-12-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/amatauk-su-seima-drauge-su-etnografe-jurate-bytaute-siaudinio-zaisliuko-edukacines-dirbtuves-kaledu-zvaigzde-2026-12-08",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     }
   ],
   "air_quality": {
-    "index": 17,
+    "index": 15,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
