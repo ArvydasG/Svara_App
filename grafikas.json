@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-23",
+  "updated_at": "2026-11-24",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -110,20 +110,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Lietuva ir lietuviai pasaulio operų siužetuose: susitikimas su knygos „Ugnis ir tikėjimas“ autoriais",
-      "date": "2026-11-23",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lietuva-ir-lietuviai-pasaulio-operu-siuzetuose-susitikimas-su-knygos-ugnis-ir-tikejimas-autoriais-2026-11-23",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "TAU Paskaita „Lietuvos vaizdiniai XVIII a. pab. Vokiečių kelionių aprašymuose“",
-      "date": "2026-11-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tau-paskaita-lietuvos-vaizdiniai-xviii-a-pab-vokieciu-kelioniu-aprasymuose-2026-11-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
     {
       "title": "Verpimo dirbtuvės | Etnosodas",
       "date": "2026-11-24",
@@ -587,6 +573,13 @@
       "category": "Kinas"
     },
     {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
       "title": "Kalėdos su KMM",
       "date": "2026-12-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledos-su-kmm-2026-12-03",
@@ -634,6 +627,27 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karmelavoje-isiziebs-kaledu-stebuklas-2026-12-03",
       "source": "Kaunas Pilnas",
       "category": "Šventės"
+    },
+    {
+      "title": "Violetos Latvytės tapybos darbų parodos „Laiko atspindžiai“ atidarymas",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/violetos-latvytes-tapybos-darbu-parodos-laiko-atspindziai-atidarymas-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Elžbietos Daugvilienės kūrybos paroda „Skausmo siuvėja“",
+      "date": "2026-12-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/elzbietos-daugvilienes-kurybos-paroda-skausmo-siuveja-2026-12-04",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
+      "title": "Paroda „Egzotika. Prigimtinis kūrybiškumas“",
+      "date": "2026-12-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/paroda-egzotika-prigimtinis-kurybiskumas-2026-12-04",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
     },
     {
       "title": "DOMEIKAVOS EGLUTĖS ĮŽIEBIMO ŠVENTĖ!",
@@ -741,6 +755,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Tempus Laudis. Sakralinės muzikos koncertas",
+      "date": "2026-12-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tempus-laudis-sakralines-muzikos-koncertas-2026-12-05",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
       "title": "Spektaklis NOKTIURNAS | rež. G. Padegimas",
       "date": "2026-12-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-noktiurnas-rez-g-padegimas-2026-12-05",
@@ -762,6 +783,13 @@
       "category": "Scena"
     },
     {
+      "title": "KALĖDŲ STEBUKLO BELAUKIANT!",
+      "date": "2026-12-06",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledu-stebuklo-belaukiant-2026-12-06",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
       "title": "DONATAS PETREIKIS: WHERE I BELONG",
       "date": "2026-12-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/donatas-petreikis-where-i-belong-2026-12-06",
@@ -781,34 +809,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seminaras-gera-klausa-geresne-gyvenimo-kokybe-2026-12-07",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
-    },
-    {
-      "title": "SYMPHONY OF MAGIC. Muzika, įkvėpta Hario Poterio filmų pasaulio",
-      "date": "2026-12-07",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/symphony-of-magic-muzika-ikvepta-hario-poterio-filmu-pasaulio-2026-12-07",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Voškonių Kalėdų eglutės įžiebimas",
-      "date": "2026-12-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/voskoniu-kaledu-eglutes-iziebimas-2026-12-08",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Domino teatro komedija „KLINIKA\"",
-      "date": "2026-12-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-12-08",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "„Amatauk su šeima“ drauge su etnografe Jūrate Bytaute. Šiaudinio žaisliuko edukacinės dirbtuvės „Kalėdų žvaigždė“",
-      "date": "2026-12-08",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/amatauk-su-seima-drauge-su-etnografe-jurate-bytaute-siaudinio-zaisliuko-edukacines-dirbtuves-kaledu-zvaigzde-2026-12-08",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
     }
   ],
   "air_quality": {
