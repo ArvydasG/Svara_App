@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-24",
+  "updated_at": "2026-11-25",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -110,69 +110,6 @@
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Verpimo dirbtuvės | Etnosodas",
-      "date": "2026-11-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/verpimo-dirbtuves-etnosodas-2026-11-24",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Slemas #100",
-      "date": "2026-11-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/slemas-100-2026-11-24",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Karolio Račkausko-Vairo knygos „Iš atsiminimų, dienoraščių ir užrašų“ pristatymas",
-      "date": "2026-11-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/karolio-rackausko-vairo-knygos-is-atsiminimu-dienorasciu-ir-uzrasu-pristatymas-2026-11-24",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Kalėdinės kūrybinės dirbtuvėlės Lapėse!",
-      "date": "2026-11-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledines-kurybines-dirbtuveles-lapese-2026-11-24",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Domino teatro Premjera Vieno vakaro uošviai",
-      "date": "2026-11-24",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-premjera-vieno-vakaro-uosviai-2026-11-24",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Baltojo kaspino festivalis 2026",
-      "date": "2026-11-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/baltojo-kaspino-festivalis-2026-2026-11-25",
-      "source": "Kaunas Pilnas",
-      "category": "Festivaliai"
-    },
-    {
-      "title": "Ekskursija J. Zikaro namuose-muziejuje",
-      "date": "2026-11-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-11-25",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "Parodos „Miunchenas–Kaunas: gyvenimai besitęsiantys atminime“ atidarymas",
-      "date": "2026-11-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-miunchenaskaunas-gyvenimai-besitesiantys-atminime-atidarymas-2026-11-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Filmų „Lietuva pasaulyje“ ir „Diplomatė Magdalena Avietėnaitė“ seansai archyve",
-      "date": "2026-11-25",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/filmu-lietuva-pasaulyje-ir-diplomate-magdalena-avietenaite-seansai-archyve-2026-11-25",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
     {
       "title": "Koncertas „Tarp žodžio ir muzikos“",
       "date": "2026-11-25",
@@ -363,6 +300,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Labdaros - paramos vakaras.",
+      "date": "2026-11-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/labdaros-paramos-vakaras-2026-11-27",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Domino teatro komedija „KLINIKA\"",
       "date": "2026-11-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-11-27",
@@ -375,13 +319,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lukas-geniusas-skambina-beethovena-2026-11-27",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "URBAN ornitostogos: paukščių stebėjimo turas Nemuno saloje",
-      "date": "2026-11-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/urban-ornitostogos-pauksciu-stebejimo-turas-nemuno-saloje-2026-11-28",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
     },
     {
       "title": "Ekskursijos KMM",
@@ -475,6 +412,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Ašis – parodos „Kitybės kartografijos“ performansų programa",
+      "date": "2026-11-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/asis-parodos-kitybes-kartografijos-performansu-programa-2026-11-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Domino teatro Premjera „Urvinis žmogus“",
       "date": "2026-11-28",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-premjera-urvinis-zmogus-2026-11-28",
@@ -487,6 +431,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/mountainside-30-metis-ir-naujo-singlo-pristatymas-sharmans-andaja-2026-11-28",
       "source": "Kaunas Pilnas",
       "category": "Literatūra"
+    },
+    {
+      "title": "Nemokamas muziejaus lankymas sekmadienį (11.29)",
+      "date": "2026-11-29",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokamas-muziejaus-lankymas-sekmadieni-11-29-2026-11-29",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     },
     {
       "title": "Spektaklis vaikams DINGĘS KOMPASAS",
@@ -615,6 +566,13 @@
       "category": "Kiti"
     },
     {
+      "title": "Pokalbis „Adventas. Apie žmogaus egzistencijos prasmę“",
+      "date": "2026-12-03",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pokalbis-adventas-apie-zmogaus-egzistencijos-prasme-2026-12-03",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Domino teatro komedija „Vyrai pagal skelbimą\"",
       "date": "2026-12-03",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-vyrai-pagal-skelbima-2026-12-03",
@@ -727,6 +685,13 @@
       "category": "Šventės"
     },
     {
+      "title": "Meduolių dekoravimo dirbtuvės | Etnosodas",
+      "date": "2026-12-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/meduoliu-dekoravimo-dirbtuves-etnosodas-2026-12-05",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
       "title": "DOMINO teatro spektaklis „Kakė Makė ir didžiausias lobis“",
       "date": "2026-12-05",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-spektaklis-kake-make-ir-didziausias-lobis-2026-12-05",
@@ -753,13 +718,6 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ziviles-bardzilauskaites-bergins-tapybos-darbu-parodos-tesinys-atidarymas-2026-12-05",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
-    },
-    {
-      "title": "Tempus Laudis. Sakralinės muzikos koncertas",
-      "date": "2026-12-05",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tempus-laudis-sakralines-muzikos-koncertas-2026-12-05",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
     },
     {
       "title": "Spektaklis NOKTIURNAS | rež. G. Padegimas",
@@ -809,10 +767,52 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seminaras-gera-klausa-geresne-gyvenimo-kokybe-2026-12-07",
       "source": "Kaunas Pilnas",
       "category": "Edukaciniai"
+    },
+    {
+      "title": "Loretos Jastramskienės knygos „Paukščiai ant ledo“ pristatymas",
+      "date": "2026-12-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/loretos-jastramskienes-knygos-pauksciai-ant-ledo-pristatymas-2026-12-07",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "SYMPHONY OF MAGIC. Muzika, įkvėpta Hario Poterio filmų pasaulio",
+      "date": "2026-12-07",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/symphony-of-magic-muzika-ikvepta-hario-poterio-filmu-pasaulio-2026-12-07",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Voškonių Kalėdų eglutės įžiebimas",
+      "date": "2026-12-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/voskoniu-kaledu-eglutes-iziebimas-2026-12-08",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "Domino teatro komedija „KLINIKA\"",
+      "date": "2026-12-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-12-08",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "„Amatauk su šeima“ drauge su etnografe Jūrate Bytaute. Šiaudinio žaisliuko edukacinės dirbtuvės „Kalėdų žvaigždė“",
+      "date": "2026-12-08",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/amatauk-su-seima-drauge-su-etnografe-jurate-bytaute-siaudinio-zaisliuko-edukacines-dirbtuves-kaledu-zvaigzde-2026-12-08",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "#Menotyriaujam: paskaita „Išeivijos menininkai ir sovietų Lietuva: ryšiai, dovanos ir nuobaudos“",
+      "date": "2026-12-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/menotyriaujam-paskaita-iseivijos-menininkai-ir-sovietu-lietuva-rysiai-dovanos-ir-nuobaudos-2026-12-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
     }
   ],
   "air_quality": {
-    "index": 15,
+    "index": 18,
     "status": "Puiki",
     "description": "Oras švarus, galite drąsiai vėdinti namus.",
     "station": "Noreikiškės"
