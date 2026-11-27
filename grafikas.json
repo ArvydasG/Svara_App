@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -111,104 +111,6 @@
   ],
   "kaunas_events": [
     {
-      "title": "Ekskursija parodoje „Romanas\" su kuratore Vilma Kilinskiene",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-parodoje-romanas-su-kuratore-vilma-kilinskiene-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "PERSIDENGIANTYS KŪNAI. Studentų edukacija",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/persidengiantys-kunai-studentu-edukacija-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "Pasaka suaugusiems PITERIS PENAS | rež. Karolis Zajauskas",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/pasaka-suaugusiems-piteris-penas-rez-karolis-zajauskas-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "\"Kartu esame stipresni\": „Senovinės statybų technologijos ir profiliai kaip išliekamoji vertybė“",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kartu-esame-stipresni-senovines-statybu-technologijos-ir-profiliai-kaip-isliekamoji-vertybe-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Tradicinės lietuviškos šokių muzikos koncertas „Šilko stygų šokiai“",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/tradicines-lietuviskos-sokiu-muzikos-koncertas-silko-stygu-sokiai-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "VIRSMŲ MUZIKA",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/virsmu-muzika-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Muzika"
-    },
-    {
-      "title": "Advento vainiko kūrimas - jaukiai ir kūrybiškai, Ramučiuose",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/advento-vainiko-kurimas-jaukiai-ir-kurybiskai-ramuciuose-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Spektaklis „Ragana M. ir varliukai“ Neveronyse",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/spektaklis-ragana-m-ir-varliukai-neveronyse-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "DOMANTAS RAZAUSKAS IR DAR VOS VOS",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domantas-razauskas-ir-dar-vos-vos-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Komedijos šou „Trys Protingi Vyrai ir Ūkininkas“",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/komedijos-sou-trys-protingi-vyrai-ir-ukininkas-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "goTan. Ten, kur laikas virsta jausmu | Tarptautinė PREMJERA | Tango spektaklis",
-      "date": "2026-11-26",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gotan-ten-kur-laikas-virsta-jausmu-tarptautine-premjera-tango-spektaklis-2026-11-26",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Kalėdinė meno mugė",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledine-meno-muge-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Praktiniai mokymai specialistams „GRIAUK SIENAS“",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/praktiniai-mokymai-specialistams-griauk-sienas-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Edukaciniai"
-    },
-    {
-      "title": "A. ir J. Juškų etninės kultūros muziejuje – komiksų knygos „Kastukas sugrįžo“ pristatymas",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/a-ir-j-jusku-etnines-kulturos-muziejuje-komiksu-knygos-kastukas-sugrizo-pristatymas-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
       "title": "Ekskursija „Laikinosios sostinės Kauno mokyklos ir gimnazijos“",
       "date": "2026-11-27",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-laikinosios-sostines-kauno-mokyklos-ir-gimnazijos-2026-11-27",
@@ -256,6 +158,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lukas-geniusas-skambina-beethovena-2026-11-27",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Kalėdų eglutės įžiebimas",
+      "date": "2026-11-27",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledu-eglutes-iziebimas-2026-11-27",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     },
     {
       "title": "Ekskursijos KMM",
@@ -384,6 +293,13 @@
       "category": "Kiti"
     },
     {
+      "title": "BALTA VASARA 4",
+      "date": "2026-11-28",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/balta-vasara-4-2026-11-28",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
       "title": "Nemokamas muziejaus lankymas sekmadienį (11.29)",
       "date": "2026-11-29",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nemokamas-muziejaus-lankymas-sekmadieni-11-29-2026-11-29",
@@ -480,6 +396,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sengires-kinas-kviecia-suletinti-laika-sustoti-ir-is-naujo-atrasti-rysi-su-gamta-2026-12-02",
       "source": "Kaunas Pilnas",
       "category": "Kinas"
+    },
+    {
+      "title": "„Kaunas Stanislovo Lukošiaus žvilgsniu“ ■ Retrospektyva ir knygos pristatymas",
+      "date": "2026-12-02",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaunas-stanislovo-lukosiaus-zvilgsniu-retrospektyva-ir-knygos-pristatymas-2026-12-02",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
     },
     {
       "title": "Ekskursija J. Zikaro namuose-muziejuje",
@@ -594,6 +517,13 @@
       "category": "Kiti"
     },
     {
+      "title": "„Laukinė gamta šalia mūsų 2026“ | Fotografijų parodos atidarymas",
+      "date": "2026-12-04",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/laukine-gamta-salia-musu-2026-fotografiju-parodos-atidarymas-2026-12-04",
+      "source": "Kaunas Pilnas",
+      "category": "Parodos"
+    },
+    {
       "title": "Domino teatro komedija „KLINIKA\"",
       "date": "2026-12-04",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-12-04",
@@ -676,6 +606,13 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-spektaklis-kake-make-ir-didziausias-lobis-2026-12-05",
       "source": "Kaunas Pilnas",
       "category": "Scena"
+    },
+    {
+      "title": "Kūrybinės grafikos koliažo dirbtuvės",
+      "date": "2026-12-05",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybines-grafikos-koliazo-dirbtuves-2026-12-05",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
     },
     {
       "title": "Kvapai be taisyklių: praktinė parfumerijos edukacija su Jolanta Cinaitiene",
@@ -809,6 +746,69 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/akvarelisto-sergiy-lysyy-autoriniu-darbu-parodos-akimirka-atidarymas-2026-12-09",
       "source": "Kaunas Pilnas",
       "category": "Kiti"
+    },
+    {
+      "title": "Literatūros vakaras „(Ne)paslėpta žaizda“",
+      "date": "2026-12-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/literaturos-vakaras-ne-paslepta-zaizda-2026-12-09",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "GERUMO ANGELAS",
+      "date": "2026-12-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/gerumo-angelas-2026-12-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Almio Grybausko poezijos knygos „bėgliai ∞ debesys“ pristatymas",
+      "date": "2026-12-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/almio-grybausko-poezijos-knygos-begliai-debesys-pristatymas-2026-12-09",
+      "source": "Kaunas Pilnas",
+      "category": "Literatūra"
+    },
+    {
+      "title": "„(Ne)laikas, (Ne)erdvė, (Ne)šviesa“ // Tomas Stanaitis",
+      "date": "2026-12-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ne-laikas-ne-erdve-ne-sviesa-tomas-stanaitis-2026-12-09",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Domino teatro Premjera Vieno vakaro uošviai",
+      "date": "2026-12-09",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-premjera-vieno-vakaro-uosviai-2026-12-09",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Žemynos ir Donio koncertas „Tradicija, suskambusi naujai“",
+      "date": "2026-12-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/zemynos-ir-donio-koncertas-tradicija-suskambusi-naujai-2026-12-10",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
+    },
+    {
+      "title": "Advento vakaras",
+      "date": "2026-12-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/advento-vakaras-2026-12-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Parodos „Radijo kalnas“ atidarymas ir diskusija",
+      "date": "2026-12-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/parodos-radijo-kalnas-atidarymas-ir-diskusija-2026-12-10",
+      "source": "Kaunas Pilnas",
+      "category": "Bendruomenės"
+    },
+    {
+      "title": "ŠVENTINIS META PIANO TRIO KONCERTAS",
+      "date": "2026-12-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sventinis-meta-piano-trio-koncertas-2026-12-10",
+      "source": "Kaunas Pilnas",
+      "category": "Muzika"
     }
   ],
   "air_quality": {
