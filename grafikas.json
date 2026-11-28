@@ -37,7 +37,7 @@
       "hasRealDates": true
     }
   ],
-  "updated_at": "2026-11-27",
+  "updated_at": "2026-11-28",
   "neighborhood_works": [
     {
       "title": "Bitininkų g. rekonstrukcija",
@@ -79,12 +79,6 @@
       "source": "Botanikos sodas"
     },
     {
-      "title": "Kalėdinių makramė žaisliukų pynimo dirbtuvės",
-      "url": "https://botanika.vdu.lt/ivykiai/kaledines-makrame-dirbtuves-kaune",
-      "date": "2026-11-28",
-      "source": "Botanikos sodas"
-    },
-    {
       "title": "Edukacija „Kalėdinių vainikų pynimas“",
       "url": "https://kaunobiblioteka.lt/edukacija-kalediniu-vainiku-pynimas",
       "date": "2026-12-10",
@@ -101,92 +95,9 @@
       "url": "https://kaunobiblioteka.lt/knygu-klubas-jaunimui-2",
       "date": "Aktualu",
       "source": "Biblioteka"
-    },
-    {
-      "title": "Aldonos Vaitkevičiūtės tapybos darbų paroda „Brandumą dovanojam patys…",
-      "url": "https://kaunobiblioteka.lt/aldonos-vaitkeviciutes-tapybos-darbu-paroda-branduma-dovanojam-patys-sau",
-      "date": "2026-11-26",
-      "source": "Biblioteka"
     }
   ],
   "kaunas_events": [
-    {
-      "title": "Ekskursija „Laikinosios sostinės Kauno mokyklos ir gimnazijos“",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-laikinosios-sostines-kauno-mokyklos-ir-gimnazijos-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kinas"
-    },
-    {
-      "title": "Išlydint parodą „(Ne)pažintas Romanas“ – albumo „Romanas Krasninkevičius“ pristatymas",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/islydint-paroda-ne-pazintas-romanas-albumo-romanas-krasninkevicius-pristatymas-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Literatūra"
-    },
-    {
-      "title": "Ąžuolyno skaitytojų klubas MOKOSI: susitikimas su vertėja Donata Rinkevičiene",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/azuolyno-skaitytoju-klubas-mokosi-susitikimas-su-verteja-donata-rinkeviciene-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Bendruomenės"
-    },
-    {
-      "title": "NACIONALINĖS DARŽOVĖS (N-16) | rež. A. Dilytė",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/nacionalines-darzoves-n-16-rez-a-dilyte-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Labdaros - paramos vakaras.",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/labdaros-paramos-vakaras-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Domino teatro komedija „KLINIKA\"",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-komedija-klinika-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "LUKAS GENIUŠAS SKAMBINA BEETHOVENĄ",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/lukas-geniusas-skambina-beethovena-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
-      "title": "Kalėdų eglutės įžiebimas",
-      "date": "2026-11-27",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledu-eglutes-iziebimas-2026-11-27",
-      "source": "Kaunas Pilnas",
-      "category": "Šventės"
-    },
-    {
-      "title": "Ekskursijos KMM",
-      "date": "2026-11-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-11-28",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
-    {
-      "title": "DOMINO teatro spektaklis „Kakė Makė ir didžiausias lobis“",
-      "date": "2026-11-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/domino-teatro-spektaklis-kake-make-ir-didziausias-lobis-2026-11-28",
-      "source": "Kaunas Pilnas",
-      "category": "Scena"
-    },
-    {
-      "title": "Ekskursija Pažaislio kamaldulių vienuolyne",
-      "date": "2026-11-28",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-pazaislio-kamalduliu-vienuolyne-2026-11-28",
-      "source": "Kaunas Pilnas",
-      "category": "Ekskursijos"
-    },
     {
       "title": "Tarptautinis mėgėjų teatrų festivalis „Maskaradas“",
       "date": "2026-11-28",
@@ -678,13 +589,6 @@
       "category": "Šventės"
     },
     {
-      "title": "DONATAS PETREIKIS: WHERE I BELONG",
-      "date": "2026-12-06",
-      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/donatas-petreikis-where-i-belong-2026-12-06",
-      "source": "Kaunas Pilnas",
-      "category": "Kiti"
-    },
-    {
       "title": "Videokaukas Romuvoje: „Įspėjantis pranešimas“ (2002)",
       "date": "2026-12-06",
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/videokaukas-romuvoje-ispejantis-pranesimas-2002-2026-12-06",
@@ -809,12 +713,96 @@
       "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/sventinis-meta-piano-trio-koncertas-2026-12-10",
       "source": "Kaunas Pilnas",
       "category": "Muzika"
+    },
+    {
+      "title": "Improvizacijų šou PLOTAS",
+      "date": "2026-12-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/improvizaciju-sou-plotas-2026-12-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "THE DITTIES - Jubiliejus 15",
+      "date": "2026-12-10",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/the-ditties-jubiliejus-15-2026-12-10",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Ekskursija J. Zikaro namuose-muziejuje",
+      "date": "2026-12-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursija-j-zikaro-namuose-muziejuje-2026-12-11",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "KALĖDINĖ FANTAZIJA",
+      "date": "2026-12-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledine-fantazija-2026-12-11",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "PREMJERA! Banginis ant kranto | rež. Aistė Rekašiūtė",
+      "date": "2026-12-11",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/premjera-banginis-ant-kranto-rez-aiste-rekasiute-2026-12-11",
+      "source": "Kaunas Pilnas",
+      "category": "Kiti"
+    },
+    {
+      "title": "Dirbtuvės apie savivertę",
+      "date": "2026-12-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/dirbtuves-apie-saviverte-2026-12-12",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "BIČIULYSTĖS PLANETA | Šokio ir cirko spektaklis vaikams",
+      "date": "2026-12-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/biciulystes-planeta-sokio-ir-cirko-spektaklis-vaikams-2026-12-12",
+      "source": "Kaunas Pilnas",
+      "category": "Scena"
+    },
+    {
+      "title": "Šiltos Kalėdos Raudondvario pilyje: minkštų filco žaisliukų dirbtuvės visai šeimai",
+      "date": "2026-12-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/siltos-kaledos-raudondvario-pilyje-minkstu-filco-zaisliuku-dirbtuves-visai-seimai-2026-12-12",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "Kalėdinės akvarelės dirbtuvės su menininku Sergiy Lysyy",
+      "date": "2026-12-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kaledines-akvareles-dirbtuves-su-menininku-sergiy-lysyy-2026-12-12",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
+    },
+    {
+      "title": "Kūrybinės grafikos koliažo dirbtuvės",
+      "date": "2026-12-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/kurybines-grafikos-koliazo-dirbtuves-2026-12-12",
+      "source": "Kaunas Pilnas",
+      "category": "Edukaciniai"
+    },
+    {
+      "title": "Ekskursijos KMM",
+      "date": "2026-12-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/ekskursijos-kmm-2026-12-12",
+      "source": "Kaunas Pilnas",
+      "category": "Ekskursijos"
+    },
+    {
+      "title": "Šeimų šeštadienis muziejuje: kalėdinės dirbtuvėlės!",
+      "date": "2026-12-12",
+      "url": "https://kaunaspilnasrenginiu.lt/lt/renginiai/seimu-sestadienis-muziejuje-kaledines-dirbtuveles-2026-12-12",
+      "source": "Kaunas Pilnas",
+      "category": "Šventės"
     }
   ],
   "air_quality": {
-    "index": 18,
-    "status": "Puiki",
-    "description": "Oras švarus, galite drąsiai vėdinti namus.",
+    "index": 22,
+    "status": "Gera",
+    "description": "Oro kokybė gera, tinkama lauko veikloms.",
     "station": "Noreikiškės"
   }
 }
